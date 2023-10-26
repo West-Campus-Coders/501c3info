@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2022v4.1" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-03-09T09:35:34-08:00</ReturnTs>
+    <TaxPeriodEndDt>2022-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>020488422</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>William M MacDonald CPA PA</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>75 Congress Street</AddressLine1Txt>
+        <CityNm>Portsmouth</CityNm>
+        <StateAbbreviationCd>NH</StateAbbreviationCd>
+        <ZIPCd>03801</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>266324388</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>THE EMERSON AND RUTH MCCOURT</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>CHARITABLE TRUST</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>EMER</BusinessNameControlTxt>
+      <PhoneNum>6037669105</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>127 PARROTT AVE</AddressLine1Txt>
+        <CityNm>PORTSMOUTH</CityNm>
+        <StateAbbreviationCd>NH</StateAbbreviationCd>
+        <ZIPCd>03801</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>ALEC McEACHERN</PersonNm>
+      <PersonTitleTxt>Trustee</PersonTitleTxt>
+      <SignatureDt>2023-03-09</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>ALEC</PersonFirstNm>
+        <PersonLastNm>McEACHERN</PersonLastNm>
+      </PersonFullName>
+      <SSN>999009999</SSN>
+    </SigningOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>William MacDonald</PreparerPersonNm>
+      <PTIN>P00052532</PTIN>
+      <PhoneNum>6034314746</PhoneNum>
+    </PreparerPersonGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp>
+        <TrustedCustomerCd>2</TrustedCustomerCd>
+        <AuthenticationAssuranceLevelCd>AAL1</AuthenticationAssuranceLevelCd>
+        <IdentityAssuranceLevelCd>IAL1</IdentityAssuranceLevelCd>
+        <FederatedAssuranceLevelCd>FAL1</FederatedAssuranceLevelCd>
+      </TrustedCustomerGrp>
+    </AdditionalFilerInformation>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="6">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="22015553" softwareVersionNum="2022v4.1">
+      <AddressChangeInd>X</AddressChangeInd>
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>1244481</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <DividendsRevAndExpnssAmt>8397</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>8397</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>8397</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>36</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>240000</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>36</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="OtherIncomeSchedule2">30878</OtherIncomeRevAndExpnssAmt>
+        <TotalRevAndExpnssAmt>39311</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>8433</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>8397</TotalAdjNetIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>652</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>652</CompOfcrDirTrstDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSchedule">2880</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesChrtblPrpsAmt>2880</AccountingFeesChrtblPrpsAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">125</TaxesRevAndExpnssAmt>
+        <TaxesDsbrsChrtblAmt>125</TaxesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>3657</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>0</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>3657</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>67500</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>67500</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>71157</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>0</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>71157</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-31846</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>8433</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>8397</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>47051</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>259893</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>259893</SavAndTempCashInvstEOYFMVAmt>
+        <USGovernmentObligationsBOYAmt>1293038</USGovernmentObligationsBOYAmt>
+        <USGovernmentObligationsEOYAmt referenceDocumentId="InvestmentsGovtObligationsSche">1048607</USGovernmentObligationsEOYAmt>
+        <USGovtObligationsEOYFMVAmt>858627</USGovtObligationsEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>131660</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="InvestmentsOtherSchedule2">131403</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>125961</OtherInvestmentsEOYFMVAmt>
+        <TotalAssetsBOYAmt>1471749</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>1439903</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>1244481</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <CapitalStockBOYAmt>1471749</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>1439903</CapitalStockEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>1471749</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1439903</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>1471749</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>1439903</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>1471749</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-31846</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>1439903</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1439903</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>NH BOND</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2000-01-01</AcquiredDt>
+          <SoldDt>2022-01-01</SoldDt>
+          <GrossSalesPriceAmt>240000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>239964</CostOrOtherBasisAmt>
+          <GainOrLossAmt>36</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>36</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>36</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>117</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>117</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>117</TaxBasedOnInvestmentIncomeAmt>
+        <TaxDueAmt>117</TaxDueAmt>
+        <AppliedToESTaxAmt>0</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>NH</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>ALEC McEACHERN</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>6037669105</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>127 PARROTT AVE</AddressLine1Txt>
+          <CityNm>PORTSMOUTH</CityNm>
+          <StateAbbreviationCd>NH</StateAbbreviationCd>
+          <ZIPCd>03801</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ALEC McEACHERN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>282 CORPORATE DRIVE</AddressLine1Txt>
+            <CityNm>PORTSMOUTH</CityNm>
+            <StateAbbreviationCd>NH</StateAbbreviationCd>
+            <ZIPCd>03801</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>652</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>Providing tuition assistance for students attending Keene State College and Great Bay Community College</Description1Txt>
+        <Expenses1Amt>71157</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>1169348</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>181129</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>1350477</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>1350477</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>20257</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>1330220</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>66511</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>66511</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>117</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>117</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>66394</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>66394</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>66394</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>71157</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>71157</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>66394</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>4159</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>7249</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>8023</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>8463</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>5428</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>33322</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>71157</QualifyingDistributionsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>66394</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>4763</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>38085</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>4159</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>33926</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>7249</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>8023</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>8463</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>5428</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>4763</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Great Bay Community College</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>320 Corporate Drive</AddressLine1Txt>
+            <CityNm>Portsmouth</CityNm>
+            <StateAbbreviationCd>NH</StateAbbreviationCd>
+            <ZIPCd>03801</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>none</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support college education through tuition assistance</GrantOrContributionPurposeTxt>
+          <Amt>36250</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Keene State College</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>229 Main Street</AddressLine1Txt>
+            <CityNm>Keene</CityNm>
+            <StateAbbreviationCd>NH</StateAbbreviationCd>
+            <ZIPCd>03435</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>none</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support college education through tuition assistance</GrantOrContributionPurposeTxt>
+          <Amt>31250</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>67500</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>8397</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>36</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>Municipal bond interest</Desc>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>30878</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>39311</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>39311</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="22015553" softwareVersionNum="2022v4.1">
+      <AccountingFeesDetail>
+        <CategoryTxt>William M MacDonald CPA PA</CategoryTxt>
+        <Amt>2880</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>2880</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsGovtObligationsSch documentId="InvestmentsGovtObligationsSche" softwareId="22015553" softwareVersionNum="2022v4.1">
+      <StateLocalSecBookVlEOYAmt>1048607</StateLocalSecBookVlEOYAmt>
+      <StateLocalSecEOYFMVAmt>858627</StateLocalSecEOYFMVAmt>
+    </InvestmentsGovtObligationsSch>
+    <InvestmentsOtherSchedule2 documentId="InvestmentsOtherSchedule2" softwareId="22015553" softwareVersionNum="2022v4.1">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>Discover Bank 3.2% CD, due 1/3/24</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>8006</BookValueAmt>
+        <EOYFMVAmt>7869</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>GE Capital 3.3% CD, due 3/14/24</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>10027</BookValueAmt>
+        <EOYFMVAmt>9815</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>Synchrony Bank 3.3% CD, due 8/1/24</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>10035</BookValueAmt>
+        <EOYFMVAmt>9754</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>State Bank India 3.25% CD, due 10/17/24</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>15089</BookValueAmt>
+        <EOYFMVAmt>14603</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>CIT Bank 3.1% CD, due 11/13/24</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>15022</BookValueAmt>
+        <EOYFMVAmt>14560</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>GE Capital Bank CD, 3.3% due 5/9/24</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>13113</BookValueAmt>
+        <EOYFMVAmt>12726</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>CIT Bank CD, 3.1%, due 11/26/24</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>25111</BookValueAmt>
+        <EOYFMVAmt>24262</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>HSBC Bank 3.3% CD, due 7/6/28</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>15000</BookValueAmt>
+        <EOYFMVAmt>14046</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>HSBC Bank 3.3% CD, due 7/6/28</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>20000</BookValueAmt>
+        <EOYFMVAmt>18326</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSchedule2" softwareId="22015553" softwareVersionNum="2022v4.1">
+      <OtherIncomeDetail>
+        <Desc>Municipal bond interest</Desc>
+        <RevenueAndExpensesPerBooksAmt>30878</RevenueAndExpensesPerBooksAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="22015553" softwareVersionNum="2022v4.1">
+      <TaxesDetail>
+        <CategoryTxt>Tax on Form 990-PF</CategoryTxt>
+        <Amt>125</Amt>
+        <DisbursementsCharitablePrpsAmt>125</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

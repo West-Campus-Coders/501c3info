@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2022v4.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-02-27T12:24:03-05:00</ReturnTs>
+    <TaxPeriodEndDt>2022-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>830264554</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>JERRY A BODAR CPA</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>8 STALNAKER ST STE 1 PO BOX 1440</AddressLine1Txt>
+        <CityNm>DUBOIS</CityNm>
+        <StateAbbreviationCd>WY</StateAbbreviationCd>
+        <ZIPCd>82513</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>510189034</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>WIND RIVER VALLEY ARTIST GUILD</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>WIND</BusinessNameControlTxt>
+      <PhoneNum>3074553404</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>PO BOX 26</AddressLine1Txt>
+        <CityNm>DUBOIS</CityNm>
+        <StateAbbreviationCd>WY</StateAbbreviationCd>
+        <ZIPCd>82513</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>STEPHEN LUNSFORD</PersonNm>
+      <PersonTitleTxt>PRESIDENT</PersonTitleTxt>
+      <PhoneNum>3074553404</PhoneNum>
+      <SignatureDt>2023-02-22</SignatureDt>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>SHEPHEN</PersonFirstNm>
+        <PersonLastNm>LUNSFORD</PersonLastNm>
+      </PersonFullName>
+      <SSN>999009999</SSN>
+    </SigningOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>JERRY A BODAR CPA</PreparerPersonNm>
+      <PTIN>P00179098</PTIN>
+      <PhoneNum>3074553428</PhoneNum>
+      <PreparationDt>2023-02-27</PreparationDt>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="11">
+    <IRS990PF documentId="RetDoc12">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>166111</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>8080</ContriRcvdRevAndExpnssAmt>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>60</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>60</InterestOnSavNetInvstIncmAmt>
+        <InterestOnSavingsAdjNetIncmAmt>60</InterestOnSavingsAdjNetIncmAmt>
+        <DividendsRevAndExpnssAmt>1851</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>1851</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>1851</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt referenceDocumentId="RetDoc4">7850</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>214986</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>2323</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="RetDoc9">12995</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>5860</OtherIncomeNetInvstIncmAmt>
+        <OtherIncomeAdjNetIncmAmt>12995</OtherIncomeAdjNetIncmAmt>
+        <TotalRevAndExpnssAmt>30836</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>10094</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>14906</TotalAdjNetIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>19098</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>19098</CompOfcrDirTrstDsbrsChrtblAmt>
+        <PensionEmplBnftRevAndExpnssAmt>1663</PensionEmplBnftRevAndExpnssAmt>
+        <PensionEmplBnftDsbrsChrtblAmt>1663</PensionEmplBnftDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2">4650</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesChrtblPrpsAmt>4650</AccountingFeesChrtblPrpsAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc11">259</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>232</TaxesNetInvstIncmAmt>
+        <TaxesDsbrsChrtblAmt>27</TaxesDsbrsChrtblAmt>
+        <DeprecAndDpltnRevAndExpnssAmt referenceDocumentId="RetDoc3">703</DeprecAndDpltnRevAndExpnssAmt>
+        <OccupancyRevAndExpnssAmt>11191</OccupancyRevAndExpnssAmt>
+        <OccupancyDsbrsChrtblAmt>11191</OccupancyDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc8">12228</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesDsbrsChrtblAmt>12228</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>49792</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>232</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>48857</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>0</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>0</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>49792</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>232</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>48857</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-18956</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>9862</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>14906</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>6457</CashBOYAmt>
+        <CashEOYAmt>4567</CashEOYAmt>
+        <CashEOYFMVAmt>4567</CashEOYFMVAmt>
+        <CorporateStockBOYAmt>138634</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc5">122394</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>122023</CorporateStockEOYFMVAmt>
+        <LandBldgEquipCostOrOtherBssAmt>10192</LandBldgEquipCostOrOtherBssAmt>
+        <LandBldgEquipAccumDeprecAmt>8198</LandBldgEquipAccumDeprecAmt>
+        <LandBOYAmt>2697</LandBOYAmt>
+        <LandEOYAmt referenceDocumentId="RetDoc6">1994</LandEOYAmt>
+        <LandEOYFMVAmt>7500</LandEOYFMVAmt>
+        <OtherAssetsBOYAmt referenceDocumentId="RetDoc7">32021</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt referenceDocumentId="RetDoc7">32021</OtherAssetsEOYAmt>
+        <OtherAssetsEOYFMVAmt referenceDocumentId="RetDoc7">32021</OtherAssetsEOYFMVAmt>
+        <TotalAssetsBOYAmt>179809</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>160976</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>166111</TotalAssetsEOYFMVAmt>
+        <OtherLiabilitiesBOYAmt referenceDocumentId="RetDoc10">192</OtherLiabilitiesBOYAmt>
+        <OtherLiabilitiesEOYAmt referenceDocumentId="RetDoc10">315</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesBOYAmt>192</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>315</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <RetainedEarningBOYAmt>179617</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>160661</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>179617</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>160661</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>179809</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>160976</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>179617</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-18956</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>160661</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>160661</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapitalGainNetIncomeAmt>2323</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>137</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>137</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>137</TaxBasedOnInvestmentIncomeAmt>
+        <TaxDueAmt>137</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>true</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>JERRY BODAR CPA</IndividualWithBooksNm>
+        <PhoneNum>3074553428</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>8 STALNAKER STE 1</AddressLine1Txt>
+          <CityNm>DUBOIS</CityNm>
+          <StateAbbreviationCd>WY</StateAbbreviationCd>
+          <ZIPCd>82513</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>STEPHEN LUNSFORD</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 1836</AddressLine1Txt>
+            <CityNm>DUBOIS</CityNm>
+            <StateAbbreviationCd>WY</StateAbbreviationCd>
+            <ZIPCd>82513</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>KARYL BUSH</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5061 US HWY 26</AddressLine1Txt>
+            <CityNm>DUBOIS</CityNm>
+            <StateAbbreviationCd>WY</StateAbbreviationCd>
+            <ZIPCd>82513</ZIPCd>
+          </USAddress>
+          <TitleTxt>VICE PRESIDE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>LEIGH TUCKEY</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1116 WILDERNESS ROAD</AddressLine1Txt>
+            <AddressLine2Txt>1116 WILDERNESS ROAD</AddressLine2Txt>
+            <CityNm>CROWHEART</CityNm>
+            <StateAbbreviationCd>WY</StateAbbreviationCd>
+            <ZIPCd>82512</ZIPCd>
+          </USAddress>
+          <TitleTxt>TREASURER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MALLERIE ALBRIGHT</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>4619 HWY 26</AddressLine1Txt>
+            <CityNm>DUBOIS</CityNm>
+            <StateAbbreviationCd>WY</StateAbbreviationCd>
+            <ZIPCd>82513</ZIPCd>
+          </USAddress>
+          <TitleTxt>SECRETARY</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>TWILA BLAKEMAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1420 STOCK TRAIL</AddressLine1Txt>
+            <CityNm>DUBOIS</CityNm>
+            <StateAbbreviationCd>WY</StateAbbreviationCd>
+            <ZIPCd>82513</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>CHRISTINE SNOW</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>52 RIVERVIEW ROAD</AddressLine1Txt>
+            <CityNm>DUBOIS</CityNm>
+            <StateAbbreviationCd>WY</StateAbbreviationCd>
+            <ZIPCd>82513</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JULIE GERONA</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>8 MUSTANG DRIVE</AddressLine1Txt>
+            <CityNm>DUBOIS</CityNm>
+            <StateAbbreviationCd>WY</StateAbbreviationCd>
+            <ZIPCd>82513</ZIPCd>
+          </USAddress>
+          <TitleTxt>KEY EMPLOYEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>20.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>19098</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>FINE ART WORKSHOPS &amp; MUSIC PROGRAMS OFFERED TO GENERAL PUBLIC BY A VARIETY OF INSTRUTORS &amp; GROUPS.</Description1Txt>
+        <Expenses1Amt>9808</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>147570</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>5512</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>37021</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>190103</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>190103</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>2852</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>187251</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>9363</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <Sect4942j3j5FndtnAndFrgnOrgInd>X</Sect4942j3j5FndtnAndFrgnOrgInd>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>48857</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>48857</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <QualifyingDistributionsAmt>48857</QualifyingDistributionsAmt>
+        <RemainingDistriFromCorpusAmt>48857</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>48857</TotalCorpusAmt>
+      </UndistributedIncomeGrp>
+      <PrivateOperatingFoundationsGrp>
+        <Section4942j3Ind>X</Section4942j3Ind>
+        <LessorAdjNetIncmMinInvstRetGrp>
+          <CurrentYearAmt>9363</CurrentYearAmt>
+          <Year1Amt>8402</Year1Amt>
+          <Year2Amt>8567</Year2Amt>
+          <Year3Amt>10129</Year3Amt>
+          <TotalAmt>36461</TotalAmt>
+        </LessorAdjNetIncmMinInvstRetGrp>
+        <Pct85LessorAdjIncmOrMinRetGrp>
+          <CurrentYearAmt>7959</CurrentYearAmt>
+          <Year1Amt>7142</Year1Amt>
+          <Year2Amt>7282</Year2Amt>
+          <Year3Amt>8610</Year3Amt>
+          <TotalAmt>30993</TotalAmt>
+        </Pct85LessorAdjIncmOrMinRetGrp>
+        <QualifyingDistributionsGrp>
+          <CurrentYearAmt>48857</CurrentYearAmt>
+          <Year1Amt>34022</Year1Amt>
+          <Year2Amt>18380</Year2Amt>
+          <Year3Amt>36424</Year3Amt>
+          <TotalAmt>137683</TotalAmt>
+        </QualifyingDistributionsGrp>
+        <QualifyingDistriMadeDrtGrp>
+          <CurrentYearAmt>48857</CurrentYearAmt>
+          <Year1Amt>34022</Year1Amt>
+          <Year2Amt>18380</Year2Amt>
+          <Year3Amt>36424</Year3Amt>
+          <TotalAmt>137683</TotalAmt>
+        </QualifyingDistriMadeDrtGrp>
+        <TwoThirdsMinimumInvstRetGrp>
+          <CurrentYearAmt>6242</CurrentYearAmt>
+          <Year1Amt>5601</Year1Amt>
+          <Year2Amt>5711</Year2Amt>
+          <Year3Amt>6753</Year3Amt>
+          <TotalAmt>24307</TotalAmt>
+        </TwoThirdsMinimumInvstRetGrp>
+      </PrivateOperatingFoundationsGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>STEPHEN LUNSFORD</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 26</AddressLine1Txt>
+            <CityNm>DUBOIS</CityNm>
+            <StateAbbreviationCd>WY</StateAbbreviationCd>
+            <ZIPCd>82513</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>3074553404</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>APPLICATION PROVIDED BY THE GUILD</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>APRIL 15TH</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>MUST BE ATTENDING OR A GRADUATE OF A FREMONT COUNTY HIGH SCHOOL.</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <ProgramServiceRevenueDtl>
+          <Desc>WORKSHOPS &amp; RECEPTIONS</Desc>
+          <RelatedOrExemptFunctionIncmAmt>7025</RelatedOrExemptFunctionIncmAmt>
+        </ProgramServiceRevenueDtl>
+        <MembershipDuesAndAssmntGrp>
+          <RelatedOrExemptFunctionIncmAmt>110</RelatedOrExemptFunctionIncmAmt>
+        </MembershipDuesAndAssmntGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <RelatedOrExemptFunctionIncmAmt>60</RelatedOrExemptFunctionIncmAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <RelatedOrExemptFunctionIncmAmt>1851</RelatedOrExemptFunctionIncmAmt>
+        </DividendsAndInterestFromSecDtl>
+        <OtherInvestmentIncomeGrp>
+          <RelatedOrExemptFunctionIncmAmt>5860</RelatedOrExemptFunctionIncmAmt>
+        </OtherInvestmentIncomeGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>7850</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <RelatedOrExemptFunctionIncmAmt>22756</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>22756</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>1A</LineNumberTxt>
+          <RelationshipStatementTxt>USED FOR COSTS OF EVENTS HELD.</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>2</LineNumberTxt>
+          <RelationshipStatementTxt>USED FOR COSTS OF EVENTS HELD</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>3</LineNumberTxt>
+          <RelationshipStatementTxt>USED FOR COSTS OF EVENTS HELD</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>4</LineNumberTxt>
+          <RelationshipStatementTxt>USED FOR COSTS OF EVENTS HELD.</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>7</LineNumberTxt>
+          <RelationshipStatementTxt>USED FOR COSTS OF EVENTS HELD.</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>8</LineNumberTxt>
+          <RelationshipStatementTxt>USED FOR COSTS OF EVENTS HELD.</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+      </RlnOfActyToAccomOfExmptPrpsGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING FEES</CategoryTxt>
+        <Amt>4650</Amt>
+        <DisbursementsCharitablePrpsAmt>4650</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="RetDoc3">
+      <DepreciationPropertyGrp>
+        <PropertyDesc>FILING CABINETS</PropertyDesc>
+        <AcquiredDt>2006-02-28</AcquiredDt>
+        <CostOrOtherBasisAmt>296</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>296</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>NEW FURNITURE</PropertyDesc>
+        <AcquiredDt>2008-02-20</AcquiredDt>
+        <CostOrOtherBasisAmt>2776</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>2776</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>TELEPHONE EQUIPMENT</PropertyDesc>
+        <AcquiredDt>2010-09-09</AcquiredDt>
+        <CostOrOtherBasisAmt>169</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>117</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>NEW DISPLAY</PropertyDesc>
+        <AcquiredDt>2010-12-31</AcquiredDt>
+        <CostOrOtherBasisAmt>141</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>94</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>MATERIALS</PropertyDesc>
+        <AcquiredDt>2010-09-09</AcquiredDt>
+        <CostOrOtherBasisAmt>445</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>308</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>COMPUTER 1/2</PropertyDesc>
+        <AcquiredDt>2013-05-28</AcquiredDt>
+        <CostOrOtherBasisAmt>702</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>702</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>5.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>COPIER</PropertyDesc>
+        <AcquiredDt>2013-06-27</AcquiredDt>
+        <CostOrOtherBasisAmt>2443</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>2443</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>12X8 PORTABLE STAGE SYSTEM</PropertyDesc>
+        <AcquiredDt>2020-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>1220</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>473</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+        <CurrentYearExpenseAmt>213</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>LED SIGN-1/3</PropertyDesc>
+        <AcquiredDt>2021-07-16</AcquiredDt>
+        <CostOrOtherBasisAmt>2000</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>286</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+        <CurrentYearExpenseAmt>490</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+    </DepreciationSchedule>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc4">
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>116.738 SH ABALX</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>3357</GrossSalesPriceAmt>
+        <BasisAmt>3499</BasisAmt>
+        <TotalNetAmt>-142</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>1471,501 SH AMRMX</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>69901</GrossSalesPriceAmt>
+        <BasisAmt>71712</BasisAmt>
+        <TotalNetAmt>-1811</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>3281.488 SH ABALX</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>95018</GrossSalesPriceAmt>
+        <BasisAmt>98339</BasisAmt>
+        <TotalNetAmt>-3321</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>741.777 SH ANCFX</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>44387</GrossSalesPriceAmt>
+        <BasisAmt>33586</BasisAmt>
+        <TotalNetAmt>10801</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpStockSchedule documentId="RetDoc5">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>EDWARD JONES</StockNm>
+        <EOYBookValueAmt>122394</EOYBookValueAmt>
+        <EOYFMVAmt>122023</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <LandEtcSchedule2 documentId="RetDoc6">
+      <LandEtcGrp>
+        <CostOrOtherBasisAmt>10192</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>8198</AccumulatedDepreciationAmt>
+        <BookValueAmt>1994</BookValueAmt>
+        <EOYFMVAmt>7500</EOYFMVAmt>
+      </LandEtcGrp>
+    </LandEtcSchedule2>
+    <OtherAssetsSchedule documentId="RetDoc7">
+      <OtherAssetsScheduleGrp>
+        <Desc>PERMANENT ART COLLECTION</Desc>
+        <BOYBookValueAmt>32021</BOYBookValueAmt>
+        <EOYBookValueAmt>32021</EOYBookValueAmt>
+        <EOYFMVAmt>32021</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="RetDoc8">
+      <OtherExpensesScheduleGrp>
+        <Desc>EXPENSES</Desc>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OFFICE EXPENSE</Desc>
+        <RevenueAndExpensesPerBooksAmt>2031</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>2031</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>ACTIVITY EXPENSES</Desc>
+        <RevenueAndExpensesPerBooksAmt>9808</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>9808</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>REFUNDS -GRANTS</Desc>
+        <RevenueAndExpensesPerBooksAmt>339</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>339</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>MISCELLANEOUS</Desc>
+        <RevenueAndExpensesPerBooksAmt>50</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>50</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc9">
+      <OtherIncomeDetail>
+        <Desc>WORKSHOPS &amp; RECEPTIONS</Desc>
+        <RevenueAndExpensesPerBooksAmt>7025</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>7025</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>MEMBERSHIP DUES</Desc>
+        <RevenueAndExpensesPerBooksAmt>110</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>110</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>WYOMING COMMUNITY FOUNDATION</Desc>
+        <RevenueAndExpensesPerBooksAmt>5860</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>5860</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>5860</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherLiabilitiesSchedule documentId="RetDoc10">
+      <OtherLiabilitiesDetail>
+        <Desc>PAYROLL TAXES</Desc>
+        <BOYBookValueAmt>131</BOYBookValueAmt>
+        <EOYBookValueAmt>111</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+      <OtherLiabilitiesDetail>
+        <Desc>SALES TAX PAYABLE</Desc>
+        <BOYBookValueAmt>50</BOYBookValueAmt>
+        <EOYBookValueAmt>104</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+      <OtherLiabilitiesDetail>
+        <Desc>CREDIT CARD PAYABLE</Desc>
+        <BOYBookValueAmt>11</BOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+      <OtherLiabilitiesDetail>
+        <Desc>DAMAGE DEPOSIT</Desc>
+        <EOYBookValueAmt>100</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+    </OtherLiabilitiesSchedule>
+    <TaxesSchedule documentId="RetDoc11">
+      <TaxesDetail>
+        <CategoryTxt>CORPORATE LICENSE FEE</CategoryTxt>
+        <Amt>27</Amt>
+        <DisbursementsCharitablePrpsAmt>27</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>INVESTMENT INCOME TAX</CategoryTxt>
+        <Amt>232</Amt>
+        <NetInvestmentIncomeAmt>232</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

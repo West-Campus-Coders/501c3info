@@ -1,0 +1,935 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xsi:schemaLocation="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2020v4.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-03-21T13:26:43-05:00</ReturnTs>
+    <TaxPeriodEndDt>2021-06-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Greenstein Rogoff Olsen &amp; Co LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>39159 Paseo Padre Pkwy Ste 315</AddressLine1Txt>
+        <CityNm>Fremont</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>94538</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2020-07-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>942781117</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>THE LUCAS BROTHERS FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <InCareOfNm>% MELISSA L FINDLEY</InCareOfNm>
+      <BusinessNameControlTxt>LUCA</BusinessNameControlTxt>
+      <PhoneNum>6508544223</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>PO BOX 8308</AddressLine1Txt>
+        <CityNm>SAN JOSE</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>95155</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>ALEXANDRA LUCAS ERTOLA</PersonNm>
+      <PersonTitleTxt>CHAIRMAN</PersonTitleTxt>
+      <PhoneNum>6508544223</PhoneNum>
+      <SignatureDt>2023-03-21</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>ALEXANDRA</PersonFirstNm>
+        <PersonLastNm>LUCAS ERTOLA</PersonLastNm>
+      </PersonFullName>
+      <SSN>999009999</SSN>
+    </SigningOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Alan Olsen CPA</PreparerPersonNm>
+      <PTIN>P00547129</PTIN>
+      <PhoneNum>5107978661</PhoneNum>
+    </PreparerPersonGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp />
+    </AdditionalFilerInformation>
+    <TaxYr>2020</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="14">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplAttach">
+      <AmendedReturnInd>X</AmendedReturnInd>
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>32137237</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>20957992</ContriRcvdRevAndExpnssAmt>
+        <InterestOnSavRevAndExpnssAmt>6683</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>6683</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>42383</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>42383</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>198335</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>3906726</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>198335</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>21205393</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>247401</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>0</CompOfcrDirTrstRevAndExpnssAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="LegalFeesSch">150</LegalFeesRevAndExpnssAmt>
+        <LegalFeesNetInvstIncmAmt>75</LegalFeesNetInvstIncmAmt>
+        <LegalFeesAdjNetIncmAmt>0</LegalFeesAdjNetIncmAmt>
+        <LegalFeesDsbrsChrtblAmt>0</LegalFeesDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSch">59459</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>29730</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesAdjNetIncmAmt>0</AccountingFeesAdjNetIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>0</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="OthProfFeesSch">154059</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>77030</OtherProfFeesNetInvstIncmAmt>
+        <DeprecAndDpltnRevAndExpnssAmt referenceDocumentId="DepreciationSch">242</DeprecAndDpltnRevAndExpnssAmt>
+        <DeprecAndDpltnNetInvstIncmAmt>242</DeprecAndDpltnNetInvstIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSch">41748</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>41748</OtherExpensesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>255658</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>148825</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>0</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>200000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>200000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>455658</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>148825</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>0</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>200000</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>20749735</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>98576</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>5282421</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>17866574</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>17866574</SavAndTempCashInvstEOYFMVAmt>
+        <RcvblFromOfficersBOYAmt>33619972</RcvblFromOfficersBOYAmt>
+        <RcvblFromOfficersEOYAmt>155828</RcvblFromOfficersEOYAmt>
+        <RcvblFromOfficersEOYFMVAmt>155828</RcvblFromOfficersEOYFMVAmt>
+        <CorporateStockBOYAmt>867611</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="InvestCorpStockSch">382852</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>382852</CorporateStockEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>1760157</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="InvOtherSch2">13673080</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>13673080</OtherInvestmentsEOYFMVAmt>
+        <LandBldgEquipCostOrOtherBssAmt>1211</LandBldgEquipCostOrOtherBssAmt>
+        <LandBldgEquipAccumDeprecAmt>867</LandBldgEquipAccumDeprecAmt>
+        <LandBOYAmt>586</LandBOYAmt>
+        <LandEOYAmt>344</LandEOYAmt>
+        <LandEOYFMVAmt>344</LandEOYFMVAmt>
+        <OtherAssetsBOYAmt referenceDocumentId="OtherAssetsSch">1980</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt referenceDocumentId="OtherAssetsSch">58559</OtherAssetsEOYAmt>
+        <OtherAssetsEOYFMVAmt referenceDocumentId="OtherAssetsSch">58559</OtherAssetsEOYFMVAmt>
+        <TotalAssetsBOYAmt>41532727</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>32137237</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>32137237</TotalAssetsEOYFMVAmt>
+        <AccountsPayableBOYAmt>50666</AccountsPayableBOYAmt>
+        <AccountsPayableEOYAmt>17900</AccountsPayableEOYAmt>
+        <OtherLiabilitiesBOYAmt referenceDocumentId="OtherLiabSch">203140</OtherLiabilitiesBOYAmt>
+        <OtherLiabilitiesEOYAmt referenceDocumentId="OtherLiabSch">27528</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesBOYAmt>253806</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>45428</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsFASB117Ind>X</OrganizationFollowsFASB117Ind>
+        <NoDonorRstrNetAssestsBOYAmt>41278921</NoDonorRstrNetAssestsBOYAmt>
+        <NoDonorRstrNetAssestsEOYAmt>32091809</NoDonorRstrNetAssestsEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>41278921</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>32091809</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>41532727</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>32137237</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>41278921</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>20749735</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="OtherIncreasesSch">3733346</OtherIncreasesAmt>
+        <SubtotalAmt>65762002</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="OtherDecreasesSch">33670193</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>32091809</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>25,000 SHS CADENCE DESIGN SYSTEM</PropertyDesc>
+          <AcquiredDt>2021-03-25</AcquiredDt>
+          <SoldDt>2021-03-25</SoldDt>
+          <GrossSalesPriceAmt>3147528</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3147528</CostOrOtherBasisAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1,300 SHS DOCUSIGN INC</PropertyDesc>
+          <SoldDt>2020-07-14</SoldDt>
+          <GrossSalesPriceAmt>247094</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>79852</CostOrOtherBasisAmt>
+          <GainOrLossAmt>167242</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>167242</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1,000 SHS BP PLC ADS</PropertyDesc>
+          <SoldDt>2020-08-17</SoldDt>
+          <GrossSalesPriceAmt>22621</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>36788</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-14167</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-14167</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>5,280.97 SHS VIRTUS VONTOBEL EMRG MKT OPP I</PropertyDesc>
+          <SoldDt>2020-08-17</SoldDt>
+          <GrossSalesPriceAmt>59999</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>58526</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1473</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1473</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>750 SHS WISDOMTREE TRUST JAPN HEDGE EQ</PropertyDesc>
+          <SoldDt>2020-08-17</SoldDt>
+          <GrossSalesPriceAmt>36317</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>38803</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-2486</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-2486</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>37.224 SHS VIATRIS INC</PropertyDesc>
+          <SoldDt>2020-08-17</SoldDt>
+          <GrossSalesPriceAmt>622</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>585</CostOrOtherBasisAmt>
+          <GainOrLossAmt>37</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>37</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>400 SHS CHEVRON CORP</PropertyDesc>
+          <SoldDt>2020-08-17</SoldDt>
+          <GrossSalesPriceAmt>29260</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>31104</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1844</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1844</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>500 SHS EXXON MOBIL CORP</PropertyDesc>
+          <SoldDt>2020-10-22</SoldDt>
+          <GrossSalesPriceAmt>17387</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>36579</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-19192</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-19192</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1,100 SHS GILEAD SCIENCE</PropertyDesc>
+          <SoldDt>2020-10-22</SoldDt>
+          <GrossSalesPriceAmt>66393</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>72077</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-5684</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-5684</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>162.047 SHS VIATRIS INC</PropertyDesc>
+          <SoldDt>2020-10-22</SoldDt>
+          <GrossSalesPriceAmt>2710</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2344</CostOrOtherBasisAmt>
+          <GainOrLossAmt>366</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>366</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>2,200 SHS VIACOMCBS INC CL B</PropertyDesc>
+          <SoldDt>2021-01-27</SoldDt>
+          <GrossSalesPriceAmt>118045</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>92627</CostOrOtherBasisAmt>
+          <GainOrLossAmt>25418</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>25418</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1,300 SHS SMARTSHEET INC</PropertyDesc>
+          <AcquiredDt>2020-10-22</AcquiredDt>
+          <SoldDt>2021-04-07</SoldDt>
+          <GrossSalesPriceAmt>82941</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>73051</CostOrOtherBasisAmt>
+          <GainOrLossAmt>9890</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>9890</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>DPSS LASERS INC - SERIES A 6,202 SHS</PropertyDesc>
+          <SoldDt>2021-02-16</SoldDt>
+          <GrossSalesPriceAmt>9153</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>9303</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-150</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-150</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>DPSS LASERS INC -SERIES B 32,456 SHS</PropertyDesc>
+          <SoldDt>2021-02-16</SoldDt>
+          <GrossSalesPriceAmt>43072</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>24343</CostOrOtherBasisAmt>
+          <GainOrLossAmt>18729</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>18729</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>DPSS LASERS INCS SERIES C - 8,080 SHS</PropertyDesc>
+          <SoldDt>2021-02-16</SoldDt>
+          <GrossSalesPriceAmt>11924</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4848</CostOrOtherBasisAmt>
+          <GainOrLossAmt>7076</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>7076</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CANNAN EQUITY FINAL DISTRIBUTION</PropertyDesc>
+          <SoldDt>2021-06-30</SoldDt>
+          <GrossSalesPriceAmt>5211</GrossSalesPriceAmt>
+          <GainOrLossAmt>5211</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>5211</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>DCM AFFILIATES FUND</PropertyDesc>
+          <SoldDt>2020-12-31</SoldDt>
+          <GrossSalesPriceAmt>6449</GrossSalesPriceAmt>
+          <GainOrLossAmt>6449</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>6449</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>ST CAPITAL LOSS FROM DCM K-1</PropertyDesc>
+          <SoldDt>2021-06-30</SoldDt>
+          <GrossSalesPriceAmt>0</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>33</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-33</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-33</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>198335</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>1370</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>1370</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>1370</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>17</EstimatedPlusOvpmtIncmTxAmt>
+        <ExemptFrgnOrgTaxWthldAtSrceAmt>0</ExemptFrgnOrgTaxWthldAtSrceAmt>
+        <ExtsnRequestIncomeTaxPaidAmt>50000</ExtsnRequestIncomeTaxPaidAmt>
+        <TotalPaymentsAndCreditsAmt>50017</TotalPaymentsAndCreditsAmt>
+        <EsPenaltyAmt>30</EsPenaltyAmt>
+        <OverpaymentAmt>48617</OverpaymentAmt>
+        <AppliedToESTaxAmt>5000</AppliedToESTaxAmt>
+        <RefundAmt>43617</RefundAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>CA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>n/a</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>MELISSA L FINDLEY</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>6508544223</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>PO BOX 8308</AddressLine1Txt>
+          <CityNm>SAN JOSE</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>95155</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>true</BusinessHoldingsInd>
+        <ExcessBusinessHoldingsInd>false</ExcessBusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JOHN SHOVEN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>781 FRENCHMANS CREEK ROAD</AddressLine1Txt>
+            <CityNm>STANFORD</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>943051035</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ERIC BALL</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>2023 GORDON AVENUE</AddressLine1Txt>
+            <CityNm>MENLO PARK</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94025</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>PAUL JOAS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>C/O DAIN RAUSCHER INC 60 S 6TH S</AddressLine1Txt>
+            <CityNm>MINNEAPOLIS</CityNm>
+            <StateAbbreviationCd>MN</StateAbbreviationCd>
+            <ZIPCd>55402</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>B J CASSIN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>FOUR MAIN STREET 250</AddressLine1Txt>
+            <CityNm>LOS ALTOS</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94022</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>chRISTOPHER B LUCAS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>450 NBRAND BLVD 600</AddressLine1Txt>
+            <CityNm>GLENDALE</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91203</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>KURT A LATTA</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 3219</AddressLine1Txt>
+            <CityNm>LOS ALTOS</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94024</ZIPCd>
+          </USAddress>
+          <TitleTxt>SECRETARY</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ALEXANDRA L Ertola</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>2759 MILSTEAD WAY</AddressLine1Txt>
+            <CityNm>ROSEVILLE</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95661</ZIPCd>
+          </USAddress>
+          <TitleTxt>CHAIRMAN</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JOHN W LUCAS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>856 CANTERBURY ROAD</AddressLine1Txt>
+            <CityNm>SAN MARINO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91108</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>3628537</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>6827896</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>64749</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>10521182</TotalFMVOfUnusedAssetsAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>10521182</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>157818</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>10363364</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>518168</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>518168</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>1370</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>1370</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>516798</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>516798</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>516798</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>200000</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <CharitableAssetsAcquisPaidAmt>0</CharitableAssetsAcquisPaidAmt>
+        <SetAsideSuitabilityTestAmt>0</SetAsideSuitabilityTestAmt>
+        <SetAsideCashDistriTestAmt>0</SetAsideCashDistriTestAmt>
+        <QualifyingDistributionsAmt>200000</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>0</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>200000</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>516798</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>163711</UndistributedIncomePYAmt>
+        <PriorYear1Yr>2018</PriorYear1Yr>
+        <PriorYear2Yr>2017</PriorYear2Yr>
+        <PriorYear3Yr>2016</PriorYear3Yr>
+        <QualifyingDistributionsAmt>200000</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>163711</AppliedToYear1Amt>
+        <AppliedToCurrentYearAmt>36289</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>0</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>0</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>480509</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>0</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromCurrentYearAmt>0</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <PrivateOperatingFoundationsGrp></PrivateOperatingFoundationsGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>UNIVERSITY OF MINNESOTA FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>200 Oak Street SE SUITE 500</AddressLine1Txt>
+            <CityNm>MINNESPOLIS</CityNm>
+            <StateAbbreviationCd>MN</StateAbbreviationCd>
+            <ZIPCd>55455</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>MEDICAL RESEARCH</GrantOrContributionPurposeTxt>
+          <Amt>200000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>200000</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <FeesContractsFromGovtAgGrp />
+        <MembershipDuesAndAssmntGrp />
+        <IntOnSavAndTempCashInvstGrp />
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>49066</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <NetRntlIncmReDebtFincdPropGrp />
+        <NetRntlIncmReNotDebtFincdProp />
+        <NetRentalIncomePersonalPropGrp />
+        <OtherInvestmentIncmPartVIIGrp />
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>198335</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <NetIncomeLossFromSpecialEvtGrp />
+        <GrossProfitLossSlsOfInvntryGrp />
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>247401</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>247401</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorPersonNm>DON LUCAS</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>PO BOX</AddressLine1Txt>
+          <CityNm>SAN JOSE</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>95155</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>10111000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>2</ContributorNum>
+        <ContributorPersonNm>DON LUCAS</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>PO BOX</AddressLine1Txt>
+          <CityNm>SAN JOSE</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>95155</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>9931463</TotalContributionsAmt>
+        <NoncashContributionInd>X</NoncashContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>3</ContributorNum>
+        <ContributorPersonNm>DON LUCAS PROFIT SHARING TRUST</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>PO BOX</AddressLine1Txt>
+          <CityNm>SAN JOSE</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>95155</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>915529</TotalContributionsAmt>
+        <NoncashContributionInd>X</NoncashContributionInd>
+      </ContributorInformationGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>1</ContributorNum>
+        <NoncashPropertyDesc>25,000 shares of Cadence stock</NoncashPropertyDesc>
+        <FairMarketValueAmt>1583500</FairMarketValueAmt>
+        <ReceivedDt>2021-06-29</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>2</ContributorNum>
+        <NoncashPropertyDesc>5,000 shares of Cadence stock</NoncashPropertyDesc>
+        <FairMarketValueAmt>346800</FairMarketValueAmt>
+        <ReceivedDt>2021-06-29</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>3</ContributorNum>
+        <NoncashPropertyDesc>25,000 shares Cadence stock options granted 4/1/2011</NoncashPropertyDesc>
+        <FairMarketValueAmt>1515750</FairMarketValueAmt>
+        <ReceivedDt>2021-03-25</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>4</ContributorNum>
+        <NoncashPropertyDesc>25,000 shares of Cadence stock options granted 4/1/2012</NoncashPropertyDesc>
+        <FairMarketValueAmt>1757250</FairMarketValueAmt>
+        <ReceivedDt>2021-06-29</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>5</ContributorNum>
+        <NoncashPropertyDesc>1,000 shares of Oracle stock</NoncashPropertyDesc>
+        <FairMarketValueAmt>52980</FairMarketValueAmt>
+        <ReceivedDt>2021-06-29</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>6</ContributorNum>
+        <NoncashPropertyDesc>VINCENT PLUVINAGE LOAN</NoncashPropertyDesc>
+        <FairMarketValueAmt>62545</FairMarketValueAmt>
+        <ReceivedDt>2021-01-22</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>7</ContributorNum>
+        <NoncashPropertyDesc>VENTURE CAPITAL PRIVATE STOCK</NoncashPropertyDesc>
+        <FairMarketValueAmt>590539</FairMarketValueAmt>
+        <ReceivedDt>2021-06-29</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>8</ContributorNum>
+        <NoncashPropertyDesc>VENTURE CAPITAL STOCK DON LUCAS PROFIT SHARING TRUST</NoncashPropertyDesc>
+        <FairMarketValueAmt>915529</FairMarketValueAmt>
+        <ReceivedDt>2021-06-29</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>9</ContributorNum>
+        <NoncashPropertyDesc>9165 SHARES OF TELA INNOVATIONS</NoncashPropertyDesc>
+        <FairMarketValueAmt>9165</FairMarketValueAmt>
+        <ReceivedDt>2021-06-29</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>10</ContributorNum>
+        <NoncashPropertyDesc>COMMON STOCKS</NoncashPropertyDesc>
+        <FairMarketValueAmt>2812741</FairMarketValueAmt>
+        <ReceivedDt>2021-06-29</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>12</ContributorNum>
+        <NoncashPropertyDesc>EXCHANGE TRADED CLOSED END FUNDS</NoncashPropertyDesc>
+        <FairMarketValueAmt>1200194</FairMarketValueAmt>
+        <ReceivedDt>2021-06-29</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="AccountingFeesSch">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING FEES</CategoryTxt>
+        <Amt>59459</Amt>
+        <NetInvestmentIncomeAmt>29730</NetInvestmentIncomeAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="DepreciationSch">
+      <DepreciationPropertyGrp>
+        <PropertyDesc>computer</PropertyDesc>
+        <AcquiredDt>2017-12-08</AcquiredDt>
+        <CostOrOtherBasisAmt>1211</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>625</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>5</LifeRt>
+        <CurrentYearExpenseAmt>242</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>242</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+    </DepreciationSchedule>
+    <GeneralExplanationAttachment documentId="GeneralExplAttach">
+      <GeneralExplanationGrp>
+        <IdentifierTxt>Amended explanation</IdentifierTxt>
+        <FormAndLineReferenceDesc>FORM 990-PF, PAGE 1, BOX G</FormAndLineReferenceDesc>
+        <MediumExplanationTxt>2020 TAX RETURN IS BEING AMENDED TO ADJUST THE ORIGINALLY FILED RETURN TO THE AUDITED FINANCIAL STATEMENTS THAT WERE COMPLETED SUBSEQUENT TO THE FILING OF THE ORIGINAL RETURN. THE FORMS AND SCHEDULES THAT WERE UPDATED ARE AS FOLLOWS: FORM 990-PF: PARTS II &amp; III</MediumExplanationTxt>
+      </GeneralExplanationGrp>
+    </GeneralExplanationAttachment>
+    <InvestmentsCorpStockSchedule documentId="InvestCorpStockSch">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>INVESTMENT - COMPLETEX RM, INC</StockNm>
+        <EOYBookValueAmt>6871</EOYBookValueAmt>
+        <EOYFMVAmt>6871</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>INVESTMENT - DPSS LASERS, INC.</StockNm>
+        <EOYBookValueAmt>217712</EOYBookValueAmt>
+        <EOYFMVAmt>217712</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>INVESTMENT - TELA INNOVATIONS</StockNm>
+        <EOYBookValueAmt>99720</EOYBookValueAmt>
+        <EOYFMVAmt>99720</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>INVENTION CAPITAL PARTNERS</StockNm>
+        <EOYBookValueAmt>58549</EOYBookValueAmt>
+        <EOYFMVAmt>58549</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="InvOtherSch2">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>INVESTMENT - OTHERS</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>154311</BookValueAmt>
+        <EOYFMVAmt>154311</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>common stock- Morgan Stanley</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>5869229</BookValueAmt>
+        <EOYFMVAmt>5869229</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>ETFs &amp; CEFs - Morgan stanley</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>1837732</BookValueAmt>
+        <EOYFMVAmt>1837732</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>mutual funds - morgan stanley</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>0</BookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>APPRECIATION-MORGAN STANLEY</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>3848058</BookValueAmt>
+        <EOYFMVAmt>3848058</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>CADENCE STOCK OPTIONS</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>1963750</BookValueAmt>
+        <EOYFMVAmt>1963750</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <LegalFeesSchedule documentId="LegalFeesSch">
+      <LegalFeesGrp>
+        <CategoryTxt>LEGAL FEES</CategoryTxt>
+        <LegalFeesAmt>150</LegalFeesAmt>
+        <NetInvestmentIncomeAmt>75</NetInvestmentIncomeAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherAssetsSchedule documentId="OtherAssetsSch">
+      <OtherAssetsScheduleGrp>
+        <Desc>DISTRIBUTION RECEIVABLE</Desc>
+        <BOYBookValueAmt>1861</BOYBookValueAmt>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>PREPAID EXPENSES</Desc>
+        <BOYBookValueAmt>119</BOYBookValueAmt>
+        <EOYBookValueAmt>5000</EOYBookValueAmt>
+        <EOYFMVAmt>5000</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>ACCRUED INTEREST-INVENTION</Desc>
+        <EOYBookValueAmt>9942</EOYBookValueAmt>
+        <EOYFMVAmt>9942</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>INCOME TAX RECEIVABLE</Desc>
+        <EOYBookValueAmt>43617</EOYBookValueAmt>
+        <EOYFMVAmt>43617</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherDecreasesSchedule documentId="OtherDecreasesSch">
+      <OtherDecreasesDetail>
+        <Desc>BOOK/TAX DIFFERENCES FROM PARTNERSHIPS</Desc>
+        <Amt>9280</Amt>
+      </OtherDecreasesDetail>
+      <OtherDecreasesDetail>
+        <Desc>DEFERRED EXCISE TAX</Desc>
+        <Amt>36453</Amt>
+      </OtherDecreasesDetail>
+      <OtherDecreasesDetail>
+        <Desc>ACCRUAL TO CASH - EXPENSES</Desc>
+        <Amt>3459</Amt>
+      </OtherDecreasesDetail>
+      <OtherDecreasesDetail>
+        <Desc>BOOK/TAX DIFFERENCES - CONTRIBUTIONS</Desc>
+        <Amt>20957992</Amt>
+      </OtherDecreasesDetail>
+      <OtherDecreasesDetail>
+        <Desc>ACCRUAL TO CASH - CONTRIBUTIONS</Desc>
+        <Amt>12506151</Amt>
+      </OtherDecreasesDetail>
+      <OtherDecreasesDetail>
+        <Desc>UNREALIZED GAIN - PST STOCK</Desc>
+        <Amt>138958</Amt>
+      </OtherDecreasesDetail>
+      <OtherDecreasesDetail>
+        <Desc>ACCRUAL TO CASH - EXPENSES</Desc>
+        <Amt>17900</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSch">
+      <OtherExpensesScheduleGrp>
+        <Desc>COMPUTER SERVICES</Desc>
+        <RevenueAndExpensesPerBooksAmt>11778</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>11778</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>INSURANCE</Desc>
+        <RevenueAndExpensesPerBooksAmt>1788</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>1788</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OFFICE EXPENSE</Desc>
+        <RevenueAndExpensesPerBooksAmt>233</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>233</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>TELEPHONE</Desc>
+        <RevenueAndExpensesPerBooksAmt>462</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>462</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>MISCELLANEOUS</Desc>
+        <RevenueAndExpensesPerBooksAmt>1325</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>1325</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>INVESTMENT EXPENSES</Desc>
+        <RevenueAndExpensesPerBooksAmt>22263</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>22263</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>INVESTMENT EXPENSE-PARTNERSHIP</Desc>
+        <RevenueAndExpensesPerBooksAmt>2038</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>2038</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>BAD DEBT - PARTNERSHIP</Desc>
+        <RevenueAndExpensesPerBooksAmt>1861</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>1861</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncreasesSchedule documentId="OtherIncreasesSch">
+      <OtherIncreasesDetail>
+        <Desc>UNREALIZED GAIN ON INVESTMENTS</Desc>
+        <Amt>1822631</Amt>
+      </OtherIncreasesDetail>
+      <OtherIncreasesDetail>
+        <Desc>ACCRUAL TO CASH - EXPENSES</Desc>
+        <Amt>37459</Amt>
+      </OtherIncreasesDetail>
+      <OtherIncreasesDetail>
+        <Desc>ACCRUAL TO CASH - DONATIONS</Desc>
+        <Amt>200000</Amt>
+      </OtherIncreasesDetail>
+      <OtherIncreasesDetail>
+        <Desc>BOOK/TAX DIFF EXCERCISE OF STOCK OPTIONS</Desc>
+        <Amt>1389511</Amt>
+      </OtherIncreasesDetail>
+      <OtherIncreasesDetail>
+        <Desc>DEFERRED EXCISE TAX</Desc>
+        <Amt>13207</Amt>
+      </OtherIncreasesDetail>
+      <OtherIncreasesDetail>
+        <Desc>ACCRUAL TO CASH - TAX PROVISION</Desc>
+        <Amt>12081</Amt>
+      </OtherIncreasesDetail>
+      <OtherIncreasesDetail>
+        <Desc>UNREALIZED GAIN - STOCK OPTIONS</Desc>
+        <Amt>206500</Amt>
+      </OtherIncreasesDetail>
+      <OtherIncreasesDetail>
+        <Desc>ACCRUAL TO CASH - INCOME TAX EXPENSE</Desc>
+        <Amt>51957</Amt>
+      </OtherIncreasesDetail>
+    </OtherIncreasesSchedule>
+    <OtherLiabilitiesSchedule documentId="OtherLiabSch">
+      <OtherLiabilitiesDetail>
+        <Desc>INCOME TAX PAYABLE</Desc>
+        <BOYBookValueAmt>0</BOYBookValueAmt>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+      <OtherLiabilitiesDetail>
+        <Desc>GRANTS PAYABLE</Desc>
+        <BOYBookValueAmt>200000</BOYBookValueAmt>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+      <OtherLiabilitiesDetail>
+        <Desc>DEFERRED EXCISE TAX LIABILITY</Desc>
+        <BOYBookValueAmt>3140</BOYBookValueAmt>
+        <EOYBookValueAmt>27528</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+    </OtherLiabilitiesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OthProfFeesSch">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>ADMINISTRATION/CONSULTING</CategoryTxt>
+        <Amt>154059</Amt>
+        <NetInvestmentIncomeAmt>77030</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+  </ReturnData>
+</Return>

@@ -1,0 +1,678 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2021v4.0">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-02-25T14:17:36-05:00</ReturnTs>
+    <TaxPeriodEndDt>2022-09-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>920549743</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>RML &amp; ASSOCIATES CPAS</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>505 S 3RD ST STE 100</AddressLine1Txt>
+        <CityNm>LARAMIE</CityNm>
+        <StateAbbreviationCd>WY</StateAbbreviationCd>
+        <ZIPCd>820703607</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2021-10-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>830314146</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>GUTHRIE FAMILY FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>GUTH</BusinessNameControlTxt>
+      <PhoneNum>3077457351</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>717 GIBBON ST</AddressLine1Txt>
+        <CityNm>LARAMIE</CityNm>
+        <StateAbbreviationCd>WY</StateAbbreviationCd>
+        <ZIPCd>82072</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>JOHN GUTHRIE III</PersonNm>
+      <PersonTitleTxt>PRESIDENT</PersonTitleTxt>
+      <PhoneNum>3077457351</PhoneNum>
+      <SignatureDt>2023-02-08</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>JOHN</PersonFirstNm>
+        <PersonLastNm>GUTHRIE III</PersonLastNm>
+      </PersonFullName>
+      <SSN>XXX-XX-XXXX</SSN>
+    </SigningOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>ELIZABETH POWERS CPA</PreparerPersonNm>
+      <PTIN>P02039695</PTIN>
+      <PhoneNum>3077551040</PhoneNum>
+      <PreparationDt>2023-02-25</PreparationDt>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <TaxYr>2021</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="11">
+    <IRS990PF documentId="RetDoc12" referenceDocumentId="RetDoc11">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>6320318</FMVAssetsEOYAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>35015</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>35015</InterestOnSavNetInvstIncmAmt>
+        <InterestOnSavingsAdjNetIncmAmt>35015</InterestOnSavingsAdjNetIncmAmt>
+        <DividendsRevAndExpnssAmt>121147</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>121147</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>121147</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt referenceDocumentId="RetDoc3">366908</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>377541</GrossSalesPriceAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="RetDoc8">9838</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeAdjNetIncmAmt>9838</OtherIncomeAdjNetIncmAmt>
+        <TotalRevAndExpnssAmt>532908</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>156162</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>166000</TotalAdjNetIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc1">3500</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>3500</AccountingFeesNetInvstIncmAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc9">41565</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>41565</OtherProfFeesNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc10">18332</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>484</TaxesNetInvstIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc7">3344</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>3344</OtherExpensesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>66741</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>48893</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>382700</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>382700</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>449441</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>48893</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>382700</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>83467</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>107269</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>166000</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>21369</CashBOYAmt>
+        <CashEOYAmt>27621</CashEOYAmt>
+        <CashEOYFMVAmt>27622</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>140451</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>178322</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>178322</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>2842952</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc5">2929814</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>3934547</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>1657480</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="RetDoc4">1622140</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>1488689</CorporateBondsEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>655791</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="RetDoc6">643613</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>691138</OtherInvestmentsEOYFMVAmt>
+        <TotalAssetsBOYAmt>5318043</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>5401510</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>6320318</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsFASB117Ind>X</OrganizationFollowsFASB117Ind>
+        <NoDonorRstrNetAssestsBOYAmt>5318043</NoDonorRstrNetAssestsBOYAmt>
+        <NoDonorRstrNetAssestsEOYAmt>5401510</NoDonorRstrNetAssestsEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>5318043</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>5401510</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>5318043</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>5401510</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>5318043</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>83467</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>5401510</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>5401510</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>1491</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>1491</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>1491</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>8200</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>8200</TotalPaymentsAndCreditsAmt>
+        <OverpaymentAmt>6709</OverpaymentAmt>
+        <AppliedToESTaxAmt>6709</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>WY</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd referenceDocumentId="RetDoc2">false</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>WWW.GUTHRIE-FAMILY-FOUNDATION.ORG</WebsiteAddressTxt>
+        <IndividualWithBooksNm>BRENDA HUNTER</IndividualWithBooksNm>
+        <PhoneNum>3077457351</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>215 SOUTH 2ND STREET</AddressLine1Txt>
+          <CityNm>LARAMIE</CityNm>
+          <StateAbbreviationCd>WY</StateAbbreviationCd>
+          <ZIPCd>82070</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>FRED OCKERS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 490</AddressLine1Txt>
+            <CityNm>LARAMIE</CityNm>
+            <StateAbbreviationCd>WY</StateAbbreviationCd>
+            <ZIPCd>82072</ZIPCd>
+          </USAddress>
+          <TitleTxt>BOARD MEMBER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>BRENDA HUNTER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>215 SOUTH 2ND STREET</AddressLine1Txt>
+            <CityNm>LARAMIE</CityNm>
+            <StateAbbreviationCd>WY</StateAbbreviationCd>
+            <ZIPCd>82070</ZIPCd>
+          </USAddress>
+          <TitleTxt>SECRETARY</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JOHN GUTHRIE III</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 1242</AddressLine1Txt>
+            <CityNm>LARAMIE</CityNm>
+            <StateAbbreviationCd>WY</StateAbbreviationCd>
+            <ZIPCd>82073</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DAN FURPHY</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>2605 DOVER DR</AddressLine1Txt>
+            <CityNm>LARAMIE</CityNm>
+            <StateAbbreviationCd>WY</StateAbbreviationCd>
+            <ZIPCd>82072</ZIPCd>
+          </USAddress>
+          <TitleTxt>BOARD MEMBER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>7588195</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>20285</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>7608480</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>7608480</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>114127</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>7494353</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>374718</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>374718</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>1491</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>1491</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>373227</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>373227</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>373227</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>382700</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>382700</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>373227</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>189234</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>21871</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>936</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>2889</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>17026</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>231956</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>382700</QualifyingDistributionsAmt>
+        <AppliedToCurrentYearAmt>373227</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>9473</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>241429</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>189234</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>52195</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>21871</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>936</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>2889</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>17026</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>9473</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>JOHN GUTHRIE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 1242</AddressLine1Txt>
+            <CityNm>LARAMIE</CityNm>
+            <StateAbbreviationCd>WY</StateAbbreviationCd>
+            <ZIPCd>82073</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>3077427117</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>THE FOLLOWING ARE REQUIRED FOR A GRANT WITH THE GUTHRIE FAMILY FOUNDATION: - BRIEF STATEMENT OF THE ORGANIZATION'S MISSION. - ORGANIZATIONAL BUDGETS FOR THE PAST AND CURRENT YEAR INCLUDING OTHER SOURCES OF FUNDING. - REVIEW OF THE PREVIOUS YEARS GRANT IF ONE WAS RECEIVED INCLUDING THE NUMBER OF INDIVIDUALS SERVED AND HOW THEY BENFITED. - DOLLAR AMOUNT REQUESTED IN THIS GRANT REQUEST. - INTENDED USE OF THE GRANT: PLEASE SUPPORT YOUR REQUEST WITH SPECIFIC PROJECT BUDGETS AND BIDS AND ESTIMATES WHERE APPLICABLE. - SPECIFY HOW GRANT WOULD BENEFIT RESIDENTS OF THE CITY OF LARAMIE AND ALBANY COUNTY. -LIST THE ORGANIZATION'S LOCAL BOARD OF DIRECTORS.</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>GRANT SUBMISSIONS MUST BE RECEIVED NO LATER THAN JULY 1ST EACH YEAR</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>REQUEST FOR MATCHING FUNDS ARE FAVORED. IN GENERAL, REQUESTS FOR SALARIES WILL NOT BE CONSIDERED. A PART-TIME SALARY FOR A SPECIFIC PROGRAM WITH A LIMITED TIME PERIOD MAY BE CONSIDERED.</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ARK REGIONAL SERVICES</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1150 NORTH 3RD STREET</AddressLine1Txt>
+            <CityNm>LARAMIE</CityNm>
+            <StateAbbreviationCd>WY</StateAbbreviationCd>
+            <ZIPCd>82070</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>VISUAL ARTS PROGRAM</GrantOrContributionPurposeTxt>
+          <Amt>23000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CATHEDRAL HOME FOR CHILDREN</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4969 NORTH 3RD STREET</AddressLine1Txt>
+            <CityNm>LARAMIE</CityNm>
+            <StateAbbreviationCd>WY</StateAbbreviationCd>
+            <ZIPCd>82070</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>MENTAL HEALTH SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>35000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CLIMB WYOMING</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>217 SOUTH 1ST STREET</AddressLine1Txt>
+            <CityNm>LARAMIE</CityNm>
+            <StateAbbreviationCd>WY</StateAbbreviationCd>
+            <ZIPCd>82070</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>SINGLE MOTHER HELP</GrantOrContributionPurposeTxt>
+          <Amt>35000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FAMILY PROMISE OF ALBANY COUNTY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 1859</AddressLine1Txt>
+            <CityNm>LARAMIE</CityNm>
+            <StateAbbreviationCd>WY</StateAbbreviationCd>
+            <ZIPCd>82073</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>HOMELESSNESS PREVENTION</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ALBANY COUNTY PUBLIC LIBRARY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>310 SOUTH 8TH STREET</AddressLine1Txt>
+            <CityNm>LARAMIE</CityNm>
+            <StateAbbreviationCd>WY</StateAbbreviationCd>
+            <ZIPCd>82070</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>ANNUAL PROGRAMMING</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>LARAMIE PLAINS MUSEUM</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>603 EAST IVINSON</AddressLine1Txt>
+            <CityNm>LARAMIE</CityNm>
+            <StateAbbreviationCd>WY</StateAbbreviationCd>
+            <ZIPCd>82070</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>CARRIAGE HOUSE EXPANSION, ROOLINE</GrantOrContributionPurposeTxt>
+          <Amt>30000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SALVATION ARMY OF ALBANY COUNTY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 82073</AddressLine1Txt>
+            <CityNm>LARAMIE</CityNm>
+            <StateAbbreviationCd>WY</StateAbbreviationCd>
+            <ZIPCd>82073</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>OPERATING FUND</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ALBANY COUNTY SAFE PROJECT</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 665</AddressLine1Txt>
+            <CityNm>LARAMIE</CityNm>
+            <StateAbbreviationCd>WY</StateAbbreviationCd>
+            <ZIPCd>82073</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>PREPAID CARDS AND CELL PHONES</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ST MATTHEWS CATHEDRAL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>104 SOUTH 4TH STREET</AddressLine1Txt>
+            <CityNm>LARAMIE</CityNm>
+            <StateAbbreviationCd>WY</StateAbbreviationCd>
+            <ZIPCd>82070</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>ENDOWMENT</GrantOrContributionPurposeTxt>
+          <Amt>46000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>LARAMIE SOUP KITCHEN</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>104 SOUTH 4TH STREET</AddressLine1Txt>
+            <CityNm>LARAMIE</CityNm>
+            <StateAbbreviationCd>WY</StateAbbreviationCd>
+            <ZIPCd>82070</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>OPERATING FUND</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>DOWNTOWN CLINIC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>611 SOUTH 2ND STREET</AddressLine1Txt>
+            <CityNm>LARAMIE</CityNm>
+            <StateAbbreviationCd>WY</StateAbbreviationCd>
+            <ZIPCd>82070</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>PRESCRIPTION MEDICATION PROGRAM</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>UNITED WAY OF ALBANY COUNTY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>710 EAST GARFIELD ST 240</AddressLine1Txt>
+            <CityNm>LARAMIE</CityNm>
+            <StateAbbreviationCd>WY</StateAbbreviationCd>
+            <ZIPCd>82070</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>OPERATING FUND</GrantOrContributionPurposeTxt>
+          <Amt>43000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>LARAMIE REPRODUCTIVE HEALTH</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>413 SOUTH 2ST ST</AddressLine1Txt>
+            <CityNm>LARAMIE</CityNm>
+            <StateAbbreviationCd>WY</StateAbbreviationCd>
+            <ZIPCd>82070</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>LARC DEVICES FOR LOW INCOME/UNINSURE</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>LARAMIE BEAUTIFICATION COMMITTEE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>115 E IVINSON AVENUE ST A</AddressLine1Txt>
+            <CityNm>LARAMIE</CityNm>
+            <StateAbbreviationCd>WY</StateAbbreviationCd>
+            <ZIPCd>82070</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>IMPROVEMENTS, PUBLIC ART, COMM SERVI</GrantOrContributionPurposeTxt>
+          <Amt>15000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>WYOMING WOMENS HISTORY HOUSE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 1960</AddressLine1Txt>
+            <CityNm>LARAMIE</CityNm>
+            <StateAbbreviationCd>WY</StateAbbreviationCd>
+            <ZIPCd>82073</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>EXHIBIT UPGRADES, HISTORIC MURAL,ETC</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ST MATTHEWS EPISOPAL CATHEDRAL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>104 SOUTH 4TH STREET</AddressLine1Txt>
+            <CityNm>LARAMIE</CityNm>
+            <StateAbbreviationCd>WY</StateAbbreviationCd>
+            <ZIPCd>82070</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>REPAIRS FOR DESTROYED WALL</GrantOrContributionPurposeTxt>
+          <Amt>10700</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>382700</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>35015</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>121147</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>366908</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>TAX REFUND (OVERPAYMENT)</Desc>
+          <ExclusionCd>1</ExclusionCd>
+          <ExclusionAmt>7715</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>TAX REFUND (OVERPAYMENT)</Desc>
+          <ExclusionCd>1</ExclusionCd>
+          <ExclusionAmt>2123</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>532908</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>532908</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc1">
+      <AccountingFeesDetail>
+        <CategoryTxt>TAX PREPARATION</CategoryTxt>
+        <Amt>3500</Amt>
+        <NetInvestmentIncomeAmt>3500</NetInvestmentIncomeAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <ExplnOfNonFilingWithAGStmt documentId="RetDoc2">
+      <ExplanationTxt>NOT REQUIRED TO GIVE TO ATTORNEY GENERAL</ExplanationTxt>
+    </ExplnOfNonFilingWithAGStmt>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc3">
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>LT CAPITAL GAIN DIV/DISTRIBUTIONS</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>76283</GrossSalesPriceAmt>
+        <TotalNetAmt>76283</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>LT GAIN/LOSS</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>301181</GrossSalesPriceAmt>
+        <TotalNetAmt>301181</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>LT SALES PROCEEDS</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>77</GrossSalesPriceAmt>
+        <TotalNetAmt>77</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>SHORT TERM LOSS</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <BasisAmt>10633</BasisAmt>
+        <TotalNetAmt>-10633</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc4">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>FIXED INCOME-FNB FORT COLLINS</BondNm>
+        <EOYBookValueAmt>1622140</EOYBookValueAmt>
+        <EOYFMVAmt>1488689</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc5">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>EQUITIES FNB-FORT COLLINS</StockNm>
+        <EOYBookValueAmt>2929814</EOYBookValueAmt>
+        <EOYFMVAmt>3934547</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="RetDoc6">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>ALTERNATIVES FNB-FORT COLLINS</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>643613</BookValueAmt>
+        <EOYFMVAmt>691138</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <OtherExpensesSchedule documentId="RetDoc7">
+      <OtherExpensesScheduleGrp>
+        <Desc>EXPENSES</Desc>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>BANK SERVICE CHARGES</Desc>
+        <RevenueAndExpensesPerBooksAmt>90</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>90</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>SECRETARY FEE</Desc>
+        <RevenueAndExpensesPerBooksAmt>1000</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>1000</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>UNREALIZED LOSS</Desc>
+        <RevenueAndExpensesPerBooksAmt>2254</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>2254</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc8">
+      <OtherIncomeDetail>
+        <Desc>TAX REFUND (OVERPAYMENT)</Desc>
+        <RevenueAndExpensesPerBooksAmt>7715</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>7715</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>TAX REFUND (OVERPAYMENT)</Desc>
+        <RevenueAndExpensesPerBooksAmt>2123</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>2123</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherProfessionalFeesSchedule documentId="RetDoc9">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>INVESTMENT MANAGEMENT</CategoryTxt>
+        <Amt>41565</Amt>
+        <NetInvestmentIncomeAmt>41565</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc10">
+      <TaxesDetail>
+        <CategoryTxt>FEDERAL INCOME TAX 2022</CategoryTxt>
+        <Amt>8200</Amt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>FEDERAL INCOME TAX 2021</CategoryTxt>
+        <Amt>8200</Amt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>FEDERAL INCOME TAX 2021</CategoryTxt>
+        <Amt>1448</Amt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAXES</CategoryTxt>
+        <Amt>484</Amt>
+        <NetInvestmentIncomeAmt>484</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

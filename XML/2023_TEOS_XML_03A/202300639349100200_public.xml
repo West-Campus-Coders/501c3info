@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2021v4.1" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-03-04T05:24:33-08:00</ReturnTs>
+    <TaxPeriodEndDt>2022-10-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>431244312</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Roberts McKenzie Mangan &amp; Cummings PC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>4035 S Fremont</AddressLine1Txt>
+        <CityNm>Springfield</CityNm>
+        <StateAbbreviationCd>MO</StateAbbreviationCd>
+        <ZIPCd>65804</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2021-11-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>446014681</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>Meek Charitable Trust</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>MEEK</BusinessNameControlTxt>
+      <PhoneNum>4178480848</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>4035 S Fremont Ave</AddressLine1Txt>
+        <CityNm>Springfield</CityNm>
+        <StateAbbreviationCd>MO</StateAbbreviationCd>
+        <ZIPCd>65804</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>Terry O Meek</PersonNm>
+      <PersonTitleTxt>Trustee</PersonTitleTxt>
+      <SignatureDt>2023-03-03</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>Terry O</PersonFirstNm>
+        <PersonLastNm>Meek</PersonLastNm>
+      </PersonFullName>
+      <SSN>999009999</SSN>
+    </SigningOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Robert W Rebmann</PreparerPersonNm>
+      <PTIN>P00915931</PTIN>
+      <PhoneNum>4178835348</PhoneNum>
+    </PreparerPersonGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp>
+        <TrustedCustomerCd>2</TrustedCustomerCd>
+        <AuthenticationAssuranceLevelCd>AAL1</AuthenticationAssuranceLevelCd>
+        <IdentityAssuranceLevelCd>IAL1</IdentityAssuranceLevelCd>
+        <FederatedAssuranceLevelCd>FAL1</FederatedAssuranceLevelCd>
+      </TrustedCustomerGrp>
+    </AdditionalFilerInformation>
+    <TaxYr>2021</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="6">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="21013475" softwareVersionNum="2021v4.1">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>196313</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <DividendsRevAndExpnssAmt>7683</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>7683</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>7683</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>-6036</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>94451</GrossSalesPriceAmt>
+        <TotalRevAndExpnssAmt>1647</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>7683</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>7683</TotalAdjNetIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSchedule">1025</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesAdjNetIncmAmt>1025</AccountingFeesAdjNetIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>1025</AccountingFeesChrtblPrpsAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">979</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesAdjNetIncmAmt>979</OtherExpensesAdjNetIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>979</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>2004</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>0</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>2004</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>2004</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>8750</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>8750</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>10754</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>0</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>2004</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>10754</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-9107</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>7683</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>5679</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>3157</SavAndTempCashInvstBOYAmt>
+        <USGovernmentObligationsEOYAmt referenceDocumentId="InvestmentsGovtObligationsSche">51302</USGovernmentObligationsEOYAmt>
+        <USGovtObligationsEOYFMVAmt>50294</USGovtObligationsEOYFMVAmt>
+        <CorporateStockBOYAmt>3800</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="InvestmentsCorpStockSchedule">3800</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>3800</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>229382</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="InvestmentsCorpBondsSchedule">172130</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>142219</CorporateBondsEOYFMVAmt>
+        <TotalAssetsBOYAmt>236339</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>227232</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>196313</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <CapitalStockBOYAmt>192374</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>192374</CapitalStockEOYAmt>
+        <RetainedEarningBOYAmt>43965</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>34858</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>236339</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>227232</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>236339</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>227232</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>236339</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-9107</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>227232</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>227232</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>101.539 Baird Aggregate Bond Fund IS</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2020-04-21</AcquiredDt>
+          <SoldDt>2021-12-02</SoldDt>
+          <GrossSalesPriceAmt>1160</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1177</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-17</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-17</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>64.843 Blackrock High Yield Bond</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2019-09-26</AcquiredDt>
+          <SoldDt>2021-12-03</SoldDt>
+          <GrossSalesPriceAmt>504</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>499</CostOrOtherBasisAmt>
+          <GainOrLossAmt>5</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>5</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>34.190 Cohen &amp; Steers Preferred</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-01-27</AcquiredDt>
+          <SoldDt>2021-12-03</SoldDt>
+          <GrossSalesPriceAmt>482</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>491</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-9</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-9</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>52.455 Commerce Bond Fund</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2020-04-21</AcquiredDt>
+          <SoldDt>2021-12-03</SoldDt>
+          <GrossSalesPriceAmt>1081</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1070</CostOrOtherBasisAmt>
+          <GainOrLossAmt>11</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>11</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>21.977 Dodge &amp; Cox Income Fund</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-01-27</AcquiredDt>
+          <SoldDt>2021-12-03</SoldDt>
+          <GrossSalesPriceAmt>312</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>321</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-9</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-9</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>52.492 Fidelity Advisor Floating Rate</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-01-27</AcquiredDt>
+          <SoldDt>2021-12-02</SoldDt>
+          <GrossSalesPriceAmt>496</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>491</CostOrOtherBasisAmt>
+          <GainOrLossAmt>5</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>5</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>76.057 Goldman Sach High Yield</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-01-27</AcquiredDt>
+          <SoldDt>2021-12-03</SoldDt>
+          <GrossSalesPriceAmt>481</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>491</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-10</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-10</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>82.297 Vanguard High Yield Corp Fd Admiral</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-01-27</AcquiredDt>
+          <SoldDt>2021-12-03</SoldDt>
+          <GrossSalesPriceAmt>485</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>490</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-5</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-5</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>64.350 Blackrock High Yield Portfolio K</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2019-09-26</AcquiredDt>
+          <SoldDt>2022-01-18</SoldDt>
+          <GrossSalesPriceAmt>500</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>495</CostOrOtherBasisAmt>
+          <GainOrLossAmt>5</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>5</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>21.030 Fidelity Advisor Floating Rate</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-01-27</AcquiredDt>
+          <SoldDt>2022-01-18</SoldDt>
+          <GrossSalesPriceAmt>200</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>197</CostOrOtherBasisAmt>
+          <GainOrLossAmt>3</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>3</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>144.404 Dodge &amp; Cox Income Fund</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2022-01-14</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>1892</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2000</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-108</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-108</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>979.251 Dodge &amp; Cox Income Fund</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2019-09-26</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>12828</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>14297</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1469</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1469</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>2321.306 Fidelity Advisor Floating Rate</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-01-27</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>21890</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>21727</CostOrOtherBasisAmt>
+          <GainOrLossAmt>163</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>163</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>2832.927 Blackrock High Yield Portfolio K</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2019-09-26</AcquiredDt>
+          <SoldDt>2022-09-26</SoldDt>
+          <GrossSalesPriceAmt>18471</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>21741</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-3270</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-3270</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>3597.122 Fidelity Short Term Bond Index Fund</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2022-04-07</AcquiredDt>
+          <SoldDt>2022-10-19</SoldDt>
+          <GrossSalesPriceAmt>33669</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>35000</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1331</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1331</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>-6036</CapitalGainNetIncomeAmt>
+        <NetShortTermCapitalGainLossAmt>-1464</NetShortTermCapitalGainLossAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>107</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>107</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>107</TaxBasedOnInvestmentIncomeAmt>
+        <TaxDueAmt>107</TaxDueAmt>
+        <AppliedToESTaxAmt>0</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>MO</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>Terry O Meek</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>4178480848</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>4035 S Fremont Ave</AddressLine1Txt>
+          <CityNm>Springfield</CityNm>
+          <StateAbbreviationCd>MO</StateAbbreviationCd>
+          <ZIPCd>65804</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Michael E Meek</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>17240 Hawthorne Ave</AddressLine1Txt>
+            <CityNm>Anderson</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>96007</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Terry O Meek</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>4035 S Fremont Ave</AddressLine1Txt>
+            <CityNm>Springfield</CityNm>
+            <StateAbbreviationCd>MO</StateAbbreviationCd>
+            <ZIPCd>65804</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>William C Meek</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>120 S Glencoe St</AddressLine1Txt>
+            <CityNm>Denver</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>80246</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>Sole activity is awarding contributions to Sec. 501(c)(3) organizations</Description1Txt>
+        <Expenses1Amt>0</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>0</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>0</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>0</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>0</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>0</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>0</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>0</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <TaxBasedOnInvestmentIncomeAmt>107</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>107</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>107</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>107</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>0</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>10754</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>10754</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>0</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>2828</UndistributedIncomePYAmt>
+        <QualifyingDistributionsAmt>10754</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>2828</AppliedToYear1Amt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <RemainingDistriFromCorpusAmt>7926</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>7926</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>7926</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromCurrentYearAmt>7926</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Boy Scouts of America</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1616 S Eastgate Ave</AddressLine1Txt>
+            <CityNm>Springfield</CityNm>
+            <StateAbbreviationCd>MO</StateAbbreviationCd>
+            <ZIPCd>65809</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General fund</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>LifeHouse Crisis Maternity Home</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>424 E Monastery St</AddressLine1Txt>
+            <CityNm>Springfield</CityNm>
+            <StateAbbreviationCd>MO</StateAbbreviationCd>
+            <ZIPCd>65807</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General fund</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>JDRF International</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>26 Broadway FL 14</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10004</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General fund</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Mercy Health Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3265 S National Avenue Suite 200</AddressLine1Txt>
+            <CityNm>Springfield</CityNm>
+            <StateAbbreviationCd>MO</StateAbbreviationCd>
+            <ZIPCd>65807</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General fund</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Springfield Symphony</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>411 N Sherman Pkwy</AddressLine1Txt>
+            <CityNm>Springfield</CityNm>
+            <StateAbbreviationCd>MO</StateAbbreviationCd>
+            <ZIPCd>65802</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General fund</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Springfield Workshop Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2836 W Bennett</AddressLine1Txt>
+            <CityNm>Springfield</CityNm>
+            <StateAbbreviationCd>MO</StateAbbreviationCd>
+            <ZIPCd>65802</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General fund</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>The Child Advocacy Center</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1033 E Walnut</AddressLine1Txt>
+            <CityNm>Springfield</CityNm>
+            <StateAbbreviationCd>MO</StateAbbreviationCd>
+            <ZIPCd>65806</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General fund</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Missouri Colleges Fund</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3401 W Truman Blvd Suite 202</AddressLine1Txt>
+            <CityNm>Jefferson City</CityNm>
+            <StateAbbreviationCd>MO</StateAbbreviationCd>
+            <ZIPCd>65109</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General fund</GrantOrContributionPurposeTxt>
+          <Amt>250</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>8750</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>7683</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>-6036</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>7683</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>-6036</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>1647</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="21013475" softwareVersionNum="2021v4.1">
+      <AccountingFeesDetail>
+        <CategoryTxt>RMMC</CategoryTxt>
+        <Amt>1025</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>1025</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>1025</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpBondsSchedule documentId="InvestmentsCorpBondsSchedule" softwareId="21013475" softwareVersionNum="2021v4.1">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>Blackrock High Yield</BondNm>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>Baird Aggregate Bond Fund</BondNm>
+        <EOYBookValueAmt>52420</EOYBookValueAmt>
+        <EOYFMVAmt>42153</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>Commerce Bond Fund</BondNm>
+        <EOYBookValueAmt>47656</EOYBookValueAmt>
+        <EOYFMVAmt>39522</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>Cohen &amp; Steers</BondNm>
+        <EOYBookValueAmt>21924</EOYBookValueAmt>
+        <EOYFMVAmt>17652</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>Dodge &amp; Cox Income Fd</BondNm>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>Fidelity Advisor Floating Rate</BondNm>
+        <EOYBookValueAmt>6281</EOYBookValueAmt>
+        <EOYFMVAmt>6281</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>Goldman Sachs</BondNm>
+        <EOYBookValueAmt>21924</EOYBookValueAmt>
+        <EOYFMVAmt>17886</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>Vanguard High Yield</BondNm>
+        <EOYBookValueAmt>21925</EOYBookValueAmt>
+        <EOYFMVAmt>18725</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="InvestmentsCorpStockSchedule" softwareId="21013475" softwareVersionNum="2021v4.1">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Lockwood Development Corp</StockNm>
+        <EOYBookValueAmt>300</EOYBookValueAmt>
+        <EOYFMVAmt>300</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>West Plains Development Corp</StockNm>
+        <EOYBookValueAmt>2500</EOYBookValueAmt>
+        <EOYFMVAmt>2500</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Missouri Development Finance Corp</StockNm>
+        <EOYBookValueAmt>1000</EOYBookValueAmt>
+        <EOYFMVAmt>1000</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="InvestmentsGovtObligationsSche" softwareId="21013475" softwareVersionNum="2021v4.1">
+      <USGovtObligationsBookVlEOYAmt>51302</USGovtObligationsBookVlEOYAmt>
+      <USGovtObligationsEOYFMVAmt>50294</USGovtObligationsEOYFMVAmt>
+    </InvestmentsGovtObligationsSch>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="21013475" softwareVersionNum="2021v4.1">
+      <OtherExpensesScheduleGrp>
+        <Desc>Bank charges</Desc>
+        <RevenueAndExpensesPerBooksAmt>979</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>979</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>979</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+  </ReturnData>
+</Return>

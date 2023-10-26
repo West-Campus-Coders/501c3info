@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2020v4.0" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-02-27T17:15:52-08:00</ReturnTs>
+    <TaxPeriodEndDt>2021-09-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>271140832</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Ubernosky &amp; Majeres PLLC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>820 Gessner Suite 1200</AddressLine1Txt>
+        <CityNm>Houston</CityNm>
+        <StateAbbreviationCd>TX</StateAbbreviationCd>
+        <ZIPCd>77024</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2020-10-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>760240169</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>THE IRIS AND LLOYD WEBRE FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>IRIS</BusinessNameControlTxt>
+      <PhoneNum>7138772661</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>4800 SAN FELIPE</AddressLine1Txt>
+        <CityNm>HOUSTON</CityNm>
+        <StateAbbreviationCd>TX</StateAbbreviationCd>
+        <ZIPCd>77056</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>R W SNEED</PersonNm>
+      <PersonTitleTxt>President</PersonTitleTxt>
+      <SignatureDt>2023-02-25</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>R W</PersonFirstNm>
+        <PersonLastNm>SNEED</PersonLastNm>
+      </PersonFullName>
+      <SSN>999009999</SSN>
+    </SigningOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>BYRON UBERNOSKY</PreparerPersonNm>
+      <PTIN>P01333703</PTIN>
+      <PhoneNum>7139350071</PhoneNum>
+    </PreparerPersonGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp>
+        <TrustedCustomerCd>0</TrustedCustomerCd>
+        <AuthenticationAssuranceLevelCd>AAL1</AuthenticationAssuranceLevelCd>
+        <IdentityAssuranceLevelCd>IAL1</IdentityAssuranceLevelCd>
+        <FederatedAssuranceLevelCd>FAL1</FederatedAssuranceLevelCd>
+      </TrustedCustomerGrp>
+    </AdditionalFilerInformation>
+    <TaxYr>2020</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="6">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation BinaryAttachment.1 BinaryAttachment.2" softwareId="20011551" softwareVersionNum="2020v4.0">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>11080252</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>18</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>18</InterestOnSavNetInvstIncmAmt>
+        <InterestOnSavingsAdjNetIncmAmt>18</InterestOnSavingsAdjNetIncmAmt>
+        <DividendsRevAndExpnssAmt>189891</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>189891</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>189891</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>681224</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>8276050</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>681224</CapGainNetIncmNetInvstIncmAmt>
+        <NetSTCapitalGainAdjNetIncmAmt>793249</NetSTCapitalGainAdjNetIncmAmt>
+        <TotalRevAndExpnssAmt>871133</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>871133</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>983158</TotalAdjNetIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>15500</CompOfcrDirTrstRevAndExpnssAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="OtherProfessionalFeesSchedule">72130</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>72130</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesAdjNetIncmAmt>72130</OtherProfFeesAdjNetIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">11654</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>2148</TaxesNetInvstIncmAmt>
+        <TaxesAdjNetIncmAmt>2148</TaxesAdjNetIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>99284</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>74278</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>74278</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>575000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>575000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>674284</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>74278</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>74278</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>575000</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>196849</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>796855</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>908880</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>119835</CashBOYAmt>
+        <CashEOYAmt>119829</CashEOYAmt>
+        <CashEOYFMVAmt>119829</CashEOYFMVAmt>
+        <SavAndTempCashInvstEOYAmt>134418</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>134418</SavAndTempCashInvstEOYFMVAmt>
+        <USGovernmentObligationsEOYAmt referenceDocumentId="InvestmentsGovtObligationsSche">1218178</USGovernmentObligationsEOYAmt>
+        <USGovtObligationsEOYFMVAmt>1261845</USGovtObligationsEOYFMVAmt>
+        <CorporateStockBOYAmt>9169445</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="InvestmentsCorpStockSchedule">6310013</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>7855879</CorporateStockEOYFMVAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="InvestmentsCorpBondsSchedule">1703691</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>1708281</CorporateBondsEOYFMVAmt>
+        <TotalAssetsBOYAmt>9289280</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>9486129</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>11080252</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <CapitalStockEOYAmt>9486129</CapitalStockEOYAmt>
+        <RetainedEarningBOYAmt>9289280</RetainedEarningBOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>9289280</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>9486129</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>9289280</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>9486129</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>9289280</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>196849</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>9486129</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>9486129</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CHARLES SCHWAB ACCT # 8410-5681</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2020-01-01</AcquiredDt>
+          <SoldDt>2020-12-31</SoldDt>
+          <GrossSalesPriceAmt>3925598</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3132349</CostOrOtherBasisAmt>
+          <GainOrLossAmt>793249</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>793249</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CHARLES SCHWAB ACCT # 8410-5681</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2019-01-01</AcquiredDt>
+          <SoldDt>2020-12-31</SoldDt>
+          <GrossSalesPriceAmt>4350452</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4462477</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-112025</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-112025</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>681224</CapitalGainNetIncomeAmt>
+        <NetShortTermCapitalGainLossAmt>793249</NetShortTermCapitalGainLossAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>11076</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>11076</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>11076</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>33096</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>33096</TotalPaymentsAndCreditsAmt>
+        <Form2220AttachedInd referenceDocumentId="IRS2220">X</Form2220AttachedInd>
+        <OverpaymentAmt>22020</OverpaymentAmt>
+        <AppliedToESTaxAmt>22020</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>TX</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>ROBERT W SNEED</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>7138772661</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>4800 SAN FELIPE</AddressLine1Txt>
+          <CityNm>HOUSTON</CityNm>
+          <StateAbbreviationCd>TX</StateAbbreviationCd>
+          <ZIPCd>770564323</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>CAMILLE W TICHENOR</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3827 DELMONTE</AddressLine1Txt>
+            <CityNm>HOUSTON</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77019</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>IRIS ALLEN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3121 CASON STREET</AddressLine1Txt>
+            <CityNm>HOUSTON</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77005</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>BOB D DUBOISE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5319 PASEO CACERES DR</AddressLine1Txt>
+            <CityNm>HOUSTON</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77007</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ELIZABETH GREENING</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>6139 WOODLAND DR</AddressLine1Txt>
+            <CityNm>DALLAS</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75225</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>LLOYD P WEBRE JR</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5943 RIVERVIEW WAY</AddressLine1Txt>
+            <CityNm>HOUSTON</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77057</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MARY IRIS WEBRE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>18156 FM 359</AddressLine1Txt>
+            <CityNm>HEMPSTEAD</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77445</ZIPCd>
+          </USAddress>
+          <TitleTxt>Vice President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>R W SNEED</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>4800 SAN FELIPE</AddressLine1Txt>
+            <CityNm>HOUSTON</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77056</ZIPCd>
+          </USAddress>
+          <TitleTxt>President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>5000</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ROBERT L KAYL</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>4800 SAN FELIPE</AddressLine1Txt>
+            <CityNm>HOUSTON</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77056</ZIPCd>
+          </USAddress>
+          <TitleTxt>Vice President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>4000</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ROBERTA RUDE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>616 LITTLE JOHN LANE</AddressLine1Txt>
+            <CityNm>HOUSTON</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77056</ZIPCd>
+          </USAddress>
+          <TitleTxt>Vice President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MARJORIE PRIBYL</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>4800 SAN FELIPE</AddressLine1Txt>
+            <CityNm>HOUSTON</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77056</ZIPCd>
+          </USAddress>
+          <TitleTxt>Secretary</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>6500</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>St Theresa Catholic Church and SchoolYear 4 of 8 Balance $900,000Houston, TX</Description1Txt>
+        <Expenses1Amt>300000</Expenses1Amt>
+        <Description2Txt>Catholic CharitiesGeneral AssistanceHouston, TX</Description2Txt>
+        <Expenses2Amt>38000</Expenses2Amt>
+        <Description3Txt>Ronald McDonaldOperating ExpensesHouston, TX</Description3Txt>
+        <Expenses3Amt>35000</Expenses3Amt>
+        <Description4Txt>Episcopal School of DallasTuition assistance for 2021-22 yearDallas, TX</Description4Txt>
+        <Expenses4Amt>25000</Expenses4Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>9997725</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>67209</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>10064934</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>10064934</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>150974</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>9913960</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>495698</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>495698</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>11076</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>11076</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>484622</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>484622</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>484622</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>575000</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>575000</QualifyingDistributionsAmt>
+        <AdjustedQualifyingDistriAmt>575000</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>484622</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr2Amt>24669</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>88152</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>112821</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>575000</QualifyingDistributionsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>484622</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>90378</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>203199</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>203199</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear2Amt>24669</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>88152</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>90378</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>St Theresa Catholic Church and School</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6500 Durford St</AddressLine1Txt>
+            <CityNm>HOUSTON</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77007</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>GENERAL ASSISTANCE</GrantOrContributionPurposeTxt>
+          <Amt>300000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Catholic Charities</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2900 Louisiana Street</AddressLine1Txt>
+            <CityNm>Houston</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77006</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Assistance</GrantOrContributionPurposeTxt>
+          <Amt>38000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Ronald McDonald</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1907 Holcombe Blvd</AddressLine1Txt>
+            <CityNm>Houston</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77030</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Operating Expenses</GrantOrContributionPurposeTxt>
+          <Amt>35000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Episcopal School of Dallas</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4100 Merrell Rd</AddressLine1Txt>
+            <CityNm>Dallas</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75229</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Tuition assistance for 2021-22 year</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>St Anne Catholic Community</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2140 Westheimer Rd</AddressLine1Txt>
+            <CityNm>Houston</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77098</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Assistance</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Presbyterian School</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>40 Oakdale St</AddressLine1Txt>
+            <CityNm>Houston</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77006</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Annual Fund</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>St Thomas High School</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4500 Memorial Dr</AddressLine1Txt>
+            <CityNm>Houston</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77007</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Endowed Scholarship: The Iris and Lloyd Webre '31 Foundation Scholarship</GrantOrContributionPurposeTxt>
+          <Amt>15000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Christus Healthy Living Mobile Clin</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2615 Fannin St 3rd Floor</AddressLine1Txt>
+            <CityNm>Houston</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77002</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Support the operation of the Mobile Clinic</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Duchesne Academy of the Sacred Hear</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10202 Memorial Dr</AddressLine1Txt>
+            <CityNm>Houston</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77024</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Tuition assistance</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Nora's Home</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>8300 El Rio St</AddressLine1Txt>
+            <CityNm>Houston</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77054</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Adopt-A-Family Program</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>The Women's Resource</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>13100 Northwest Fwy Suite 130</AddressLine1Txt>
+            <CityNm>Houston</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77040</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Continued support for the at-risk high school girls program -RISE!</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Episcopal High School Houston</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4650 Bissonnet St</AddressLine1Txt>
+            <CityNm>Bellaire</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77401</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Annual Fund</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>The Kinkaid School</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>201 Kinkaid School Dr</AddressLine1Txt>
+            <CityNm>Houston</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77024</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>1/2 Operating expenses 1/2 scholarship</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>University of St Thomas</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3800 Montrose Blvd</AddressLine1Txt>
+            <CityNm>Houston</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77006</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>The Iris P. Webre Endowed Scholarship Fund</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Boys Girls Country</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>18806 Roberts Rd</AddressLine1Txt>
+            <CityNm>Hockley</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77447</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Educational Needs</GrantOrContributionPurposeTxt>
+          <Amt>7500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Archdiocese of Galveston-Houston</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1700 San Jacinto St</AddressLine1Txt>
+            <CityNm>Houston</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77002</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Tuition Assistance</GrantOrContributionPurposeTxt>
+          <Amt>7500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Covenant House Texas</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1111 Lovett Blvd</AddressLine1Txt>
+            <CityNm>Houston</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77006</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Operating Expense</GrantOrContributionPurposeTxt>
+          <Amt>7000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>American Cowboy Museum</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>11822 Almeda Rd</AddressLine1Txt>
+            <CityNm>Houston</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77045</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Operating Expense</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Incarnate Word Academy</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>609 Crawford St</AddressLine1Txt>
+            <CityNm>Houston</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77002</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Annual Fund</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Cristo Rey Jesuit</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6700 Mt Carmel Dr</AddressLine1Txt>
+            <CityNm>Houston</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77087</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Education Fund</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>The Star of Hope Mission</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4848 Loop Central Dr 500</AddressLine1Txt>
+            <CityNm>Houston</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77081</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Operating Expense</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Junior League Houston</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1811 Briar Oaks Ln</AddressLine1Txt>
+            <CityNm>Houston</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77027</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Gala</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>St Mary's Seminary</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>9845 Memorial Dr</AddressLine1Txt>
+            <CityNm>Houston</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77024</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Operating Expenses</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>575000</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>18</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>189891</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>681224</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>871133</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>871133</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <InvestmentsCorpBondsSchedule documentId="InvestmentsCorpBondsSchedule" softwareId="20011551" softwareVersionNum="2020v4.0">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CORPORATE BONDS - CHARLES SCHWAB</BondNm>
+        <EOYBookValueAmt>1703691</EOYBookValueAmt>
+        <EOYFMVAmt>1708281</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="InvestmentsCorpStockSchedule" softwareId="20011551" softwareVersionNum="2020v4.0">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>EQUITIES - CHARLES SCHWAB</StockNm>
+        <EOYBookValueAmt>6310013</EOYBookValueAmt>
+        <EOYFMVAmt>7855879</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="InvestmentsGovtObligationsSche" softwareId="20011551" softwareVersionNum="2020v4.0">
+      <USGovtObligationsBookVlEOYAmt>1218178</USGovtObligationsBookVlEOYAmt>
+      <USGovtObligationsEOYFMVAmt>1261845</USGovtObligationsEOYFMVAmt>
+    </InvestmentsGovtObligationsSch>
+    <OtherProfessionalFeesSchedule documentId="OtherProfessionalFeesSchedule" softwareId="20011551" softwareVersionNum="2020v4.0">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>OTHER PROFESSIONAL FEES</CategoryTxt>
+        <Amt>72130</Amt>
+        <NetInvestmentIncomeAmt>72130</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>72130</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="20011551" softwareVersionNum="2020v4.0">
+      <TaxesDetail>
+        <CategoryTxt>FEDERAL TAXES</CategoryTxt>
+        <Amt>9506</Amt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAXES</CategoryTxt>
+        <Amt>2148</Amt>
+        <NetInvestmentIncomeAmt>2148</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>2148</AdjustedNetIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

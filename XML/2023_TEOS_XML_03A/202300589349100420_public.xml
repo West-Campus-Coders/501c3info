@@ -1,0 +1,959 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2021v4.0">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-02-27T16:01:13-05:00</ReturnTs>
+    <TaxPeriodEndDt>2021-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>593575532</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>KELLY PASSIDOMO &amp; KELLY LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>2390 TAMIAMI TRAIL NORTH SUITE 204</AddressLine1Txt>
+        <CityNm>NAPLES</CityNm>
+        <StateAbbreviationCd>FL</StateAbbreviationCd>
+        <ZIPCd>34103</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2021-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>656222748</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>CONSOLIDATED ANTI-AGING FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>CONS</BusinessNameControlTxt>
+      <PhoneNum>2392613453</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>2390 TAMIAMI TRAIL NORTH RM/STE 204</AddressLine1Txt>
+        <CityNm>NAPLES</CityNm>
+        <StateAbbreviationCd>FL</StateAbbreviationCd>
+        <ZIPCd>34103</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>ROBIN ROSS</PersonNm>
+      <PersonTitleTxt>CO-TRUSTEE</PersonTitleTxt>
+      <PhoneNum>2392613453</PhoneNum>
+      <SignatureDt>2023-02-09</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>ROBIN</PersonFirstNm>
+        <PersonLastNm>ROSS</PersonLastNm>
+      </PersonFullName>
+      <SSN>XXX-XX-XXXX</SSN>
+    </SigningOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>CHARLES M KELLY JR</PreparerPersonNm>
+      <PTIN>P00637818</PTIN>
+      <PhoneNum>2392613453</PhoneNum>
+      <PreparationDt>2023-02-27</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2021</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="7">
+    <IRS990PF documentId="RetDoc11" referenceDocumentId="RetDoc7">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>8791562</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>5883</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>5883</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>127120</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>124474</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt referenceDocumentId="RetDoc1">763488</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>4366298</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>1029</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="RetDoc4">963</OtherIncomeRevAndExpnssAmt>
+        <TotalRevAndExpnssAmt>897454</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>131386</TotalNetInvstIncmAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="RetDoc3">18053</LegalFeesRevAndExpnssAmt>
+        <LegalFeesNetInvstIncmAmt>18053</LegalFeesNetInvstIncmAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc5">268532</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>268532</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesDsbrsChrtblAmt>104000</OtherProfFeesDsbrsChrtblAmt>
+        <InterestRevAndExpnssAmt>284</InterestRevAndExpnssAmt>
+        <InterestNetInvstIncmAmt>284</InterestNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc6">2199</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>2199</TaxesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>289068</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>289068</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>104000</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>454250</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>454250</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>743318</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>289068</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>558250</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>154136</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>427516</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>1645875</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>1645875</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>6653718</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc2">5589495</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>7145687</CorporateStockEOYFMVAmt>
+        <TotalAssetsBOYAmt>7081234</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>7235370</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>8791562</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <RetainedEarningBOYAmt>7081234</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>7235370</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>7081234</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>7235370</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>7081234</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>7235370</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>7081234</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>154136</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>7235370</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>7235370</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapitalGainNetIncomeAmt>1029</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>0</InvestmentIncomeExciseTaxAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>436</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>436</TotalPaymentsAndCreditsAmt>
+        <OverpaymentAmt>436</OverpaymentAmt>
+        <AppliedToESTaxAmt>436</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>FL</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>WWW.GUIDESTAR.ORG</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>CHARLES KELLY JR</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>2392613453</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>2390 TAMIAMI TRAIL NORTH 204</AddressLine1Txt>
+          <CityNm>NAPLES</CityNm>
+          <StateAbbreviationCd>FL</StateAbbreviationCd>
+          <ZIPCd>34103</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ROBIN ROSS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>420 LAKE COOK RD</AddressLine1Txt>
+            <AddressLine2Txt>420 LAKE COOK RD</AddressLine2Txt>
+            <CityNm>DEERFIELD</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60015</ZIPCd>
+          </USAddress>
+          <TitleTxt>CO-TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>CHERYL ROSS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>20318 NORTH TONOPAH COURT</AddressLine1Txt>
+            <AddressLine2Txt>20318 NORTH TONOPAH COURT</AddressLine2Txt>
+            <CityNm>BUCKEYE</CityNm>
+            <StateAbbreviationCd>AZ</StateAbbreviationCd>
+            <ZIPCd>85396</ZIPCd>
+          </USAddress>
+          <TitleTxt>CO-TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>7425885</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>150000</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>7575885</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>7575885</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>113638</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>7462247</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>373112</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>373112</MinimumInvestmentReturnAmt>
+        <DistributableBeforeAdjAmt>373112</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>373112</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>373112</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>558250</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>558250</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>373112</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>136246</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>114903</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>41475</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>4115</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>157501</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>454240</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>558250</QualifyingDistributionsAmt>
+        <AppliedToCurrentYearAmt>373112</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>185138</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>639378</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>136246</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>503132</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>114903</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>41475</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>4115</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>157501</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>185138</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>NONE</ContributingManagerNm>
+        <ShareholderManagerNm>NONE</ShareholderManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MICHAEL J FOX FOUNDATION</BusinessNameLine1Txt>
+            <BusinessNameLine2Txt>MICHAEL J FOX FOUNDATION</BusinessNameLine2Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>111 W 33RD ST 10TH FL</AddressLine1Txt>
+            <AddressLine2Txt>NEW YORK NY 10001</AddressLine2Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10018</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>CONTRIBUTION</GrantOrContributionPurposeTxt>
+          <Amt>150000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MCLEAN HOSPITAL</BusinessNameLine1Txt>
+            <BusinessNameLine2Txt>MCLEAN HOSPITAL</BusinessNameLine2Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>115 MILL ST MAIL STOP 126</AddressLine1Txt>
+            <AddressLine2Txt>115 MILL ST MAIL STOP 126</AddressLine2Txt>
+            <CityNm>BELMONT</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02476</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>RESEARCH</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>RUSH UNIVERSITY MEDICAL CENTER</BusinessNameLine1Txt>
+            <BusinessNameLine2Txt>RUSH UNIVERSITY MEDICAL CENTER</BusinessNameLine2Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1201 W HARRISON 300</AddressLine1Txt>
+            <AddressLine2Txt>CHICAGO IL 60607</AddressLine2Txt>
+            <CityNm>CHICAGO</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60612</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>CONTRIBUTION</GrantOrContributionPurposeTxt>
+          <Amt>38000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>PARKINSON ASSN OF THE ROCKIES</BusinessNameLine1Txt>
+            <BusinessNameLine2Txt>PARKINSON ASSN OF THE ROCKIES</BusinessNameLine2Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1325 SCOLORADO BLVD 204B</AddressLine1Txt>
+            <AddressLine2Txt>1325 SCOLORADO BLVD 204B</AddressLine2Txt>
+            <CityNm>DENVER</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>80222</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>CONTRIBUTION</GrantOrContributionPurposeTxt>
+          <Amt>40000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>INMOTION</BusinessNameLine1Txt>
+            <BusinessNameLine2Txt>INMOTION</BusinessNameLine2Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>23905 MERCANTILE ROAD</AddressLine1Txt>
+            <AddressLine2Txt>23905 MERCANTILE ROAD</AddressLine2Txt>
+            <CityNm>BEACHWOOD</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>44122</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>CONTRIBUTION</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>JOHN HOPKINS WHITING SCHOOL</BusinessNameLine1Txt>
+            <BusinessNameLine2Txt>JOHN HOPKINS WHITING SCHOOL</BusinessNameLine2Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3400 N CHARLES STREET</AddressLine1Txt>
+            <AddressLine2Txt>3400 N CHARLES STREET</AddressLine2Txt>
+            <CityNm>BALTIMORE</CityNm>
+            <StateAbbreviationCd>MD</StateAbbreviationCd>
+            <ZIPCd>21218</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>PARKINSON RESEARCH</GrantOrContributionPurposeTxt>
+          <Amt>18750</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>TEL AVIV UNIVERSITY</BusinessNameLine1Txt>
+            <BusinessNameLine2Txt>PARKINSON'S MOTILITY</BusinessNameLine2Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>39 BROADWAY SUITE 1510</AddressLine1Txt>
+            <AddressLine2Txt>NEW YORK NY 10006</AddressLine2Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10006</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>CONTRIBUTION</GrantOrContributionPurposeTxt>
+          <Amt>65000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>TEL AVIV UNIVERSITY</BusinessNameLine1Txt>
+            <BusinessNameLine2Txt>FRIEDMAN LANGUAGE &amp; READING</BusinessNameLine2Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>39 BROADWAY SUITE 1510</AddressLine1Txt>
+            <AddressLine2Txt>NEW YORK NY 10006</AddressLine2Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10006</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>CONTRIBUTION</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>BEN GURION UNIVERSITY</BusinessNameLine1Txt>
+            <BusinessNameLine2Txt>LEVY-TZEDEK ROBOTICS</BusinessNameLine2Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1001 AVE OF THE AMERICAS</AddressLine1Txt>
+            <AddressLine2Txt>NEW YORK NY 10018</AddressLine2Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10018</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>CONTRIBUTION</GrantOrContributionPurposeTxt>
+          <Amt>72500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>454250</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>5883</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <UnrelatedBusinessTaxblIncmAmt>1279</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>125841</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>38</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>763450</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>PLAINS ALL AMERICAN PIPELN</Desc>
+          <ExclusionCd>1</ExclusionCd>
+          <ExclusionAmt>963</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <UnrelatedBusinessTaxblIncmAmt>1279</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>132725</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>763450</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>897454</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>3</LineNumberTxt>
+          <RelationshipStatementTxt>THE FOUNDATION RELIES SOLELY ON INVESTMENT INCOME TO ACCOMPLISH ITS CHARITABLE PURPOSE.</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>4</LineNumberTxt>
+          <RelationshipStatementTxt>THE FOUNDATION RELIES SOLELY ON INVESTMENT INCOME TO ACCOMPLISH ITS CHARITABLE PURPOSE.</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>8</LineNumberTxt>
+          <RelationshipStatementTxt>THE FOUNDATION RELIES SOLELY ON INVESTMENT INCOME TO ACCOMPLISH ITS CHARITABLE PURPOSE.</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>11B</LineNumberTxt>
+          <RelationshipStatementTxt>THE FOUNDATION RELIES SOLEY ON INVESTMENT INCOME TO ACCOMPLISH ITS CHARITABLE PURPOSE</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+      </RlnOfActyToAccomOfExmptPrpsGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc1">
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>US TREASURY NOTE</AssetDesc>
+        <AcquiredDt>2021-02</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2021-04</SoldDt>
+        <PurchaserNameGrp>
+          <PersonNm>CUSIP 9128286Q8</PersonNm>
+        </PurchaserNameGrp>
+        <GrossSalesPriceAmt>77000</GrossSalesPriceAmt>
+        <BasisAmt>77000</BasisAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>US TREASURY NOTE</AssetDesc>
+        <AcquiredDt>2020-02</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2021-02</SoldDt>
+        <PurchaserNameGrp>
+          <PersonNm>CUSIP 9128285Y2</PersonNm>
+        </PurchaserNameGrp>
+        <GrossSalesPriceAmt>123000</GrossSalesPriceAmt>
+        <BasisAmt>123000</BasisAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>US TREASURY NOTE</AssetDesc>
+        <AcquiredDt>2020-11</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2021-02</SoldDt>
+        <GrossSalesPriceAmt>129000</GrossSalesPriceAmt>
+        <BasisAmt>129000</BasisAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>US TREASURY NOTE</AssetDesc>
+        <AcquiredDt>2021-05</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2021-08</SoldDt>
+        <PurchaserNameGrp>
+          <PersonNm>CUSIP 9128287G9</PersonNm>
+        </PurchaserNameGrp>
+        <GrossSalesPriceAmt>77000</GrossSalesPriceAmt>
+        <BasisAmt>77000</BasisAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>DOUBLELINE SHILLER ENH CAPE I</AssetDesc>
+        <AcquiredDt>2016-12</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2021-10</SoldDt>
+        <GrossSalesPriceAmt>63867</GrossSalesPriceAmt>
+        <BasisAmt>39408</BasisAmt>
+        <TotalNetAmt>24459</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>DOUBLELINE SHILLER ENH CAPE I</AssetDesc>
+        <AcquiredDt>2016-12</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2021-10</SoldDt>
+        <GrossSalesPriceAmt>93</GrossSalesPriceAmt>
+        <BasisAmt>57</BasisAmt>
+        <TotalNetAmt>36</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>DOUBLELINE SHILLER ENH CAPE I</AssetDesc>
+        <AcquiredDt>2017-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2021-10</SoldDt>
+        <GrossSalesPriceAmt>102</GrossSalesPriceAmt>
+        <BasisAmt>64</BasisAmt>
+        <TotalNetAmt>38</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>DOUBLELINE SHILLER ENH CAPE I</AssetDesc>
+        <AcquiredDt>2017-02</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2021-10</SoldDt>
+        <GrossSalesPriceAmt>90</GrossSalesPriceAmt>
+        <BasisAmt>59</BasisAmt>
+        <TotalNetAmt>31</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>DOUBLELINE SHILLER ENH CAPE I</AssetDesc>
+        <AcquiredDt>2017-03</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2021-10</SoldDt>
+        <GrossSalesPriceAmt>107</GrossSalesPriceAmt>
+        <BasisAmt>71</BasisAmt>
+        <TotalNetAmt>36</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>DOUBLELINE SHILLER ENH CAPE I</AssetDesc>
+        <AcquiredDt>2017-04</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2021-10</SoldDt>
+        <GrossSalesPriceAmt>107</GrossSalesPriceAmt>
+        <BasisAmt>72</BasisAmt>
+        <TotalNetAmt>35</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>US TREASURY NOTE</AssetDesc>
+        <AcquiredDt>2019-02</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2021-02</SoldDt>
+        <PurchaserNameGrp>
+          <PersonNm>CUSIP 9128285Y2</PersonNm>
+        </PurchaserNameGrp>
+        <GrossSalesPriceAmt>16000</GrossSalesPriceAmt>
+        <BasisAmt>16000</BasisAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>AMERICAN US GOVERNMENT SEC F-2</AssetDesc>
+        <AcquiredDt>2021-08</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2021-12</SoldDt>
+        <PurchaserNameGrp>
+          <PersonNm>CUSIP XXX-XX-XXXX</PersonNm>
+        </PurchaserNameGrp>
+        <GrossSalesPriceAmt>72000</GrossSalesPriceAmt>
+        <BasisAmt>72458</BasisAmt>
+        <TotalNetAmt>-458</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>US TREASURY NOTE</AssetDesc>
+        <AcquiredDt>2021-02</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2021-02</SoldDt>
+        <PurchaserNameGrp>
+          <PersonNm>CUSIP 9128286Q8</PersonNm>
+        </PurchaserNameGrp>
+        <GrossSalesPriceAmt>5001</GrossSalesPriceAmt>
+        <BasisAmt>5001</BasisAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>US TREASURY NOTE</AssetDesc>
+        <AcquiredDt>2021-02</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2021-04</SoldDt>
+        <GrossSalesPriceAmt>200000</GrossSalesPriceAmt>
+        <BasisAmt>200000</BasisAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>US TREASURY NOTE</AssetDesc>
+        <AcquiredDt>2020-11</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2021-02</SoldDt>
+        <PurchaserNameGrp>
+          <PersonNm>CUSIP 9128285Y2</PersonNm>
+        </PurchaserNameGrp>
+        <GrossSalesPriceAmt>411000</GrossSalesPriceAmt>
+        <BasisAmt>411000</BasisAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>US TREASURY NOTE</AssetDesc>
+        <AcquiredDt>2021-05</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2021-08</SoldDt>
+        <GrossSalesPriceAmt>188000</GrossSalesPriceAmt>
+        <BasisAmt>188000</BasisAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>DOUBLELINE SHILLER ENH CAPE I</AssetDesc>
+        <AcquiredDt>2016-12</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2021-10</SoldDt>
+        <PurchaserNameGrp>
+          <PersonNm>CUSIP XXX-XX-XXXX</PersonNm>
+        </PurchaserNameGrp>
+        <GrossSalesPriceAmt>142641</GrossSalesPriceAmt>
+        <BasisAmt>88014</BasisAmt>
+        <TotalNetAmt>54627</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>DOUBLELINE SHILLER ENH CAPE I</AssetDesc>
+        <AcquiredDt>2016-12</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2021-10</SoldDt>
+        <PurchaserNameGrp>
+          <PersonNm>CUSIP XXX-XX-XXXX</PersonNm>
+        </PurchaserNameGrp>
+        <GrossSalesPriceAmt>207</GrossSalesPriceAmt>
+        <BasisAmt>127</BasisAmt>
+        <TotalNetAmt>80</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>DOUBLELINE SHILLER ENH CAPE I</AssetDesc>
+        <AcquiredDt>2017-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2021-10</SoldDt>
+        <PurchaserNameGrp>
+          <PersonNm>CUSIP XXX-XX-XXXX</PersonNm>
+        </PurchaserNameGrp>
+        <GrossSalesPriceAmt>228</GrossSalesPriceAmt>
+        <BasisAmt>144</BasisAmt>
+        <TotalNetAmt>84</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>DOUBLELINE SHILLER ENH CAPE I</AssetDesc>
+        <AcquiredDt>2017-02</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2021-10</SoldDt>
+        <PurchaserNameGrp>
+          <PersonNm>CUSIP XXX-XX-XXXX</PersonNm>
+        </PurchaserNameGrp>
+        <GrossSalesPriceAmt>201</GrossSalesPriceAmt>
+        <BasisAmt>132</BasisAmt>
+        <TotalNetAmt>69</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>DOUBLELINE SHILLER ENH CAPE I</AssetDesc>
+        <AcquiredDt>2017-02</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2021-10</SoldDt>
+        <PurchaserNameGrp>
+          <PersonNm>CUSIP XXX-XX-XXXX</PersonNm>
+        </PurchaserNameGrp>
+        <GrossSalesPriceAmt>122234</GrossSalesPriceAmt>
+        <BasisAmt>80000</BasisAmt>
+        <TotalNetAmt>42234</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>DOUBLELINE SHILLER ENH CAPE I</AssetDesc>
+        <AcquiredDt>2017-03</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2021-10</SoldDt>
+        <PurchaserNameGrp>
+          <PersonNm>CUSIP XXX-XX-XXXX</PersonNm>
+        </PurchaserNameGrp>
+        <GrossSalesPriceAmt>444</GrossSalesPriceAmt>
+        <BasisAmt>292</BasisAmt>
+        <TotalNetAmt>152</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>DOUBLELINE SHILLER ENH CAPE I</AssetDesc>
+        <AcquiredDt>2017-04</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2021-10</SoldDt>
+        <PurchaserNameGrp>
+          <PersonNm>CUSIP XXX-XX-XXXX</PersonNm>
+        </PurchaserNameGrp>
+        <GrossSalesPriceAmt>442</GrossSalesPriceAmt>
+        <BasisAmt>297</BasisAmt>
+        <TotalNetAmt>145</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>SPDR S&amp;P 500 ETF TRUST</AssetDesc>
+        <AcquiredDt>2014-08</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2021-08</SoldDt>
+        <PurchaserNameGrp>
+          <PersonNm>CUSIP 78462F103</PersonNm>
+        </PurchaserNameGrp>
+        <GrossSalesPriceAmt>92172</GrossSalesPriceAmt>
+        <BasisAmt>39714</BasisAmt>
+        <TotalNetAmt>52458</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>SEE 8949 MS 88335 ST COVERED</AssetDesc>
+        <AcquiredDt>2021-02</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2021-12</SoldDt>
+        <GrossSalesPriceAmt>57102</GrossSalesPriceAmt>
+        <BasisAmt>69236</BasisAmt>
+        <TotalNetAmt>-12134</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>SEE 8949 MS 88336 ST COVERED</AssetDesc>
+        <AcquiredDt>2021-02</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2021-12</SoldDt>
+        <GrossSalesPriceAmt>54551</GrossSalesPriceAmt>
+        <BasisAmt>52801</BasisAmt>
+        <TotalNetAmt>1750</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>SEE 8949 RJ A430 ST COVERED</AssetDesc>
+        <AcquiredDt>2020-06</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2021-01</SoldDt>
+        <GrossSalesPriceAmt>164285</GrossSalesPriceAmt>
+        <BasisAmt>152872</BasisAmt>
+        <TotalNetAmt>11413</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>SEE 8949 RJ A430 LT COVERED/UNCOVERE</AssetDesc>
+        <AcquiredDt>2017-07</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2021-10</SoldDt>
+        <GrossSalesPriceAmt>601800</GrossSalesPriceAmt>
+        <BasisAmt>399125</BasisAmt>
+        <TotalNetAmt>202675</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>SEE 8949 RJ 5912 ST COVERED</AssetDesc>
+        <AcquiredDt>2020-06</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2021-01</SoldDt>
+        <GrossSalesPriceAmt>905963</GrossSalesPriceAmt>
+        <BasisAmt>763557</BasisAmt>
+        <TotalNetAmt>142406</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>SEE 8949 RJ 5912 LT COVERED/UNCOVERE</AssetDesc>
+        <AcquiredDt>2020-07</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2021-10</SoldDt>
+        <GrossSalesPriceAmt>660632</GrossSalesPriceAmt>
+        <BasisAmt>418327</BasisAmt>
+        <TotalNetAmt>242305</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>ALLY BANK MIDVALE, UT</AssetDesc>
+        <AcquiredDt>2020-02</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2021-08</SoldDt>
+        <PurchaserNameGrp>
+          <PersonNm>CUSIP 02007GLF6</PersonNm>
+        </PurchaserNameGrp>
+        <GrossSalesPriceAmt>100000</GrossSalesPriceAmt>
+        <BasisAmt>100000</BasisAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>CAPITAL ONE BANK, NA</AssetDesc>
+        <AcquiredDt>2020-02</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2021-10</SoldDt>
+        <PurchaserNameGrp>
+          <PersonNm>CUSIP 14042RCQ2</PersonNm>
+        </PurchaserNameGrp>
+        <GrossSalesPriceAmt>40000</GrossSalesPriceAmt>
+        <BasisAmt>40000</BasisAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>WELLS FARGO BANK NA</AssetDesc>
+        <AcquiredDt>2020-02</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2021-09</SoldDt>
+        <GrossSalesPriceAmt>60000</GrossSalesPriceAmt>
+        <BasisAmt>59982</BasisAmt>
+        <TotalNetAmt>18</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>RAY JAMES ACCT 0393</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>RAY JAMES ACCT 6598</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>RAY JAMES ACCT 1612</StockNm>
+        <EOYBookValueAmt>84356</EOYBookValueAmt>
+        <EOYFMVAmt>200000</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>RAY JAMES ACCT 6503</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>RAY JAMES ACCT 5912</StockNm>
+        <EOYBookValueAmt>1753737</EOYBookValueAmt>
+        <EOYFMVAmt>2127941</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>RAY JAMES ACCT NA430</StockNm>
+        <EOYBookValueAmt>1673384</EOYBookValueAmt>
+        <EOYFMVAmt>2267037</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MORGAN STANLEY 26377</StockNm>
+        <EOYBookValueAmt>231850</EOYBookValueAmt>
+        <EOYFMVAmt>259407</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MORGAN STANLEY 26383</StockNm>
+        <EOYBookValueAmt>1391696</EOYBookValueAmt>
+        <EOYFMVAmt>1789589</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MORGAN STANLEY 362-088335-275</StockNm>
+        <EOYBookValueAmt>180855</EOYBookValueAmt>
+        <EOYFMVAmt>204948</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MORGAN STANLEY 362-088336-275</StockNm>
+        <EOYBookValueAmt>273617</EOYBookValueAmt>
+        <EOYFMVAmt>296765</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>BASIS ADJUSTMENT</StockNm>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <LegalFeesSchedule documentId="RetDoc3">
+      <LegalFeesGrp>
+        <CategoryTxt>LEGAL FEES</CategoryTxt>
+        <LegalFeesAmt>18053</LegalFeesAmt>
+        <NetInvestmentIncomeAmt>18053</NetInvestmentIncomeAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc4">
+      <OtherIncomeDetail>
+        <Desc>PLAINS ALL AMERICAN PIPELN LP</Desc>
+        <RevenueAndExpensesPerBooksAmt>963</RevenueAndExpensesPerBooksAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherProfessionalFeesSchedule documentId="RetDoc5">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>PROFESSIONAL ADMINISTRATION</CategoryTxt>
+        <Amt>104000</Amt>
+        <NetInvestmentIncomeAmt>104000</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>104000</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>INVESTMENT ADVISORY FEES</CategoryTxt>
+        <Amt>50791</Amt>
+        <NetInvestmentIncomeAmt>50791</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>INVESTMENT ADVISORY FEE RJ 1612</CategoryTxt>
+        <Amt>1544</Amt>
+        <NetInvestmentIncomeAmt>1544</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>INVESTMENT ADVISORY FEES RJ 5912</CategoryTxt>
+        <Amt>18353</Amt>
+        <NetInvestmentIncomeAmt>18353</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>INVESTMENT ADVISORY FEES RJ 7039</CategoryTxt>
+        <Amt>5953</Amt>
+        <NetInvestmentIncomeAmt>5953</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>INVESTMENT ADVISORY FEES MS 8503</CategoryTxt>
+        <Amt>9173</Amt>
+        <NetInvestmentIncomeAmt>9173</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>INVESTMENT ADVISORY FEES MS 8503</CategoryTxt>
+        <Amt>1367</Amt>
+        <NetInvestmentIncomeAmt>1367</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>INVESTMENT ADVISORY FEES RJ NA43</CategoryTxt>
+        <Amt>17919</Amt>
+        <NetInvestmentIncomeAmt>17919</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>INVESTMENT ADVISORY FEES MS 8833</CategoryTxt>
+        <Amt>1562</Amt>
+        <NetInvestmentIncomeAmt>1562</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>INVESTMENT ADVISORY FEES MS 8833</CategoryTxt>
+        <Amt>1834</Amt>
+        <NetInvestmentIncomeAmt>1834</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>CUSTODY FEES</CategoryTxt>
+        <Amt>36</Amt>
+        <NetInvestmentIncomeAmt>36</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>PLATFORM FEE</CategoryTxt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>QUARTERLY MANAGEMENT FEE</CategoryTxt>
+        <Amt>56000</Amt>
+        <NetInvestmentIncomeAmt>56000</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc6">
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAXES PAID-PLAINS</CategoryTxt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAXES PAID- RJ NA430</CategoryTxt>
+        <Amt>1358</Amt>
+        <NetInvestmentIncomeAmt>1358</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAXES PAID RJ 78895912</CategoryTxt>
+        <Amt>542</Amt>
+        <NetInvestmentIncomeAmt>542</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAXES PAID MS 85031</CategoryTxt>
+        <Amt>122</Amt>
+        <NetInvestmentIncomeAmt>122</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAXES PAID MS 88335</CategoryTxt>
+        <Amt>158</Amt>
+        <NetInvestmentIncomeAmt>158</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAXES PAID MS 88336</CategoryTxt>
+        <Amt>19</Amt>
+        <NetInvestmentIncomeAmt>19</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

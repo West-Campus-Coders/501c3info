@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2021v4.3">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-03-17T09:44:04-04:00</ReturnTs>
+    <TaxPeriodEndDt>2022-10-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>141662664</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>WEST &amp; COMPANY CPAS PC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>PO BOX 1219</AddressLine1Txt>
+        <CityNm>GLOVERSVILLE</CityNm>
+        <StateAbbreviationCd>NY</StateAbbreviationCd>
+        <ZIPCd>120780354</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990T</ReturnTypeCd>
+    <TaxPeriodBeginDt>2021-11-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>146016106</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>THE JOHN AND KATHERINE NAUDIN</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>FOUNDATION INC</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>JOHN</BusinessNameControlTxt>
+      <PhoneNum>5187257127</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>C/O WEST COMPANY PO BOX 1219</AddressLine1Txt>
+        <CityNm>GLOVERSVILLE</CityNm>
+        <StateAbbreviationCd>NY</StateAbbreviationCd>
+        <ZIPCd>120780354</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>LYNN MCGRATH TONE</PersonNm>
+      <PersonTitleTxt>PRESIDENT</PersonTitleTxt>
+      <PhoneNum>5187257127</PhoneNum>
+      <SignatureDt>2023-02-24</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>LYNN</PersonFirstNm>
+        <PersonLastNm>MCGRATH TONE</PersonLastNm>
+      </PersonFullName>
+      <SSN>XXX-XX-XXXX</SSN>
+    </SigningOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>TRISHA ROGERS-BYRNS</PreparerPersonNm>
+      <PTIN>P00175220</PTIN>
+      <PhoneNum>5187257127</PhoneNum>
+      <PreparationDt>2023-03-17</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2021</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="2">
+    <IRS990T documentId="RetDoc1" referenceDocumentId="RetDoc4">
+      <Organization501IndicatorGrp>
+        <Organization501Ind>X</Organization501Ind>
+        <Organization501cTypeTxt>c3</Organization501cTypeTxt>
+      </Organization501IndicatorGrp>
+      <BookValueAssetsEOYAmt>367390</BookValueAssetsEOYAmt>
+      <Organization501cCorporationInd>X</Organization501cCorporationInd>
+      <Form990TScheduleAAttachedCnt referenceDocumentId="RetDoc2">1</Form990TScheduleAAttachedCnt>
+      <SubsidiaryCorporationInd>false</SubsidiaryCorporationInd>
+      <BooksInCareOfDetail>
+        <PersonNm>LYNN MCGRATH TONE</PersonNm>
+        <USAddress>
+          <AddressLine1Txt>568 COLD SPRING ROAD</AddressLine1Txt>
+          <AddressLine2Txt>LAUREL HOLLOW</AddressLine2Txt>
+          <CityNm>SYOSSET</CityNm>
+          <StateAbbreviationCd>NY</StateAbbreviationCd>
+          <ZIPCd>11791</ZIPCd>
+        </USAddress>
+        <PhoneNum>5187257127</PhoneNum>
+      </BooksInCareOfDetail>
+      <TotalUBTIComputedAmt>5174</TotalUBTIComputedAmt>
+      <TotalUBTIBeforeNOLSpecificAmt>5174</TotalUBTIBeforeNOLSpecificAmt>
+      <NetOperatingLossDeductionAmt referenceDocumentId="RetDoc5 RetDoc6">5174</NetOperatingLossDeductionAmt>
+      <TotalUBTIBeforeSection199AAmt>0</TotalUBTIBeforeSection199AAmt>
+      <SpecificDeductionAmt>1000</SpecificDeductionAmt>
+      <TotalDeductionAmt>1000</TotalDeductionAmt>
+      <TotalUBTIAmt>0</TotalUBTIAmt>
+      <TaxableCorporationAmt>0</TaxableCorporationAmt>
+      <TaxableTrustAmt>0</TaxableTrustAmt>
+      <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      <ForeignTrustQuestionInd>false</ForeignTrustQuestionInd>
+      <AvlblPre2018NOLCarryoverAmt>-22669</AvlblPre2018NOLCarryoverAmt>
+      <Post2017NOLCarryoverGrp>
+        <PrincipalBusinessActivityCd>221000</PrincipalBusinessActivityCd>
+        <AvlblPost2017NOLCarryoverAmt>5601</AvlblPost2017NOLCarryoverAmt>
+      </Post2017NOLCarryoverGrp>
+      <ChangeInMethodOfAccountingInd>false</ChangeInMethodOfAccountingInd>
+    </IRS990T>
+    <IRS990TScheduleA documentId="RetDoc2">
+      <PrincipalBusinessActivityCd>221000</PrincipalBusinessActivityCd>
+      <SequenceReferenceNum>1</SequenceReferenceNum>
+      <SequenceTotalNum>1</SequenceTotalNum>
+      <TradeOrBusinessDesc>UNRELATED BUSINESS ACTIVITY</TradeOrBusinessDesc>
+      <TotalPrtshpSCorpIncomeAmt referenceDocumentId="RetDoc3">10775</TotalPrtshpSCorpIncomeAmt>
+      <TotUnrltTrdBusIncmAmt>10775</TotUnrltTrdBusIncmAmt>
+      <TotUnrltTrdBusIncmExpnssAmt>0</TotUnrltTrdBusIncmExpnssAmt>
+      <TotNetUnrltTrdBusIncmAmt>10775</TotNetUnrltTrdBusIncmAmt>
+      <UBIBeforeNOLDedAmt>10775</UBIBeforeNOLDedAmt>
+      <NetOperatingLossDeductionAmt referenceDocumentId="RetDoc6">5601</NetOperatingLossDeductionAmt>
+      <UnrelatedBusinessTaxblIncmAmt>5174</UnrelatedBusinessTaxblIncmAmt>
+    </IRS990TScheduleA>
+  </ReturnData>
+</Return>

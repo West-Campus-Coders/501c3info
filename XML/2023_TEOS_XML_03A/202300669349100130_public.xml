@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2021v4.1" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-03-07T16:37:29-08:00</ReturnTs>
+    <TaxPeriodEndDt>2022-06-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>860395967</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Steven Broadbent CPA</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>920-G Plaza Drive</AddressLine1Txt>
+        <CityNm>St Clair</CityNm>
+        <StateAbbreviationCd>MO</StateAbbreviationCd>
+        <ZIPCd>63077</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2021-07-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>371416300</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>JCSP FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>JCSP</BusinessNameControlTxt>
+      <PhoneNum>6185267211</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>1220 WILLOW CREEK</AddressLine1Txt>
+        <CityNm>BREESE</CityNm>
+        <StateAbbreviationCd>IL</StateAbbreviationCd>
+        <ZIPCd>62230</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>STEVEN H MAHLANDT</PersonNm>
+      <PersonTitleTxt>President</PersonTitleTxt>
+      <SignatureDt>2023-03-07</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>STEVEN H</PersonFirstNm>
+        <PersonLastNm>MAHLANDT</PersonLastNm>
+      </PersonFullName>
+      <SSN>999009999</SSN>
+    </SigningOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>STEVEN BROADBENT CPA</PreparerPersonNm>
+      <PTIN>P00054525</PTIN>
+      <PhoneNum>6366297099</PhoneNum>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp>
+        <TrustedCustomerCd>2</TrustedCustomerCd>
+        <AuthenticationAssuranceLevelCd>AAL1</AuthenticationAssuranceLevelCd>
+        <IdentityAssuranceLevelCd>IAL1</IdentityAssuranceLevelCd>
+        <FederatedAssuranceLevelCd>FAL1</FederatedAssuranceLevelCd>
+      </TrustedCustomerGrp>
+    </AdditionalFilerInformation>
+    <TaxYr>2021</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="7">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="21013475" softwareVersionNum="2021v4.1">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>1182269</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>924</ContriRcvdRevAndExpnssAmt>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <DividendsRevAndExpnssAmt>7038</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>7038</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>7038</DividendsAdjNetIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="OtherIncomeSchedule2">4676</OtherIncomeRevAndExpnssAmt>
+        <TotalRevAndExpnssAmt>12638</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>7038</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>7038</TotalAdjNetIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>1000</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>1000</CompOfcrDirTrstDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">1588</TaxesRevAndExpnssAmt>
+        <TaxesDsbrsChrtblAmt>1588</TaxesDsbrsChrtblAmt>
+        <DeprecAndDpltnRevAndExpnssAmt referenceDocumentId="DepreciationSchedule">3824</DeprecAndDpltnRevAndExpnssAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">7380</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesDsbrsChrtblAmt>7380</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>13792</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>0</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>9968</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>0</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>0</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>13792</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>0</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>9968</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-1154</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>7038</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>7038</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>48913</CashBOYAmt>
+        <CashEOYAmt>32463</CashEOYAmt>
+        <CashEOYFMVAmt>32463</CashEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>340000</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="InvestmentsOtherSchedule2">340000</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>340000</OtherInvestmentsEOYFMVAmt>
+        <LandBldgEquipCostOrOtherBssAmt>840786</LandBldgEquipCostOrOtherBssAmt>
+        <LandBldgEquipAccumDeprecAmt>30980</LandBldgEquipAccumDeprecAmt>
+        <LandBOYAmt>794510</LandBOYAmt>
+        <LandEOYAmt referenceDocumentId="LandEtcSchedule2">809806</LandEOYAmt>
+        <LandEOYFMVAmt>809806</LandEOYFMVAmt>
+        <TotalAssetsBOYAmt>1183423</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>1182269</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>1182269</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsFASB117Ind>X</OrganizationFollowsFASB117Ind>
+        <NoDonorRstrNetAssestsBOYAmt>1183423</NoDonorRstrNetAssestsBOYAmt>
+        <NoDonorRstrNetAssestsEOYAmt>1182269</NoDonorRstrNetAssestsEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>1183423</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1182269</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>1183423</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>1182269</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>1183423</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-1154</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>1182269</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1182269</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>98</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>98</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>98</TaxBasedOnInvestmentIncomeAmt>
+        <ExtsnRequestIncomeTaxPaidAmt>198</ExtsnRequestIncomeTaxPaidAmt>
+        <TotalPaymentsAndCreditsAmt>198</TotalPaymentsAndCreditsAmt>
+        <OverpaymentAmt>100</OverpaymentAmt>
+        <AppliedToESTaxAmt>0</AppliedToESTaxAmt>
+        <RefundAmt>100</RefundAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>IL</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>true</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>STEVEN MAHLANDT</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>6185267211</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>1220 WILLOW CREEK</AddressLine1Txt>
+          <CityNm>BREESE</CityNm>
+          <StateAbbreviationCd>IL</StateAbbreviationCd>
+          <ZIPCd>62230</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>STEVEN H MAHLANDT</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1220 WILLOW CREEK</AddressLine1Txt>
+            <CityNm>BREESE</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62230</ZIPCd>
+          </USAddress>
+          <TitleTxt>President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>5.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>1000</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>PATRICIA J MAHLANDT</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1220 WILLOW CREEK</AddressLine1Txt>
+            <CityNm>BREESE</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62230</ZIPCd>
+          </USAddress>
+          <TitleTxt>Vice President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DAVID R MAHLANDT</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>954 MEMORIAL DRIVE</AddressLine1Txt>
+            <CityNm>BREESE</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62230</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>5.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>A 57% interest, jointly held with another 501(c)(3) organization, in a 135 acre wildlife preservation area has been donated to this foundation for the specific exempt purpose to act as a wildlife preservation area. This is in accordance with one of the stated purposes in the articles of organization. This property is surrounded on three sides by the Kaskaskia River. There are 2.5 miles of levees to keep the water from the river from flooding too much. There are also two pumps, one 16 inch, and one eight inch, to pump water from the river when it is too dry to be good waterfowl habitat and to pump water from the property back into the river when it has been flooded too much. This keeps a balance of water needed to maintain good waterfowl habitat. The flat land on the site is planted with corn to feed the waterfowl and deer, along with other wild animals. In the past year 470 man hours and 25machine hours have been donated for the purpose of planting corn and maintaining levees. If there</Description1Txt>
+        <Expenses1Amt>9968</Expenses1Amt>
+        <Description2Txt>A cooperative effort has been organized with two other 501(c)(3) organizations that are involved in educating pet owners in the care of their pets. Over 10,000 informational and educational pieces were printed and sent out in the past fiscal year ended 6/30/22. These informational blitzes were done in cooperation with the St. Louis City Health Department, the St. Louis County Health Dapartment and various city and county animal control agencies, as well as Greater St. Louis area businesses that donate. The JCSP Foundation is a co-sponsor and provided planning help and printed materials for these activities.</Description2Txt>
+      </SummaryOfDirectChrtblActyGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>0</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>40955</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>340000</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>380955</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>380955</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>5714</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>375241</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>18762</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <Sect4942j3j5FndtnAndFrgnOrgInd>X</Sect4942j3j5FndtnAndFrgnOrgInd>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>9968</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>9968</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <PrivateOperatingFoundationsGrp>
+        <PrivateOperatingFndtnRulingDt>2004-10-19</PrivateOperatingFndtnRulingDt>
+        <Section4942j3Ind>X</Section4942j3Ind>
+        <LessorAdjNetIncmMinInvstRetGrp>
+          <CurrentYearAmt>7038</CurrentYearAmt>
+          <Year1Amt>14222</Year1Amt>
+          <Year2Amt>1804</Year2Amt>
+          <Year3Amt>11934</Year3Amt>
+          <TotalAmt>34998</TotalAmt>
+        </LessorAdjNetIncmMinInvstRetGrp>
+        <Pct85LessorAdjIncmOrMinRetGrp>
+          <CurrentYearAmt>5982</CurrentYearAmt>
+          <Year1Amt>12089</Year1Amt>
+          <Year2Amt>1533</Year2Amt>
+          <Year3Amt>10144</Year3Amt>
+          <TotalAmt>29748</TotalAmt>
+        </Pct85LessorAdjIncmOrMinRetGrp>
+        <QualifyingDistributionsGrp>
+          <CurrentYearAmt>9968</CurrentYearAmt>
+          <Year1Amt>13741</Year1Amt>
+          <Year2Amt>3167</Year2Amt>
+          <Year3Amt>12958</Year3Amt>
+          <TotalAmt>39834</TotalAmt>
+        </QualifyingDistributionsGrp>
+        <QualifyingDistriMadeDrtGrp>
+          <CurrentYearAmt>9968</CurrentYearAmt>
+          <Year1Amt>13741</Year1Amt>
+          <Year2Amt>3167</Year2Amt>
+          <Year3Amt>12958</Year3Amt>
+          <TotalAmt>39834</TotalAmt>
+        </QualifyingDistriMadeDrtGrp>
+        <TwoThirdsMinimumInvstRetGrp>
+          <TotalAmt>0</TotalAmt>
+        </TwoThirdsMinimumInvstRetGrp>
+        <TotalSupportGrp>
+          <CurrentYearAmt>924</CurrentYearAmt>
+          <Year1Amt>924</Year1Amt>
+          <Year2Amt>1443</Year2Amt>
+          <Year3Amt>924</Year3Amt>
+          <TotalAmt>4215</TotalAmt>
+        </TotalSupportGrp>
+        <PublicSupportType>
+          <CurrentYearAmt>924</CurrentYearAmt>
+          <Year1Amt>924</Year1Amt>
+          <Year2Amt>1443</Year2Amt>
+          <Year3Amt>924</Year3Amt>
+          <TotalAmt>4215</TotalAmt>
+        </PublicSupportType>
+      </PrivateOperatingFoundationsGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>3</ExclusionCd>
+          <ExclusionAmt>7038</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <OtherRevenueDescribedGrp>
+          <Desc>CRP PAYMENTS</Desc>
+          <RelatedOrExemptFunctionIncmAmt>4676</RelatedOrExemptFunctionIncmAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>7038</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>4676</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>11714</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>11</LineNumberTxt>
+          <RelationshipStatementTxt>CRP PAYMENTS ALLOWING GROUND TO GO FALLOW.</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+      </RlnOfActyToAccomOfExmptPrpsGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <DepreciationSchedule documentId="DepreciationSchedule" softwareId="21013475" softwareVersionNum="2021v4.1">
+      <DepreciationPropertyGrp>
+        <PropertyDesc>2022 POLARIS</PropertyDesc>
+        <AcquiredDt>2021-12-23</AcquiredDt>
+        <CostOrOtherBasisAmt>19120</CostOrOtherBasisAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <Rt>0.2000</Rt>
+        <CurrentYearExpenseAmt>3824</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+    </DepreciationSchedule>
+    <InvestmentsOtherSchedule2 documentId="InvestmentsOtherSchedule2" softwareId="21013475" softwareVersionNum="2021v4.1">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>NOTE RECEIVABLE</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>340000</BookValueAmt>
+        <EOYFMVAmt>340000</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <LandEtcSchedule2 documentId="LandEtcSchedule2" softwareId="21013475" softwareVersionNum="2021v4.1">
+      <LandEtcGrp>
+        <CategoryOrItemTxt>Auto./Transportation Equip.</CategoryOrItemTxt>
+        <EOYFMVAmt>809806</EOYFMVAmt>
+      </LandEtcGrp>
+      <LandEtcGrp>
+        <CategoryOrItemTxt>Machinery and Equipment</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>46276</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>30980</AccumulatedDepreciationAmt>
+        <BookValueAmt>15296</BookValueAmt>
+      </LandEtcGrp>
+      <LandEtcGrp>
+        <CategoryOrItemTxt>Land</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>794510</CostOrOtherBasisAmt>
+        <BookValueAmt>794510</BookValueAmt>
+      </LandEtcGrp>
+    </LandEtcSchedule2>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="21013475" softwareVersionNum="2021v4.1">
+      <OtherExpensesScheduleGrp>
+        <Desc>BANK CHARGES</Desc>
+        <RevenueAndExpensesPerBooksAmt>36</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>36</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>FARM EXPENSES</Desc>
+        <RevenueAndExpensesPerBooksAmt>6725</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>6725</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>REPAIRS &amp; MAINTENANCE</Desc>
+        <RevenueAndExpensesPerBooksAmt>619</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>619</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSchedule2" softwareId="21013475" softwareVersionNum="2021v4.1">
+      <OtherIncomeDetail>
+        <Desc>CRP PAYMENTS</Desc>
+        <RevenueAndExpensesPerBooksAmt>4676</RevenueAndExpensesPerBooksAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="21013475" softwareVersionNum="2021v4.1">
+      <TaxesDetail>
+        <CategoryTxt>FED TAX</CategoryTxt>
+        <Amt>198</Amt>
+        <DisbursementsCharitablePrpsAmt>198</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>PAYROLL TAX</CategoryTxt>
+        <Amt>76</Amt>
+        <DisbursementsCharitablePrpsAmt>76</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>PROPERTY TAX</CategoryTxt>
+        <Amt>1289</Amt>
+        <DisbursementsCharitablePrpsAmt>1289</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>STATE TAX</CategoryTxt>
+        <Amt>25</Amt>
+        <DisbursementsCharitablePrpsAmt>25</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

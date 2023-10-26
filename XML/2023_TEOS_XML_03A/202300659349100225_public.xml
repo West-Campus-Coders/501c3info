@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2022v4.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-03-06T12:49:22-05:00</ReturnTs>
+    <TaxPeriodEndDt>2022-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>231692578</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>SIMON LEVER LLC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>147 W AIRPORT RD</AddressLine1Txt>
+        <CityNm>LITITZ</CityNm>
+        <StateAbbreviationCd>PA</StateAbbreviationCd>
+        <ZIPCd>17543</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>200458269</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>OSCAR S TUCKER &amp; MADOLIN M TUCKER</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>SCHOLARSHIP FUND</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>OSCA</BusinessNameControlTxt>
+      <PhoneNum>5705221092</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>23 N DERR DR RM/STE 4</AddressLine1Txt>
+        <CityNm>LEWISBURG</CityNm>
+        <StateAbbreviationCd>PA</StateAbbreviationCd>
+        <ZIPCd>17837</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>EPHRATA NATIONAL BANK</PersonNm>
+      <PersonTitleTxt>CO-TRUSTEE</PersonTitleTxt>
+      <PhoneNum>5705221092</PhoneNum>
+      <SignatureDt>2023-02-15</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>EPHRATA</PersonFirstNm>
+        <PersonLastNm>NATIONAL BANK</PersonLastNm>
+      </PersonFullName>
+      <SSN>XXX-XX-XXXX</SSN>
+    </SigningOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>KIMBERLY D LYONS CPA</PreparerPersonNm>
+      <PTIN>P01314903</PTIN>
+      <PhoneNum>7175697081</PhoneNum>
+      <PreparationDt>2023-03-06</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="10">
+    <IRS990PF documentId="RetDoc11" referenceDocumentId="RetDoc10">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>1193547</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>756</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>756</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>28911</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>28911</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>65169</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>99412</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>65169</CapGainNetIncmNetInvstIncmAmt>
+        <IncmModificationsAdjNetIncmAmt>1563</IncmModificationsAdjNetIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="RetDoc8">131</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>131</OtherIncomeNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>94967</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>94967</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>1563</TotalAdjNetIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>21704</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>7961</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>13743</CompOfcrDirTrstDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc1">3100</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesChrtblPrpsAmt>3100</AccountingFeesChrtblPrpsAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc9">1181</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>81</TaxesNetInvstIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc6">57</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesDsbrsChrtblAmt>57</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>26042</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>8042</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>16900</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>69733</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>69733</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>95775</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>8042</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>86633</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-808</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>86925</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>1563</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>84648</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>95952</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>95952</SavAndTempCashInvstEOYFMVAmt>
+        <USGovernmentObligationsBOYAmt>65000</USGovernmentObligationsBOYAmt>
+        <USGovernmentObligationsEOYAmt referenceDocumentId="RetDoc4">65000</USGovernmentObligationsEOYAmt>
+        <USGovtObligationsEOYFMVAmt>56142</USGovtObligationsEOYFMVAmt>
+        <CorporateStockBOYAmt>434488</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc3">430865</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>508711</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>479561</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="RetDoc2">479561</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>410003</CorporateBondsEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>108771</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="RetDoc5">101845</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>122739</OtherInvestmentsEOYFMVAmt>
+        <TotalAssetsBOYAmt>1172468</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>1173223</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>1193547</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsFASB117Ind>X</OrganizationFollowsFASB117Ind>
+        <NoDonorRstrNetAssestsBOYAmt>1172468</NoDonorRstrNetAssestsBOYAmt>
+        <NoDonorRstrNetAssestsEOYAmt>1173223</NoDonorRstrNetAssestsEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>1172468</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1173223</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>1172468</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>1173223</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>1172468</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-808</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="RetDoc7">1563</OtherIncreasesAmt>
+        <SubtotalAmt>1173223</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1173223</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUBLICLY-TRADED SECURITIES</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>66417</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>34243</CostOrOtherBasisAmt>
+          <GainOrLossAmt>32174</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>32174</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>65169</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>1208</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>1208</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>1208</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>1525</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>1525</TotalPaymentsAndCreditsAmt>
+        <OverpaymentAmt>317</OverpaymentAmt>
+        <AppliedToESTaxAmt>317</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>PA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>BRIAN W ULMER</IndividualWithBooksNm>
+        <PhoneNum>5705221092</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>23 N DERR DR STE 4</AddressLine1Txt>
+          <CityNm>LEWISBURG</CityNm>
+          <StateAbbreviationCd>PA</StateAbbreviationCd>
+          <ZIPCd>17837</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>true</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>true</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <TransactionsFailToQlfyAsExcInd>false</TransactionsFailToQlfyAsExcInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>BRIAN W ULMER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>23 N DERR DR STE 4</AddressLine1Txt>
+            <CityNm>LEWISBURG</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>17837</ZIPCd>
+          </USAddress>
+          <TitleTxt>CO-TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>2806</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DAVID MARATECK</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1750 CLINTON AVE</AddressLine1Txt>
+            <CityNm>COAL TOWNSHIP</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>17866</ZIPCd>
+          </USAddress>
+          <TitleTxt>CO-TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>6597</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>EPHRATA NATIONAL BANK</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>47 E MAIN ST</AddressLine1Txt>
+            <CityNm>EPHRATA</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>17522</ZIPCd>
+          </USAddress>
+          <TitleTxt>CO-TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>5704</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>THE NORTHUMBERLAND NATIONAL BANK</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>245 FRONT ST</AddressLine1Txt>
+            <CityNm>NORTHUMBERLAND</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>17857</ZIPCd>
+          </USAddress>
+          <TitleTxt>CO-TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>6597</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>1233369</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>46737</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>1280106</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>1280106</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>19202</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>1260904</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>63045</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>63045</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>1208</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>1208</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>61837</DistributableBeforeAdjAmt>
+        <RecoveriesQualfiedDistriAmt>1563</RecoveriesQualfiedDistriAmt>
+        <DistributableBeforeDedAmt>63400</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>63400</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>86633</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>86633</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>63400</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>13615</UndistributedIncomePYAmt>
+        <QualifyingDistributionsAmt>86633</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>13615</AppliedToYear1Amt>
+        <AppliedToCurrentYearAmt>63400</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>9618</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>9618</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>9618</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromCurrentYearAmt>9618</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>SHAMOKIN AREA MIDDLE HIGH SCHOOL</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>ATTN GUIDANCE OFFICE</AddressLine1Txt>
+            <AddressLine2Txt>2000 W STATE ST</AddressLine2Txt>
+            <CityNm>COAL TOWNSHIP</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>17866</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>5706485731</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>THE APPLICATION IS A FORM THAT REQUIRES THE FOLLOWING INFORMATION: APPLICANT'S NAME, ADDRESS, TELEPHONE NUMBER, SOCIAL SECURITY NUMBER, AND DATE OF BIRTH; FATHER, STEP-FATHER, MALE GUARDIAN: NAME, ADDRESS, OCCUPATION, EMPLOYER, AND YEARS EMPLOYED; MOTHER, STEP-MOTHER, FEMALE GUARDIAN: NAME, ADDRESS, OCCUPATION, EMPLOYER, AND YEARS EMPLOYED; HOUSEHOLD INFORMATION: LIST OF OTHER HOUSEHOLD MEMBERS, PRESENT SCHOOL OR OCCUPATION, AND AGE; HARDSHIP CONSIDERATION; POST-SECONDARY SCHOOL THAT THE APPLICANT WILL BE ATTENDING, MAJOR AREA OF STUDY, PROJECTED NUMBER OF YEARS OF ATTENDANCE; OTHER ACTIVITIES: SCHOOL OR COMMUNITY-BASED ACTIVITIES, WITH NUMBER OF YEARS OF PARTICIPATION AND ANY OFFICES HELD; OTHER SCHOLASTIC ACHIEVEMENTS: GOVERNOR'S SCHOOL, COLLEGE COURSE/CREDITS; SIGNATURE AND DISCLAIMERS.</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>COMPLETED APPLICATIONS MUST BE RETURNED TO THE GUIDANCE OFFICE OF EACH SCHOOL NO LATER THAN 4:00 PM</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>THE OSCAR S TUCKER &amp; MADOLIN M TUCKER SCHOLARSHIP IS OFFERED ANNUALLY TO SHAMOKIN AREA HIGH SCHOOL SENIORS AND LEWISBURG AREA HIGH SCHOOL SENIORS WHO WILL BE ATTENDING EITHER BUCKNELL UNIVERSITY, SUSQUEHANNA UNIVERSITY, OR PEIRCE COLLEGE AS FULL-TIME STUDENTS. THE AMOUNT OF EACH AWARD AND THE RECIPIENTS SO DESIGNATED ARE SOLELY WITHIN THE DISCRETION OF THE SELECTION COMMITTEE. CRITERIA FOR SELECTION ARE MERIT, FINANCIAL NEED, AND PLANS TO FURTHER ONE'S EDUCATION AT ONE OF THE THREE APPLICABLE COLLEGES, WITH NO SINGLE FACTOR TO BE CONTROLLING AS TO THE AMOUNT OF THE AWARD OR THE SELECTION OF THE RECIPIENT(S) THEREOF.</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SEE ATTACHED</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>SEE ATTACHED</AddressLine1Txt>
+            <CityNm>SEE ATTACHED</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>17837</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>69733</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>69733</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>756</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>28911</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <OtherInvestmentIncomeGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>131</ExclusionAmt>
+        </OtherInvestmentIncomeGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>65169</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>94967</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>94967</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc1">
+      <AccountingFeesDetail>
+        <CategoryTxt>TAX PREPARATION</CategoryTxt>
+        <Amt>3100</Amt>
+        <DisbursementsCharitablePrpsAmt>3100</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc2">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>NNB-GOLDMAN SACHS GROUP INC 4.050%</BondNm>
+        <EOYBookValueAmt>65000</EOYBookValueAmt>
+        <EOYFMVAmt>58005</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>NNB-NATIONAL RURAL UTILS COOP 1.900%</BondNm>
+        <EOYBookValueAmt>50000</EOYBookValueAmt>
+        <EOYFMVAmt>43478</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>NNB-TORONTO DOMINION BANK 1.200%</BondNm>
+        <EOYBookValueAmt>40000</EOYBookValueAmt>
+        <EOYFMVAmt>33044</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>ENB-VANGUARD TOTAL BOND MARKET INDEX</BondNm>
+        <EOYBookValueAmt>134156</EOYBookValueAmt>
+        <EOYFMVAmt>123463</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>ENB-VANGUARD LT INVESTMENT</BondNm>
+        <EOYBookValueAmt>168687</EOYBookValueAmt>
+        <EOYFMVAmt>130371</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>ENB-VANGUARD INTERMEDIATE-TERM INVES</BondNm>
+        <EOYBookValueAmt>21718</EOYBookValueAmt>
+        <EOYFMVAmt>21642</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc3">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>NNB-DODGE &amp; COX INTL STOCK FUND</StockNm>
+        <EOYBookValueAmt>40518</EOYBookValueAmt>
+        <EOYFMVAmt>47426</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>NNB-FEDERATED HERMES STRATEGIC VALUE</StockNm>
+        <EOYBookValueAmt>68010</EOYBookValueAmt>
+        <EOYFMVAmt>63535</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>NNB-FIDELITY CONTRAFUND</StockNm>
+        <EOYBookValueAmt>76754</EOYBookValueAmt>
+        <EOYFMVAmt>80352</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>NNB-MAIRS &amp; POWER GROWTH FUND</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>NNB-TRUST FOR PROFESSIONAL MANAGER C</StockNm>
+        <EOYBookValueAmt>78614</EOYBookValueAmt>
+        <EOYFMVAmt>83744</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>NNB-VANGUARD WINDSOR FDS</StockNm>
+        <EOYBookValueAmt>85448</EOYBookValueAmt>
+        <EOYFMVAmt>91133</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>NNB-VANGUARD INDEX FDS MDCAP</StockNm>
+        <EOYBookValueAmt>11176</EOYBookValueAmt>
+        <EOYFMVAmt>24436</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>NNB-VANGUARD INDEX FDS SMCP</StockNm>
+        <EOYBookValueAmt>10933</EOYBookValueAmt>
+        <EOYFMVAmt>22280</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ENB-VANGUARD EQUITY INCOME FUND</StockNm>
+        <EOYBookValueAmt>59412</EOYBookValueAmt>
+        <EOYFMVAmt>95805</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="RetDoc4">
+      <USGovtObligationsBookVlEOYAmt>65000</USGovtObligationsBookVlEOYAmt>
+      <USGovtObligationsEOYFMVAmt>56142</USGovtObligationsEOYFMVAmt>
+    </InvestmentsGovtObligationsSch>
+    <InvestmentsOtherSchedule2 documentId="RetDoc5">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>ENB-AMERICAN FUNDS INCOME FUND OF AM</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>101845</BookValueAmt>
+        <EOYFMVAmt>122739</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>ENB-VANGUARD BALANCED INDEX FDS</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <OtherExpensesSchedule documentId="RetDoc6">
+      <OtherExpensesScheduleGrp>
+        <Desc>EXPENSES</Desc>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>POSTAGE</Desc>
+        <RevenueAndExpensesPerBooksAmt>56</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>56</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>ROUNDING</Desc>
+        <RevenueAndExpensesPerBooksAmt>1</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>1</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc8">
+      <OtherIncomeDetail>
+        <Desc>OTHER INVESTMENT INCOME</Desc>
+        <RevenueAndExpensesPerBooksAmt>131</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>131</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherIncreasesSchedule documentId="RetDoc7">
+      <OtherIncreasesDetail>
+        <Desc>RECOVERY OF PRIOR YEAR SCHOLARSHIP</Desc>
+        <Amt>1563</Amt>
+      </OtherIncreasesDetail>
+    </OtherIncreasesSchedule>
+    <TaxesSchedule documentId="RetDoc9">
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAX</CategoryTxt>
+        <Amt>81</Amt>
+        <NetInvestmentIncomeAmt>81</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>EXCISE TAX ON INVESTMENT INCOME</CategoryTxt>
+        <Amt>1100</Amt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>
