@@ -1,11 +1,11 @@
 <div align="center">
 <pre>
-![west campus coders logo](https://avatars.githubusercontent.com/u/150297835?s=48&v=4)
-website that gives easy access to the finances of 501(c)(3) non-profits 
+<img src="https://avatars.githubusercontent.com/u/150297835?s=48&v=4">
+A website that gives easy access to the finances of 501(c)(3) non-profits 
 </pre>
 </div>
 
-west campus coders project
+West campus coders project
 
 ## Tasks:
 - [x] make a small, functional API 
