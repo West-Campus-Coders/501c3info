@@ -1,5 +1,6 @@
 <div align="center">
 <pre>
+![west campus coders logo](https://avatars.githubusercontent.com/u/150297835?s=48&v=4)
 website that gives easy access to the finances of 501(c)(3) non-profits 
 </pre>
 </div>
@@ -12,6 +13,7 @@ west campus coders project
 - [ ] have the backend work with a mySQL server
 - [x] create a backend class that can parse the index CSV file
 - [ ] allow the backend to find the correct XML file
+- [ ] send the XML information to the frontend
 
 ## Running the frontend
 
@@ -27,9 +29,10 @@ OR
 git clone https://github.com/West-Campus-Coders/501c3info.git
 ```
 
-install npm packages (make sure you're in the frontend directory)
+install npm packages for the frontend
 
 ```sh 
+cd frontend
 npm i 
 ```
 
@@ -41,7 +44,7 @@ npm run dev
 
 ## Running the backend API
 
-PREREQUISITES: make sure you have flask installed
+PREREQUISITES: Flask must be installed
 ```sh 
 pip install Flask
 ```
