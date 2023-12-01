@@ -10,7 +10,7 @@ west campus coders project
 - [x] make a small, functional API 
 - [ ] dockerize the API 
 - [ ] have the backend work with a mySQL server
-- [ ] create a backend class to parse the index CSV
+- [x] create a backend class that can parse the index CSV file
 - [ ] allow the backend to find the correct XML file
 
 ## Running the frontend
