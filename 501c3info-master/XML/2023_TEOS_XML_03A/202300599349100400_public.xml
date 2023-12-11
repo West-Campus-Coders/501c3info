@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2022v4.1" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-02-28T01:22:01-08:00</ReturnTs>
+    <TaxPeriodEndDt>2022-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>611691881</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Hightower Business Services</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>1295 Saint Josephs Dr SE</AddressLine1Txt>
+        <CityNm>Darien</CityNm>
+        <StateAbbreviationCd>GA</StateAbbreviationCd>
+        <ZIPCd>31305</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>823401335</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>Young AMM Inc</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>YOUN</BusinessNameControlTxt>
+      <PhoneNum>7063400673</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>PO Box 745</AddressLine1Txt>
+        <CityNm>Darien</CityNm>
+        <StateAbbreviationCd>GA</StateAbbreviationCd>
+        <ZIPCd>31305</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>Elizabeth A Hightower</PersonNm>
+      <PersonTitleTxt>President</PersonTitleTxt>
+      <PhoneNum>7063400673</PhoneNum>
+      <SignatureDt>2023-02-28</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>Elizabeth</PersonFirstNm>
+        <PersonLastNm>Hightower</PersonLastNm>
+      </PersonFullName>
+      <SSN>XXX-XX-XXXX</SSN>
+    </SigningOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Elizabeth A Hightower EA</PreparerPersonNm>
+      <PTIN>P00643615</PTIN>
+      <PhoneNum>7063400673</PhoneNum>
+      <PreparationDt>2023-02-28</PreparationDt>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp>
+        <TrustedCustomerCd>3</TrustedCustomerCd>
+        <AuthenticationAssuranceLevelCd>AAL1</AuthenticationAssuranceLevelCd>
+        <IdentityAssuranceLevelCd>IAL1</IdentityAssuranceLevelCd>
+        <FederatedAssuranceLevelCd>FAL1</FederatedAssuranceLevelCd>
+      </TrustedCustomerGrp>
+    </AdditionalFilerInformation>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="11">
+    <IRS990PF documentId="IRS990PF-01">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>358316</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>300</ContriRcvdRevAndExpnssAmt>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>5</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>5</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>5272</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>5272</DividendsNetInvstIncmAmt>
+        <CapGainNetIncmNetInvstIncmAmt>0</CapGainNetIncmNetInvstIncmAmt>
+        <GrossProfitRevAndExpnssAmt>0</GrossProfitRevAndExpnssAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="OtherIncomeSchedule2-01" referenceDocumentName="OtherIncomeSchedule2">2138</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>2138</OtherIncomeNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>7715</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>7415</TotalNetInvstIncmAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="LegalFeesSchedule-01" referenceDocumentName="LegalFeesSchedule">57</LegalFeesRevAndExpnssAmt>
+        <LegalFeesNetInvstIncmAmt>57</LegalFeesNetInvstIncmAmt>
+        <LegalFeesAdjNetIncmAmt>57</LegalFeesAdjNetIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSchedule-01" referenceDocumentName="AccountingFeesSchedule">3000</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>3000</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesAdjNetIncmAmt>3000</AccountingFeesAdjNetIncmAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="OtherProfessionalFeesSchedu-01" referenceDocumentName="OtherProfessionalFeesSchedule">3259</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>3259</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesAdjNetIncmAmt>3259</OtherProfFeesAdjNetIncmAmt>
+        <TaxesRevAndExpnssAmt>0</TaxesRevAndExpnssAmt>
+        <DeprecAndDpltnRevAndExpnssAmt>0</DeprecAndDpltnRevAndExpnssAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule-01" referenceDocumentName="AmortizationSchedule OtherExpensesSchedule">73</OtherExpensesRevAndExpnssAmt>
+        <TotOprExpensesRevAndExpnssAmt>6389</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>6316</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>6316</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>5000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>5000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>11389</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>6316</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>6316</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>5000</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-3674</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>1099</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>33917</CashBOYAmt>
+        <CashEOYAmt>32500</CashEOYAmt>
+        <CashEOYFMVAmt>32500</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>2663</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>4156</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>4156</SavAndTempCashInvstEOYFMVAmt>
+        <RcvblFromOfficersEOYAmt>0</RcvblFromOfficersEOYAmt>
+        <OtherNtsAndLoansRcvblBOYAmt>32614</OtherNtsAndLoansRcvblBOYAmt>
+        <OtherNtsAndLoansRcvblEOYAmt>28232</OtherNtsAndLoansRcvblEOYAmt>
+        <OtherNtsAndLoansRcvblEOYFMVAmt>28232</OtherNtsAndLoansRcvblEOYFMVAmt>
+        <CorporateStockBOYAmt>324697</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="InvestmentsCorpStockSchedul-01" referenceDocumentName="InvestmentsCorpStockSchedule">259753</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>259753</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>40034</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="InvestmentsCorpBondsSchedul-01" referenceDocumentName="InvestmentsCorpBondsSchedule">33670</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>33670</CorporateBondsEOYFMVAmt>
+        <LandBldgInvestmentsEOYAmt>0</LandBldgInvestmentsEOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="InvestmentsOtherSchedule2-01" referenceDocumentName="InvestmentsOtherSchedule2">5</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>5</OtherInvestmentsEOYFMVAmt>
+        <LandEOYAmt>0</LandEOYAmt>
+        <OtherAssetsBOYAmt>0</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt>0</OtherAssetsEOYAmt>
+        <OtherAssetsEOYFMVAmt>0</OtherAssetsEOYFMVAmt>
+        <TotalAssetsBOYAmt>433925</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>358316</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>358316</TotalAssetsEOYFMVAmt>
+        <LoansFromOfficersEOYAmt>0</LoansFromOfficersEOYAmt>
+        <MortgagesAndNotesPayableEOYAmt>0</MortgagesAndNotesPayableEOYAmt>
+        <OtherLiabilitiesBOYAmt>0</OtherLiabilitiesBOYAmt>
+        <OtherLiabilitiesEOYAmt>0</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsFASB117Ind>X</OrganizationFollowsFASB117Ind>
+        <NoDonorRstrNetAssestsBOYAmt>433925</NoDonorRstrNetAssestsBOYAmt>
+        <NoDonorRstrNetAssestsEOYAmt>358316</NoDonorRstrNetAssestsEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>433925</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>358316</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>433925</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>358316</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>433925</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-3674</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="OtherIncreasesSchedule-01" referenceDocumentName="OtherIncreasesSchedule">-71828</OtherIncreasesAmt>
+        <SubtotalAmt>358423</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="OtherDecreasesSchedule-01" referenceDocumentName="OtherDecreasesSchedule">107</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>358316</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>15</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>15</SubtotalAmt>
+        <SubtitleATaxAmt>0</SubtitleATaxAmt>
+        <TaxBasedOnInvestmentIncomeAmt>15</TaxBasedOnInvestmentIncomeAmt>
+        <OriginalReturnTaxPaidAmt>0</OriginalReturnTaxPaidAmt>
+        <TaxDueAmt>15</TaxDueAmt>
+        <AppliedToESTaxAmt>0</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>GA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>Hightower Business Services</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>9124455817</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>PO Box 700</AddressLine1Txt>
+          <CityNm>Richmond Hill</CityNm>
+          <StateAbbreviationCd>GA</StateAbbreviationCd>
+          <ZIPCd>313240700</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Elizabeth A Hightower</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO Box 745</AddressLine1Txt>
+            <CityNm>Darien</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>313050745</ZIPCd>
+          </USAddress>
+          <TitleTxt>President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Hugh W Hightower</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO Box 745</AddressLine1Txt>
+            <CityNm>Darien</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>313050745</ZIPCd>
+          </USAddress>
+          <TitleTxt>Vice-President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+        <ContractorPaidOver50kCnt>0</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>Covington &amp; Covington: Serving with emotional Counseling &amp; Christian Music</Description1Txt>
+        <Expenses1Amt>0</Expenses1Amt>
+        <Description2Txt>Education Assistance: Help towards College tuition (Oregon) for Audiology School (Child of single parent with Audio handicap going to Audiology school)</Description2Txt>
+        <Expenses2Amt>5000</Expenses2Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>0</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>0</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>0</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>0</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>0</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>0</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>0</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>0</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>15</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>15</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>0</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>0</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>0</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>5000</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>5000</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>0</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>0</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>6200</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>1712</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>23400</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>11200</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>42512</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>5000</QualifyingDistributionsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <RemainingDistriFromCorpusAmt>5000</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>47512</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>0</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>47512</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>6200</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>1712</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>23400</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>11200</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>5000</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Covington &amp; Covington</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5195 Chandler Road</AddressLine1Txt>
+            <CityNm>Quincy</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95971</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Counseling</GrantOrContributionPurposeTxt>
+          <Amt>0</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>University of Oregon</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 3267</AddressLine1Txt>
+            <CityNm>Eugene</CityNm>
+            <StateAbbreviationCd>OR</StateAbbreviationCd>
+            <ZIPCd>97403</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Education</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>5000</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <BusinessCd>523000</BusinessCd>
+          <UnrelatedBusinessTaxblIncmAmt>5</UnrelatedBusinessTaxblIncmAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <BusinessCd>523000</BusinessCd>
+          <UnrelatedBusinessTaxblIncmAmt>5272</UnrelatedBusinessTaxblIncmAmt>
+        </DividendsAndInterestFromSecDtl>
+        <OtherInvestmentIncomeGrp>
+          <BusinessCd>523000</BusinessCd>
+          <UnrelatedBusinessTaxblIncmAmt>2138</UnrelatedBusinessTaxblIncmAmt>
+        </OtherInvestmentIncomeGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <BusinessCd>523000</BusinessCd>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <UnrelatedBusinessTaxblIncmAmt>7415</UnrelatedBusinessTaxblIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>7415</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule-01">
+      <AccountingFeesDetail>
+        <CategoryTxt>Hightower Business Services Accounting</CategoryTxt>
+        <Amt>3000</Amt>
+        <NetInvestmentIncomeAmt>3000</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>3000</AdjustedNetIncomeAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpBondsSchedule documentId="InvestmentsCorpBondsSchedul-01">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>Doubleline Total Return Bond Fd Cl N</BondNm>
+        <EOYBookValueAmt>13144</EOYBookValueAmt>
+        <EOYFMVAmt>13144</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>Rivernorth Doubleline Strat Income Fd R</BondNm>
+        <EOYBookValueAmt>4730</EOYBookValueAmt>
+        <EOYFMVAmt>4730</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>IShares Core US Aggregate Bond</BondNm>
+        <EOYBookValueAmt>15130</EOYBookValueAmt>
+        <EOYFMVAmt>15130</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>Performance Trust Strat Bd Fd</BondNm>
+        <EOYBookValueAmt>666</EOYBookValueAmt>
+        <EOYFMVAmt>666</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="InvestmentsCorpStockSchedul-01">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Alphabet</StockNm>
+        <EOYBookValueAmt>15881</EOYBookValueAmt>
+        <EOYFMVAmt>15881</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Apple</StockNm>
+        <EOYBookValueAmt>27625</EOYBookValueAmt>
+        <EOYFMVAmt>27625</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Johnson &amp; Johnson</StockNm>
+        <EOYBookValueAmt>10105</EOYBookValueAmt>
+        <EOYFMVAmt>10105</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Charles Schwab US MC</StockNm>
+        <EOYBookValueAmt>20142</EOYBookValueAmt>
+        <EOYFMVAmt>20142</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Invesco S&amp;P 500 Equal Weight Consumer Staples</StockNm>
+        <EOYBookValueAmt>28475</EOYBookValueAmt>
+        <EOYFMVAmt>28475</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>IShares US Healthcare</StockNm>
+        <EOYBookValueAmt>14455</EOYBookValueAmt>
+        <EOYFMVAmt>14455</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Schwab US Large Cap Growth</StockNm>
+        <EOYBookValueAmt>35225</EOYBookValueAmt>
+        <EOYFMVAmt>35225</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Schwab US Large Cap Value</StockNm>
+        <EOYBookValueAmt>31492</EOYBookValueAmt>
+        <EOYFMVAmt>31492</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Schwab US Large Cap</StockNm>
+        <EOYBookValueAmt>24200</EOYBookValueAmt>
+        <EOYFMVAmt>24200</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>IShares Core Moderate Allocation</StockNm>
+        <EOYBookValueAmt>10035</EOYBookValueAmt>
+        <EOYFMVAmt>10035</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Schwab US Dividend Equity</StockNm>
+        <EOYBookValueAmt>15032</EOYBookValueAmt>
+        <EOYFMVAmt>15032</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Intrepid Endurance Fd Inv</StockNm>
+        <EOYBookValueAmt>5947</EOYBookValueAmt>
+        <EOYFMVAmt>5947</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Wasatch Core Growth Fd</StockNm>
+        <EOYBookValueAmt>11626</EOYBookValueAmt>
+        <EOYFMVAmt>11626</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Ishares US REIT</StockNm>
+        <EOYBookValueAmt>9513</EOYBookValueAmt>
+        <EOYFMVAmt>9513</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="InvestmentsOtherSchedule2-01">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>Rounding on investments</CategoryOrItemTxt>
+        <BookValueAmt>5</BookValueAmt>
+        <EOYFMVAmt>5</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <LegalFeesSchedule documentId="LegalFeesSchedule-01">
+      <LegalFeesGrp>
+        <CategoryTxt>McGuire Wood &amp; Bissett Legal</CategoryTxt>
+        <LegalFeesAmt>57</LegalFeesAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherDecreasesSchedule documentId="OtherDecreasesSchedule-01">
+      <OtherDecreasesDetail>
+        <Desc>UBIT Taxes</Desc>
+        <Amt>107</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule-01">
+      <OtherExpensesScheduleGrp>
+        <Desc>Postage &amp; Mailing</Desc>
+        <RevenueAndExpensesPerBooksAmt>8</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Filing Fees</Desc>
+        <RevenueAndExpensesPerBooksAmt>65</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Business Registration</Desc>
+        <RevenueAndExpensesPerBooksAmt>0</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Bank Service Charge</Desc>
+        <RevenueAndExpensesPerBooksAmt>0</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSchedule2-01">
+      <OtherIncomeDetail>
+        <Desc>Note Receivable Interest</Desc>
+        <RevenueAndExpensesPerBooksAmt>2138</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>2138</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>Capital Gains</Desc>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherIncreasesSchedule documentId="OtherIncreasesSchedule-01">
+      <OtherIncreasesDetail>
+        <Desc>Unrealized Gains/Losses</Desc>
+        <Amt>-71829</Amt>
+      </OtherIncreasesDetail>
+      <OtherIncreasesDetail>
+        <Desc>Rounding</Desc>
+        <Amt>1</Amt>
+      </OtherIncreasesDetail>
+    </OtherIncreasesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OtherProfessionalFeesSchedu-01">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>Castleberry Capital Investment Services</CategoryTxt>
+        <Amt>3259</Amt>
+        <NetInvestmentIncomeAmt>3259</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>3259</AdjustedNetIncomeAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+  </ReturnData>
+</Return>

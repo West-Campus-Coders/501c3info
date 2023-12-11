@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2021v4.2">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-03-13T01:08:45-00:00</ReturnTs>
+    <TaxPeriodEndDt>2022-06-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>scott piskin</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>130 East 59th St 1102</AddressLine1Txt>
+        <CityNm>New York</CityNm>
+        <StateAbbreviationCd>NY</StateAbbreviationCd>
+        <ZIPCd>10022</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990</ReturnTypeCd>
+    <TaxPeriodBeginDt>2021-07-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>043815653</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>FY Eye Inc</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>FYEY</BusinessNameControlTxt>
+      <PhoneNum>2128329170</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>Grand Central Station PO Box 409</AddressLine1Txt>
+        <CityNm>New York</CityNm>
+        <StateAbbreviationCd>NY</StateAbbreviationCd>
+        <ZIPCd>101630409</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>Lorin Silverman</PersonNm>
+      <PersonTitleTxt>President</PersonTitleTxt>
+      <PhoneNum>2128329170</PhoneNum>
+      <SignatureDt>2022-11-02</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>Lorin</PersonFirstNm>
+        <PersonLastNm>Silverman</PersonLastNm>
+      </PersonFullName>
+      <SSN>XXX-XX-XXXX</SSN>
+    </SigningOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>scott piskin</PreparerPersonNm>
+      <PTIN>P02385260</PTIN>
+      <PhoneNum>2128329170</PhoneNum>
+      <PreparationDt>2022-11-02</PreparationDt>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp>
+        <TrustedCustomerCd>3</TrustedCustomerCd>
+        <AuthenticationAssuranceLevelCd>AAL1</AuthenticationAssuranceLevelCd>
+        <IdentityAssuranceLevelCd>IAL1</IdentityAssuranceLevelCd>
+      </TrustedCustomerGrp>
+    </AdditionalFilerInformation>
+    <TaxYr>2021</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="6">
+    <IRS990 documentId="990" softwareId="21013554" softwareVersionNum="21.0.5.0">
+      <PrincipalOfficerNm>Lorin Silverman</PrincipalOfficerNm>
+      <USAddress>
+        <AddressLine1Txt>130 East 59th Street STE 1102</AddressLine1Txt>
+        <CityNm>New York</CityNm>
+        <StateAbbreviationCd>NY</StateAbbreviationCd>
+        <ZIPCd>10022</ZIPCd>
+      </USAddress>
+      <GrossReceiptsAmt>707526</GrossReceiptsAmt>
+      <GroupReturnForAffiliatesInd>false</GroupReturnForAffiliatesInd>
+      <Organization501c3Ind>X</Organization501c3Ind>
+      <WebsiteAddressTxt>https://www.fyeye.org/</WebsiteAddressTxt>
+      <TypeOfOrganizationCorpInd>X</TypeOfOrganizationCorpInd>
+      <FormationYr>2005</FormationYr>
+      <LegalDomicileStateCd>NY</LegalDomicileStateCd>
+      <ActivityOrMissionDesc>See Schedule O For Organizations Mission.</ActivityOrMissionDesc>
+      <VotingMembersGoverningBodyCnt>4</VotingMembersGoverningBodyCnt>
+      <VotingMembersIndependentCnt>4</VotingMembersIndependentCnt>
+      <TotalEmployeeCnt>6</TotalEmployeeCnt>
+      <TotalVolunteersCnt>13</TotalVolunteersCnt>
+      <TotalGrossUBIAmt>0</TotalGrossUBIAmt>
+      <PYContributionsGrantsAmt>154694</PYContributionsGrantsAmt>
+      <CYContributionsGrantsAmt>26433</CYContributionsGrantsAmt>
+      <PYProgramServiceRevenueAmt>185690</PYProgramServiceRevenueAmt>
+      <CYProgramServiceRevenueAmt>415028</CYProgramServiceRevenueAmt>
+      <PYInvestmentIncomeAmt>54104</PYInvestmentIncomeAmt>
+      <CYInvestmentIncomeAmt>72154</CYInvestmentIncomeAmt>
+      <CYOtherRevenueAmt>0</CYOtherRevenueAmt>
+      <PYTotalRevenueAmt>394488</PYTotalRevenueAmt>
+      <CYTotalRevenueAmt>513615</CYTotalRevenueAmt>
+      <PYGrantsAndSimilarPaidAmt>12965</PYGrantsAndSimilarPaidAmt>
+      <CYGrantsAndSimilarPaidAmt>12712</CYGrantsAndSimilarPaidAmt>
+      <CYBenefitsPaidToMembersAmt>0</CYBenefitsPaidToMembersAmt>
+      <PYSalariesCompEmpBnftPaidAmt>162885</PYSalariesCompEmpBnftPaidAmt>
+      <CYSalariesCompEmpBnftPaidAmt>363693</CYSalariesCompEmpBnftPaidAmt>
+      <CYTotalProfFndrsngExpnsAmt>0</CYTotalProfFndrsngExpnsAmt>
+      <CYTotalFundraisingExpenseAmt>0</CYTotalFundraisingExpenseAmt>
+      <PYOtherExpensesAmt>40040</PYOtherExpensesAmt>
+      <CYOtherExpensesAmt>70379</CYOtherExpensesAmt>
+      <PYTotalExpensesAmt>215890</PYTotalExpensesAmt>
+      <CYTotalExpensesAmt>446784</CYTotalExpensesAmt>
+      <PYRevenuesLessExpensesAmt>178598</PYRevenuesLessExpensesAmt>
+      <CYRevenuesLessExpensesAmt>66831</CYRevenuesLessExpensesAmt>
+      <TotalAssetsBOYAmt>1059797</TotalAssetsBOYAmt>
+      <TotalAssetsEOYAmt>2448782</TotalAssetsEOYAmt>
+      <TotalLiabilitiesBOYAmt>11410</TotalLiabilitiesBOYAmt>
+      <TotalLiabilitiesEOYAmt>1471430</TotalLiabilitiesEOYAmt>
+      <NetAssetsOrFundBalancesBOYAmt>1048387</NetAssetsOrFundBalancesBOYAmt>
+      <NetAssetsOrFundBalancesEOYAmt>977352</NetAssetsOrFundBalancesEOYAmt>
+      <InfoInScheduleOPartIIIInd>X</InfoInScheduleOPartIIIInd>
+      <MissionDesc>See Schedule O For Organizations Mission.</MissionDesc>
+      <SignificantNewProgramSrvcInd>false</SignificantNewProgramSrvcInd>
+      <SignificantChangeInd>false</SignificantChangeInd>
+      <ExpenseAmt>389470</ExpenseAmt>
+      <GrantAmt>12712</GrantAmt>
+      <RevenueAmt>415028</RevenueAmt>
+      <Desc>F.Y. Eye is a nonprofit media agency that works with other nonprofits and government organizations to build public awareness about a variety of important social, civic, educational and health- based issues in order to get trusted and reliable information to marginalized and vulnerable populations. F.Y. Eye achieves this mission through a variety of low-cost and free media services, the cornerstone of which is their PSA network, Public Service Announcements, a free digital out of home advertising network located in nonprofit spaces across NYC and the country. F.Y. Eye provides nonprofits with a variety of low-cost creative services including outreach campaigns, digital media strategies, media buying and donated media placements. F.Y. Eyes innovative model also includes its Impact Artist Network, a community of socially engaged photographers, illustrators, painters, sculptors and more who partner with us to create the most powerful and successful amplification possible for its clients.</Desc>
+      <TotalProgramServiceExpensesAmt>389470</TotalProgramServiceExpensesAmt>
+      <DescribedInSection501c3Ind referenceDocumentId="990A">true</DescribedInSection501c3Ind>
+      <ScheduleBRequiredInd referenceDocumentId="990B">true</ScheduleBRequiredInd>
+      <PoliticalCampaignActyInd>false</PoliticalCampaignActyInd>
+      <LobbyingActivitiesInd>false</LobbyingActivitiesInd>
+      <SubjectToProxyTaxInd>false</SubjectToProxyTaxInd>
+      <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+      <ConservationEasementsInd>false</ConservationEasementsInd>
+      <CollectionsOfArtInd>false</CollectionsOfArtInd>
+      <CreditCounselingInd referenceDocumentId="990D">true</CreditCounselingInd>
+      <DonorRstrOrQuasiEndowmentsInd>false</DonorRstrOrQuasiEndowmentsInd>
+      <ReportLandBuildingEquipmentInd referenceDocumentId="990D">true</ReportLandBuildingEquipmentInd>
+      <ReportInvestmentsOtherSecInd>false</ReportInvestmentsOtherSecInd>
+      <ReportProgramRelatedInvstInd>false</ReportProgramRelatedInvstInd>
+      <ReportOtherAssetsInd>false</ReportOtherAssetsInd>
+      <ReportOtherLiabilitiesInd>false</ReportOtherLiabilitiesInd>
+      <IncludeFIN48FootnoteInd>false</IncludeFIN48FootnoteInd>
+      <IndependentAuditFinclStmtInd referenceDocumentId="990D">true</IndependentAuditFinclStmtInd>
+      <ConsolidatedAuditFinclStmtInd>false</ConsolidatedAuditFinclStmtInd>
+      <SchoolOperatingInd>false</SchoolOperatingInd>
+      <ForeignOfficeInd>false</ForeignOfficeInd>
+      <ForeignActivitiesInd>false</ForeignActivitiesInd>
+      <MoreThan5000KToOrgInd>false</MoreThan5000KToOrgInd>
+      <MoreThan5000KToIndividualsInd>false</MoreThan5000KToIndividualsInd>
+      <ProfessionalFundraisingInd>false</ProfessionalFundraisingInd>
+      <FundraisingActivitiesInd>false</FundraisingActivitiesInd>
+      <GamingActivitiesInd>false</GamingActivitiesInd>
+      <OperateHospitalInd>false</OperateHospitalInd>
+      <GrantsToOrganizationsInd referenceDocumentId="990I">true</GrantsToOrganizationsInd>
+      <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+      <ScheduleJRequiredInd>false</ScheduleJRequiredInd>
+      <TaxExemptBondsInd>false</TaxExemptBondsInd>
+      <EngagedInExcessBenefitTransInd>false</EngagedInExcessBenefitTransInd>
+      <PYExcessBenefitTransInd>false</PYExcessBenefitTransInd>
+      <LoanOutstandingInd>false</LoanOutstandingInd>
+      <GrantToRelatedPersonInd>false</GrantToRelatedPersonInd>
+      <BusinessRlnWithOrgMemInd>false</BusinessRlnWithOrgMemInd>
+      <BusinessRlnWithFamMemInd>false</BusinessRlnWithFamMemInd>
+      <BusinessRlnWith35CtrlEntInd>false</BusinessRlnWith35CtrlEntInd>
+      <DeductibleNonCashContriInd>false</DeductibleNonCashContriInd>
+      <DeductibleArtContributionInd>false</DeductibleArtContributionInd>
+      <TerminateOperationsInd>false</TerminateOperationsInd>
+      <PartialLiquidationInd>false</PartialLiquidationInd>
+      <DisregardedEntityInd>false</DisregardedEntityInd>
+      <RelatedEntityInd>false</RelatedEntityInd>
+      <RelatedOrganizationCtrlEntInd>false</RelatedOrganizationCtrlEntInd>
+      <TrnsfrExmptNonChrtblRltdOrgInd>false</TrnsfrExmptNonChrtblRltdOrgInd>
+      <ActivitiesConductedPrtshpInd>false</ActivitiesConductedPrtshpInd>
+      <ScheduleORequiredInd>true</ScheduleORequiredInd>
+      <IRPDocumentCnt>17</IRPDocumentCnt>
+      <IRPDocumentW2GCnt>0</IRPDocumentW2GCnt>
+      <BackupWthldComplianceInd>true</BackupWthldComplianceInd>
+      <EmployeeCnt>6</EmployeeCnt>
+      <EmploymentTaxReturnsFiledInd>true</EmploymentTaxReturnsFiledInd>
+      <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+      <ForeignFinancialAccountInd>false</ForeignFinancialAccountInd>
+      <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      <TaxablePartyNotificationInd>false</TaxablePartyNotificationInd>
+      <NondeductibleContributionsInd>false</NondeductibleContributionsInd>
+      <QuidProQuoContributionsInd>false</QuidProQuoContributionsInd>
+      <Form8282PropertyDisposedOfInd>false</Form8282PropertyDisposedOfInd>
+      <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+      <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+      <IndoorTanningServicesInd>false</IndoorTanningServicesInd>
+      <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      <SubjectToExcsTaxNetInvstIncInd>false</SubjectToExcsTaxNetInvstIncInd>
+      <ExcsTaxSect4951Or4952Or4953Ind>false</ExcsTaxSect4951Or4952Or4953Ind>
+      <InfoInScheduleOPartVIInd>X</InfoInScheduleOPartVIInd>
+      <GoverningBodyVotingMembersCnt>4</GoverningBodyVotingMembersCnt>
+      <IndependentVotingMemberCnt>4</IndependentVotingMemberCnt>
+      <FamilyOrBusinessRlnInd>true</FamilyOrBusinessRlnInd>
+      <DelegationOfMgmtDutiesInd>false</DelegationOfMgmtDutiesInd>
+      <ChangeToOrgDocumentsInd>false</ChangeToOrgDocumentsInd>
+      <MaterialDiversionOrMisuseInd>false</MaterialDiversionOrMisuseInd>
+      <MembersOrStockholdersInd>false</MembersOrStockholdersInd>
+      <ElectionOfBoardMembersInd>false</ElectionOfBoardMembersInd>
+      <DecisionsSubjectToApprovaInd>false</DecisionsSubjectToApprovaInd>
+      <MinutesOfGoverningBodyInd>true</MinutesOfGoverningBodyInd>
+      <MinutesOfCommitteesInd>true</MinutesOfCommitteesInd>
+      <OfficerMailingAddressInd>false</OfficerMailingAddressInd>
+      <LocalChaptersInd>false</LocalChaptersInd>
+      <Form990ProvidedToGvrnBodyInd>true</Form990ProvidedToGvrnBodyInd>
+      <ConflictOfInterestPolicyInd>true</ConflictOfInterestPolicyInd>
+      <AnnualDisclosureCoveredPrsnInd>true</AnnualDisclosureCoveredPrsnInd>
+      <RegularMonitoringEnfrcInd>true</RegularMonitoringEnfrcInd>
+      <WhistleblowerPolicyInd>true</WhistleblowerPolicyInd>
+      <DocumentRetentionPolicyInd>false</DocumentRetentionPolicyInd>
+      <CompensationProcessCEOInd>true</CompensationProcessCEOInd>
+      <CompensationProcessOtherInd>true</CompensationProcessOtherInd>
+      <InvestmentInJointVentureInd>false</InvestmentInJointVentureInd>
+      <StatesWhereCopyOfReturnIsFldCd>NY</StatesWhereCopyOfReturnIsFldCd>
+      <UponRequestInd>X</UponRequestInd>
+      <BooksInCareOfDetail>
+        <PersonNm>Lorin Silverman</PersonNm>
+        <PhoneNum>2128329170</PhoneNum>
+        <USAddress>
+          <AddressLine1Txt>130 East 59th Street Suite 1102</AddressLine1Txt>
+          <CityNm>New York</CityNm>
+          <StateAbbreviationCd>NY</StateAbbreviationCd>
+          <ZIPCd>10022</ZIPCd>
+        </USAddress>
+      </BooksInCareOfDetail>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>Jessica Toledano</PersonNm>
+        <TitleTxt>Executive Director</TitleTxt>
+        <AverageHoursPerWeekRt>040.00</AverageHoursPerWeekRt>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>94868</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>Lorin Silverman</PersonNm>
+        <TitleTxt>President</TitleTxt>
+        <AverageHoursPerWeekRt>004.00</AverageHoursPerWeekRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>Mark Cohen</PersonNm>
+        <TitleTxt>Secretary</TitleTxt>
+        <AverageHoursPerWeekRt>003.00</AverageHoursPerWeekRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>Eva Kantrowitz</PersonNm>
+        <TitleTxt>Director</TitleTxt>
+        <AverageHoursPerWeekRt>001.00</AverageHoursPerWeekRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>Grace Chung</PersonNm>
+        <TitleTxt>Director</TitleTxt>
+        <AverageHoursPerWeekRt>001.00</AverageHoursPerWeekRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <TotalReportableCompFromOrgAmt>94868</TotalReportableCompFromOrgAmt>
+      <FormerOfcrEmployeesListedInd>false</FormerOfcrEmployeesListedInd>
+      <TotalCompGreaterThan150KInd>false</TotalCompGreaterThan150KInd>
+      <CompensationFromOtherSrcsInd>false</CompensationFromOtherSrcsInd>
+      <AllOtherContributionsAmt>26433</AllOtherContributionsAmt>
+      <TotalContributionsAmt>26433</TotalContributionsAmt>
+      <ProgramServiceRevenueGrp>
+        <Desc>PSAs/Advertising/Graphic Design/Media Buys</Desc>
+        <BusinessCd>519100</BusinessCd>
+        <TotalRevenueColumnAmt>415028</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>415028</RelatedOrExemptFuncIncomeAmt>
+      </ProgramServiceRevenueGrp>
+      <TotalProgramServiceRevenueAmt>415028</TotalProgramServiceRevenueAmt>
+      <InvestmentIncomeGrp>
+        <TotalRevenueColumnAmt>33932</TotalRevenueColumnAmt>
+        <ExclusionAmt>33932</ExclusionAmt>
+      </InvestmentIncomeGrp>
+      <GrossAmountSalesAssetsGrp>
+        <SecuritiesAmt>232133</SecuritiesAmt>
+      </GrossAmountSalesAssetsGrp>
+      <LessCostOthBasisSalesExpnssGrp>
+        <SecuritiesAmt>193911</SecuritiesAmt>
+      </LessCostOthBasisSalesExpnssGrp>
+      <GainOrLossGrp>
+        <SecuritiesAmt>38222</SecuritiesAmt>
+      </GainOrLossGrp>
+      <NetGainOrLossInvestmentsGrp>
+        <TotalRevenueColumnAmt>38222</TotalRevenueColumnAmt>
+        <ExclusionAmt>38222</ExclusionAmt>
+      </NetGainOrLossInvestmentsGrp>
+      <TotalRevenueGrp>
+        <TotalRevenueColumnAmt>513615</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>415028</RelatedOrExemptFuncIncomeAmt>
+        <ExclusionAmt>72154</ExclusionAmt>
+      </TotalRevenueGrp>
+      <GrantsToDomesticOrgsGrp>
+        <TotalAmt>12712</TotalAmt>
+        <ProgramServicesAmt>12712</ProgramServicesAmt>
+      </GrantsToDomesticOrgsGrp>
+      <GrantsToDomesticIndividualsGrp>
+        <TotalAmt>0</TotalAmt>
+      </GrantsToDomesticIndividualsGrp>
+      <ForeignGrantsGrp>
+        <TotalAmt>0</TotalAmt>
+      </ForeignGrantsGrp>
+      <BenefitsToMembersGrp>
+        <TotalAmt>0</TotalAmt>
+      </BenefitsToMembersGrp>
+      <CompCurrentOfcrDirectorsGrp>
+        <TotalAmt>155895</TotalAmt>
+        <ProgramServicesAmt>140306</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>15589</ManagementAndGeneralAmt>
+      </CompCurrentOfcrDirectorsGrp>
+      <CompDisqualPersonsGrp>
+        <TotalAmt>0</TotalAmt>
+      </CompDisqualPersonsGrp>
+      <OtherSalariesAndWagesGrp>
+        <TotalAmt>145604</TotalAmt>
+        <ProgramServicesAmt>131043</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>14561</ManagementAndGeneralAmt>
+      </OtherSalariesAndWagesGrp>
+      <PensionPlanContributionsGrp>
+        <TotalAmt>3888</TotalAmt>
+        <ProgramServicesAmt>3499</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>389</ManagementAndGeneralAmt>
+      </PensionPlanContributionsGrp>
+      <OtherEmployeeBenefitsGrp>
+        <TotalAmt>33202</TotalAmt>
+        <ProgramServicesAmt>29882</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>3320</ManagementAndGeneralAmt>
+      </OtherEmployeeBenefitsGrp>
+      <PayrollTaxesGrp>
+        <TotalAmt>25104</TotalAmt>
+        <ProgramServicesAmt>22594</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>2510</ManagementAndGeneralAmt>
+      </PayrollTaxesGrp>
+      <FeesForServicesManagementGrp>
+        <TotalAmt>0</TotalAmt>
+      </FeesForServicesManagementGrp>
+      <FeesForServicesLegalGrp>
+        <TotalAmt>0</TotalAmt>
+      </FeesForServicesLegalGrp>
+      <FeesForServicesAccountingGrp>
+        <TotalAmt>8900</TotalAmt>
+        <ManagementAndGeneralAmt>8900</ManagementAndGeneralAmt>
+      </FeesForServicesAccountingGrp>
+      <FeesForServicesLobbyingGrp>
+        <TotalAmt>0</TotalAmt>
+      </FeesForServicesLobbyingGrp>
+      <FeesForServicesProfFundraising></FeesForServicesProfFundraising>
+      <FeesForSrvcInvstMgmntFeesGrp>
+        <TotalAmt>3736</TotalAmt>
+        <ManagementAndGeneralAmt>3736</ManagementAndGeneralAmt>
+      </FeesForSrvcInvstMgmntFeesGrp>
+      <FeesForServicesOtherGrp>
+        <TotalAmt>2482</TotalAmt>
+        <ProgramServicesAmt>2394</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>88</ManagementAndGeneralAmt>
+      </FeesForServicesOtherGrp>
+      <AdvertisingGrp>
+        <TotalAmt>2726</TotalAmt>
+        <ManagementAndGeneralAmt>2726</ManagementAndGeneralAmt>
+      </AdvertisingGrp>
+      <OfficeExpensesGrp>
+        <TotalAmt>0</TotalAmt>
+      </OfficeExpensesGrp>
+      <InformationTechnologyGrp>
+        <TotalAmt>15439</TotalAmt>
+        <ProgramServicesAmt>15439</ProgramServicesAmt>
+      </InformationTechnologyGrp>
+      <RoyaltiesGrp>
+        <TotalAmt>0</TotalAmt>
+      </RoyaltiesGrp>
+      <OccupancyGrp>
+        <TotalAmt>15266</TotalAmt>
+        <ProgramServicesAmt>11450</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>3816</ManagementAndGeneralAmt>
+      </OccupancyGrp>
+      <TravelGrp>
+        <TotalAmt>1202</TotalAmt>
+        <ProgramServicesAmt>901</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>301</ManagementAndGeneralAmt>
+      </TravelGrp>
+      <PymtTravelEntrtnmntPubOfclGrp>
+        <TotalAmt>0</TotalAmt>
+      </PymtTravelEntrtnmntPubOfclGrp>
+      <ConferencesMeetingsGrp>
+        <TotalAmt>9733</TotalAmt>
+        <ProgramServicesAmt>9733</ProgramServicesAmt>
+      </ConferencesMeetingsGrp>
+      <InterestGrp>
+        <TotalAmt>0</TotalAmt>
+      </InterestGrp>
+      <PaymentsToAffiliatesGrp>
+        <TotalAmt>0</TotalAmt>
+      </PaymentsToAffiliatesGrp>
+      <DepreciationDepletionGrp>
+        <TotalAmt>3399</TotalAmt>
+        <ProgramServicesAmt>3399</ProgramServicesAmt>
+      </DepreciationDepletionGrp>
+      <InsuranceGrp>
+        <TotalAmt>3420</TotalAmt>
+        <ProgramServicesAmt>2735</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>685</ManagementAndGeneralAmt>
+      </InsuranceGrp>
+      <OtherExpensesGrp>
+        <Desc>Payroll Processing Service</Desc>
+        <TotalAmt>2176</TotalAmt>
+        <ProgramServicesAmt>1958</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>218</ManagementAndGeneralAmt>
+      </OtherExpensesGrp>
+      <OtherExpensesGrp>
+        <Desc>Utilities</Desc>
+        <TotalAmt>1900</TotalAmt>
+        <ProgramServicesAmt>1425</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>475</ManagementAndGeneralAmt>
+      </OtherExpensesGrp>
+      <AllOtherExpensesGrp>
+        <TotalAmt>0</TotalAmt>
+      </AllOtherExpensesGrp>
+      <TotalFunctionalExpensesGrp>
+        <TotalAmt>446784</TotalAmt>
+        <ProgramServicesAmt>389470</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>57314</ManagementAndGeneralAmt>
+        <FundraisingAmt>0</FundraisingAmt>
+      </TotalFunctionalExpensesGrp>
+      <SavingsAndTempCashInvstGrp>
+        <BOYAmt>237257</BOYAmt>
+        <EOYAmt>345580</EOYAmt>
+      </SavingsAndTempCashInvstGrp>
+      <AccountsReceivableGrp>
+        <BOYAmt>34072</BOYAmt>
+        <EOYAmt>43563</EOYAmt>
+      </AccountsReceivableGrp>
+      <LandBldgEquipCostOrOtherBssAmt>4405</LandBldgEquipCostOrOtherBssAmt>
+      <LandBldgEquipAccumDeprecAmt>4405</LandBldgEquipAccumDeprecAmt>
+      <InvestmentsPubTradedSecGrp>
+        <BOYAmt>788468</BOYAmt>
+        <EOYAmt>2059639</EOYAmt>
+      </InvestmentsPubTradedSecGrp>
+      <TotalAssetsGrp>
+        <BOYAmt>1059797</BOYAmt>
+        <EOYAmt>2448782</EOYAmt>
+      </TotalAssetsGrp>
+      <AccountsPayableAccrExpnssGrp>
+        <BOYAmt>11410</BOYAmt>
+        <EOYAmt>141221</EOYAmt>
+      </AccountsPayableAccrExpnssGrp>
+      <EscrowAccountLiabilityGrp>
+        <EOYAmt>1330209</EOYAmt>
+      </EscrowAccountLiabilityGrp>
+      <TotalLiabilitiesGrp>
+        <BOYAmt>11410</BOYAmt>
+        <EOYAmt>1471430</EOYAmt>
+      </TotalLiabilitiesGrp>
+      <OrganizationFollowsFASB117Ind>X</OrganizationFollowsFASB117Ind>
+      <NoDonorRestrictionNetAssetsGrp>
+        <BOYAmt>1041228</BOYAmt>
+        <EOYAmt>977352</EOYAmt>
+      </NoDonorRestrictionNetAssetsGrp>
+      <DonorRestrictionNetAssetsGrp>
+        <BOYAmt>7159</BOYAmt>
+      </DonorRestrictionNetAssetsGrp>
+      <TotalNetAssetsFundBalanceGrp>
+        <BOYAmt>1048387</BOYAmt>
+        <EOYAmt>977352</EOYAmt>
+      </TotalNetAssetsFundBalanceGrp>
+      <TotLiabNetAssetsFundBalanceGrp>
+        <BOYAmt>1059797</BOYAmt>
+        <EOYAmt>2448782</EOYAmt>
+      </TotLiabNetAssetsFundBalanceGrp>
+      <ReconcilationRevenueExpnssAmt>66831</ReconcilationRevenueExpnssAmt>
+      <NetUnrlzdGainsLossesInvstAmt>-137866</NetUnrlzdGainsLossesInvstAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AccountantCompileOrReviewInd>false</AccountantCompileOrReviewInd>
+      <FSAuditedInd>true</FSAuditedInd>
+      <FSAuditedBasisGrp>
+        <SeparateBasisFinclStmtInd>X</SeparateBasisFinclStmtInd>
+      </FSAuditedBasisGrp>
+      <AuditCommitteeInd>false</AuditCommitteeInd>
+      <FederalGrantAuditRequiredInd>false</FederalGrantAuditRequiredInd>
+    </IRS990>
+    <IRS990ScheduleA documentId="990A" softwareId="21013554" softwareVersionNum="21.0.5.0">
+      <PublicOrganization170Ind>X</PublicOrganization170Ind>
+      <GiftsGrantsContriRcvd170Grp>
+        <CurrentTaxYearMinus4YearsAmt>715798</CurrentTaxYearMinus4YearsAmt>
+        <CurrentTaxYearMinus3YearsAmt>5</CurrentTaxYearMinus3YearsAmt>
+        <CurrentTaxYearMinus2YearsAmt>25620</CurrentTaxYearMinus2YearsAmt>
+        <CurrentTaxYearMinus1YearAmt>154694</CurrentTaxYearMinus1YearAmt>
+        <CurrentTaxYearAmt>26433</CurrentTaxYearAmt>
+        <TotalAmt>922550</TotalAmt>
+      </GiftsGrantsContriRcvd170Grp>
+      <TotalCalendarYear170Grp>
+        <CurrentTaxYearMinus4YearsAmt>715798</CurrentTaxYearMinus4YearsAmt>
+        <CurrentTaxYearMinus3YearsAmt>5</CurrentTaxYearMinus3YearsAmt>
+        <CurrentTaxYearMinus2YearsAmt>25620</CurrentTaxYearMinus2YearsAmt>
+        <CurrentTaxYearMinus1YearAmt>154694</CurrentTaxYearMinus1YearAmt>
+        <CurrentTaxYearAmt>26433</CurrentTaxYearAmt>
+        <TotalAmt>922550</TotalAmt>
+      </TotalCalendarYear170Grp>
+      <PublicSupportTotal170Amt>922550</PublicSupportTotal170Amt>
+      <GrossInvestmentIncome170Grp>
+        <CurrentTaxYearMinus4YearsAmt>13956</CurrentTaxYearMinus4YearsAmt>
+        <CurrentTaxYearMinus3YearsAmt>32053</CurrentTaxYearMinus3YearsAmt>
+        <CurrentTaxYearMinus2YearsAmt>28802</CurrentTaxYearMinus2YearsAmt>
+        <CurrentTaxYearMinus1YearAmt>24413</CurrentTaxYearMinus1YearAmt>
+        <CurrentTaxYearAmt>33932</CurrentTaxYearAmt>
+        <TotalAmt>133156</TotalAmt>
+      </GrossInvestmentIncome170Grp>
+      <TotalSupportAmt>1055706</TotalSupportAmt>
+      <GrossReceiptsRltdActivitiesAmt>630265</GrossReceiptsRltdActivitiesAmt>
+      <PublicSupportCY170Pct>0.87390</PublicSupportCY170Pct>
+      <PublicSupportPY170Pct>0.89890</PublicSupportPY170Pct>
+      <ThirtyThrPctSuprtTestsCY170Ind>X</ThirtyThrPctSuprtTestsCY170Ind>
+    </IRS990ScheduleA>
+    <IRS990ScheduleB documentId="990B" softwareId="21013554" softwareVersionNum="21.0.5.0">
+      <ContributorInformationGrp>
+        <ContributorNum>RESTRICTED</ContributorNum>
+        <ContributorBusinessName>
+          <BusinessNameLine1>RESTRICTED</BusinessNameLine1>
+        </ContributorBusinessName>
+        <ContributorUSAddress>
+          <AddressLine1>RESTRICTED</AddressLine1>
+          <AddressLine2>RESTRICTED</AddressLine2>
+          <City>RESTRICTED</City>
+          <State>RESTRICTED</State>
+          <ZIPCode>RESTRICTED</ZIPCode>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>RESTRICTED</TotalContributionsAmt>
+      </ContributorInformationGrp>
+    </IRS990ScheduleB>
+    <IRS990ScheduleD documentId="990D" softwareId="21013554" softwareVersionNum="21.0.5.0">
+      <AgentTrusteeEtcInd>false</AgentTrusteeEtcInd>
+      <InclEscrowCustodialAcctLiabInd>true</InclEscrowCustodialAcctLiabInd>
+      <ExplanationProvidedInd>X</ExplanationProvidedInd>
+      <EquipmentGrp>
+        <OtherCostOrOtherBasisAmt>4405</OtherCostOrOtherBasisAmt>
+        <DepreciationAmt>4405</DepreciationAmt>
+      </EquipmentGrp>
+      <OtherSecuritiesGrp>
+        <Desc>Financial derivatives and other financial products</Desc>
+      </OtherSecuritiesGrp>
+      <OtherSecuritiesGrp>
+        <Desc>Closely-held equity interests</Desc>
+      </OtherSecuritiesGrp>
+      <OtherLiabilitiesOrgGrp>
+        <Desc>Federal income taxes</Desc>
+      </OtherLiabilitiesOrgGrp>
+      <TotalRevEtcAuditedFinclStmtAmt>375749</TotalRevEtcAuditedFinclStmtAmt>
+      <NetUnrealizedGainsInvstAmt>-137866</NetUnrealizedGainsInvstAmt>
+      <RevenueNotReportedAmt>-137866</RevenueNotReportedAmt>
+      <RevenueSubtotalAmt>513615</RevenueSubtotalAmt>
+      <TotalRevenuePerForm990Amt>513615</TotalRevenuePerForm990Amt>
+      <TotExpnsEtcAuditedFinclStmtAmt>446784</TotExpnsEtcAuditedFinclStmtAmt>
+      <ExpensesSubtotalAmt>446784</ExpensesSubtotalAmt>
+      <TotalExpensesPerForm990Amt>446784</TotalExpensesPerForm990Amt>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>IV 2a</FormAndLineReferenceDesc>
+        <ExplanationTxt>A five year Term Endowment, with restrictions of 1,330,209, as of fiscal year end</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleD>
+    <IRS990ScheduleI documentId="990I" softwareId="21013554" softwareVersionNum="21.0.5.0">
+      <GrantRecordsMaintainedInd>true</GrantRecordsMaintainedInd>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>JASA</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>247 West 37th St</AddressLine1Txt>
+          <CityNm>New York</CityNm>
+          <StateAbbreviationCd>NY</StateAbbreviationCd>
+          <ZIPCd>10018</ZIPCd>
+        </USAddress>
+        <RecipientEIN>132620896</RecipientEIN>
+        <IRCSectionDesc>501c3</IRCSectionDesc>
+        <CashGrantAmt>5603</CashGrantAmt>
+        <PurposeOfGrantTxt>PSA Host</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>SAGE</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>305 7th Ave 15th fl</AddressLine1Txt>
+          <CityNm>New York</CityNm>
+          <StateAbbreviationCd>NY</StateAbbreviationCd>
+          <ZIPCd>10001</ZIPCd>
+        </USAddress>
+        <RecipientEIN>132947657</RecipientEIN>
+        <IRCSectionDesc>501c3</IRCSectionDesc>
+        <CashGrantAmt>7109</CashGrantAmt>
+        <PurposeOfGrantTxt>PSA Host</PurposeOfGrantTxt>
+      </RecipientTable>
+      <Total501c3OrgCnt>2</Total501c3OrgCnt>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Part I Line 2</FormAndLineReferenceDesc>
+        <ExplanationTxt>F.Y. Eye is a New York based and focused nonprofit media agency that works with other nonprofits and government organizations to build awareness about important social, civic and educational resources and programs. Their signature program is the digital PSA Network, an ecosystem of over 100 indoor and outdoor digital billboards strategically placed in high-visibility public and nonprofit spaces we all encounter in our daily lives including hospitals, community colleges, recreational facilities, concert venues, public health clinics, community centers, libraries, and more. This network of screens was created specifically and exclusively for social impact messaging and public service announcements and they offer nonprofits and select government agencies access to this media channel for free. F.Y. Eye currently offers digital communications grants to organizations interested in obtaining digital signage.</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleI>
+    <IRS990ScheduleO documentId="990O" softwareId="21013554" softwareVersionNum="21.0.5.0">
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990, Part III, Line 1 and 4a</FormAndLineReferenceDesc>
+        <ExplanationTxt>F.Y. Eye is a NFP media agency intersecting art advertising to amplify social issues. Our mission is to build public awareness on a variety of important social, civic, educational health based issues to get trusted and reliable information to marginalized and vulnerable populations. F.Y. Eye achieves our mission through low-cost and free media services, the cornerstone is the PSA Network.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990, Part III, Line 1 and 4a</FormAndLineReferenceDesc>
+        <ExplanationTxt>F.Y. Eyes innovative model also includes its Impact Artist Network, a community of socially engaged photographers, illustrators, painters, sculptors, graphic artist and more who partner with us to create the most powerful and successful amplification campaigns possible for its clients.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990, Part VI, Section A, Line 2</FormAndLineReferenceDesc>
+        <ExplanationTxt>In a separate capacity, Mark Cohen as an attorney performs professional services for which he is compensated by entities in which Lorin Silverman has an ownership interest.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990, Part VI, Section B, Line 11B</FormAndLineReferenceDesc>
+        <ExplanationTxt>The organization has provided a copy of Form 990 to all board members, prior to filing.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990, Part VI, Section B, Line 12C</FormAndLineReferenceDesc>
+        <ExplanationTxt>F.Y. Eye, Inc. has a written conflict of interest policy which it enforces by having its directors complete and sign an annual conflict of interest questionnaire.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990, Part VI, Section B, Line 15A B</FormAndLineReferenceDesc>
+        <ExplanationTxt>The board reviews salary and benefit package to comparables in industry, on an ongoing basis.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990, Part VI, Section B, Line 19</FormAndLineReferenceDesc>
+        <ExplanationTxt>The organizations governing documents, financial statements, conflict of interest policy, and whistleblower policies are all available upon request.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990, Part III, Line 1 and 4a</FormAndLineReferenceDesc>
+        <ExplanationTxt>This free digital advertising platform is located in and run by and for NFP across the country. F.Y. Eye also brings NFP messages to the public by providing creative strategy with media planning buying support.</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleO>
+  </ReturnData>
+</Return>

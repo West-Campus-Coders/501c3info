@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xsi:schemaLocation="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2022v5.0">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-03-23T11:33:15-05:00</ReturnTs>
+    <TaxPeriodEndDt>2022-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Jeffrey D Haskell</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>3333 New Hyde Park Rd Ste 406</AddressLine1Txt>
+        <CityNm>New Hyde Park</CityNm>
+        <StateAbbreviationCd>NY</StateAbbreviationCd>
+        <ZIPCd>11042</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>814657280</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>The Richard &amp; Monette Stevens Foundation</BusinessNameLine1Txt>
+      </BusinessName>
+      <InCareOfNm>% Foundation Source</InCareOfNm>
+      <BusinessNameControlTxt>RICH</BusinessNameControlTxt>
+      <PhoneNum>8008391754</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>Foundation Source 501 Silverside Rd</AddressLine1Txt>
+        <CityNm>Wilmington</CityNm>
+        <StateAbbreviationCd>DE</StateAbbreviationCd>
+        <ZIPCd>198091377</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>monette stevens</PersonNm>
+      <PersonTitleTxt>president</PersonTitleTxt>
+      <PhoneNum>8008391754</PhoneNum>
+      <SignatureDt>2023-03-15</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>monette</PersonFirstNm>
+        <PersonLastNm>stevens</PersonLastNm>
+      </PersonFullName>
+      <SSN>999009999</SSN>
+    </SigningOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Jeffrey D Haskell</PreparerPersonNm>
+      <PTIN>P01345770</PTIN>
+      <PhoneNum>8008391754</PhoneNum>
+    </PreparerPersonGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp />
+    </AdditionalFilerInformation>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="7">
+    <IRS990PF documentId="IRS990PF">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>345152</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>50100</ContriRcvdRevAndExpnssAmt>
+        <InterestOnSavRevAndExpnssAmt>102</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>102</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>8550</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>8550</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>-32222</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>178645</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>0</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>26530</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>8652</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>0</CompOfcrDirTrstRevAndExpnssAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="OthProfFeesSch">2901</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>2901</OtherProfFeesNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">4</TaxesRevAndExpnssAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSch">4888</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesDsbrsChrtblAmt>4888</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>7793</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>2901</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>4888</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>11000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>11000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>18793</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>2901</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>15888</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>7737</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>5751</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>79564</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>78302</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>78302</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>278903</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="InvestCorpStockSch">287902</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>266850</CorporateStockEOYFMVAmt>
+        <TotalAssetsBOYAmt>358467</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>366204</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>345152</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesBOYAmt>0</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <RetainedEarningBOYAmt>358467</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>366204</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>358467</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>366204</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>358467</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>366204</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>358467</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>7737</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>366204</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>366204</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Publicly-traded Securities</PropertyDesc>
+          <GrossSalesPriceAmt>178645</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>210867</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-32222</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-32222</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>-32222</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>80</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>80</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>80</TaxBasedOnInvestmentIncomeAmt>
+        <ExemptFrgnOrgTaxWthldAtSrceAmt>0</ExemptFrgnOrgTaxWthldAtSrceAmt>
+        <TotalPaymentsAndCreditsAmt>0</TotalPaymentsAndCreditsAmt>
+        <TaxDueAmt>80</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>DE</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>Foundation Source</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>8008391754</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>501 Silverside Road Suite 123</AddressLine1Txt>
+          <CityNm>Wilmington</CityNm>
+          <StateAbbreviationCd>DE</StateAbbreviationCd>
+          <ZIPCd>198091377</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Monette S Stevens</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>Foundation Source 501 Silverside Rd</AddressLine1Txt>
+            <CityNm>Wilmington</CityNm>
+            <StateAbbreviationCd>DE</StateAbbreviationCd>
+            <ZIPCd>198091377</ZIPCd>
+          </USAddress>
+          <TitleTxt>Dir, Pres, Sec, Treas</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp />
+      <SumOfProgramRelatedInvstGrp />
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>279970</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>41889</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>321859</TotalFMVOfUnusedAssetsAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>321859</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>4828</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>317031</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>15852</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>15852</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>80</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>80</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>15772</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>15772</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>15772</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>15888</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <CharitableAssetsAcquisPaidAmt>0</CharitableAssetsAcquisPaidAmt>
+        <SetAsideSuitabilityTestAmt>0</SetAsideSuitabilityTestAmt>
+        <SetAsideCashDistriTestAmt>0</SetAsideCashDistriTestAmt>
+        <QualifyingDistributionsAmt>15888</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>15772</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>15444</UndistributedIncomePYAmt>
+        <PriorYear1Yr>2020</PriorYear1Yr>
+        <PriorYear2Yr>2019</PriorYear2Yr>
+        <PriorYear3Yr>2018</PriorYear3Yr>
+        <QualifyingDistributionsAmt>15888</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>15444</AppliedToYear1Amt>
+        <AppliedToCurrentYearAmt>444</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>0</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>0</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>15328</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>0</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromCurrentYearAmt>0</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <PrivateOperatingFoundationsGrp></PrivateOperatingFoundationsGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>Monette S Stevens</ContributingManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CASA PACIFICA CENTERS FOR CHILDREN AND FAMILIES</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1722 S LEWIS RD</AddressLine1Txt>
+            <CityNm>CAMARILLO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>93012</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General &amp; Unrestricted</GrantOrContributionPurposeTxt>
+          <Amt>4000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CHILDREN'S HOSPITAL OF LOS ANGELES</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4650 W SUNSET BLVD</AddressLine1Txt>
+            <CityNm>LOS ANGELES</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90027</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General &amp; Unrestricted</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FOOD SHARE INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4156 SOUTHBANK RD</AddressLine1Txt>
+            <CityNm>OXNARD</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>93036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General &amp; Unrestricted</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FRIENDS OF BIG BEAR VALLEY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 422</AddressLine1Txt>
+            <CityNm>FAWNSKIN</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92333</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General &amp; Unrestricted</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>PLANNED PARENTHOOD LOS ANGELES</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>400 W 30TH ST</AddressLine1Txt>
+            <CityNm>LOS ANGELES</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90007</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General &amp; Unrestricted</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>11000</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <FeesContractsFromGovtAgGrp />
+        <MembershipDuesAndAssmntGrp />
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>102</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>8550</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <NetRntlIncmReDebtFincdPropGrp />
+        <NetRntlIncmReNotDebtFincdProp />
+        <NetRentalIncomePersonalPropGrp />
+        <OtherInvestmentIncomeGrp />
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>-32222</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <NetIncomeLossFromSpecialEvtGrp />
+        <GrossProfitLossSlsOfInvntryGrp />
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>-23570</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>-23570</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorPersonNm>Stevens Monette S</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>11805 Pradera Road</AddressLine1Txt>
+          <CityNm>Camarillo</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>93012</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>50100</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+    </IRS990ScheduleB>
+    <DepreciationSchedule documentId="DepreciationSch" />
+    <InvestmentsCorpStockSchedule documentId="InvestCorpStockSch">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>INVESCO S&amp;P 500 LOW VOLATILITY</StockNm>
+        <EOYBookValueAmt>16661</EOYBookValueAmt>
+        <EOYFMVAmt>16678</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>OPPENHEIMER RUSSELL 1000 DYNAM</StockNm>
+        <EOYBookValueAmt>12485</EOYBookValueAmt>
+        <EOYFMVAmt>10907</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PIMCO COMMODITY REAL RETURN ST</StockNm>
+        <EOYBookValueAmt>15628</EOYBookValueAmt>
+        <EOYFMVAmt>10772</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>REAL ESTATE SELECT SECTOR SPDR</StockNm>
+        <EOYBookValueAmt>9016</EOYBookValueAmt>
+        <EOYFMVAmt>8162</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SELECT SECTOR SPDR ENERGY FUND</StockNm>
+        <EOYBookValueAmt>7970</EOYBookValueAmt>
+        <EOYFMVAmt>7610</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SELECT SECTOR SPDR-HEALTH CARE</StockNm>
+        <EOYBookValueAmt>16294</EOYBookValueAmt>
+        <EOYFMVAmt>16574</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SPDR PORT INTM TERM TREAS ETF</StockNm>
+        <EOYBookValueAmt>6174</EOYBookValueAmt>
+        <EOYFMVAmt>5450</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SPDR PORTFOLIO DEVELOPED WORLD</StockNm>
+        <EOYBookValueAmt>21508</EOYBookValueAmt>
+        <EOYFMVAmt>22743</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SPDR PORTFOLIO EMERGING MARKET</StockNm>
+        <EOYBookValueAmt>8055</EOYBookValueAmt>
+        <EOYFMVAmt>8273</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SPDR PORTFOLIO HIGH YIELD BND</StockNm>
+        <EOYBookValueAmt>8261</EOYBookValueAmt>
+        <EOYFMVAmt>8087</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SPDR PORTFOLIO INTERMEDIATE TE</StockNm>
+        <EOYBookValueAmt>9366</EOYBookValueAmt>
+        <EOYFMVAmt>8212</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SPDR PORTFOLIO MID CAP ETF</StockNm>
+        <EOYBookValueAmt>7727</EOYBookValueAmt>
+        <EOYFMVAmt>8075</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SPDR PORTFOLIO SMALL CAP ETF</StockNm>
+        <EOYBookValueAmt>36229</EOYBookValueAmt>
+        <EOYFMVAmt>31720</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SPDR S&amp;P 500 GROWTH</StockNm>
+        <EOYBookValueAmt>40665</EOYBookValueAmt>
+        <EOYFMVAmt>32580</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SPDR S&amp;P 500 VALUE</StockNm>
+        <EOYBookValueAmt>23878</EOYBookValueAmt>
+        <EOYFMVAmt>24501</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SPDR SERIES TRUST PORTFOLIO TL</StockNm>
+        <EOYBookValueAmt>13291</EOYBookValueAmt>
+        <EOYFMVAmt>10829</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>TECHNOLOGY SPDR</StockNm>
+        <EOYBookValueAmt>21331</EOYBookValueAmt>
+        <EOYFMVAmt>21901</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>WISDOMTREE BARCLAYS YIELD ENHA</StockNm>
+        <EOYBookValueAmt>13363</EOYBookValueAmt>
+        <EOYFMVAmt>13776</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSch">
+      <OtherExpensesScheduleGrp>
+        <Desc>Administrative Fees</Desc>
+        <RevenueAndExpensesPerBooksAmt>4863</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>4863</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>State or Local Filing Fees</Desc>
+        <RevenueAndExpensesPerBooksAmt>25</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>25</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OthProfFeesSch">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>Investment Management Services</CategoryTxt>
+        <Amt>2901</Amt>
+        <NetInvestmentIncomeAmt>2901</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule">
+      <TaxesDetail>
+        <CategoryTxt>990-PF Excise Tax for 2021</CategoryTxt>
+        <Amt>4</Amt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xsi:schemaLocation="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2021v4.2">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-02-24T10:37:37-06:00</ReturnTs>
+    <TaxPeriodEndDt>2022-11-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>BDO USA LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>10200 Grand Central Ave Suite 320</AddressLine1Txt>
+        <CityNm>Owings Mills</CityNm>
+        <StateAbbreviationCd>MD</StateAbbreviationCd>
+        <ZIPCd>21117</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2021-12-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>521907797</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>The Walter M Meinhardt Sr Family</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>Foundation Inc</BusinessNameLine2Txt>
+      </BusinessName>
+      <InCareOfNm>% KATHY GOLDSMITH</InCareOfNm>
+      <BusinessNameControlTxt>WALT</BusinessNameControlTxt>
+      <PhoneNum>3013722943</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>14145 Brandywine Road</AddressLine1Txt>
+        <CityNm>Brandywine</CityNm>
+        <StateAbbreviationCd>MD</StateAbbreviationCd>
+        <ZIPCd>20613</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>Dorothy E Crecelius</PersonNm>
+      <PersonTitleTxt>Secretary/Treasurer</PersonTitleTxt>
+      <PhoneNum>3013722943</PhoneNum>
+      <SignatureDt>2023-02-07</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>Dorothy E</PersonFirstNm>
+        <PersonLastNm>Crecelius</PersonLastNm>
+      </PersonFullName>
+      <SSN>999009999</SSN>
+    </SigningOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Gunther Brand</PreparerPersonNm>
+      <PTIN>P01029700</PTIN>
+      <PhoneNum>4103633200</PhoneNum>
+    </PreparerPersonGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp />
+    </AdditionalFilerInformation>
+    <TaxYr>2021</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="7">
+    <IRS990PF documentId="IRS990PF">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>252231</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>0</ContriRcvdRevAndExpnssAmt>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>133</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>133</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>5062</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>5062</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>16080</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>45045</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>16080</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>21275</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>21275</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>0</CompOfcrDirTrstRevAndExpnssAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSch">3650</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>0</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesAdjNetIncmAmt>0</AccountingFeesAdjNetIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>0</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="OthProfFeesSch">1332</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>1332</OtherProfFeesNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">2764</TaxesRevAndExpnssAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSch">139</OtherExpensesRevAndExpnssAmt>
+        <TotOprExpensesRevAndExpnssAmt>7885</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>1332</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>0</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>55000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>55000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>62885</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>1332</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>0</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>55000</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-41610</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>19943</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>22291</CashBOYAmt>
+        <CashEOYAmt>5852</CashEOYAmt>
+        <CashEOYFMVAmt>5852</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>3538</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>7465</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>7465</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>134129</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="InvestCorpStockSch">105031</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>238914</CorporateStockEOYFMVAmt>
+        <TotalAssetsBOYAmt>159958</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>118348</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>252231</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesBOYAmt>0</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <RetainedEarningBOYAmt>159958</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>118348</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>159958</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>118348</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>159958</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>118348</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>159958</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-41610</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>118348</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>118348</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUBLICLY TRADED SECURITIES</PropertyDesc>
+          <GrossSalesPriceAmt>45045</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>28965</CostOrOtherBasisAmt>
+          <GainOrLossAmt>16080</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>16080</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>16080</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>277</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>277</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>277</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>1457</EstimatedPlusOvpmtIncmTxAmt>
+        <ExemptFrgnOrgTaxWthldAtSrceAmt>0</ExemptFrgnOrgTaxWthldAtSrceAmt>
+        <TotalPaymentsAndCreditsAmt>1457</TotalPaymentsAndCreditsAmt>
+        <OverpaymentAmt>1180</OverpaymentAmt>
+        <AppliedToESTaxAmt>1180</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>MD</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>KATHY GOLDSMITH</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>3013722943</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>14145 BRANDYWINE RD</AddressLine1Txt>
+          <CityNm>Brandywine</CityNm>
+          <StateAbbreviationCd>MD</StateAbbreviationCd>
+          <ZIPCd>20613</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Walter M Meinhardt Sr</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>24 dockside lane</AddressLine1Txt>
+            <CityNm>key largo</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33037</ZIPCd>
+          </USAddress>
+          <TitleTxt>President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Kay L Meinhardt</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>24 dockside lane</AddressLine1Txt>
+            <CityNm>key largo</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33037</ZIPCd>
+          </USAddress>
+          <TitleTxt>Vice President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Dorothy E Crecelius</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>15300 letcher road east</AddressLine1Txt>
+            <CityNm>brandywine</CityNm>
+            <StateAbbreviationCd>MD</StateAbbreviationCd>
+            <ZIPCd>20613</ZIPCd>
+          </USAddress>
+          <TitleTxt>Secretary/treasurer</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp />
+      <SumOfProgramRelatedInvstGrp />
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>388581</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>34058</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>422639</TotalFMVOfUnusedAssetsAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>422639</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>6340</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>416299</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>20815</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>20815</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>277</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>277</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>20538</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>20538</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>20538</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>55000</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <CharitableAssetsAcquisPaidAmt>0</CharitableAssetsAcquisPaidAmt>
+        <SetAsideSuitabilityTestAmt>0</SetAsideSuitabilityTestAmt>
+        <SetAsideCashDistriTestAmt>0</SetAsideCashDistriTestAmt>
+        <QualifyingDistributionsAmt>55000</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>20538</DistributableAsAdjustedAmt>
+        <PriorYear1Yr>2019</PriorYear1Yr>
+        <PriorYear2Yr>2018</PriorYear2Yr>
+        <PriorYear3Yr>2017</PriorYear3Yr>
+        <ExcessDistributionCyovYr5Amt>30956</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>60735</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>56752</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>183298</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>259506</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>591247</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>55000</QualifyingDistributionsAmt>
+        <AppliedToCurrentYearAmt>20538</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>34462</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>625709</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>30956</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>594753</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>60735</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>56752</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>183298</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>259506</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>34462</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <PrivateOperatingFoundationsGrp></PrivateOperatingFoundationsGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Chesapeake Charities - Blackie Wills Community</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>102 Centennial Street</AddressLine1Txt>
+            <AddressLine2Txt>C/O Wills Group</AddressLine2Txt>
+            <CityNm>La Plata</CityNm>
+            <StateAbbreviationCd>MD</StateAbbreviationCd>
+            <ZIPCd>20646</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO ASSIST WITH THE CHARITABLE PURPOSES OF THE ORGANIZATION WITHIN THE COMMUNITY.</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Ocean Reef Medical Center Foundation Inc</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>50 Barracuda Lane</AddressLine1Txt>
+            <CityNm>Key largo</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33037</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>SO III FI</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO ASSIST WITH THE CHARITABLE PURPOSES OF THE ORGANIZATION WITHIN THE COMMUNITY.</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>St Thomas Episcopal Church</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>14300 St Thomas Church Road</AddressLine1Txt>
+            <CityNm>Upper Marlboro</CityNm>
+            <StateAbbreviationCd>MD</StateAbbreviationCd>
+            <ZIPCd>20772</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO ASSIST WITH THE CHARITABLE PURPOSES OF THE ORGANIZATION WITHIN THE COMMUNITY.</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>55000</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <FeesContractsFromGovtAgGrp />
+        <MembershipDuesAndAssmntGrp />
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>133</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>5062</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <NetRntlIncmReDebtFincdPropGrp />
+        <NetRntlIncmReNotDebtFincdProp />
+        <NetRentalIncomePersonalPropGrp />
+        <OtherInvestmentIncomeGrp />
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>16080</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <NetIncomeLossFromSpecialEvtGrp />
+        <GrossProfitLossSlsOfInvntryGrp />
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>21275</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>21275</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSch">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING FEES</CategoryTxt>
+        <Amt>3650</Amt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="DepreciationSch" />
+    <InvestmentsCorpStockSchedule documentId="InvestCorpStockSch">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>APPLE INC</StockNm>
+        <EOYBookValueAmt>20980</EOYBookValueAmt>
+        <EOYFMVAmt>88413</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>BERKSHIRE HATHAWAY INC. DEL CL</StockNm>
+        <EOYBookValueAmt>10009</EOYBookValueAmt>
+        <EOYFMVAmt>13886</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>GENERAL DYNAMICS CRP</StockNm>
+        <EOYBookValueAmt>12456</EOYBookValueAmt>
+        <EOYFMVAmt>10259</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>GEO GROUP INC</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>IRON MOUNTAIN INC</StockNm>
+        <EOYBookValueAmt>9774</EOYBookValueAmt>
+        <EOYFMVAmt>6525</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MICROSOFT CORP</StockNm>
+        <EOYBookValueAmt>22045</EOYBookValueAmt>
+        <EOYFMVAmt>82308</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PAYPAL HOLDINGS INC</StockNm>
+        <EOYBookValueAmt>1716</EOYBookValueAmt>
+        <EOYFMVAmt>2204</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PFIZER INC</StockNm>
+        <EOYBookValueAmt>13364</EOYBookValueAmt>
+        <EOYFMVAmt>8694</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>UNION PACIFIC CORP</StockNm>
+        <EOYBookValueAmt>14687</EOYBookValueAmt>
+        <EOYFMVAmt>26625</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VIATRIS INC COM</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VISA INC</StockNm>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSch">
+      <OtherExpensesScheduleGrp>
+        <Desc>LICENSES</Desc>
+        <RevenueAndExpensesPerBooksAmt>25</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>MISCELLANEOUS</Desc>
+        <RevenueAndExpensesPerBooksAmt>114</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OthProfFeesSch">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>INVESTMENT SERVICES</CategoryTxt>
+        <Amt>1332</Amt>
+        <NetInvestmentIncomeAmt>1332</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule">
+      <TaxesDetail>
+        <CategoryTxt>EXCISE TAX</CategoryTxt>
+        <Amt>2764</Amt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

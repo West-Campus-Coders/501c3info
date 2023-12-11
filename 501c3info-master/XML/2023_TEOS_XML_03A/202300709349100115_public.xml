@@ -1,0 +1,910 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2022v4.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-03-11T15:32:47-05:00</ReturnTs>
+    <TaxPeriodEndDt>2022-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>753148637</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>SCHLAUPITZ MADHAVAN PC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>820 KIRTS BLVD SUITE 100</AddressLine1Txt>
+        <CityNm>TROY</CityNm>
+        <StateAbbreviationCd>MI</StateAbbreviationCd>
+        <ZIPCd>48084</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>383407098</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>MARY I MCLEOD FOUNDATION</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>C/O S GARY SPICER SR</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>MARY</BusinessNameControlTxt>
+      <PhoneNum>3138849700</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>16845 KERCHEVAL AVE SUITE 5</AddressLine1Txt>
+        <CityNm>GROSSE POINTE</CityNm>
+        <StateAbbreviationCd>MI</StateAbbreviationCd>
+        <ZIPCd>48230</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>S GARY SPICER SR</PersonNm>
+      <PersonTitleTxt>SECRETARY / TRUSTEE</PersonTitleTxt>
+      <PhoneNum>3138849700</PhoneNum>
+      <SignatureDt>2023-03-06</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>S GARY</PersonFirstNm>
+        <PersonLastNm>SPICER SR</PersonLastNm>
+      </PersonFullName>
+      <SSN>XXX-XX-XXXX</SSN>
+    </SigningOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>false</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>DAVID KUDLA</PreparerPersonNm>
+      <PTIN>P01546972</PTIN>
+      <PhoneNum>2486491600</PhoneNum>
+      <PreparationDt>2023-03-11</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="7">
+    <IRS990PF documentId="RetDoc8">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>470549</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>1835</ContriRcvdRevAndExpnssAmt>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>1812</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>1812</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>4199</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>4199</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>128522</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>187497</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>128522</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>136368</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>134533</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>13000</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>6500</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>6500</CompOfcrDirTrstDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2">16875</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>8525</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>8350</AccountingFeesChrtblPrpsAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc7">20</TaxesRevAndExpnssAmt>
+        <TaxesDsbrsChrtblAmt>20</TaxesDsbrsChrtblAmt>
+        <OccupancyRevAndExpnssAmt>1200</OccupancyRevAndExpnssAmt>
+        <OccupancyNetInvstIncmAmt>600</OccupancyNetInvstIncmAmt>
+        <OccupancyDsbrsChrtblAmt>600</OccupancyDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc5">156</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>156</OtherExpensesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>31251</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>15781</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>15470</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>49049</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>49049</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>80300</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>15781</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>64519</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>56068</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>118752</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>354318</CashBOYAmt>
+        <CashEOYAmt>93959</CashEOYAmt>
+        <CashEOYFMVAmt>93959</CashEOYFMVAmt>
+        <SavAndTempCashInvstEOYAmt>376590</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>376590</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>82777</CorporateStockBOYAmt>
+        <TotalAssetsBOYAmt>437095</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>470549</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>470549</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <RetainedEarningBOYAmt>437095</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>470549</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>437095</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>470549</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>437095</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>470549</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>437095</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>56068</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="RetDoc6">1190</OtherIncreasesAmt>
+        <SubtotalAmt>494353</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="RetDoc4">23804</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>470549</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>800 SHS H&amp;R BLOCK</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>1993-03-04</AcquiredDt>
+          <SoldDt>2022-10-28</SoldDt>
+          <GrossSalesPriceAmt>32594</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>7914</CostOrOtherBasisAmt>
+          <GainOrLossAmt>24680</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>24680</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>116 SHS BRISTOL-MYERS SQUIBB</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>1974-01-01</AcquiredDt>
+          <SoldDt>2022-10-28</SoldDt>
+          <GrossSalesPriceAmt>8593</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>35</CostOrOtherBasisAmt>
+          <GainOrLossAmt>8558</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>8558</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>200 SHS BRISTOL-MYERS SQUIBB</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-11-19</AcquiredDt>
+          <SoldDt>2022-10-28</SoldDt>
+          <GrossSalesPriceAmt>14815</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>13462</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1353</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1353</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>252 SHS COLGATE-PALMOLIVE</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>1965-01-01</AcquiredDt>
+          <SoldDt>2022-10-28</SoldDt>
+          <GrossSalesPriceAmt>17865</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>156</CostOrOtherBasisAmt>
+          <GainOrLossAmt>17709</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>17709</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>100 SHS COLGATE-PALMOLIVE</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-11-19</AcquiredDt>
+          <SoldDt>2022-10-28</SoldDt>
+          <GrossSalesPriceAmt>7089</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>6658</CostOrOtherBasisAmt>
+          <GainOrLossAmt>431</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>431</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>91 SHS MICROSOFT CORP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2018-09-19</AcquiredDt>
+          <SoldDt>2022-10-28</SoldDt>
+          <GrossSalesPriceAmt>20492</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>10286</CostOrOtherBasisAmt>
+          <GainOrLossAmt>10206</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>10206</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>496 SHS PUBLIC SVC ENTERPRISE</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <AcquiredDt>2018-10-01</AcquiredDt>
+          <SoldDt>2022-10-28</SoldDt>
+          <GrossSalesPriceAmt>27134</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2247</CostOrOtherBasisAmt>
+          <GainOrLossAmt>24887</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>24887</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>63 SHS TARGET CORP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2000-11-17</AcquiredDt>
+          <SoldDt>2022-10-28</SoldDt>
+          <GrossSalesPriceAmt>10265</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1859</CostOrOtherBasisAmt>
+          <GainOrLossAmt>8406</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>8406</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>100 SHS TARGET CORP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2001-10-01</AcquiredDt>
+          <SoldDt>2022-10-28</SoldDt>
+          <GrossSalesPriceAmt>16293</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3273</CostOrOtherBasisAmt>
+          <GainOrLossAmt>13020</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>13020</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>222 EATON CORP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2016-12-02</AcquiredDt>
+          <SoldDt>2022-10-28</SoldDt>
+          <GrossSalesPriceAmt>32357</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>13085</CostOrOtherBasisAmt>
+          <GainOrLossAmt>19272</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>19272</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>128522</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>1651</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>1651</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>1651</TaxBasedOnInvestmentIncomeAmt>
+        <Form2220AttachedInd referenceDocumentId="RetDoc1">X</Form2220AttachedInd>
+        <EsPenaltyAmt>77</EsPenaltyAmt>
+        <TaxDueAmt>1728</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>MI</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>S GARY SPICER SR</IndividualWithBooksNm>
+        <PhoneNum>3138849700</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>16845 KERCHEVAL AVENUE SUITE 5</AddressLine1Txt>
+          <CityNm>GROSSE POINTE</CityNm>
+          <StateAbbreviationCd>MI</StateAbbreviationCd>
+          <ZIPCd>48230</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>true</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MARY I MCLEOD</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>16845 KERCHEVAL AVENUE SUITE 5</AddressLine1Txt>
+            <CityNm>GROSSE POINTE</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48230</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT /</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>S GARY SPICER SR</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>16845 KERCHEVAL AVENUE SUITE 5</AddressLine1Txt>
+            <CityNm>GROSSE POINTE</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48230</ZIPCd>
+          </USAddress>
+          <TitleTxt>SECRETARY /</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>13000</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>LEAH HAFFEY</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>16845 KERCHEVAL AVENUE SUITE 5</AddressLine1Txt>
+            <CityNm>GROSSE POINTE</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48230</ZIPCd>
+          </USAddress>
+          <TitleTxt>TREASURER /</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>162845</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>349862</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>512707</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>512707</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>7691</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>505016</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>25251</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>25251</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>1651</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>1651</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>23600</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>23600</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>23600</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>64519</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>64519</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>23600</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>4787</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr3Amt>8145</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>32819</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>54191</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>99942</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>64519</QualifyingDistributionsAmt>
+        <AppliedToCurrentYearAmt>23600</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>40919</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>140861</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>4787</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>136074</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear3Amt>8145</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>32819</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>54191</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>40919</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>AMERICAN HOUSE FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>ONE TOWN SQUARE STE 1600</AddressLine1Txt>
+            <CityNm>SOUTHFIELD</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48076</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>1200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>AMERICAN LUNG ASSOCIATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>55 W WACKER DRIVE SUITE</AddressLine1Txt>
+            <CityNm>CHICAGO</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60601</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CAPUCHIN SOUP KITCHEN</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1820 MOUNT ELLIOTT ST</AddressLine1Txt>
+            <CityNm>DETROIT</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48207</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CLAN MACLEOD SOCIETY OF USA INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>279 S 50 W</AddressLine1Txt>
+            <CityNm>OREM</CityNm>
+            <StateAbbreviationCd>UT</StateAbbreviationCd>
+            <ZIPCd>84058</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>85</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>COMMUNITY FOUNDATION OF SE MICHIGAN</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>333 W FORT ST STE 2010</AddressLine1Txt>
+            <CityNm>DETROIT</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48220</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>DETROIT INSTITUTE OF ARTS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>52000 WOODWARD AVE</AddressLine1Txt>
+            <CityNm>DETROIT</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48202</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>DETROIT SYMPHONY ORCHESTRA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3711 WOODWARD AVE</AddressLine1Txt>
+            <CityNm>DETROIT</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48201</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>DETROIT ZOOLOGICAL SOCIETY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>8450 W 10 MILE ROAD STE 1</AddressLine1Txt>
+            <CityNm>ROYAL OAK</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48067</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>250</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>DUNVEGAN FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>355 FIELDCREST RD</AddressLine1Txt>
+            <CityNm>SOUTHERN PINES</CityNm>
+            <StateAbbreviationCd>NC</StateAbbreviationCd>
+            <ZIPCd>28387</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>GROSSE POINTE ANIMAL ADOPTION SOCIE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>20542 HARPER AVE</AddressLine1Txt>
+            <CityNm>HARPER WOODS</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48225</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>GROSSE POINTE LIBRARY FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10 KERCHEVAL AVE</AddressLine1Txt>
+            <CityNm>GROSSE POINTE FARMS</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48236</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>GROSSE POINTE SOUTH HIGH SCHOOL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>11 GROSSE POINTE BLVD</AddressLine1Txt>
+            <CityNm>GROSSE POINTE FARMS</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48236</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>GROSSE POINTE THEATER</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>315 FISHER ROAD</AddressLine1Txt>
+            <CityNm>GROSSE POINTE</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48230</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>GROSSE POINTE WAR MEMORIAL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>32 LAKE SHORE DRIVE</AddressLine1Txt>
+            <CityNm>GROSSE POINTE FARMS</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48236</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>2800</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>GUARDIAN ANGELS MEDICAL SERV DOGS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3251 NW 180TH AVE</AddressLine1Txt>
+            <CityNm>WILLISTON</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>32696</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HUMANE SOCIETY OF THE UNITED STATES</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1255 23RD STREET NW</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20037</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>LEADER DOGS FOR THE BLIND</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1039 S ROCHESTER RD</AddressLine1Txt>
+            <CityNm>ROCHESTER HILLS</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48307</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>1800</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MICHIGAN AUDOBON</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2310 SCIENCE PKWY 200</AddressLine1Txt>
+            <CityNm>OKEMOS</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48864</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>350</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MICHIGAN HUMANE SOCIETY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>30300 TELEGRAPH STE 220</AddressLine1Txt>
+            <CityNm>BINGHAM FARMS</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48025</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MICHIGAN STATE UNIVERSITY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>535 CHESTNUT ROAD</AddressLine1Txt>
+            <CityNm>EAST LANSING</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48824</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>SCHOOL OF JOURNALISM</GrantOrContributionPurposeTxt>
+          <Amt>7500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>NATIONAL AUDUBON SOCIETY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2310 SCIENCE PKWY 200</AddressLine1Txt>
+            <CityNm>OKEMOS</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48864</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>NATIONAL WILDLIFE FEDERATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>11100 WILDLIFE CENTER DR</AddressLine1Txt>
+            <CityNm>RESTON</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>20190</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>225</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>NEIGHBORHOOD CLUB</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>17150 WATERLOO</AddressLine1Txt>
+            <CityNm>GROSSE POINTE</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48230</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SHAW FESTIVAL FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>10 QUEENS PARADE BOX 774</AddressLine1Txt>
+            <CityNm>NIAGRAONTHELAKE</CityNm>
+            <ProvinceOrStateNm>ONTARIO</ProvinceOrStateNm>
+            <CountryCd>CA</CountryCd>
+          </RecipientForeignAddress>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>3500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SHRINERS HOSPITAL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2900 N ROCKY POINT DR</AddressLine1Txt>
+            <CityNm>TAMPA</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33607</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SIDEKICK FOUNDATIONS INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4000 W 106TH ST</AddressLine1Txt>
+            <CityNm>CARMEL</CityNm>
+            <StateAbbreviationCd>IN</StateAbbreviationCd>
+            <ZIPCd>46032</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>MARA ELEPHANT PROJECT</GrantOrContributionPurposeTxt>
+          <Amt>128</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SMITHSONIAN</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 37012</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20013</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>11</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ST JUDE'S CHILDREN'S HOSPITAL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>32121 WOODWARD AVE</AddressLine1Txt>
+            <CityNm>ROYAL OAK</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48073</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>STATUE OF LIBERTY ELLIS ISLAND FOUN</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>17 BATTERY PL 232</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10004</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE HELM MEALS ON WHEELS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>158 RIDGE RD</AddressLine1Txt>
+            <CityNm>GROSSE POINTE FARMS</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48236</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>6000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>WAYNE STATE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>42 W WARREN AVE</AddressLine1Txt>
+            <CityNm>DETROIT</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48202</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>8500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>WESTERN MICHIGAN UNIVERSITY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1903 W MICHIGAN AVE</AddressLine1Txt>
+            <CityNm>KALAMAZOO</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>49008</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>WHITE HOUSE HISTORICAL ASSOCIATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>740 JACKSON PL NW</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20006</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>COLONIAL WILLIAMSBURG FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 1776</AddressLine1Txt>
+            <CityNm>WILLIAMSBURG</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23187</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>49049</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>1812</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>4199</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>128522</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>134533</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>134533</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING</CategoryTxt>
+        <Amt>15390</Amt>
+        <NetInvestmentIncomeAmt>7695</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>7695</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+      <AccountingFeesDetail>
+        <CategoryTxt>LEGAL</CategoryTxt>
+        <Amt>1310</Amt>
+        <NetInvestmentIncomeAmt>655</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>655</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+      <AccountingFeesDetail>
+        <CategoryTxt>OTHER</CategoryTxt>
+        <Amt>175</Amt>
+        <NetInvestmentIncomeAmt>175</NetInvestmentIncomeAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc3">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>EQUITIES</StockNm>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <OtherDecreasesSchedule documentId="RetDoc4">
+      <OtherDecreasesDetail>
+        <Desc>BASIS ADJUSTMENT FOR DONATED STOCK</Desc>
+        <Amt>23804</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc5">
+      <OtherExpensesScheduleGrp>
+        <Desc>EXPENSES</Desc>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>BANK FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>156</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>156</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncreasesSchedule documentId="RetDoc6">
+      <OtherIncreasesDetail>
+        <Desc>TAX REFUND</Desc>
+        <Amt>1190</Amt>
+      </OtherIncreasesDetail>
+    </OtherIncreasesSchedule>
+    <TaxesSchedule documentId="RetDoc7">
+      <TaxesDetail>
+        <CategoryTxt>MICHIGAN ANNUAL REPORT FEES</CategoryTxt>
+        <Amt>20</Amt>
+        <DisbursementsCharitablePrpsAmt>20</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

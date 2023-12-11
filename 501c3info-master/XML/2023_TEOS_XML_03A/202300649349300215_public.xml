@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2021v4.2">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-03-05T21:06:33-06:00</ReturnTs>
+    <TaxPeriodEndDt>2022-06-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>421539623</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>KMH LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>1003 BISHOP STREET SUITE 2400</AddressLine1Txt>
+        <CityNm>HONOLULU</CityNm>
+        <StateAbbreviationCd>HI</StateAbbreviationCd>
+        <ZIPCd>96813</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990</ReturnTypeCd>
+    <TaxPeriodBeginDt>2021-07-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>203154399</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>ST FRANCIS DEVELOPMENT CORPORATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>STFR</BusinessNameControlTxt>
+      <PhoneNum>8085478066</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>PO BOX 29700</AddressLine1Txt>
+        <CityNm>HONOLULU</CityNm>
+        <StateAbbreviationCd>HI</StateAbbreviationCd>
+        <ZIPCd>968202100</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>CRAIG SHANER</PersonNm>
+      <PersonTitleTxt>CFO</PersonTitleTxt>
+      <PhoneNum>8085478066</PhoneNum>
+      <SignatureDt>2023-03-05</SignatureDt>
+      <DiscussWithPaidPreparerInd>1</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>CRAIG</PersonFirstNm>
+        <PersonLastNm>SHANER</PersonLastNm>
+      </PersonFullName>
+      <SSN>999009999</SSN>
+    </SigningOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>DUANE AKAMINE</PreparerPersonNm>
+      <PTIN>P01498021</PTIN>
+      <PhoneNum>8085262255</PhoneNum>
+    </PreparerPersonGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp>
+        <TrustedCustomerCd>3</TrustedCustomerCd>
+        <AuthenticationAssuranceLevelCd>AAL1</AuthenticationAssuranceLevelCd>
+        <IdentityAssuranceLevelCd>IAL1</IdentityAssuranceLevelCd>
+      </TrustedCustomerGrp>
+    </AdditionalFilerInformation>
+    <TaxYr>2021</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="6">
+    <IRS990 documentId="RetDoc1038000001" referenceDocumentId="RetDoc1044400001">
+      <PrincipalOfficerNm>MELISSA AH HO-MAUGA</PrincipalOfficerNm>
+      <USAddress>
+        <AddressLine1Txt>PO BOX 29700</AddressLine1Txt>
+        <CityNm>HONOLULU</CityNm>
+        <StateAbbreviationCd>HI</StateAbbreviationCd>
+        <ZIPCd>968202100</ZIPCd>
+      </USAddress>
+      <GrossReceiptsAmt>32378</GrossReceiptsAmt>
+      <GroupReturnForAffiliatesInd>0</GroupReturnForAffiliatesInd>
+      <GroupExemptionNum>0928</GroupExemptionNum>
+      <Organization501c3Ind>X</Organization501c3Ind>
+      <WebsiteAddressTxt>WWW.STFRANCISHAWAII.ORG</WebsiteAddressTxt>
+      <TypeOfOrganizationCorpInd>X</TypeOfOrganizationCorpInd>
+      <FormationYr>2005</FormationYr>
+      <LegalDomicileStateCd>HI</LegalDomicileStateCd>
+      <ActivityOrMissionDesc>SEE SCHEDULE O.</ActivityOrMissionDesc>
+      <VotingMembersGoverningBodyCnt>3</VotingMembersGoverningBodyCnt>
+      <VotingMembersIndependentCnt>0</VotingMembersIndependentCnt>
+      <TotalEmployeeCnt>0</TotalEmployeeCnt>
+      <TotalVolunteersCnt>0</TotalVolunteersCnt>
+      <TotalGrossUBIAmt>32378</TotalGrossUBIAmt>
+      <NetUnrelatedBusTxblIncmAmt>0</NetUnrelatedBusTxblIncmAmt>
+      <PYContributionsGrantsAmt>0</PYContributionsGrantsAmt>
+      <CYContributionsGrantsAmt>0</CYContributionsGrantsAmt>
+      <PYProgramServiceRevenueAmt>0</PYProgramServiceRevenueAmt>
+      <CYProgramServiceRevenueAmt>0</CYProgramServiceRevenueAmt>
+      <PYInvestmentIncomeAmt>0</PYInvestmentIncomeAmt>
+      <CYInvestmentIncomeAmt>0</CYInvestmentIncomeAmt>
+      <PYOtherRevenueAmt>277901</PYOtherRevenueAmt>
+      <CYOtherRevenueAmt>32378</CYOtherRevenueAmt>
+      <PYTotalRevenueAmt>277901</PYTotalRevenueAmt>
+      <CYTotalRevenueAmt>32378</CYTotalRevenueAmt>
+      <PYGrantsAndSimilarPaidAmt>0</PYGrantsAndSimilarPaidAmt>
+      <CYGrantsAndSimilarPaidAmt>0</CYGrantsAndSimilarPaidAmt>
+      <PYBenefitsPaidToMembersAmt>0</PYBenefitsPaidToMembersAmt>
+      <CYBenefitsPaidToMembersAmt>0</CYBenefitsPaidToMembersAmt>
+      <PYSalariesCompEmpBnftPaidAmt>0</PYSalariesCompEmpBnftPaidAmt>
+      <CYSalariesCompEmpBnftPaidAmt>0</CYSalariesCompEmpBnftPaidAmt>
+      <PYTotalProfFndrsngExpnsAmt>0</PYTotalProfFndrsngExpnsAmt>
+      <CYTotalProfFndrsngExpnsAmt>0</CYTotalProfFndrsngExpnsAmt>
+      <CYTotalFundraisingExpenseAmt>0</CYTotalFundraisingExpenseAmt>
+      <PYOtherExpensesAmt>7499</PYOtherExpensesAmt>
+      <CYOtherExpensesAmt>30540</CYOtherExpensesAmt>
+      <PYTotalExpensesAmt>7499</PYTotalExpensesAmt>
+      <CYTotalExpensesAmt>30540</CYTotalExpensesAmt>
+      <PYRevenuesLessExpensesAmt>270402</PYRevenuesLessExpensesAmt>
+      <CYRevenuesLessExpensesAmt>1838</CYRevenuesLessExpensesAmt>
+      <TotalAssetsBOYAmt>279738</TotalAssetsBOYAmt>
+      <TotalAssetsEOYAmt>89116</TotalAssetsEOYAmt>
+      <TotalLiabilitiesBOYAmt>2104212</TotalLiabilitiesBOYAmt>
+      <TotalLiabilitiesEOYAmt>1911752</TotalLiabilitiesEOYAmt>
+      <NetAssetsOrFundBalancesBOYAmt>-1824474</NetAssetsOrFundBalancesBOYAmt>
+      <NetAssetsOrFundBalancesEOYAmt>-1822636</NetAssetsOrFundBalancesEOYAmt>
+      <InfoInScheduleOPartIIIInd>X</InfoInScheduleOPartIIIInd>
+      <MissionDesc>SEE SCHEDULE O.</MissionDesc>
+      <SignificantNewProgramSrvcInd>0</SignificantNewProgramSrvcInd>
+      <SignificantChangeInd>0</SignificantChangeInd>
+      <Desc>ST. FRANCIS DEVELOPMENT CORPORATION WAS FORMED FOR CHARITABLE AND RELIGIOUS PURPOSES, INCLUDING, BUT NOT LIMITED TO, THE ESTABLISHMENT OF LIVING COMMUNITIES THAT PROVIDE AFFORDABLE HOUSES FOR SALE OR RENT TO SENIORS AND LOW-INCOME HOUSEHOLDS. ST. FRANCIS DEVELOPMENT CORPORATION WAS THE SPONSOR FOR FRANCISCAN VISTA EWA, A LOW INCOME SENIOR RENTAL HOUSING PROJECT.</Desc>
+      <DescribedInSection501c3Ind referenceDocumentId="RetDoc1039100001">1</DescribedInSection501c3Ind>
+      <ScheduleBRequiredInd>0</ScheduleBRequiredInd>
+      <PoliticalCampaignActyInd>0</PoliticalCampaignActyInd>
+      <LobbyingActivitiesInd>0</LobbyingActivitiesInd>
+      <SubjectToProxyTaxInd>0</SubjectToProxyTaxInd>
+      <DonorAdvisedFundInd referenceDocumentId="RetDoc1040000001">0</DonorAdvisedFundInd>
+      <ConservationEasementsInd referenceDocumentId="RetDoc1040000001">0</ConservationEasementsInd>
+      <CollectionsOfArtInd referenceDocumentId="RetDoc1040000001">0</CollectionsOfArtInd>
+      <CreditCounselingInd referenceDocumentId="RetDoc1040000001">0</CreditCounselingInd>
+      <DonorRstrOrQuasiEndowmentsInd>0</DonorRstrOrQuasiEndowmentsInd>
+      <ReportLandBuildingEquipmentInd referenceDocumentId="RetDoc1040000001">0</ReportLandBuildingEquipmentInd>
+      <ReportInvestmentsOtherSecInd referenceDocumentId="RetDoc1040000001">0</ReportInvestmentsOtherSecInd>
+      <ReportProgramRelatedInvstInd referenceDocumentId="RetDoc1040000001">0</ReportProgramRelatedInvstInd>
+      <ReportOtherAssetsInd referenceDocumentId="RetDoc1040000001">1</ReportOtherAssetsInd>
+      <ReportOtherLiabilitiesInd referenceDocumentId="RetDoc1040000001">1</ReportOtherLiabilitiesInd>
+      <IncludeFIN48FootnoteInd referenceDocumentId="RetDoc1040000001">1</IncludeFIN48FootnoteInd>
+      <IndependentAuditFinclStmtInd referenceDocumentId="RetDoc1040000001">0</IndependentAuditFinclStmtInd>
+      <ConsolidatedAuditFinclStmtInd referenceDocumentId="RetDoc1040000001">1</ConsolidatedAuditFinclStmtInd>
+      <SchoolOperatingInd>0</SchoolOperatingInd>
+      <ForeignOfficeInd>0</ForeignOfficeInd>
+      <ForeignActivitiesInd>0</ForeignActivitiesInd>
+      <MoreThan5000KToOrgInd>0</MoreThan5000KToOrgInd>
+      <MoreThan5000KToIndividualsInd>0</MoreThan5000KToIndividualsInd>
+      <ProfessionalFundraisingInd>0</ProfessionalFundraisingInd>
+      <FundraisingActivitiesInd>0</FundraisingActivitiesInd>
+      <GamingActivitiesInd>0</GamingActivitiesInd>
+      <OperateHospitalInd>0</OperateHospitalInd>
+      <GrantsToOrganizationsInd>0</GrantsToOrganizationsInd>
+      <GrantsToIndividualsInd>0</GrantsToIndividualsInd>
+      <ScheduleJRequiredInd referenceDocumentId="RetDoc1042400001">1</ScheduleJRequiredInd>
+      <TaxExemptBondsInd>0</TaxExemptBondsInd>
+      <EngagedInExcessBenefitTransInd>0</EngagedInExcessBenefitTransInd>
+      <PYExcessBenefitTransInd>0</PYExcessBenefitTransInd>
+      <LoanOutstandingInd>0</LoanOutstandingInd>
+      <GrantToRelatedPersonInd>0</GrantToRelatedPersonInd>
+      <BusinessRlnWithOrgMemInd>0</BusinessRlnWithOrgMemInd>
+      <BusinessRlnWithFamMemInd>0</BusinessRlnWithFamMemInd>
+      <BusinessRlnWith35CtrlEntInd>0</BusinessRlnWith35CtrlEntInd>
+      <DeductibleNonCashContriInd>0</DeductibleNonCashContriInd>
+      <DeductibleArtContributionInd>0</DeductibleArtContributionInd>
+      <TerminateOperationsInd>0</TerminateOperationsInd>
+      <PartialLiquidationInd>0</PartialLiquidationInd>
+      <DisregardedEntityInd referenceDocumentId="RetDoc1043400001">1</DisregardedEntityInd>
+      <RelatedEntityInd referenceDocumentId="RetDoc1043400001">1</RelatedEntityInd>
+      <RelatedOrganizationCtrlEntInd>0</RelatedOrganizationCtrlEntInd>
+      <TrnsfrExmptNonChrtblRltdOrgInd referenceDocumentId="RetDoc1043400001">0</TrnsfrExmptNonChrtblRltdOrgInd>
+      <ActivitiesConductedPrtshpInd referenceDocumentId="RetDoc1043400001">0</ActivitiesConductedPrtshpInd>
+      <ScheduleORequiredInd>1</ScheduleORequiredInd>
+      <IRPDocumentCnt>0</IRPDocumentCnt>
+      <IRPDocumentW2GCnt>0</IRPDocumentW2GCnt>
+      <EmployeeCnt>0</EmployeeCnt>
+      <UnrelatedBusIncmOverLimitInd>1</UnrelatedBusIncmOverLimitInd>
+      <Form990TFiledInd>1</Form990TFiledInd>
+      <ForeignFinancialAccountInd>0</ForeignFinancialAccountInd>
+      <ProhibitedTaxShelterTransInd>0</ProhibitedTaxShelterTransInd>
+      <TaxablePartyNotificationInd>0</TaxablePartyNotificationInd>
+      <NondeductibleContributionsInd>0</NondeductibleContributionsInd>
+      <QuidProQuoContributionsInd>0</QuidProQuoContributionsInd>
+      <Form8282PropertyDisposedOfInd>0</Form8282PropertyDisposedOfInd>
+      <RcvFndsToPayPrsnlBnftCntrctInd>0</RcvFndsToPayPrsnlBnftCntrctInd>
+      <PayPremiumsPrsnlBnftCntrctInd>0</PayPremiumsPrsnlBnftCntrctInd>
+      <IndoorTanningServicesInd>0</IndoorTanningServicesInd>
+      <SubjToTaxRmnrtnExPrchtPymtInd>0</SubjToTaxRmnrtnExPrchtPymtInd>
+      <SubjectToExcsTaxNetInvstIncInd>0</SubjectToExcsTaxNetInvstIncInd>
+      <InfoInScheduleOPartVIInd>X</InfoInScheduleOPartVIInd>
+      <GoverningBodyVotingMembersCnt>3</GoverningBodyVotingMembersCnt>
+      <IndependentVotingMemberCnt>0</IndependentVotingMemberCnt>
+      <FamilyOrBusinessRlnInd>0</FamilyOrBusinessRlnInd>
+      <DelegationOfMgmtDutiesInd>0</DelegationOfMgmtDutiesInd>
+      <ChangeToOrgDocumentsInd>0</ChangeToOrgDocumentsInd>
+      <MaterialDiversionOrMisuseInd>0</MaterialDiversionOrMisuseInd>
+      <MembersOrStockholdersInd>1</MembersOrStockholdersInd>
+      <ElectionOfBoardMembersInd>1</ElectionOfBoardMembersInd>
+      <DecisionsSubjectToApprovaInd>1</DecisionsSubjectToApprovaInd>
+      <MinutesOfGoverningBodyInd>1</MinutesOfGoverningBodyInd>
+      <MinutesOfCommitteesInd>1</MinutesOfCommitteesInd>
+      <OfficerMailingAddressInd>0</OfficerMailingAddressInd>
+      <LocalChaptersInd>0</LocalChaptersInd>
+      <Form990ProvidedToGvrnBodyInd>1</Form990ProvidedToGvrnBodyInd>
+      <ConflictOfInterestPolicyInd>1</ConflictOfInterestPolicyInd>
+      <AnnualDisclosureCoveredPrsnInd>1</AnnualDisclosureCoveredPrsnInd>
+      <RegularMonitoringEnfrcInd>1</RegularMonitoringEnfrcInd>
+      <WhistleblowerPolicyInd>1</WhistleblowerPolicyInd>
+      <DocumentRetentionPolicyInd>1</DocumentRetentionPolicyInd>
+      <CompensationProcessCEOInd>0</CompensationProcessCEOInd>
+      <CompensationProcessOtherInd>0</CompensationProcessOtherInd>
+      <InvestmentInJointVentureInd>0</InvestmentInJointVentureInd>
+      <UponRequestInd>X</UponRequestInd>
+      <BooksInCareOfDetail>
+        <BusinessName>
+          <BusinessNameLine1Txt>CRAIG SHANER</BusinessNameLine1Txt>
+        </BusinessName>
+        <PhoneNum>8085478066</PhoneNum>
+        <USAddress>
+          <AddressLine1Txt>2228 LILIHA STREET SUITE 300</AddressLine1Txt>
+          <CityNm>HONOLULU</CityNm>
+          <StateAbbreviationCd>HI</StateAbbreviationCd>
+          <ZIPCd>96817</ZIPCd>
+        </USAddress>
+      </BooksInCareOfDetail>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>JERRY CORREA</PersonNm>
+        <TitleTxt>PRESIDENT</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>52.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>356558</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>27730</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>KEVIN NISHIDA</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>40.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>201083</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>6535</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>NELSON MOKU</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>40.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>201470</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>909</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>CRAIG SHANER</PersonNm>
+        <TitleTxt>CFO</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>40.00</AverageHoursPerWeekRltdOrgRt>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <TotalReportableCompFromOrgAmt>0</TotalReportableCompFromOrgAmt>
+      <TotReportableCompRltdOrgAmt>759111</TotReportableCompRltdOrgAmt>
+      <TotalOtherCompensationAmt>35174</TotalOtherCompensationAmt>
+      <IndivRcvdGreaterThan100KCnt>0</IndivRcvdGreaterThan100KCnt>
+      <FormerOfcrEmployeesListedInd>0</FormerOfcrEmployeesListedInd>
+      <TotalCompGreaterThan150KInd>1</TotalCompGreaterThan150KInd>
+      <CompensationFromOtherSrcsInd>0</CompensationFromOtherSrcsInd>
+      <CntrctRcvdGreaterThan100KCnt>0</CntrctRcvdGreaterThan100KCnt>
+      <OtherRevenueMiscGrp>
+        <Desc>PARTNERSHIP MANAGEMENT</Desc>
+        <BusinessCd>561000</BusinessCd>
+        <TotalRevenueColumnAmt>32378</TotalRevenueColumnAmt>
+        <UnrelatedBusinessRevenueAmt>32378</UnrelatedBusinessRevenueAmt>
+      </OtherRevenueMiscGrp>
+      <OtherRevenueTotalAmt>32378</OtherRevenueTotalAmt>
+      <TotalRevenueGrp>
+        <TotalRevenueColumnAmt>32378</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>0</RelatedOrExemptFuncIncomeAmt>
+        <UnrelatedBusinessRevenueAmt>32378</UnrelatedBusinessRevenueAmt>
+        <ExclusionAmt>0</ExclusionAmt>
+      </TotalRevenueGrp>
+      <OtherExpensesGrp>
+        <Desc>ALLOCATED ADMIN EXPENSE</Desc>
+        <TotalAmt>16079</TotalAmt>
+        <ManagementAndGeneralAmt>16079</ManagementAndGeneralAmt>
+      </OtherExpensesGrp>
+      <OtherExpensesGrp>
+        <Desc>ALLOCATED FINANCE EXPEN</Desc>
+        <TotalAmt>14457</TotalAmt>
+        <ManagementAndGeneralAmt>14457</ManagementAndGeneralAmt>
+      </OtherExpensesGrp>
+      <OtherExpensesGrp>
+        <Desc>OTHER DIRECT EXPENSE</Desc>
+        <TotalAmt>4</TotalAmt>
+        <ManagementAndGeneralAmt>4</ManagementAndGeneralAmt>
+      </OtherExpensesGrp>
+      <TotalFunctionalExpensesGrp>
+        <TotalAmt>30540</TotalAmt>
+        <ProgramServicesAmt>0</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>30540</ManagementAndGeneralAmt>
+        <FundraisingAmt>0</FundraisingAmt>
+      </TotalFunctionalExpensesGrp>
+      <CashNonInterestBearingGrp>
+        <BOYAmt>15434</BOYAmt>
+        <EOYAmt>15193</EOYAmt>
+      </CashNonInterestBearingGrp>
+      <OtherAssetsTotalGrp>
+        <BOYAmt>264304</BOYAmt>
+        <EOYAmt>73923</EOYAmt>
+      </OtherAssetsTotalGrp>
+      <TotalAssetsGrp>
+        <BOYAmt>279738</BOYAmt>
+        <EOYAmt>89116</EOYAmt>
+      </TotalAssetsGrp>
+      <OtherLiabilitiesGrp>
+        <BOYAmt>2104212</BOYAmt>
+        <EOYAmt>1911752</EOYAmt>
+      </OtherLiabilitiesGrp>
+      <TotalLiabilitiesGrp>
+        <BOYAmt>2104212</BOYAmt>
+        <EOYAmt>1911752</EOYAmt>
+      </TotalLiabilitiesGrp>
+      <OrganizationFollowsFASB117Ind>X</OrganizationFollowsFASB117Ind>
+      <NoDonorRestrictionNetAssetsGrp>
+        <BOYAmt>-1824474</BOYAmt>
+        <EOYAmt>-1822636</EOYAmt>
+      </NoDonorRestrictionNetAssetsGrp>
+      <TotalNetAssetsFundBalanceGrp>
+        <BOYAmt>-1824474</BOYAmt>
+        <EOYAmt>-1822636</EOYAmt>
+      </TotalNetAssetsFundBalanceGrp>
+      <TotLiabNetAssetsFundBalanceGrp>
+        <BOYAmt>279738</BOYAmt>
+        <EOYAmt>89116</EOYAmt>
+      </TotLiabNetAssetsFundBalanceGrp>
+      <ReconcilationRevenueExpnssAmt>1838</ReconcilationRevenueExpnssAmt>
+      <OtherChangesInNetAssetsAmt>0</OtherChangesInNetAssetsAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AccountantCompileOrReviewInd>0</AccountantCompileOrReviewInd>
+      <FSAuditedInd>1</FSAuditedInd>
+      <FSAuditedBasisGrp>
+        <ConsolidatedBasisFinclStmtInd>X</ConsolidatedBasisFinclStmtInd>
+      </FSAuditedBasisGrp>
+      <AuditCommitteeInd>1</AuditCommitteeInd>
+      <FederalGrantAuditRequiredInd>0</FederalGrantAuditRequiredInd>
+    </IRS990>
+    <IRS990ScheduleA documentId="RetDoc1039100001">
+      <SupportingOrganization509a3Ind>X</SupportingOrganization509a3Ind>
+      <SupportingOrgType1Ind>X</SupportingOrgType1Ind>
+      <SupportedOrganizationsCnt>1</SupportedOrganizationsCnt>
+      <SupportedOrgInformationGrp>
+        <SupportedOrganizationName>
+          <BusinessNameLine1Txt>ST FRANCIS RESIDENTIAL CARE COMMUNITY</BusinessNameLine1Txt>
+        </SupportedOrganizationName>
+        <EIN>752986938</EIN>
+        <OrganizationTypeCd>7</OrganizationTypeCd>
+        <GoverningDocumentListedInd>1</GoverningDocumentListedInd>
+        <SupportAmt>0</SupportAmt>
+        <OtherSupportAmt>0</OtherSupportAmt>
+      </SupportedOrgInformationGrp>
+      <SupportedOrganizationsTotalCnt>1</SupportedOrganizationsTotalCnt>
+      <SupportSumAmt>0</SupportSumAmt>
+      <OtherSupportSumAmt>0</OtherSupportSumAmt>
+      <Form990SchASupportingOrgGrp>
+        <ListedByNameGoverningDocInd>1</ListedByNameGoverningDocInd>
+        <SuprtOrgNoIRSDeterminationInd>0</SuprtOrgNoIRSDeterminationInd>
+        <SupportedOrgSectionC456Ind>0</SupportedOrgSectionC456Ind>
+        <SupportedOrgNotOrganizedUSInd>0</SupportedOrgNotOrganizedUSInd>
+        <OrganizationChangeSuprtOrgInd>0</OrganizationChangeSuprtOrgInd>
+        <SupportNonSupportedOrgInd>0</SupportNonSupportedOrgInd>
+        <PaymentSubstantialContribtrInd>0</PaymentSubstantialContribtrInd>
+        <LoanDisqualifiedPersonInd>0</LoanDisqualifiedPersonInd>
+        <ControlledDisqualifiedPrsnInd>0</ControlledDisqualifiedPrsnInd>
+        <DisqualifiedPrsnControllIntInd>0</DisqualifiedPrsnControllIntInd>
+        <DisqualifiedPrsnOwnrIntInd>0</DisqualifiedPrsnOwnrIntInd>
+        <ExcessBusinessHoldingsRulesInd>0</ExcessBusinessHoldingsRulesInd>
+        <ContributionControllerInd>0</ContributionControllerInd>
+        <ContributionFamilyInd>0</ContributionFamilyInd>
+        <Contribution35ControlledInd>0</Contribution35ControlledInd>
+      </Form990SchASupportingOrgGrp>
+      <Form990SchAType1SuprtOrgGrp>
+        <PowerAppointMajorityDirTrstInd>1</PowerAppointMajorityDirTrstInd>
+        <OperateBenefitNonSuprtOrgInd>0</OperateBenefitNonSuprtOrgInd>
+      </Form990SchAType1SuprtOrgGrp>
+      <Form990ScheduleAPartVIGrp>
+        <FormAndLineReferenceDesc>SCHEDULE A, PART I, LINE 12G</FormAndLineReferenceDesc>
+        <ExplanationTxt>ST. FRANCIS DEVELOPMENT CORPORATION PROVIDES SUPPORT TO ST. FRANCIS RESIDENTIAL CARE COMMUNITY BY DEVELOPING COMMUNITY PROJECTS, SUCH AS THE FRANCISCAN VISTAS EWA, AN AFFORDABLE SENIOR RENTAL COMMUNITY.</ExplanationTxt>
+      </Form990ScheduleAPartVIGrp>
+    </IRS990ScheduleA>
+    <IRS990ScheduleD documentId="RetDoc1040000001">
+      <TotalBookValueLandBuildingsAmt>0</TotalBookValueLandBuildingsAmt>
+      <OtherAssetsOrgGrp>
+        <Desc>OTHER RECEIVABLES</Desc>
+        <BookValueAmt>73923</BookValueAmt>
+      </OtherAssetsOrgGrp>
+      <TotalBookValueOtherAssetsAmt>73923</TotalBookValueOtherAssetsAmt>
+      <OtherLiabilitiesOrgGrp>
+        <Desc>DUE TO AFFILIATES</Desc>
+        <Amt>1911752</Amt>
+      </OtherLiabilitiesOrgGrp>
+      <TotalLiabilityAmt>1911752</TotalLiabilityAmt>
+      <FootnoteTextInd>X</FootnoteTextInd>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>PART X, LINE 2:</FormAndLineReferenceDesc>
+        <ExplanationTxt>THE FOLLOWING IS THE FIN 48 (ASC 740) FOOTNOTE FROM THE CONSOLIDATED AUDITED FINANCIAL STATEMENTS OF ST. FRANCIS HEALTHCARE SYSTEM OF HAWAII, THE FILING ORGANIZATION'S PARENT: THE SYSTEM RECOGNIZES THE EFFECT OF INCOME TAX POSITIONS ONLY IF IT IS MORE-LIKELY-THAN-NOT THAT THE TAX POSITION WILL BE SUSTAINED ON EXAMINATION BY TAXING AUTHORITIES, BASED ON THE TECHNICAL MERITS OF THE POSITION. THE TAX EFFECTS RECOGNIZED IN THE FINANCIAL STATEMENTS FROM SUCH A POSITION ARE MEASURED BASED ON THE LARGEST AMOUNT THAT HAS A GREATER THAN 50 PERCENT LIKELIHOOD OF BEING REALIZED UPON ULTIMATE SETTLEMENT. CHANGES IN RECOGNITION OR MEASUREMENT ARE REFLECTED IN THE PERIOD IN WHICH THE CHANGES IN JUDGMENT OCCURS. ANY INTEREST OR PENALTIES RELATED TO UNRECOGNIZED TAX BENEFITS ARE CLASSIFIED AS INCOME TAX EXPENSES. THE SYSTEM DID NOT ACCRUE FOR ANY INTEREST OR PENALTIES ON UNRECOGNIZED TAX POSITIONS AS OF JUNE 30, 2022 AND 2021.</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleD>
+    <IRS990ScheduleJ documentId="RetDoc1042400001">
+      <SeverancePaymentInd>0</SeverancePaymentInd>
+      <SupplementalNonqualRtrPlanInd>0</SupplementalNonqualRtrPlanInd>
+      <EquityBasedCompArrngmInd>0</EquityBasedCompArrngmInd>
+      <CompBasedOnRevenueOfFlngOrgInd>0</CompBasedOnRevenueOfFlngOrgInd>
+      <CompBsdOnRevRelatedOrgsInd>0</CompBsdOnRevRelatedOrgsInd>
+      <CompBsdNetEarnsFlngOrgInd>0</CompBsdNetEarnsFlngOrgInd>
+      <CompBsdNetEarnsRltdOrgsInd>0</CompBsdNetEarnsRltdOrgsInd>
+      <AnyNonFixedPaymentsInd>0</AnyNonFixedPaymentsInd>
+      <InitialContractExceptionInd>0</InitialContractExceptionInd>
+      <RltdOrgOfficerTrstKeyEmplGrp>
+        <PersonNm>JERRY CORREA</PersonNm>
+        <TitleTxt>PRESIDENT</TitleTxt>
+        <BaseCompensationFilingOrgAmt>0</BaseCompensationFilingOrgAmt>
+        <CompensationBasedOnRltdOrgsAmt>356558</CompensationBasedOnRltdOrgsAmt>
+        <BonusFilingOrganizationAmount>0</BonusFilingOrganizationAmount>
+        <BonusRelatedOrganizationsAmt>0</BonusRelatedOrganizationsAmt>
+        <OtherCompensationFilingOrgAmt>0</OtherCompensationFilingOrgAmt>
+        <OtherCompensationRltdOrgsAmt>0</OtherCompensationRltdOrgsAmt>
+        <DeferredCompensationFlngOrgAmt>0</DeferredCompensationFlngOrgAmt>
+        <DeferredCompRltdOrgsAmt>9554</DeferredCompRltdOrgsAmt>
+        <NontaxableBenefitsFilingOrgAmt>0</NontaxableBenefitsFilingOrgAmt>
+        <NontaxableBenefitsRltdOrgsAmt>18176</NontaxableBenefitsRltdOrgsAmt>
+        <TotalCompensationFilingOrgAmt>0</TotalCompensationFilingOrgAmt>
+        <TotalCompensationRltdOrgsAmt>384288</TotalCompensationRltdOrgsAmt>
+        <CompReportPrior990FilingOrgAmt>0</CompReportPrior990FilingOrgAmt>
+        <CompReportPrior990RltdOrgsAmt>0</CompReportPrior990RltdOrgsAmt>
+      </RltdOrgOfficerTrstKeyEmplGrp>
+      <RltdOrgOfficerTrstKeyEmplGrp>
+        <PersonNm>KEVIN NISHIDA</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <BaseCompensationFilingOrgAmt>0</BaseCompensationFilingOrgAmt>
+        <CompensationBasedOnRltdOrgsAmt>201083</CompensationBasedOnRltdOrgsAmt>
+        <BonusFilingOrganizationAmount>0</BonusFilingOrganizationAmount>
+        <BonusRelatedOrganizationsAmt>0</BonusRelatedOrganizationsAmt>
+        <OtherCompensationFilingOrgAmt>0</OtherCompensationFilingOrgAmt>
+        <OtherCompensationRltdOrgsAmt>0</OtherCompensationRltdOrgsAmt>
+        <DeferredCompensationFlngOrgAmt>0</DeferredCompensationFlngOrgAmt>
+        <DeferredCompRltdOrgsAmt>5394</DeferredCompRltdOrgsAmt>
+        <NontaxableBenefitsFilingOrgAmt>0</NontaxableBenefitsFilingOrgAmt>
+        <NontaxableBenefitsRltdOrgsAmt>1141</NontaxableBenefitsRltdOrgsAmt>
+        <TotalCompensationFilingOrgAmt>0</TotalCompensationFilingOrgAmt>
+        <TotalCompensationRltdOrgsAmt>207618</TotalCompensationRltdOrgsAmt>
+        <CompReportPrior990FilingOrgAmt>0</CompReportPrior990FilingOrgAmt>
+        <CompReportPrior990RltdOrgsAmt>0</CompReportPrior990RltdOrgsAmt>
+      </RltdOrgOfficerTrstKeyEmplGrp>
+      <RltdOrgOfficerTrstKeyEmplGrp>
+        <PersonNm>NELSON MOKU</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <BaseCompensationFilingOrgAmt>0</BaseCompensationFilingOrgAmt>
+        <CompensationBasedOnRltdOrgsAmt>201470</CompensationBasedOnRltdOrgsAmt>
+        <BonusFilingOrganizationAmount>0</BonusFilingOrganizationAmount>
+        <BonusRelatedOrganizationsAmt>0</BonusRelatedOrganizationsAmt>
+        <OtherCompensationFilingOrgAmt>0</OtherCompensationFilingOrgAmt>
+        <OtherCompensationRltdOrgsAmt>0</OtherCompensationRltdOrgsAmt>
+        <DeferredCompensationFlngOrgAmt>0</DeferredCompensationFlngOrgAmt>
+        <DeferredCompRltdOrgsAmt>0</DeferredCompRltdOrgsAmt>
+        <NontaxableBenefitsFilingOrgAmt>0</NontaxableBenefitsFilingOrgAmt>
+        <NontaxableBenefitsRltdOrgsAmt>909</NontaxableBenefitsRltdOrgsAmt>
+        <TotalCompensationFilingOrgAmt>0</TotalCompensationFilingOrgAmt>
+        <TotalCompensationRltdOrgsAmt>202379</TotalCompensationRltdOrgsAmt>
+        <CompReportPrior990FilingOrgAmt>0</CompReportPrior990FilingOrgAmt>
+        <CompReportPrior990RltdOrgsAmt>0</CompReportPrior990RltdOrgsAmt>
+      </RltdOrgOfficerTrstKeyEmplGrp>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>PART I, LINE 3</FormAndLineReferenceDesc>
+        <ExplanationTxt>JERRY CORREA, OFFICER, IS COMPENSATED BY A RELATED ORGANIZATION, ST. FRANCIS HEALTHCARE SYSTEM OF HAWAII (SFHS), IN THE CURRENT YEAR. HIS COMPENSATION IS DETERMINED AND APPROVED BY THE GOVERNANCE COMMITTEE, WHICH IS A SUB-COMMITTEE OF SFHS BOARD OF DIRECTORS.</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleJ>
+    <IRS990ScheduleO documentId="RetDoc1044400001">
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PART I, LINE 1 AND PART III, LINE 1</FormAndLineReferenceDesc>
+        <ExplanationTxt>ST. FRANCIS DEVELOPMENT CORPORATION, A NOT-FOR-PROFIT ORGANIZATION AFFILIATED WITH ST. FRANCIS RESIDENTIAL CARE COMMUNITY, SERVES AS THE SPONSOR/DEVELOPER FOR FRANCISCAN VISTAS EWA, A SENIOR INDEPENDENT LIVING COMMUNITY. IN MAY 2011, FRANCISCAN VISTAS EWA COMPLETED ITS AFFORDABLE LIVING COMMUNITY THROUGH A COLLABORATIVE EFFORT WITH THE STATE OF HAWAII, CITY &amp; COUNTY OF HONOLULU AND PRIVATE LENDERS AND INVESTORS. AS PART OF ST. FRANCIS HEALTHCARE SYSTEM OF HAWAII, ST. FRANCIS DEVELOPMENT CORPORATION, IN CONJUNCTION WITH ST. FRANCIS RESIDENTIAL CARE COMMUNITY, CARRIES ON THE LEGACY OF ST. MARIANNE COPE AND THE SISTERS OF ST. FRANCIS, WHO CAME TO THE ISLANDS IN 1883 TO CARE FOR THOSE AFFLICTED WITH HANSEN'S DISEASE. ST. FRANCIS DEVELOPMENT CORPORATION CONTINUES THIS TRADITION OF IDENTIFYING NEEDS AND MEETING THEM TO CREATE HEALTHY COMMUNITIES IN THE SPIRIT OF CHRIST'S HEALING MINISTRY.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PART VI, SECTION A, LINE 6</FormAndLineReferenceDesc>
+        <ExplanationTxt>THE SOLE CORPORATE MEMBER OF ST. FRANCIS DEVELOPMENT CORPORATION IS ST. FRANCIS RESIDENTIAL CARE COMMUNITY.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PART VI, SECTION A, LINE 7A</FormAndLineReferenceDesc>
+        <ExplanationTxt>ST. FRANCIS RESIDENTIAL CARE COMMUNITY, AS THE SOLE CORPORATE MEMBER, APPROVES THE APPOINTMENT OF THE DIRECTORS OF THE BOARD OF ST. FRANCIS DEVELOPMENT CORPORATION.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PART VI, SECTION A, LINE 7B</FormAndLineReferenceDesc>
+        <ExplanationTxt>ST. FRANCIS RESIDENTIAL CARE COMMUNITY, AS THE SOLE CORPORATE MEMBER, HAS THE FOLLOWING POWERS RESERVED TO APPROVE THE FOLLOWING: A) ANY CHANGE IN THE PHILOSOPHY, MISSION, AND/OR PURPOSE OF THE CORPORATION; B) THE ADOPTION AND/OR AMENDMENT OF THE ARTICLES OF INCORPORATION; C) THE ADOPTION AND/OR AMENDMENT OF THE BYLAWS; D) THE APPOINTMENT OF DIRECTORS OF THE BOARD, AND REMOVAL OF DIRECTORS WITH OR WITHOUT CAUSE; E) APPOINT THE PRESIDENT OF THE CORPORATION; F) APPOINT THE CHIEF EXECUTIVE; G) APPROVE OR DISAPPROVE ANY SALE OF ALL OR SUBSTANTIALLY ALL OF THE ASSETS AND/OR SERVICES, OR ANY MERGER, CONSOLIDATION, REORGANIZATION, DIVESTING TRANSACTION OR ANY SIMILAR TRANSACTION REGARDING THE SAME, PLUS ALL OTHER ANCILLARY TRANSACTIONS NECESSARY OR APPROPRIATE TO CONSUMMATE THE SAME; H) THE DISSOLUTION OF THE CORPORATION AND DISPOSITION OF ASSETS; I) THE PURCHASE, SALE, LEASE OR MORTGAGE OF REAL PROPERTY; TO APPROVE THE PURCHASE, SALE, OR GIFT OF CAPITAL ASSETS; J) THE CORPORATION'S ANNUAL BUDGET, INCLUDING BUDGETS FOR OPERATIONS, CAPITAL EXPENDITURES, AND CASH FLOW.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PART VI, SECTION B, LINE 11B</FormAndLineReferenceDesc>
+        <ExplanationTxt>THE FORM 990 AND SUPPORTING WORKPAPERS WERE REVIEWED BY THE CHIEF FINANCIAL OFFICER OF ST. FRANCIS HEALTHCARE SYSTEM OF HAWAII AND THE COMPANY'S TAX ADVISORS, KMH LLP. A COPY OF THE FORM 990 WAS PROVIDED TO THE BOARD OF DIRECTORS PRIOR TO FILING WITH THE IRS.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PART VI, SECTION B, LINE 12C</FormAndLineReferenceDesc>
+        <ExplanationTxt>A CONFLICT OF INTEREST QUESTIONNAIRE IS COMPLETED PRIOR TO EMPLOYMENT FOR ALL EMPLOYEES AND DIRECTORS. CONFLICT OF INTEREST QUESTIONNAIRES ARE REVIEWED BY HR PERSONNEL AND UPDATED ON AN ANNUAL BASIS. AFTER REVIEW BY HR PERSONNEL, POTENTIAL CONCERNS ARE REFERRED TO MANAGEMENT PERSONNEL AND RECOMMENDATIONS FOR RESOLUTIONS OF CONFLICTS ARE REFERRED TO THE CORPORATE COMPLIANCE STEERING COMMITTEE. IF A POTENTIAL OR IDENTIFIED CONFLICT OF INTEREST CANNOT BE RESOLVED BY THE AFOREMENTIONED COMMITTEE, THE MATTER WILL BE REFERRED TO THE ORGANIZATIONAL ETHICS COMMITTEE FOR ADVICE AND RECOMMENDATION.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PART VI, SECTION C, LINE 19</FormAndLineReferenceDesc>
+        <ExplanationTxt>THE ORGANIZATION'S GOVERNING DOCUMENTS, CONFLICT OF INTEREST POLICY, AND FINANCIAL STATEMENTS ARE PROVIDED TO THE GENERAL PUBLIC UPON REQUEST.</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleO>
+    <IRS990ScheduleR documentId="RetDoc1043400001">
+      <IdDisregardedEntitiesGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>FVE AFFORDABLE LLC</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>PO BOX 29700</AddressLine1Txt>
+          <CityNm>HONOLULU</CityNm>
+          <StateAbbreviationCd>HI</StateAbbreviationCd>
+          <ZIPCd>96820</ZIPCd>
+        </USAddress>
+        <EIN>203154399</EIN>
+        <PrimaryActivitiesTxt>LOW INCOME HOUSING</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>HI</LegalDomicileStateCd>
+        <TotalIncomeAmt>32378</TotalIncomeAmt>
+        <EndOfYearAssetsAmt>73923</EndOfYearAssetsAmt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SFDC</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+      </IdDisregardedEntitiesGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>FRANCISCAN CARE SERVICES</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>PO BOX 29700</AddressLine1Txt>
+          <CityNm>HONOLULU</CityNm>
+          <StateAbbreviationCd>HI</StateAbbreviationCd>
+          <ZIPCd>96820</ZIPCd>
+        </USAddress>
+        <EIN>274348363</EIN>
+        <PrimaryActivitiesTxt>ADULT DAYCARE</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>HI</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>501(C)(3)</ExemptCodeSectionTxt>
+        <PublicCharityStatusTxt>LINE 10</PublicCharityStatusTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SFHS</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>0</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>OUR LADY OF KEA'AU</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>PO BOX 29700</AddressLine1Txt>
+          <CityNm>HONOLULU</CityNm>
+          <StateAbbreviationCd>HI</StateAbbreviationCd>
+          <ZIPCd>96820</ZIPCd>
+        </USAddress>
+        <EIN>680613210</EIN>
+        <PrimaryActivitiesTxt>REL. RETREAT</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>HI</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>501(C)(3)</ExemptCodeSectionTxt>
+        <PublicCharityStatusTxt>LINE 7</PublicCharityStatusTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SFHS</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>0</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>PARTNERS IN FRANCISCAN MINISTRIES INC</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>960 JAMES STREET 2ND FLOOR</AddressLine1Txt>
+          <CityNm>SYRACUSE</CityNm>
+          <StateAbbreviationCd>NY</StateAbbreviationCd>
+          <ZIPCd>13203</ZIPCd>
+        </USAddress>
+        <EIN>452279986</EIN>
+        <PrimaryActivitiesTxt>RELIGIOUS ORG</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>NY</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>501(C)(3)</ExemptCodeSectionTxt>
+        <PublicCharityStatusTxt>LINE 1</PublicCharityStatusTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SSFNC</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>0</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>SISTERS OF ST FRANCIS OF THE NEUMANN CO</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>960 JAMES STREET 2ND FLOOR</AddressLine1Txt>
+          <CityNm>SYRACUSE</CityNm>
+          <StateAbbreviationCd>NY</StateAbbreviationCd>
+          <ZIPCd>13203</ZIPCd>
+        </USAddress>
+        <EIN>204292535</EIN>
+        <PrimaryActivitiesTxt>RELIGIOUS ORG</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>NY</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>501(C)(3)</ExemptCodeSectionTxt>
+        <PublicCharityStatusTxt>LINE 1</PublicCharityStatusTxt>
+        <DirectControllingNACd>N/A</DirectControllingNACd>
+        <ControlledOrganizationInd>0</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>ST FRANCIS COMMUNITY HEALTH SERVICES</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>PO BOX 29700</AddressLine1Txt>
+          <CityNm>HONOLULU</CityNm>
+          <StateAbbreviationCd>HI</StateAbbreviationCd>
+          <ZIPCd>96820</ZIPCd>
+        </USAddress>
+        <EIN>990325194</EIN>
+        <PrimaryActivitiesTxt>HEALTHCARE</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>HI</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>501(C)(3)</ExemptCodeSectionTxt>
+        <PublicCharityStatusTxt>LINE 10</PublicCharityStatusTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SFHS</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>0</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>ST FRANCIS HEALTHCARE FOUNDATION OF HAWAII</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>PO BOX 29700</AddressLine1Txt>
+          <CityNm>HONOLULU</CityNm>
+          <StateAbbreviationCd>HI</StateAbbreviationCd>
+          <ZIPCd>96820</ZIPCd>
+        </USAddress>
+        <EIN>990240060</EIN>
+        <PrimaryActivitiesTxt>FOUNDATION</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>HI</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>501(C)(3)</ExemptCodeSectionTxt>
+        <PublicCharityStatusTxt>LINE 7</PublicCharityStatusTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SFHS</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>0</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>ST FRANCIS HEALTHCARE SYSTEM OF HAWAII</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>PO BOX 29700</AddressLine1Txt>
+          <CityNm>HONOLULU</CityNm>
+          <StateAbbreviationCd>HI</StateAbbreviationCd>
+          <ZIPCd>96820</ZIPCd>
+        </USAddress>
+        <EIN>990240059</EIN>
+        <PrimaryActivitiesTxt>HEALTHCARE</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>HI</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>501(C)(3)</ExemptCodeSectionTxt>
+        <PublicCharityStatusTxt>LINE 12A, I</PublicCharityStatusTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>PFM</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>0</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>ST FRANCIS HOSPITALS HAWAII</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>PO BOX 29700</AddressLine1Txt>
+          <CityNm>HONOLULU</CityNm>
+          <StateAbbreviationCd>HI</StateAbbreviationCd>
+          <ZIPCd>96820</ZIPCd>
+        </USAddress>
+        <EIN>272409865</EIN>
+        <PrimaryActivitiesTxt>INACTIVE</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>HI</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>501(C)(3)</ExemptCodeSectionTxt>
+        <PublicCharityStatusTxt>LINE 10</PublicCharityStatusTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SFHS</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>0</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>ST FRANCIS KUPUNA COMMUNITIES</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>PO BOX 29700</AddressLine1Txt>
+          <CityNm>HONOLULU</CityNm>
+          <StateAbbreviationCd>HI</StateAbbreviationCd>
+          <ZIPCd>96820</ZIPCd>
+        </USAddress>
+        <EIN>843134336</EIN>
+        <PrimaryActivitiesTxt>SUPPORTING</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>HI</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>501(C)(3)</ExemptCodeSectionTxt>
+        <PublicCharityStatusTxt>LINE 12B, II</PublicCharityStatusTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SFHS</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>0</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>ST FRANCIS MEDICAL CENTER</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>PO BOX 29700</AddressLine1Txt>
+          <CityNm>HONOLULU</CityNm>
+          <StateAbbreviationCd>HI</StateAbbreviationCd>
+          <ZIPCd>96820</ZIPCd>
+        </USAddress>
+        <EIN>990073526</EIN>
+        <PrimaryActivitiesTxt>HEALTHCARE</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>HI</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>501(C)(3)</ExemptCodeSectionTxt>
+        <PublicCharityStatusTxt>LINE 12B, II</PublicCharityStatusTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SFHS</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>0</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>ST FRANCIS RESIDENTIAL CARE COMMUNITY</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>PO BOX 29700</AddressLine1Txt>
+          <CityNm>HONOLULU</CityNm>
+          <StateAbbreviationCd>HI</StateAbbreviationCd>
+          <ZIPCd>96820</ZIPCd>
+        </USAddress>
+        <EIN>752986938</EIN>
+        <PrimaryActivitiesTxt>HEALTHCARE</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>HI</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>501(C)(3)</ExemptCodeSectionTxt>
+        <PublicCharityStatusTxt>LINE 7</PublicCharityStatusTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SFHS</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>0</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedOrgTxblPartnershipGrp>
+        <RelatedOrganizationName>
+          <BusinessNameLine1Txt>FRANCISCAN VISTAS EWA LP</BusinessNameLine1Txt>
+        </RelatedOrganizationName>
+        <USAddress>
+          <AddressLine1Txt>PO BOX 29700</AddressLine1Txt>
+          <CityNm>HONOLULU</CityNm>
+          <StateAbbreviationCd>HI</StateAbbreviationCd>
+          <ZIPCd>96820</ZIPCd>
+        </USAddress>
+        <EIN>412270514</EIN>
+        <PrimaryActivitiesTxt>SR HOUSING RENTAL</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>HI</LegalDomicileStateCd>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>FVE AFFORDABLE LLC</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <PredominantIncomeTypeTxt>INVESTMENT</PredominantIncomeTypeTxt>
+        <ShareOfEOYAssetsAmt>2186430</ShareOfEOYAssetsAmt>
+        <DisproportionateAllocationsInd>0</DisproportionateAllocationsInd>
+        <GeneralOrManagingPartnerInd>1</GeneralOrManagingPartnerInd>
+        <OwnershipPct>0.00010</OwnershipPct>
+      </IdRelatedOrgTxblPartnershipGrp>
+      <IdRelatedOrgTxblCorpTrGrp>
+        <RelatedOrganizationName>
+          <BusinessNameLine1Txt>ST FRANCIS HEALTHCARE ENTERPRISES INC</BusinessNameLine1Txt>
+        </RelatedOrganizationName>
+        <USAddress>
+          <AddressLine1Txt>PO BOX 29700</AddressLine1Txt>
+          <CityNm>HONOLULU</CityNm>
+          <StateAbbreviationCd>HI</StateAbbreviationCd>
+          <ZIPCd>96820</ZIPCd>
+        </USAddress>
+        <EIN>990244110</EIN>
+        <PrimaryActivitiesTxt>HEALTHCARE SERVICES</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>HI</LegalDomicileStateCd>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SFHS</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <EntityTypeTxt>C</EntityTypeTxt>
+        <ControlledOrganizationInd>0</ControlledOrganizationInd>
+      </IdRelatedOrgTxblCorpTrGrp>
+      <ReceiptOfIntAnntsRntsRyltsInd>0</ReceiptOfIntAnntsRntsRyltsInd>
+      <GiftGrntOrCapContriToOthOrgInd>0</GiftGrntOrCapContriToOthOrgInd>
+      <GiftGrntCapContriFromOthOrgInd>0</GiftGrntCapContriFromOthOrgInd>
+      <LoansOrGuaranteesToOtherOrgInd>0</LoansOrGuaranteesToOtherOrgInd>
+      <LoansOrGuaranteesFromOthOrgInd>0</LoansOrGuaranteesFromOthOrgInd>
+      <DivRelatedOrganizationInd>0</DivRelatedOrganizationInd>
+      <AssetSaleToOtherOrgInd>0</AssetSaleToOtherOrgInd>
+      <AssetPurchaseFromOtherOrgInd>0</AssetPurchaseFromOtherOrgInd>
+      <AssetExchangeInd>0</AssetExchangeInd>
+      <RentalOfFacilitiesToOthOrgInd>0</RentalOfFacilitiesToOthOrgInd>
+      <RentalOfFcltsFromOthOrgInd>0</RentalOfFcltsFromOthOrgInd>
+      <PerformOfServicesForOthOrgInd>0</PerformOfServicesForOthOrgInd>
+      <PerformOfServicesByOtherOrgInd>0</PerformOfServicesByOtherOrgInd>
+      <SharingOfFacilitiesInd>0</SharingOfFacilitiesInd>
+      <PaidEmployeesSharingInd>1</PaidEmployeesSharingInd>
+      <ReimbursementPaidToOtherOrgInd>0</ReimbursementPaidToOtherOrgInd>
+      <ReimbursementPaidByOtherOrgInd>0</ReimbursementPaidByOtherOrgInd>
+      <TransferToOtherOrgInd>1</TransferToOtherOrgInd>
+      <TransferFromOtherOrgInd>0</TransferFromOtherOrgInd>
+      <TransactionsRelatedOrgGrp>
+        <OtherOrganizationName>
+          <BusinessNameLine1Txt>ST FRANCIS HEALTHCARE SYSTEM OF HAWAII</BusinessNameLine1Txt>
+        </OtherOrganizationName>
+        <TransactionTypeTxt>R</TransactionTypeTxt>
+        <InvolvedAmt>223000</InvolvedAmt>
+        <MethodOfAmountDeterminationTxt>CASH</MethodOfAmountDeterminationTxt>
+      </TransactionsRelatedOrgGrp>
+    </IRS990ScheduleR>
+  </ReturnData>
+</Return>

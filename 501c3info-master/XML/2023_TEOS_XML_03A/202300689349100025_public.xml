@@ -1,0 +1,1412 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2021v4.1" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-03-09T14:05:10-08:00</ReturnTs>
+    <TaxPeriodEndDt>2022-04-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>752736421</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>JONES HAY MARSCHALL &amp; MCKINNEYPC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>PO BOX 391</AddressLine1Txt>
+        <CityNm>SAN ANGELO</CityNm>
+        <StateAbbreviationCd>TX</StateAbbreviationCd>
+        <ZIPCd>76902</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2021-05-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>264175604</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>Mary Ellen Kent Bunyard Family</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>Foundation</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>MARY</BusinessNameControlTxt>
+      <PhoneNum>3257036669</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>PO Box 3949</AddressLine1Txt>
+        <CityNm>San Angelo</CityNm>
+        <StateAbbreviationCd>TX</StateAbbreviationCd>
+        <ZIPCd>76902</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>Wylie O Webb</PersonNm>
+      <PersonTitleTxt>Treasurer</PersonTitleTxt>
+      <SignatureDt>2023-03-02</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>Wylie O</PersonFirstNm>
+        <PersonLastNm>Webb</PersonLastNm>
+      </PersonFullName>
+      <SSN>999009999</SSN>
+    </SigningOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Brian Minzenmayer</PreparerPersonNm>
+      <PTIN>P00048876</PTIN>
+      <PhoneNum>3256554104</PhoneNum>
+    </PreparerPersonGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp>
+        <TrustedCustomerCd>2</TrustedCustomerCd>
+        <AuthenticationAssuranceLevelCd>AAL1</AuthenticationAssuranceLevelCd>
+        <IdentityAssuranceLevelCd>IAL1</IdentityAssuranceLevelCd>
+        <FederatedAssuranceLevelCd>FAL1</FederatedAssuranceLevelCd>
+      </TrustedCustomerGrp>
+    </AdditionalFilerInformation>
+    <TaxYr>2021</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="13">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="21013475" softwareVersionNum="2021v4.1">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>11656119</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>218</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>218</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>447461</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>447461</DividendsNetInvstIncmAmt>
+        <GrossRentsRevAndExpnssAmt>127417</GrossRentsRevAndExpnssAmt>
+        <GrossRentsNetInvstIncmAmt>127417</GrossRentsNetInvstIncmAmt>
+        <NetRentalIncomeOrLossAmt>76704</NetRentalIncomeOrLossAmt>
+        <NetGainSaleAstRevAndExpnssAmt>225343</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>1025564</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>225343</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="OtherIncomeSchedule2">21085</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>21085</OtherIncomeNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>821524</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>821524</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>4250</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>4250</CompOfcrDirTrstDsbrsChrtblAmt>
+        <OthEmplSlrsWgsRevAndExpnssAmt>24000</OthEmplSlrsWgsRevAndExpnssAmt>
+        <OthEmplSlrsWgsDsbrsChrtblAmt>24000</OthEmplSlrsWgsDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSchedule">2352</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>500</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>1852</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="OtherProfessionalFeesSchedule">29357</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>29357</OtherProfFeesNetInvstIncmAmt>
+        <InterestRevAndExpnssAmt>82</InterestRevAndExpnssAmt>
+        <InterestNetInvstIncmAmt>82</InterestNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">23307</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>2089</TaxesNetInvstIncmAmt>
+        <TaxesDsbrsChrtblAmt>1843</TaxesDsbrsChrtblAmt>
+        <DeprecAndDpltnRevAndExpnssAmt referenceDocumentId="DepreciationSchedule">15827</DeprecAndDpltnRevAndExpnssAmt>
+        <DeprecAndDpltnNetInvstIncmAmt>12857</DeprecAndDpltnNetInvstIncmAmt>
+        <OccupancyRevAndExpnssAmt>10551</OccupancyRevAndExpnssAmt>
+        <OccupancyDsbrsChrtblAmt>10551</OccupancyDsbrsChrtblAmt>
+        <TravConfMeetingRevAndExpnssAmt>40</TravConfMeetingRevAndExpnssAmt>
+        <TravConfMeetingDsbrsChrtblAmt>40</TravConfMeetingDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">50818</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>37908</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>12910</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>160584</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>82793</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>55446</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>430231</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>430231</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>590815</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>82793</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>485677</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>230709</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>738731</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>2151848</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>1174172</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>1174172</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>5738313</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="InvestmentsCorpStockSchedule">6962122</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>9062777</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>248613</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="InvestmentsCorpBondsSchedule">249016</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>224238</CorporateBondsEOYFMVAmt>
+        <InvstLandCostOrOtherBasisAmt>1360129</InvstLandCostOrOtherBasisAmt>
+        <InvstLandAccumDepreciationAmt>143086</InvstLandAccumDepreciationAmt>
+        <LandBldgInvestmentsBOYAmt>1229900</LandBldgInvestmentsBOYAmt>
+        <LandBldgInvestmentsEOYAmt referenceDocumentId="InvestmentsLandSchedule2">1217043</LandBldgInvestmentsEOYAmt>
+        <LandBldgInvestmentsEOYFMVAmt>1115084</LandBldgInvestmentsEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>1775</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt>1775</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>1775</OtherInvestmentsEOYFMVAmt>
+        <LandBldgEquipCostOrOtherBssAmt>43561</LandBldgEquipCostOrOtherBssAmt>
+        <LandBldgEquipAccumDeprecAmt>9274</LandBldgEquipAccumDeprecAmt>
+        <LandBOYAmt>37257</LandBOYAmt>
+        <LandEOYAmt referenceDocumentId="LandEtcSchedule2">34287</LandEOYAmt>
+        <LandEOYFMVAmt>30110</LandEOYFMVAmt>
+        <OtherAssetsBOYAmt referenceDocumentId="OtherAssetsSchedule">47963</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt referenceDocumentId="OtherAssetsSchedule">47963</OtherAssetsEOYAmt>
+        <OtherAssetsEOYFMVAmt referenceDocumentId="OtherAssetsSchedule">47963</OtherAssetsEOYFMVAmt>
+        <TotalAssetsBOYAmt>9455669</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>9686378</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>11656119</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsFASB117Ind>X</OrganizationFollowsFASB117Ind>
+        <DonorRstrNetAssetsBOYAmt>9455669</DonorRstrNetAssetsBOYAmt>
+        <DonorRstrNetAssetsEOYAmt>9686378</DonorRstrNetAssetsEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>9455669</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>9686378</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>9455669</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>9686378</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>9455669</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>230709</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>9686378</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>9686378</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>604.752 Fidelity Invsts Advr Emerging Asia Inst</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2019-08-22</AcquiredDt>
+          <SoldDt>2021-06-04</SoldDt>
+          <GrossSalesPriceAmt>41976</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>23119</CostOrOtherBasisAmt>
+          <GainOrLossAmt>18857</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>18857</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1,030.018 Virtus Fds Kar Mid Cap Growth I</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2019-08-22</AcquiredDt>
+          <SoldDt>2021-06-04</SoldDt>
+          <GrossSalesPriceAmt>69976</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>42128</CostOrOtherBasisAmt>
+          <GainOrLossAmt>27848</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>27848</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1,446.945 Virtus Fds Kar Intl Sm-Cap I</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2019-08-22</AcquiredDt>
+          <SoldDt>2021-06-04</SoldDt>
+          <GrossSalesPriceAmt>35976</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>24323</CostOrOtherBasisAmt>
+          <GainOrLossAmt>11653</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>11653</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1,255.158 Matthews Asia Growth Investor</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2019-08-22</AcquiredDt>
+          <SoldDt>2021-06-04</SoldDt>
+          <GrossSalesPriceAmt>50294</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>33133</CostOrOtherBasisAmt>
+          <GainOrLossAmt>17161</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>17161</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1,009.421 Morgan Stanley Instl Fds Intl Advantage</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2019-08-22</AcquiredDt>
+          <SoldDt>2021-06-04</SoldDt>
+          <GrossSalesPriceAmt>29976</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>18776</CostOrOtherBasisAmt>
+          <GainOrLossAmt>11200</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>11200</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>884.75 Morgan Stanley Instl Fds Intl Opp I</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2019-08-22</AcquiredDt>
+          <SoldDt>2021-06-04</SoldDt>
+          <GrossSalesPriceAmt>37976</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>21149</CostOrOtherBasisAmt>
+          <GainOrLossAmt>16827</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>16827</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>100 Invesco QQQ Trust Unit Ser I EFT</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2019-08-22</AcquiredDt>
+          <SoldDt>2021-06-04</SoldDt>
+          <GrossSalesPriceAmt>33573</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>18840</CostOrOtherBasisAmt>
+          <GainOrLossAmt>14733</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>14733</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>400 Vanguard Total Stock Mkt EFT</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2019-08-22</AcquiredDt>
+          <SoldDt>2021-06-04</SoldDt>
+          <GrossSalesPriceAmt>87676</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>59711</CostOrOtherBasisAmt>
+          <GainOrLossAmt>27965</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>27965</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>811.194 Morgan Stanley Instl Fds Intl Opp I</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2019-08-22</AcquiredDt>
+          <SoldDt>2022-01-13</SoldDt>
+          <GrossSalesPriceAmt>28279</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>19693</CostOrOtherBasisAmt>
+          <GainOrLossAmt>8586</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>8586</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>2,839.931 Legg Mason Fds Western Asset Core Plus</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2019-09-25</AcquiredDt>
+          <SoldDt>2022-01-25</SoldDt>
+          <GrossSalesPriceAmt>32976</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>34203</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1227</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1227</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1,200 Vanguard Total Stock Mkt EFT</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2019-08-22</AcquiredDt>
+          <SoldDt>2022-01-25</SoldDt>
+          <GrossSalesPriceAmt>264983</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>189945</CostOrOtherBasisAmt>
+          <GainOrLossAmt>75038</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>75038</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>351.209 Fidelity Invsts Advr Emerging Asia Inst</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2019-08-22</AcquiredDt>
+          <SoldDt>2022-01-26</SoldDt>
+          <GrossSalesPriceAmt>16321</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>15530</CostOrOtherBasisAmt>
+          <GainOrLossAmt>791</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>791</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>519.491 Matthews Asia Growth Inst</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-06-04</AcquiredDt>
+          <SoldDt>2022-01-26</SoldDt>
+          <GrossSalesPriceAmt>14439</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>20829</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-6390</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-6390</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>739.425 Virtus Fds Kar Mid Cap Growth I</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2019-08-22</AcquiredDt>
+          <SoldDt>2022-01-27</SoldDt>
+          <GrossSalesPriceAmt>40822</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>30636</CostOrOtherBasisAmt>
+          <GainOrLossAmt>10186</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>10186</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>647.276 Morgan Stanley Iinstl Fds Global Opp I</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2020-10-26</AcquiredDt>
+          <SoldDt>2022-01-27</SoldDt>
+          <GrossSalesPriceAmt>22695</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>26634</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-3939</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-3939</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1,157.734 Morgan Stanley Instl Fds Intl Adv I</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2019-08-22</AcquiredDt>
+          <SoldDt>2022-01-27</SoldDt>
+          <GrossSalesPriceAmt>29846</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>21672</CostOrOtherBasisAmt>
+          <GainOrLossAmt>8174</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>8174</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1,164.011 Virtus Fds Kar Intl Sm-Mid Cap I</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2019-08-22</AcquiredDt>
+          <SoldDt>2022-01-27</SoldDt>
+          <GrossSalesPriceAmt>23209</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>20340</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2869</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2869</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.360 Warner Bros Discovery Inc Com Ser A</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2017-08-22</AcquiredDt>
+          <SoldDt>2022-04-21</SoldDt>
+          <GrossSalesPriceAmt>8</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>9</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>200 Ishares Trust SP SMCP600VL ETF</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2022-01-31</AcquiredDt>
+          <SoldDt>2022-02-02</SoldDt>
+          <GrossSalesPriceAmt>19994</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>20229</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-235</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-235</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>200 Ishares Trust S&amp;P MC 400VL ETF</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2022-01-31</AcquiredDt>
+          <SoldDt>2022-02-02</SoldDt>
+          <GrossSalesPriceAmt>21417</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>21225</CostOrOtherBasisAmt>
+          <GainOrLossAmt>192</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>192</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>3,501.066 Pimco Equity Series RAE Emrg Mkts Inst</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-06-30</AcquiredDt>
+          <SoldDt>2022-02-28</SoldDt>
+          <GrossSalesPriceAmt>35757</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>43087</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-7330</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-7330</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1,203.852 Allspring Funds Core Plus Bond Inst</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-06-30</AcquiredDt>
+          <SoldDt>2022-03-23</SoldDt>
+          <GrossSalesPriceAmt>14976</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>16116</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1140</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1140</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>100 Ishares Trust Core MSCI EAFE ETF</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2022-01-31</AcquiredDt>
+          <SoldDt>2022-02-28</SoldDt>
+          <GrossSalesPriceAmt>6929</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5883</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1046</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1046</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1,877.934 Morgan Stanley Inst Fds Core Plus Fixed</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-05-31</AcquiredDt>
+          <SoldDt>2022-03-23</SoldDt>
+          <GrossSalesPriceAmt>19976</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>21767</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1791</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1791</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>100 Ishares Inc MSCI Emrg CHN ETF</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2022-01-25</AcquiredDt>
+          <SoldDt>2022-02-28</SoldDt>
+          <GrossSalesPriceAmt>5842</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5842</CostOrOtherBasisAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>3,675.532 Legg Mason Fds Western Asset Core Plus B</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2019-09-25</AcquiredDt>
+          <SoldDt>2022-03-23</SoldDt>
+          <GrossSalesPriceAmt>39672</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>45402</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-5730</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-5730</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>225343</CapitalGainNetIncomeAmt>
+        <NetShortTermCapitalGainLossAmt>-15648</NetShortTermCapitalGainLossAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>10268</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>10268</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>10268</TaxBasedOnInvestmentIncomeAmt>
+        <ExtsnRequestIncomeTaxPaidAmt>10569</ExtsnRequestIncomeTaxPaidAmt>
+        <TotalPaymentsAndCreditsAmt>10569</TotalPaymentsAndCreditsAmt>
+        <Form2220AttachedInd referenceDocumentId="IRS2220">X</Form2220AttachedInd>
+        <EsPenaltyAmt>295</EsPenaltyAmt>
+        <OverpaymentAmt>6</OverpaymentAmt>
+        <AppliedToESTaxAmt>6</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>TX</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>maryellenkentbunyardfoundation.com</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>Wylie O Webb</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>3257036669</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>133 West Concho Avenue Suite 209</AddressLine1Txt>
+          <CityNm>San Angelo</CityNm>
+          <StateAbbreviationCd>TX</StateAbbreviationCd>
+          <ZIPCd>76903</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>William Keith Davis</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1 East Twohig Ave</AddressLine1Txt>
+            <CityNm>San Angelo</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>76903</ZIPCd>
+          </USAddress>
+          <TitleTxt>President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>1250</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Gus Alexander</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5622 Columbine</AddressLine1Txt>
+            <CityNm>San Angelo</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>76904</ZIPCd>
+          </USAddress>
+          <TitleTxt>Vice President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>500</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Wylie O Webb</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>4825 Century Drive</AddressLine1Txt>
+            <CityNm>San Angelo</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>76903</ZIPCd>
+          </USAddress>
+          <TitleTxt>Secretary-Treas</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>1250</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Brian Minzenmayer</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3614 Dominion Ridge</AddressLine1Txt>
+            <CityNm>San Angelo</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>76904</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>1250</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>9335106</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>1418701</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>1164822</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>11918629</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>11918629</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>178779</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>11739850</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>586993</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>586993</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>10268</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>10268</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>576725</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>576725</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>576725</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>485677</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>485677</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>576725</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>485677</UndistributedIncomePYAmt>
+        <QualifyingDistributionsAmt>485677</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>485677</AppliedToYear1Amt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <UndistributedIncomeCYAmt>576725</UndistributedIncomeCYAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>Mary Ellen Kent Bunyard Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 3949</AddressLine1Txt>
+            <CityNm>San Angelo</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>76902</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>3257036669</RecipientPhoneNum>
+          <RecipientEmailAddressTxt>mekbff@suddenlink.com</RecipientEmailAddressTxt>
+          <FormAndInfoAndMaterialsTxt>No specific form. Request must be accompanied by proof it is a 501(c)3 charity, copy of most recent IRS Form 990, most recent financial statements and what the organizer intends to do with the grant.</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>Applications are accepted anytime. Response in 3 months.</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>The Foundation awards grants to charities that provide assistance to youth (persons under age 18) and elderly (persons over age 70) of Tom Green County, Texas and adjoining counties.</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>House of Faith</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>321 Montecito Drive</AddressLine1Txt>
+            <CityNm>San Angelo</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>76903</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Children's annual Christmas party &amp; gifts.</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>J P W Learning Center</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>403 West Washington Drive</AddressLine1Txt>
+            <CityNm>San Angelo</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>76903</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Purchase the building next door for use in treating learning disabilities of students.</GrantOrContributionPurposeTxt>
+          <Amt>100000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Rust Street Ministries</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>803 Rust Street</AddressLine1Txt>
+            <CityNm>San Angelo</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>76903</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Purchase beds and clothing for school-aged children.</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>West Texas Boys Ranch</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10223 Boys Ranch Road</AddressLine1Txt>
+            <CityNm>San Angelo</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>76904</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Construction of a multi-sports arena for boys.</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Young Life of San Angelo</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 6181</AddressLine1Txt>
+            <CityNm>San Angelo</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>76906</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Pay electricity for building.</GrantOrContributionPurposeTxt>
+          <Amt>4800</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>San Angelo Museum of Fine Arts</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1 Love Street</AddressLine1Txt>
+            <CityNm>San Angelo</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>76903</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Take-home educational packets &amp; online &amp; social media related video production for youth and children.</GrantOrContributionPurposeTxt>
+          <Amt>22500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>West Texas Rehabilitation Center</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3001 S Jackson</AddressLine1Txt>
+            <CityNm>San Angelo</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>76904</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Renovate property for camp area for children.</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Cornerstone Christian School</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1502 N Jefferson St</AddressLine1Txt>
+            <CityNm>San Angelo</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>76901</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Purchase a new computer server for school.</GrantOrContributionPurposeTxt>
+          <Amt>7861</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Tom Green County Friends of the Lib</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3001 B Chadbourne</AddressLine1Txt>
+            <CityNm>San Angelo</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>76903</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>GOV</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Renovate the children/youth portion of the North Branch of the Library.</GrantOrContributionPurposeTxt>
+          <Amt>110000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>La Esperanza Clinic</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2029 W Beauregard Ave</AddressLine1Txt>
+            <CityNm>San Angelo</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>76901</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Remodel part of old skating rink for children's clinic.</GrantOrContributionPurposeTxt>
+          <Amt>100000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Sight Savers of America</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>337 Business Circle</AddressLine1Txt>
+            <CityNm>Pelham</CityNm>
+            <StateAbbreviationCd>AL</StateAbbreviationCd>
+            <ZIPCd>35124</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Vision aids to children with vision problems as identified by region 15.</GrantOrContributionPurposeTxt>
+          <Amt>11635</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Rio Concho Manor</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>401 Rio Concho Dr</AddressLine1Txt>
+            <CityNm>San Angelo</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>76903</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Cooking equipment for cafeteria serving elderly residents.</GrantOrContributionPurposeTxt>
+          <Amt>8435</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>430231</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>218</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>447461</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <NetRntlIncmReNotDebtFincdProp>
+          <ExclusionCd>16</ExclusionCd>
+          <ExclusionAmt>76704</ExclusionAmt>
+        </NetRntlIncmReNotDebtFincdProp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>225343</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>Oil &amp; Gas Lease</Desc>
+          <ExclusionCd>16</ExclusionCd>
+          <ExclusionAmt>821</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>Oil and Gas Royalties</Desc>
+          <ExclusionCd>15</ExclusionCd>
+          <ExclusionAmt>20264</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>770811</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>770811</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="21013475" softwareVersionNum="2021v4.1">
+      <AccountingFeesDetail>
+        <CategoryTxt>Janet Bingham</CategoryTxt>
+        <Amt>1002</Amt>
+        <NetInvestmentIncomeAmt>500</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>502</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+      <AccountingFeesDetail>
+        <CategoryTxt>Jones Hay Marschall &amp; McKinney</CategoryTxt>
+        <Amt>1350</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>1350</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="DepreciationSchedule" softwareId="21013475" softwareVersionNum="2021v4.1">
+      <DepreciationPropertyGrp>
+        <PropertyDesc>Fencing</PropertyDesc>
+        <AcquiredDt>2017-05-17</AcquiredDt>
+        <CostOrOtherBasisAmt>1622</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>324</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>20.0000</LifeRt>
+        <CurrentYearExpenseAmt>81</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>81</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>81</AdjustedNetIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>Fencing Middle Pasture</PropertyDesc>
+        <AcquiredDt>2017-10-11</AcquiredDt>
+        <CostOrOtherBasisAmt>17500</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>2800</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>25.0000</LifeRt>
+        <CurrentYearExpenseAmt>700</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>700</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>700</AdjustedNetIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>Fire Proof Safe</PropertyDesc>
+        <AcquiredDt>2017-05-01</AcquiredDt>
+        <CostOrOtherBasisAmt>1784</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>476</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>15.0000</LifeRt>
+        <CurrentYearExpenseAmt>119</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>Sentry Fire Proof Safe</PropertyDesc>
+        <AcquiredDt>2017-05-01</AcquiredDt>
+        <CostOrOtherBasisAmt>2396</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>640</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>15.0000</LifeRt>
+        <CurrentYearExpenseAmt>160</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>L Desk Wood Top 66X80</PropertyDesc>
+        <AcquiredDt>2018-02-20</AcquiredDt>
+        <CostOrOtherBasisAmt>3043</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>643</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>15.0000</LifeRt>
+        <CurrentYearExpenseAmt>203</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>Wall Mount Unit 72"</PropertyDesc>
+        <AcquiredDt>2018-02-20</AcquiredDt>
+        <CostOrOtherBasisAmt>1600</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>338</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>15.0000</LifeRt>
+        <CurrentYearExpenseAmt>107</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>2 Drawer Lateral File</PropertyDesc>
+        <AcquiredDt>2018-02-20</AcquiredDt>
+        <CostOrOtherBasisAmt>1117</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>234</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>15.0000</LifeRt>
+        <CurrentYearExpenseAmt>74</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>3 Drawer Lateral File</PropertyDesc>
+        <AcquiredDt>2018-02-20</AcquiredDt>
+        <CostOrOtherBasisAmt>1495</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>317</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>15.0000</LifeRt>
+        <CurrentYearExpenseAmt>100</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>4 Drawer Lateral File</PropertyDesc>
+        <AcquiredDt>2018-02-20</AcquiredDt>
+        <CostOrOtherBasisAmt>1873</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>396</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>15.0000</LifeRt>
+        <CurrentYearExpenseAmt>125</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>42" Round Table</PropertyDesc>
+        <AcquiredDt>2018-02-20</AcquiredDt>
+        <CostOrOtherBasisAmt>1701</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>358</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>15.0000</LifeRt>
+        <CurrentYearExpenseAmt>113</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>4 Arlington Club Chairs</PropertyDesc>
+        <AcquiredDt>2018-02-20</AcquiredDt>
+        <CostOrOtherBasisAmt>2875</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>608</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>15.0000</LifeRt>
+        <CurrentYearExpenseAmt>192</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>Amia Ergonomic Chair</PropertyDesc>
+        <AcquiredDt>2018-02-20</AcquiredDt>
+        <CostOrOtherBasisAmt>630</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>133</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>15.0000</LifeRt>
+        <CurrentYearExpenseAmt>42</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>Dell Computer</PropertyDesc>
+        <AcquiredDt>2018-01-21</AcquiredDt>
+        <CostOrOtherBasisAmt>1981</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>644</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+        <CurrentYearExpenseAmt>198</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>2 Estagers</PropertyDesc>
+        <AcquiredDt>2018-03-13</AcquiredDt>
+        <CostOrOtherBasisAmt>1559</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>321</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>15.0000</LifeRt>
+        <CurrentYearExpenseAmt>104</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>Fencing</PropertyDesc>
+        <AcquiredDt>2017-01-01</AcquiredDt>
+        <CostOrOtherBasisAmt>142306</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>30832</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>20.0000</LifeRt>
+        <CurrentYearExpenseAmt>7115</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>7115</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>7115</AdjustedNetIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>Fencing</PropertyDesc>
+        <AcquiredDt>2018-07-01</AcquiredDt>
+        <CostOrOtherBasisAmt>16308</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>2310</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>20.0000</LifeRt>
+        <CurrentYearExpenseAmt>815</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>815</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>815</AdjustedNetIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>Road Work</PropertyDesc>
+        <AcquiredDt>2019-03-01</AcquiredDt>
+        <CostOrOtherBasisAmt>18005</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>1950</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>20.0000</LifeRt>
+        <CurrentYearExpenseAmt>900</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>900</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>900</AdjustedNetIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>Fencing Middle Pasture</PropertyDesc>
+        <AcquiredDt>2018-05-01</AcquiredDt>
+        <CostOrOtherBasisAmt>10224</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>1533</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>20.0000</LifeRt>
+        <CurrentYearExpenseAmt>511</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>511</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>511</AdjustedNetIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>Fencing South Pasture</PropertyDesc>
+        <AcquiredDt>2018-05-01</AcquiredDt>
+        <CostOrOtherBasisAmt>17840</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>2676</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>20.0000</LifeRt>
+        <CurrentYearExpenseAmt>892</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>892</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>892</AdjustedNetIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>Fencing Middle Pasture</PropertyDesc>
+        <AcquiredDt>2018-05-01</AcquiredDt>
+        <CostOrOtherBasisAmt>6936</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>1041</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>20.0000</LifeRt>
+        <CurrentYearExpenseAmt>347</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>347</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>347</AdjustedNetIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>Roof Hunting Lodge</PropertyDesc>
+        <AcquiredDt>2019-11-20</AcquiredDt>
+        <CostOrOtherBasisAmt>20192</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>1515</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>20.0000</LifeRt>
+        <CurrentYearExpenseAmt>1010</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>1010</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>1010</AdjustedNetIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>Desk, Bridge &amp; Credenza</PropertyDesc>
+        <AcquiredDt>2020-06-24</AcquiredDt>
+        <CostOrOtherBasisAmt>5807</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>323</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>15.0000</LifeRt>
+        <CurrentYearExpenseAmt>387</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>4 Drawer Lateral File</PropertyDesc>
+        <AcquiredDt>2020-06-24</AcquiredDt>
+        <CostOrOtherBasisAmt>5807</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>323</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>15.0000</LifeRt>
+        <CurrentYearExpenseAmt>387</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>Conference Table</PropertyDesc>
+        <AcquiredDt>2020-06-24</AcquiredDt>
+        <CostOrOtherBasisAmt>4516</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>251</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>15.0000</LifeRt>
+        <CurrentYearExpenseAmt>301</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>2 Arlington Club Chairs</PropertyDesc>
+        <AcquiredDt>2020-06-24</AcquiredDt>
+        <CostOrOtherBasisAmt>2366</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>131</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>15.0000</LifeRt>
+        <CurrentYearExpenseAmt>158</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>Steelcase Amia Chair</PropertyDesc>
+        <AcquiredDt>2020-06-24</AcquiredDt>
+        <CostOrOtherBasisAmt>860</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>48</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>15.0000</LifeRt>
+        <CurrentYearExpenseAmt>57</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>2 Arlington Guest Chairs</PropertyDesc>
+        <AcquiredDt>2020-06-24</AcquiredDt>
+        <CostOrOtherBasisAmt>2151</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>120</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>15.0000</LifeRt>
+        <CurrentYearExpenseAmt>143</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>Water Trough &amp; Water Lines</PropertyDesc>
+        <AcquiredDt>2021-01-14</AcquiredDt>
+        <CostOrOtherBasisAmt>8750</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>146</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>20.0000</LifeRt>
+        <CurrentYearExpenseAmt>438</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>438</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>438</AdjustedNetIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>Electrical Hookups for Hunters</PropertyDesc>
+        <AcquiredDt>2021-01-04</AcquiredDt>
+        <CostOrOtherBasisAmt>955</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>16</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>20.0000</LifeRt>
+        <CurrentYearExpenseAmt>48</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>48</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>48</AdjustedNetIncomeAmt>
+      </DepreciationPropertyGrp>
+    </DepreciationSchedule>
+    <GeneralExplanationAttachment documentId="GeneralExplanation" softwareId="21013475" softwareVersionNum="2021v4.1">
+      <GeneralExplanationGrp>
+        <FormAndLineReferenceDesc>General Explanation Supplemental Information for Form 990-PF</FormAndLineReferenceDesc>
+        <MediumExplanationTxt>STATEMENT OF RENTAL INCOME OR (LOSS)Form 990-PF, Part I, Line 5bNet Rental Income or (Loss)Ranch Land - Tom Green County, TexasGross Rental Income..................................................$ 127,417.ExpensesDepreciation.........................................................$ 12,857.Insurance............................................................ 4,876.Legal and Professional Fees.......................................... 4,707.Management Fees...................................................... 12,000.Repairs.............................................................. 2,289.Taxes................................................................ 8,063.Utilities............................................................ 3,004.Conservation Expense................................................. 2,917. ----------- Total Expenses.....................................................$ 50,713. Net Rental Income or(Loss) $ 76,704. ===========</MediumExplanationTxt>
+      </GeneralExplanationGrp>
+    </GeneralExplanationAttachment>
+    <InvestmentsCorpBondsSchedule documentId="InvestmentsCorpBondsSchedule" softwareId="21013475" softwareVersionNum="2021v4.1">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>4,873.374 Morgan Stanley Core Plus Fixed</BondNm>
+        <EOYBookValueAmt>56823</EOYBookValueAmt>
+        <EOYFMVAmt>49903</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>3,526.238 Sh PIMCO Income Fund Inst</BondNm>
+        <EOYBookValueAmt>41133</EOYBookValueAmt>
+        <EOYFMVAmt>38718</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>5,414.62 Sh Bond Fund of America</BondNm>
+        <EOYBookValueAmt>74531</EOYBookValueAmt>
+        <EOYFMVAmt>65625</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>4,380.843 Allsprings Fds Core Plus Bond</BondNm>
+        <EOYBookValueAmt>58705</EOYBookValueAmt>
+        <EOYFMVAmt>52307</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>300 Vanguard Short Term Treas ETF</BondNm>
+        <EOYBookValueAmt>17824</EOYBookValueAmt>
+        <EOYFMVAmt>17685</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="InvestmentsCorpStockSchedule" softwareId="21013475" softwareVersionNum="2021v4.1">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>8,000 SS AT&amp;T Inc</StockNm>
+        <EOYBookValueAmt>185757</EOYBookValueAmt>
+        <EOYFMVAmt>150880</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>6,000 SS Altria Group Inc</StockNm>
+        <EOYBookValueAmt>132030</EOYBookValueAmt>
+        <EOYFMVAmt>333420</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>4,100 SS American Electric Power</StockNm>
+        <EOYBookValueAmt>153033</EOYBookValueAmt>
+        <EOYFMVAmt>406351</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>3,000 SS Chevron Corp</StockNm>
+        <EOYBookValueAmt>265694</EOYBookValueAmt>
+        <EOYFMVAmt>470010</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>4,3600 SS Coca Cola Company</StockNm>
+        <EOYBookValueAmt>158854</EOYBookValueAmt>
+        <EOYFMVAmt>277823</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>5,000 SS Exxon Mobile Corp</StockNm>
+        <EOYBookValueAmt>427831</EOYBookValueAmt>
+        <EOYFMVAmt>426250</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>6,250 SS Intel Corporation</StockNm>
+        <EOYBookValueAmt>122160</EOYBookValueAmt>
+        <EOYFMVAmt>272437</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>2,850 SS Johnson &amp; Johnson</StockNm>
+        <EOYBookValueAmt>169993</EOYBookValueAmt>
+        <EOYFMVAmt>514311</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>1,500 SS Kimberly Clark</StockNm>
+        <EOYBookValueAmt>99725</EOYBookValueAmt>
+        <EOYFMVAmt>208245</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>9,000 SS Kraft Heinz Co</StockNm>
+        <EOYBookValueAmt>339136</EOYBookValueAmt>
+        <EOYFMVAmt>383670</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>8,500 SS Mondelez International Inc</StockNm>
+        <EOYBookValueAmt>168960</EOYBookValueAmt>
+        <EOYFMVAmt>548080</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>7,500 SS Pfizer Inc</StockNm>
+        <EOYBookValueAmt>122279</EOYBookValueAmt>
+        <EOYFMVAmt>368025</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>3,150 SS Philip Morris Int'l</StockNm>
+        <EOYBookValueAmt>165769</EOYBookValueAmt>
+        <EOYFMVAmt>315000</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>4,100 SS Proctor &amp; Gamble Co</StockNm>
+        <EOYBookValueAmt>250198</EOYBookValueAmt>
+        <EOYFMVAmt>658255</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>500 SS Invesco QQQ Trust Series 1</StockNm>
+        <EOYBookValueAmt>126337</EOYBookValueAmt>
+        <EOYFMVAmt>156625</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>800 SS IShares Core MSCI Emerging Mkts</StockNm>
+        <EOYBookValueAmt>44048</EOYBookValueAmt>
+        <EOYFMVAmt>41800</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>2,000 SS IShares Core MSCI EAFE</StockNm>
+        <EOYBookValueAmt>139714</EOYBookValueAmt>
+        <EOYFMVAmt>129620</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>300 SS Vanguard Total Stock Market ETF</StockNm>
+        <EOYBookValueAmt>50865</EOYBookValueAmt>
+        <EOYFMVAmt>62064</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>15,015.103 Sh Growth Fund of America</StockNm>
+        <EOYBookValueAmt>1031676</EOYBookValueAmt>
+        <EOYFMVAmt>874329</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>6,200.035 Sh T Rowe Price Blue Chip Grow</StockNm>
+        <EOYBookValueAmt>1039384</EOYBookValueAmt>
+        <EOYFMVAmt>819397</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>7,194.128 Sh Vanguard Growth Index Fund</StockNm>
+        <EOYBookValueAmt>955989</EOYBookValueAmt>
+        <EOYFMVAmt>928186</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>2,966.962 Parnassus Invest Endeavor Inv</StockNm>
+        <EOYBookValueAmt>137417</EOYBookValueAmt>
+        <EOYFMVAmt>140812</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>1,935 SS Warner Bros Discovery Inc</StockNm>
+        <EOYBookValueAmt>58177</EOYBookValueAmt>
+        <EOYFMVAmt>35120</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>1,630.979 Oakmark Funds Intl Inst</StockNm>
+        <EOYBookValueAmt>50681</EOYBookValueAmt>
+        <EOYFMVAmt>39274</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>6,759.484 Dodge &amp; Cox Fds Global Stock</StockNm>
+        <EOYBookValueAmt>109445</EOYBookValueAmt>
+        <EOYFMVAmt>93484</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>900 Schwab Strategic Tr US Tips ETF</StockNm>
+        <EOYBookValueAmt>55471</EOYBookValueAmt>
+        <EOYFMVAmt>53208</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>6,132.934 Doubleline Fds Shiller Enhance</StockNm>
+        <EOYBookValueAmt>124315</EOYBookValueAmt>
+        <EOYFMVAmt>96655</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>335 Ishares Tr Core S&amp;P500 ETF</StockNm>
+        <EOYBookValueAmt>146716</EOYBookValueAmt>
+        <EOYFMVAmt>138543</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>250 Ishares MSCI Emrg Chn ETF</StockNm>
+        <EOYBookValueAmt>15246</EOYBookValueAmt>
+        <EOYFMVAmt>13625</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>550 Vanguard Small Cap ETF</StockNm>
+        <EOYBookValueAmt>115222</EOYBookValueAmt>
+        <EOYFMVAmt>107278</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsLandSchedule2 documentId="InvestmentsLandSchedule2" softwareId="21013475" softwareVersionNum="2021v4.1">
+      <InvestmentLandGrp>
+        <CategoryOrItemTxt>Improvements</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>260638</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>58000</AccumulatedDepreciationAmt>
+        <BookValueAmt>202638</BookValueAmt>
+        <EOYFMVAmt>200000</EOYFMVAmt>
+      </InvestmentLandGrp>
+      <InvestmentLandGrp>
+        <CategoryOrItemTxt>Land</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>911301</CostOrOtherBasisAmt>
+        <BookValueAmt>911301</BookValueAmt>
+        <EOYFMVAmt>818000</EOYFMVAmt>
+      </InvestmentLandGrp>
+      <InvestmentLandGrp>
+        <CategoryOrItemTxt>Miscellaneous</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>188190</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>85086</AccumulatedDepreciationAmt>
+        <BookValueAmt>103104</BookValueAmt>
+        <EOYFMVAmt>97084</EOYFMVAmt>
+      </InvestmentLandGrp>
+    </InvestmentsLandSchedule2>
+    <LandEtcSchedule2 documentId="LandEtcSchedule2" softwareId="21013475" softwareVersionNum="2021v4.1">
+      <LandEtcGrp>
+        <CategoryOrItemTxt>Furniture and Fixtures</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>43561</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>9274</AccumulatedDepreciationAmt>
+        <BookValueAmt>34287</BookValueAmt>
+        <EOYFMVAmt>30110</EOYFMVAmt>
+      </LandEtcGrp>
+    </LandEtcSchedule2>
+    <OtherAssetsSchedule documentId="OtherAssetsSchedule" softwareId="21013475" softwareVersionNum="2021v4.1">
+      <OtherAssetsScheduleGrp>
+        <Desc>Collectibles</Desc>
+        <BOYBookValueAmt>47113</BOYBookValueAmt>
+        <EOYBookValueAmt>47113</EOYBookValueAmt>
+        <EOYFMVAmt>47113</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>Rental Deposit</Desc>
+        <BOYBookValueAmt>850</BOYBookValueAmt>
+        <EOYBookValueAmt>850</EOYBookValueAmt>
+        <EOYFMVAmt>850</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="21013475" softwareVersionNum="2021v4.1">
+      <OtherExpensesScheduleGrp>
+        <Desc>Bank Charges</Desc>
+        <RevenueAndExpensesPerBooksAmt>60</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>60</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Insurance</Desc>
+        <RevenueAndExpensesPerBooksAmt>6842</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>6842</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Internet</Desc>
+        <RevenueAndExpensesPerBooksAmt>1255</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>1255</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Miscellaneous</Desc>
+        <RevenueAndExpensesPerBooksAmt>5</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>5</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Office Supplies</Desc>
+        <RevenueAndExpensesPerBooksAmt>4148</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>4148</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Other Oil &amp; Gas Revenue Deductions</Desc>
+        <RevenueAndExpensesPerBooksAmt>52</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>52</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Rental Expenses</Desc>
+        <RevenueAndExpensesPerBooksAmt>37856</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>37856</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Website Fees</Desc>
+        <RevenueAndExpensesPerBooksAmt>600</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>600</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSchedule2" softwareId="21013475" softwareVersionNum="2021v4.1">
+      <OtherIncomeDetail>
+        <Desc>Oil &amp; Gas Lease</Desc>
+        <RevenueAndExpensesPerBooksAmt>821</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>821</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>Oil and Gas Royalties</Desc>
+        <RevenueAndExpensesPerBooksAmt>20264</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>20264</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherProfessionalFeesSchedule documentId="OtherProfessionalFeesSchedule" softwareId="21013475" softwareVersionNum="2021v4.1">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>Raymond James</CategoryTxt>
+        <Amt>19854</Amt>
+        <NetInvestmentIncomeAmt>19854</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>Strategic Financial Concepts</CategoryTxt>
+        <Amt>9503</Amt>
+        <NetInvestmentIncomeAmt>9503</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="21013475" softwareVersionNum="2021v4.1">
+      <TaxesDetail>
+        <CategoryTxt>Ad Valorem</CategoryTxt>
+        <Amt>1294</Amt>
+        <NetInvestmentIncomeAmt>1294</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>Excise Tax</CategoryTxt>
+        <Amt>19375</Amt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>Gross Production Taxes</CategoryTxt>
+        <Amt>795</Amt>
+        <NetInvestmentIncomeAmt>795</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>Payroll Tax</CategoryTxt>
+        <Amt>1843</Amt>
+        <DisbursementsCharitablePrpsAmt>1843</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

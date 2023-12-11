@@ -1,0 +1,1227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2021v4.2">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-02-27T08:33:31-06:00</ReturnTs>
+    <TaxPeriodEndDt>2022-08-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>861065772</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>DELOITTE TAX LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>6100 S YALE AVE SUITE 2010</AddressLine1Txt>
+        <CityNm>TULSA</CityNm>
+        <StateAbbreviationCd>OK</StateAbbreviationCd>
+        <ZIPCd>74136</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2021-09-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>736156280</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>PATTI JOHNSON WILSON FOUNDATION</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>C/O TRUST COMPANY OF OKLAHOMA</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>PATT</BusinessNameControlTxt>
+      <PhoneNum>9187440553</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>PO BOX 3627</AddressLine1Txt>
+        <CityNm>TULSA</CityNm>
+        <StateAbbreviationCd>OK</StateAbbreviationCd>
+        <ZIPCd>74104</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>THE TRUST COMPANY OF OKLAHOMA</PersonNm>
+      <PersonTitleTxt>TRUSTEE</PersonTitleTxt>
+      <PhoneNum>9187440553</PhoneNum>
+      <SignatureDt>2023-02-22</SignatureDt>
+      <DiscussWithPaidPreparerInd>1</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>THE</PersonFirstNm>
+        <PersonLastNm>TRUST COMPANY OF OKL</PersonLastNm>
+      </PersonFullName>
+      <SSN>999009999</SSN>
+    </SigningOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>DARIO MENCHACA</PreparerPersonNm>
+      <PTIN>P01382593</PTIN>
+      <PhoneNum>9184778800</PhoneNum>
+    </PreparerPersonGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp>
+        <TrustedCustomerCd>3</TrustedCustomerCd>
+        <AuthenticationAssuranceLevelCd>AAL1</AuthenticationAssuranceLevelCd>
+        <IdentityAssuranceLevelCd>IAL1</IdentityAssuranceLevelCd>
+      </TrustedCustomerGrp>
+    </AdditionalFilerInformation>
+    <TaxYr>2021</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="13">
+    <IRS990PF documentId="RetDoc1235000001">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>32647560</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>44249</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>44249</InterestOnSavNetInvstIncmAmt>
+        <InterestOnSavingsAdjNetIncmAmt>44249</InterestOnSavingsAdjNetIncmAmt>
+        <DividendsRevAndExpnssAmt>309579</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>309579</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>309579</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>303529</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>1550113</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>303529</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="RetDoc2001500001">2567683</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>2567683</OtherIncomeNetInvstIncmAmt>
+        <OtherIncomeAdjNetIncmAmt>2567683</OtherIncomeAdjNetIncmAmt>
+        <TotalRevAndExpnssAmt>3225040</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>3225040</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>2921511</TotalAdjNetIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>61243</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>6650</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstAdjNetIncmAmt>0</CompOfcrDirTrstAdjNetIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>54593</CompOfcrDirTrstDsbrsChrtblAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002100001">125</LegalFeesRevAndExpnssAmt>
+        <LegalFeesNetInvstIncmAmt>125</LegalFeesNetInvstIncmAmt>
+        <LegalFeesAdjNetIncmAmt>0</LegalFeesAdjNetIncmAmt>
+        <LegalFeesDsbrsChrtblAmt>0</LegalFeesDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002200001">9251</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>9251</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesAdjNetIncmAmt>0</AccountingFeesAdjNetIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>0</AccountingFeesChrtblPrpsAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc2002500001">27071</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>9411</TaxesNetInvstIncmAmt>
+        <TaxesAdjNetIncmAmt>0</TaxesAdjNetIncmAmt>
+        <TaxesDsbrsChrtblAmt>0</TaxesDsbrsChrtblAmt>
+        <DeprecAndDpltnRevAndExpnssAmt referenceDocumentId="RetDoc2203000001">423978</DeprecAndDpltnRevAndExpnssAmt>
+        <DeprecAndDpltnNetInvstIncmAmt>423978</DeprecAndDpltnNetInvstIncmAmt>
+        <DeprecAndDpltnAdjNetIncmAmt>423978</DeprecAndDpltnAdjNetIncmAmt>
+        <TravConfMeetingRevAndExpnssAmt>502</TravConfMeetingRevAndExpnssAmt>
+        <TravConfMeetingNetInvstIncmAmt>0</TravConfMeetingNetInvstIncmAmt>
+        <TravConfMeetingAdjNetIncmAmt>0</TravConfMeetingAdjNetIncmAmt>
+        <TravConfMeetingDsbrsChrtblAmt>502</TravConfMeetingDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc2003200001">240754</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>239278</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesAdjNetIncmAmt>239278</OtherExpensesAdjNetIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>1476</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>762924</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>688693</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>663256</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>56571</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>1060000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>1060000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>1822924</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>688693</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>663256</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>1116571</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>1402116</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>2536347</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>2258255</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>449</CashBOYAmt>
+        <SavAndTempCashInvstBOYAmt>513321</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>939947</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>939947</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>7831740</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc2018900001">8639953</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>15312610</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>3753208</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="RetDoc2044400001">4265729</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>3881118</CorporateBondsEOYFMVAmt>
+        <OtherAssetsBOYAmt referenceDocumentId="RetDoc2046600001">157334</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt referenceDocumentId="RetDoc2046600001">157333</OtherAssetsEOYAmt>
+        <OtherAssetsEOYFMVAmt referenceDocumentId="RetDoc2046600001">12513885</OtherAssetsEOYFMVAmt>
+        <TotalAssetsBOYAmt>12256052</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>14002962</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>32647560</TotalAssetsEOYFMVAmt>
+        <OtherLiabilitiesBOYAmt referenceDocumentId="RetDoc2065700001">69748</OtherLiabilitiesBOYAmt>
+        <OtherLiabilitiesEOYAmt referenceDocumentId="RetDoc2065700001">0</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesBOYAmt>69748</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <CapitalStockBOYAmt>12186304</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>14002962</CapitalStockEOYAmt>
+        <AdditionalPaidInCapitalBOYAmt>0</AdditionalPaidInCapitalBOYAmt>
+        <AdditionalPaidInCapitalEOYAmt>0</AdditionalPaidInCapitalEOYAmt>
+        <RetainedEarningBOYAmt>0</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>0</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>12186304</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>14002962</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>12256052</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>14002962</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>12186304</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>1402116</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="RetDoc2049700001">423978</OtherIncreasesAmt>
+        <SubtotalAmt>14012398</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="RetDoc2049800001">9436</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>14002962</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUBLICLY TRADED SECURITIES - SHORT TERM</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>184642</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>191972</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-7330</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-7330</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUBLICLY TRADED SECURITIES - LONG TERM</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>1227334</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1054612</CostOrOtherBasisAmt>
+          <GainOrLossAmt>172722</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>172722</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CAPITAL GAINS DIVIDENDS</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>138137</GrossSalesPriceAmt>
+          <GainOrLossAmt>138137</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>138137</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>303529</CapitalGainNetIncomeAmt>
+        <NetShortTermCapitalGainLossAmt>-7330</NetShortTermCapitalGainLossAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>35255</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>35255</SubtotalAmt>
+        <SubtitleATaxAmt>0</SubtitleATaxAmt>
+        <TaxBasedOnInvestmentIncomeAmt>35255</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>20520</EstimatedPlusOvpmtIncmTxAmt>
+        <ExemptFrgnOrgTaxWthldAtSrceAmt>0</ExemptFrgnOrgTaxWthldAtSrceAmt>
+        <ExtsnRequestIncomeTaxPaidAmt>0</ExtsnRequestIncomeTaxPaidAmt>
+        <BackupWithholdingWithheldAmt>0</BackupWithholdingWithheldAmt>
+        <TotalPaymentsAndCreditsAmt>20520</TotalPaymentsAndCreditsAmt>
+        <Form2220AttachedInd referenceDocumentId="RetDoc1192000001">X</Form2220AttachedInd>
+        <EsPenaltyAmt>0</EsPenaltyAmt>
+        <TaxDueAmt>14735</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>0</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>0</MoreThan100SpentInd>
+        <Form1120POLFiledInd>0</Form1120POLFiledInd>
+        <Section4955OrganizationTaxAmt>0</Section4955OrganizationTaxAmt>
+        <Section4955ManagersTaxAmt>0</Section4955ManagersTaxAmt>
+        <TaxReimbursedAmt>0</TaxReimbursedAmt>
+        <ActivitiesNotPreviouslyRptInd>0</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>0</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>0</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>0</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>1</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>1</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>OK</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>1</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>0</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>0</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>1</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>0</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>1</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>MICHAEL R HAIRSTON</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>9187440553</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>6120 S YALE AVE STE 1900</AddressLine1Txt>
+          <CityNm>TULSA</CityNm>
+          <StateAbbreviationCd>OK</StateAbbreviationCd>
+          <ZIPCd>74136</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>0</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>0</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>0</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>0</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>1</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>0</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>0</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>0</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>0</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>0</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>1</BusinessHoldingsInd>
+        <ExcessBusinessHoldingsInd>0</ExcessBusinessHoldingsInd>
+        <JeopardyInvestmentsInd>0</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>0</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>0</InfluenceLegislationInd>
+        <InfluenceElectionInd>0</InfluenceElectionInd>
+        <GrantsToIndividualsInd>0</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>0</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>0</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>0</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>0</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>0</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>0</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>THE TRUST COMPANY OF OKLAHOMA</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 3348</AddressLine1Txt>
+            <CityNm>TULSA</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74101</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>3.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>26075</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>NANCY JOHNSON LEAKE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>11 GLENBROOK</AddressLine1Txt>
+            <CityNm>BENTONVILLE</CityNm>
+            <StateAbbreviationCd>AR</StateAbbreviationCd>
+            <ZIPCd>72712</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>5085</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>KATHLEEN L CHILDS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>4440 SOUTHWEST 53RD STREET</AddressLine1Txt>
+            <CityNm>TOPEKA</CityNm>
+            <StateAbbreviationCd>KS</StateAbbreviationCd>
+            <ZIPCd>66610</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>5083</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>FREDERICK P KOONTZ</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3601 EAST 96TH PLACE</AddressLine1Txt>
+            <CityNm>TULSA</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74137</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>5000</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>FRANK X HENKE III</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>6060 S AMERICAN PLAZA</AddressLine1Txt>
+            <CityNm>TULSA</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74135</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>5000</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>BARBARA B GLASS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3612 SOUTH BRADEN PLACE</AddressLine1Txt>
+            <CityNm>TULSA</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74135</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>5000</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DAVID A STURDIVANT</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>100 WEST 7TH STREET SUITE 900</AddressLine1Txt>
+            <CityNm>TULSA</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74119</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>5000</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MARY ANN MECKFESSEL</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>6800 S GRANITE AVE APT 230</AddressLine1Txt>
+            <CityNm>TULSA</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74136</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>5000</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+        <ContractorPaidOver50kCnt>0</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>NOT APPLICABLE</Description1Txt>
+        <Expenses1Amt>0</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>NOT APPLICABLE</Description1Txt>
+        <Expenses1Amt>0</Expenses1Amt>
+        <TotalAmt>0</TotalAmt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>21229101</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>21905</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>12513884</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>33764890</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>33764890</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>506473</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>33258417</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>1662921</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>1662921</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>35255</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>35255</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>1627666</DistributableBeforeAdjAmt>
+        <RecoveriesQualfiedDistriAmt>0</RecoveriesQualfiedDistriAmt>
+        <DistributableBeforeDedAmt>1627666</DistributableBeforeDedAmt>
+        <DeductionFromDistributableAmt>0</DeductionFromDistributableAmt>
+        <DistributableAsAdjustedAmt>1627666</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>1116571</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <QualifyingDistributionsAmt>1116571</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>1627666</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>293289</UndistributedIncomePYAmt>
+        <TotalForPriorYearsAmt>0</TotalForPriorYearsAmt>
+        <TotalExcessDistributionCyovAmt>0</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>1116571</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>293289</AppliedToYear1Amt>
+        <AppliedToPriorYearsAmt>0</AppliedToPriorYearsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>823282</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>0</RemainingDistriFromCorpusAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>0</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>0</ExcessDistributionCyovAppCYAmt>
+        <TotalCorpusAmt>0</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <PriorYearDeficiencyOrTaxAmt>0</PriorYearDeficiencyOrTaxAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>804384</UndistributedIncomeCYAmt>
+        <CorpusDistri170b1EOr4942g3Amt>0</CorpusDistri170b1EOr4942g3Amt>
+        <ExcessDistriCyovFromYr5Amt>0</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>0</ExcessDistriCyovToNextYrAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>THE PATTI JOHNSON WILSON FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 6327</AddressLine1Txt>
+            <CityNm>TULSA</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74101</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>9187440553</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>CONTACT THE FINANCIAL AID OFFICE TO PROCURE A SCHOLARSHIP APPLICATION AND FOLLOW THEIR SUBMISSION PROCEDURES. APPLICATIONS ARE SUBMITTED THROUGH THE STUDENT'S UNIVERSITY FINANCIAL AID OFFICE. THE FINANCIAL AID OFFICE TYPICALLY REQUIRES THE SCHOLARSHIP APPLICATIONS TO BE SUBMITTED TO THEM TWO WEEKS PRIOR TO THE APRIL 1ST DEADLINE.</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>THE DEADLINE TO SUBMIT APPLICATIONS IS APRIL 1ST FOR THE FOLLOWING ACADEMIC YEAR.</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>SCHOLARSHIP APPLICATIONS ARE ONLY ACCEPTED IN THE FOLLOWING MAJORS: MUSIC, ENGINEERING OR LIBERAL ARTS AND ONLY FROM SELECTED UNIVERSITIES (SEE BELOW) TO BE ELIGIBLE FOR SCHOLARSHIP CONSIDERATION, THE STUDENT MUST: MAINTAIN AT LEAST A 3.5 GPA BE WORKING TO HELP PAY FOR THEIR EDUCATION DEMONSTRATE FINANCIAL NEED SCHOLARSHIP APPLICATIONS ARE ACCEPTED FROM THE FOLLOWING UNIVERSITIES: THE UNIVERSITY OF TULSA, OKLAHOMA STATE UNIVERSITY, THE UNIVERSITY OF OKLAHOMA, OKLAHOMA CITY UNIVERSITY, KANSAS STATE UNIVERSITY, THE UNIVERSITY OF KANSAS, THE UNIVERSITY OF ARKANSAS</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>THE PATTI JOHNSON WILSON FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 6327</AddressLine1Txt>
+            <CityNm>TULSA</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74101</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>9187440553</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>TO APPLY FOR A GRANT, THE APPLICANT MUST SUBMIT A BRIEF PROPOSAL OR LETTER CONTAINING BACKGROUND INFORMATION ABOUT THEIR ORGANIZATION, THE SPECIFIC DOLLAR AMOUNT, AND THE PURPOSE OF THEIR REQUEST. IF THE REQUEST IS CHOSEN FOR FURTHER CONSIDERATION, THE APPLICANT FOR THE ORGANIZATION WILL BE ASKED TO SUBMIT A DETAILED PROPOSAL. USING THE FOUNDATION'S GRANT APPLICATION FORMAT, THE PROPOSAL MUST INCLUDE: COPY OF THE ORGANIZATION'S 501(C)(3) STATUS LETTER; DETAILED DESCRIPTION OF THE PURPOSE OR PROGRAM FOR WHICH THE FUNDS ARE BEING REQUESTED; COPY OF THE ORGANIZATION'S CURRENT YEAR PROPOSED BUDGET; COPY OF THE PRIOR YEAR FINANCIALS COMPARED TO BUDGET; COPY OF THE ORGANIZATION'S MOST RECENT AUDITED FINANCIAL STATEMENT; AND A COPY OF THE MOST RECENT 990. APPLICANTS ARE WELCOME TO APPLY BY E-MAIL OR REGULAR MAIL. E-MAIL (IN PDF FORMAT) TO THE FOLLOWING ADDRESS: MHAIRSTON@TRUSTOK.COM MAIL TO: THE TRUST COMPANY OF OKLAHOMA P.O. BOX 3348 TULSA, OKLAHOMA 74101-3348</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>THE DEADLINE TO SUBMIT GRANT APPLICATIONS IS OCTOBER 1ST.</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>THE ARTS APPLICANTS SHOULD BE TULSA ORGANIZATIONS THAT REFLECT THE FOUNDER'S LOVE OF MUSIC, THE PERFORMING ARTS, AND THE VISUAL ARTS. THE FOUNDATION IS PRIMARILY INTERESTED IN ENCOURAGING THE CLASSICAL ARTS TO GROW AND THRIVE IN TULSA. THE COMMUNITY ORGANIZATION APPLICANTS SHOULD ENHANCE THE COMMUNITY OF TULSA. THE FOUNDATION IS ESPECIALLY INTERESTED IN PROGRAMS THAT FOCUS ON WOMEN'S ECONOMIC INDEPENDENCE AND WELL-BEING. THE FOUNDATION FUNDS ONLY 501(C)(3) ORGANIZATIONS. THE FOUNDATION FOCUSES ITS COMMUNITY FUNDING IN TULSA OKLAHOMA GEOGRAPHIC AREA.</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>AHHA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>101 E ARCHER STREET</AddressLine1Txt>
+            <CityNm>TULSA</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74103</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNRESTRICTED USE BY CHARITABLE ENTITY</GrantOrContributionPurposeTxt>
+          <Amt>15000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ANIMAL AID OF TULSA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3307 E 15TH STREET</AddressLine1Txt>
+            <CityNm>TULSA</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74112</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNRESTRICTED USE BY CHARITABLE ENTITY</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HYECHKA CLUB OF TULSA INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>8705 S 69TH EAST AVE</AddressLine1Txt>
+            <CityNm>TULSA</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74133</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNRESTRICTED USE BY CHARITABLE ENTITY</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>METROPOLITAN OPERA LAFFONT COMPETITION MIDWEST REGION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3612 S BRADEN PLACE</AddressLine1Txt>
+            <CityNm>TULSA</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74135</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>METROPOLITAN OPERA LAFFONT COMPETITION TULSA DISTRICT</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>7506 E 560 ROAD</AddressLine1Txt>
+            <CityNm>CLAREMORE</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74019</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNRESTRICTED USE BY CHARITABLE ENTITY</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>PHILBROOK MUSEUM OF ART</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2727 S ROCKFORD ROAD</AddressLine1Txt>
+            <CityNm>TULSA</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74114</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNRESTRICTED USE BY CHARITABLE ENTITY</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE SCOTT FAMILY AMAZEUM</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1009 MUSEUM WAY</AddressLine1Txt>
+            <CityNm>BENTONVILE</CityNm>
+            <StateAbbreviationCd>AR</StateAbbreviationCd>
+            <ZIPCd>72712</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>TULSA BALLET THEATRE INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1212 E 45TH PLACE</AddressLine1Txt>
+            <CityNm>TULSA</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74105</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>40000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>TULSA BOTANIC GARDEN</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3900 TULSA BOTANIC DRIVE</AddressLine1Txt>
+            <CityNm>TULSA</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74127</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNRESTRICTED USE BY CHARITABLE ENTITY</GrantOrContributionPurposeTxt>
+          <Amt>30000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>TULSA HONORS ORCHESTRA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1573 E 19TH ST</AddressLine1Txt>
+            <CityNm>TULSA</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74120</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNRESTRICTED USE BY CHARITABLE ENTITY</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>TULSA OPERA INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1610 SOUTH BOULDER</AddressLine1Txt>
+            <CityNm>TULSA</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74119</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>TULSA SYMPHONY ORCHESTRA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>117 N BOSTON AVE STE 201</AddressLine1Txt>
+            <CityNm>TULSA</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74103</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNRESTRICTED USE BY CHARITABLE ENTITY</GrantOrContributionPurposeTxt>
+          <Amt>142500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>TULSA AREA UNITED WAY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 1859</AddressLine1Txt>
+            <CityNm>TULSA</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74101</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNRESTRICTED USE BY CHARITABLE ENTITY</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>TULSA YOUTH SYMPHONY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>8282 S MEMORIAL DR STE 201</AddressLine1Txt>
+            <CityNm>TULSA</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74133</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNRESTRICTED USE BY CHARITABLE ENTITY</GrantOrContributionPurposeTxt>
+          <Amt>18000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>YWCA TULSA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1910 S LEWIS AVE</AddressLine1Txt>
+            <CityNm>TULSA</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74104</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNRESTRICTED USE BY CHARITABLE ENTITY</GrantOrContributionPurposeTxt>
+          <Amt>125000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>KANSAS STATE UNIVERSITY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>919 MID-CAMPUS DR NORTH</AddressLine1Txt>
+            <CityNm>MANHATTAN</CityNm>
+            <StateAbbreviationCd>KS</StateAbbreviationCd>
+            <ZIPCd>66506</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNRESTRICTED USE BY CHARITABLE ENTITY</GrantOrContributionPurposeTxt>
+          <Amt>48000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>OKLAHOMA CITY UNIVERSITY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2501 N BLACKWELDER AD 349</AddressLine1Txt>
+            <CityNm>OKLAHOMA CITY</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>73106</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNRESTRICTED USE BY CHARITABLE ENTITY</GrantOrContributionPurposeTxt>
+          <Amt>104000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>OKLAHOMA STATE UNIVERSITY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 1749</AddressLine1Txt>
+            <CityNm>STILLWATER</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74076</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNRESTRICTED USE BY CHARITABLE ENTITY</GrantOrContributionPurposeTxt>
+          <Amt>72000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>UNIVERSITY OF ARKANSAS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>UNIVERSITY DEVELOPMENT UNHS 302</AddressLine1Txt>
+            <CityNm>FAYETTEVILLE</CityNm>
+            <StateAbbreviationCd>AR</StateAbbreviationCd>
+            <ZIPCd>72701</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>80000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>UNIVERSITY OF KANSAS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1502 IOWA ST</AddressLine1Txt>
+            <CityNm>LAWRENCE</CityNm>
+            <StateAbbreviationCd>KS</StateAbbreviationCd>
+            <ZIPCd>66045</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>28000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>UNIVERSITY OF OKLAHOMA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1000 ASP AVE BUCHANAN HALL RM 105</AddressLine1Txt>
+            <CityNm>NORMAN</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>73019</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>64000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>UNIVERSITY OF TULSA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>800 SOUTH TUCKER DRIVE - COLLINS</AddressLine1Txt>
+            <AddressLine2Txt>HALL</AddressLine2Txt>
+            <CityNm>TULSA</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74104</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>175000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>UNIVERSITY OF TULSA - PATTI JOHNSON WILSON PIANIST SCHOLARS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>800 SOUTH TUCKER DRIVE</AddressLine1Txt>
+            <CityNm>TULSA</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74104</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNRESTRICTED USE BY CHARITABLE ENTITY</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>1060000</TotalGrantOrContriPdDurYrAmt>
+        <TotalGrantOrContriApprvFutAmt>0</TotalGrantOrContriApprvFutAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>44249</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>309579</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <OtherInvestmentIncomeGrp>
+          <ExclusionCd>01</ExclusionCd>
+          <ExclusionAmt>2567683</ExclusionAmt>
+        </OtherInvestmentIncomeGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>303529</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>3225040</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>3225040</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>0</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>0</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>0</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>0</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>0</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>0</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>0</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>0</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>0</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>0</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFeesDetail>
+        <CategoryTxt>TAX RETURN PREPARATION FEES</CategoryTxt>
+        <Amt>9251</Amt>
+        <NetInvestmentIncomeAmt>9251</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="RetDoc2203000001">
+      <DepreciationPropertyGrp>
+        <PropertyDesc>COST DEPLETION OF PJW MINERALS LLC</PropertyDesc>
+        <AcquiredDt>2007-03-01</AcquiredDt>
+        <CostOrOtherBasisAmt>2773208</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>990432</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>7.000000000000</LifeRt>
+        <CurrentYearExpenseAmt>0</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+      </DepreciationPropertyGrp>
+    </DepreciationSchedule>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc2044400001">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>METWEST TOTAL RETURN BOND</BondNm>
+        <EOYBookValueAmt>826305</EOYBookValueAmt>
+        <EOYFMVAmt>684925</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>PIMCO FDS TOTAL RETURN FUND</BondNm>
+        <EOYBookValueAmt>796368</EOYBookValueAmt>
+        <EOYFMVAmt>682944</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>THORNBURG LIMITED TERM INCOME FUND</BondNm>
+        <EOYBookValueAmt>795990</EOYBookValueAmt>
+        <EOYFMVAmt>751084</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>VANGUARD ADM INFLATION PROTECTED</BondNm>
+        <EOYBookValueAmt>510182</EOYBookValueAmt>
+        <EOYFMVAmt>495525</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>VANGUARD SHORT TERM CORP - ADMIRAL</BondNm>
+        <EOYBookValueAmt>1057489</EOYBookValueAmt>
+        <EOYFMVAmt>991419</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>VANGUARD SHORT TERM TREASURY ADMIRAL</BondNm>
+        <EOYBookValueAmt>279395</EOYBookValueAmt>
+        <EOYFMVAmt>275221</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ACCENTURE PLC IRELAND CL A</StockNm>
+        <EOYBookValueAmt>40239</EOYBookValueAmt>
+        <EOYFMVAmt>224999</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ALPHABET INC CL A</StockNm>
+        <EOYBookValueAmt>109646</EOYBookValueAmt>
+        <EOYFMVAmt>432880</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>AMERICAN BEACON SMALL CAP</StockNm>
+        <EOYBookValueAmt>369931</EOYBookValueAmt>
+        <EOYFMVAmt>384059</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>AON PLC</StockNm>
+        <EOYBookValueAmt>125994</EOYBookValueAmt>
+        <EOYFMVAmt>174538</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>APPLE COMPUTER</StockNm>
+        <EOYBookValueAmt>57275</EOYBookValueAmt>
+        <EOYFMVAmt>534548</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>APPLIED MATERIALS</StockNm>
+        <EOYBookValueAmt>157356</EOYBookValueAmt>
+        <EOYFMVAmt>282210</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>BLACKROCK INC</StockNm>
+        <EOYBookValueAmt>81915</EOYBookValueAmt>
+        <EOYFMVAmt>166598</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CHUBB</StockNm>
+        <EOYBookValueAmt>111436</EOYBookValueAmt>
+        <EOYFMVAmt>189050</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>COHEN &amp; STEERS INSTL REALTY SHS</StockNm>
+        <EOYBookValueAmt>221854</EOYBookValueAmt>
+        <EOYFMVAmt>255216</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>COMCAST CORP</StockNm>
+        <EOYBookValueAmt>119994</EOYBookValueAmt>
+        <EOYFMVAmt>99523</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>COSTCO</StockNm>
+        <EOYBookValueAmt>67999</EOYBookValueAmt>
+        <EOYFMVAmt>391575</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DANAHER CORP</StockNm>
+        <EOYBookValueAmt>50219</EOYBookValueAmt>
+        <EOYFMVAmt>327941</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DELAWARE EMERGING MARKETS</StockNm>
+        <EOYBookValueAmt>299718</EOYBookValueAmt>
+        <EOYFMVAmt>289233</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DISNEY WALT HOLDING COMPANY</StockNm>
+        <EOYBookValueAmt>62214</EOYBookValueAmt>
+        <EOYFMVAmt>112080</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ELECTRONIC ARTS</StockNm>
+        <EOYBookValueAmt>92563</EOYBookValueAmt>
+        <EOYFMVAmt>101496</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>FIDELITY EMERGING MARKETS INDEX</StockNm>
+        <EOYBookValueAmt>160664</EOYBookValueAmt>
+        <EOYFMVAmt>149421</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>HONEYWELL INTL</StockNm>
+        <EOYBookValueAmt>121320</EOYBookValueAmt>
+        <EOYFMVAmt>255623</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>HOME DEPOT</StockNm>
+        <EOYBookValueAmt>179329</EOYBookValueAmt>
+        <EOYFMVAmt>259578</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ISHARES</StockNm>
+        <EOYBookValueAmt>464592</EOYBookValueAmt>
+        <EOYFMVAmt>558854</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MATERIALS SELECT SECTOR SPDRF</StockNm>
+        <EOYBookValueAmt>132219</EOYBookValueAmt>
+        <EOYFMVAmt>245083</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MCCORMICK &amp; CO.</StockNm>
+        <EOYBookValueAmt>91010</EOYBookValueAmt>
+        <EOYFMVAmt>210175</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MEDTRONIC PLC</StockNm>
+        <EOYBookValueAmt>124191</EOYBookValueAmt>
+        <EOYFMVAmt>143749</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MICROSOFT CORP</StockNm>
+        <EOYBookValueAmt>162219</EOYBookValueAmt>
+        <EOYFMVAmt>568697</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>NOVARTIS AG</StockNm>
+        <EOYBookValueAmt>209895</EOYBookValueAmt>
+        <EOYFMVAmt>233508</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PEPSICO</StockNm>
+        <EOYBookValueAmt>42884</EOYBookValueAmt>
+        <EOYFMVAmt>126618</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>BOOKING HOLDINGS INC</StockNm>
+        <EOYBookValueAmt>51734</EOYBookValueAmt>
+        <EOYFMVAmt>93791</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ROCHE HOLDING LTD SPONS ADR</StockNm>
+        <EOYBookValueAmt>187158</EOYBookValueAmt>
+        <EOYFMVAmt>169848</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SPDR CONSUMER STAPLES ETF</StockNm>
+        <EOYBookValueAmt>159698</EOYBookValueAmt>
+        <EOYFMVAmt>182775</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SELECT SPDR ETF - UTILITIES</StockNm>
+        <EOYBookValueAmt>291417</EOYBookValueAmt>
+        <EOYFMVAmt>371700</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SHERWIN WILLIAMS CO</StockNm>
+        <EOYBookValueAmt>32539</EOYBookValueAmt>
+        <EOYFMVAmt>52223</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>THERMO FISHER SCIENTIFIC</StockNm>
+        <EOYBookValueAmt>41176</EOYBookValueAmt>
+        <EOYFMVAmt>381724</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>UNION PACIFIC CORPORATION</StockNm>
+        <EOYBookValueAmt>150331</EOYBookValueAmt>
+        <EOYFMVAmt>323968</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VANGUARD EM MK STK</StockNm>
+        <EOYBookValueAmt>157178</EOYBookValueAmt>
+        <EOYFMVAmt>151387</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VANGUARD INTL GROWTH ADM</StockNm>
+        <EOYBookValueAmt>668362</EOYBookValueAmt>
+        <EOYFMVAmt>776831</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VANGUARD CONSUMER DISCRETIONARY ETF</StockNm>
+        <EOYBookValueAmt>240866</EOYBookValueAmt>
+        <EOYFMVAmt>797878</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VANGUARD FINANCIALS ETF</StockNm>
+        <EOYBookValueAmt>206835</EOYBookValueAmt>
+        <EOYFMVAmt>543284</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VANGAURD SMALL CAP INDEX</StockNm>
+        <EOYBookValueAmt>301269</EOYBookValueAmt>
+        <EOYFMVAmt>483232</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VANGUARD INFO TECHNOLOGY ETF</StockNm>
+        <EOYBookValueAmt>202712</EOYBookValueAmt>
+        <EOYFMVAmt>1082768</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VANGUARD COMMUNICATIONS ETF</StockNm>
+        <EOYBookValueAmt>145745</EOYBookValueAmt>
+        <EOYFMVAmt>165686</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VANGUARD S&amp;P 500 ETF</StockNm>
+        <EOYBookValueAmt>719299</EOYBookValueAmt>
+        <EOYFMVAmt>1089450</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VANGUARD HEALTH CARE ETF</StockNm>
+        <EOYBookValueAmt>209027</EOYBookValueAmt>
+        <EOYFMVAmt>324184</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VANGUARD DEVELOPED MARKETS IDX ADM</StockNm>
+        <EOYBookValueAmt>539855</EOYBookValueAmt>
+        <EOYFMVAmt>517888</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VISA INC</StockNm>
+        <EOYBookValueAmt>72525</EOYBookValueAmt>
+        <EOYFMVAmt>397420</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ADVANCED MICRO DEVICES INC</StockNm>
+        <EOYBookValueAmt>61059</EOYBookValueAmt>
+        <EOYFMVAmt>175511</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CIGNA CORP</StockNm>
+        <EOYBookValueAmt>98805</EOYBookValueAmt>
+        <EOYFMVAmt>113380</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>INTERCONTINENTAL EXCHANGE</StockNm>
+        <EOYBookValueAmt>60836</EOYBookValueAmt>
+        <EOYFMVAmt>50425</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>NORTHERN FUNDS MID-CAP INDEX</StockNm>
+        <EOYBookValueAmt>60000</EOYBookValueAmt>
+        <EOYFMVAmt>56684</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>S&amp;P GLOBAL INC</StockNm>
+        <EOYBookValueAmt>68539</EOYBookValueAmt>
+        <EOYFMVAmt>56349</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SPDR INDUSTRIAL SECTOR ETF</StockNm>
+        <EOYBookValueAmt>256312</EOYBookValueAmt>
+        <EOYFMVAmt>236972</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <LegalFeesSchedule documentId="RetDoc2002100001">
+      <LegalFeesGrp>
+        <CategoryTxt>LEGAL FEES</CategoryTxt>
+        <LegalFeesAmt>125</LegalFeesAmt>
+        <NetInvestmentIncomeAmt>125</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherAssetsSchedule documentId="RetDoc2046600001">
+      <OtherAssetsScheduleGrp>
+        <Desc>INVESTMENT IN PJW MINERALS LLC</Desc>
+        <BOYBookValueAmt>2930541</BOYBookValueAmt>
+        <EOYBookValueAmt>2930541</EOYBookValueAmt>
+        <EOYFMVAmt>12513884</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>FOUNDATION COMMITTEE MINUTES</Desc>
+        <BOYBookValueAmt>1</BOYBookValueAmt>
+        <EOYBookValueAmt>1</EOYBookValueAmt>
+        <EOYFMVAmt>1</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>PJW MINERALS LLC ACCUMULATED COST DEPLETION</Desc>
+        <BOYBookValueAmt>-2773208</BOYBookValueAmt>
+        <EOYBookValueAmt>-2773209</EOYBookValueAmt>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherDecreasesSchedule documentId="RetDoc2049800001">
+      <OtherDecreasesDetail>
+        <Desc>PRIOR PERIOD ADJUSTMENT</Desc>
+        <Amt>1266</Amt>
+      </OtherDecreasesDetail>
+      <OtherDecreasesDetail>
+        <Desc>NON-TAX BASIS ADJUSTMENTS</Desc>
+        <Amt>8170</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpensesScheduleGrp>
+        <Desc>POSTAGE AND PRINTING</Desc>
+        <RevenueAndExpensesPerBooksAmt>1476</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>1476</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>PJW MINERALS LLC OIL &amp; GAS FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>239278</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>239278</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>239278</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc2001500001">
+      <OtherIncomeDetail>
+        <Desc>OIL AND GAS ROYALTY REVENUE</Desc>
+        <RevenueAndExpensesPerBooksAmt>2567683</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>2567683</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>2567683</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherIncreasesSchedule documentId="RetDoc2049700001">
+      <OtherIncreasesDetail>
+        <Desc>PERCENTAGE DEPLETION</Desc>
+        <Amt>423978</Amt>
+      </OtherIncreasesDetail>
+    </OtherIncreasesSchedule>
+    <OtherLiabilitiesSchedule documentId="RetDoc2065700001">
+      <OtherLiabilitiesDetail>
+        <Desc>INVESTMENTS - CORPORATE STOCK - SPDR INDUSTRIAL SECTOR ETF</Desc>
+        <BOYBookValueAmt>69748</BOYBookValueAmt>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+    </OtherLiabilitiesSchedule>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAXES</CategoryTxt>
+        <Amt>9411</Amt>
+        <NetInvestmentIncomeAmt>9411</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>ESTIMATED TAXES PAID</CategoryTxt>
+        <Amt>17660</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

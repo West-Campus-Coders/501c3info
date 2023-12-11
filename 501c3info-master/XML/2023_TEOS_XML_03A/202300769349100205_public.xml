@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2022v4.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-03-17T08:13:03-05:00</ReturnTs>
+    <TaxPeriodEndDt>2022-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Susan Ferrantelli</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>32 Rider Avenue</AddressLine1Txt>
+        <CityNm>Malverne</CityNm>
+        <StateAbbreviationCd>NY</StateAbbreviationCd>
+        <ZIPCd>11565</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>593611060</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>Barbara Newington Foundation</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>Agreement dated 12/17/14</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>BARB</BusinessNameControlTxt>
+      <PhoneNum>5618339631</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>Mettler 340 Royal Palm Way 100</AddressLine1Txt>
+        <CityNm>Palm Beach</CityNm>
+        <StateAbbreviationCd>FL</StateAbbreviationCd>
+        <ZIPCd>33480</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>William Carroll</PersonNm>
+      <PersonTitleTxt>Trustee</PersonTitleTxt>
+      <PhoneNum>5618339631</PhoneNum>
+      <SignatureDt>2023-03-16</SignatureDt>
+      <DiscussWithPaidPreparerInd>1</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>William</PersonFirstNm>
+        <PersonLastNm>Carroll</PersonLastNm>
+      </PersonFullName>
+      <SSN>999009999</SSN>
+    </SigningOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>1</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Susan Ferrantelli</PreparerPersonNm>
+      <PTIN>P01355818</PTIN>
+      <PhoneNum>5166681373</PhoneNum>
+      <PreparationDt>2023-03-13</PreparationDt>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp>
+        <TrustedCustomerCd>2</TrustedCustomerCd>
+        <AuthenticationAssuranceLevelCd>AAL1</AuthenticationAssuranceLevelCd>
+        <IdentityAssuranceLevelCd>IAL1</IdentityAssuranceLevelCd>
+      </TrustedCustomerGrp>
+    </AdditionalFilerInformation>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="11">
+    <IRS990PF documentId="RetDoc1235000001">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>40446520</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>960816</ContriRcvdRevAndExpnssAmt>
+        <InterestOnSavRevAndExpnssAmt>774</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>774</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>1214278</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>1214278</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>532483</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>2109756</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>532483</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>2708351</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>1747535</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>197195</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>0</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>197195</CompOfcrDirTrstDsbrsChrtblAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002100001">19755</LegalFeesRevAndExpnssAmt>
+        <LegalFeesNetInvstIncmAmt>0</LegalFeesNetInvstIncmAmt>
+        <LegalFeesDsbrsChrtblAmt>19755</LegalFeesDsbrsChrtblAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002300001">208630</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>208630</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesDsbrsChrtblAmt>0</OtherProfFeesDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc2002500001">15306</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>0</TaxesNetInvstIncmAmt>
+        <TaxesDsbrsChrtblAmt>0</TaxesDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc2003200001">786</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>248</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>0</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>441672</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>208878</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>216950</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>3300000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>3300000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>3741672</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>208878</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>3516950</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-1033321</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>1538657</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>-1</CashBOYAmt>
+        <CashEOYAmt>-1</CashEOYAmt>
+        <CashEOYFMVAmt>-1</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>281452</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>256587</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>256587</SavAndTempCashInvstEOYFMVAmt>
+        <AcctRcvblAmt>39930</AcctRcvblAmt>
+        <AcctRcvblBOYAmt>39930</AcctRcvblBOYAmt>
+        <AcctRcvblEOYAmt>39930</AcctRcvblEOYAmt>
+        <AcctRcvblEOYFMVAmt>39930</AcctRcvblEOYFMVAmt>
+        <CorporateStockBOYAmt>36587138</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc2018900001">35095372</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>39716524</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>215712</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="RetDoc2044400001">215712</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>198520</CorporateBondsEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>249880</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="RetDoc2018100001">249880</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>234960</OtherInvestmentsEOYFMVAmt>
+        <TotalAssetsBOYAmt>37374111</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>35857480</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>40446520</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesBOYAmt>0</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <CapitalStockBOYAmt>45890369</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>45890369</CapitalStockEOYAmt>
+        <AdditionalPaidInCapitalBOYAmt>-4641201</AdditionalPaidInCapitalBOYAmt>
+        <AdditionalPaidInCapitalEOYAmt>-5674522</AdditionalPaidInCapitalEOYAmt>
+        <RetainedEarningBOYAmt>-3875057</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>-4358367</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>37374111</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>35857480</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>37374111</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>35857480</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>37374111</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-1033321</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt>0</OtherIncreasesAmt>
+        <SubtotalAmt>36340790</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="RetDoc2049800001">483310</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>35857480</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>BLACKSTONE INC A</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>21100</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>21100</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>325 SHS EXXON MOBIL CORP</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <AcquiredDt>2016-04-08</AcquiredDt>
+          <SoldDt>2022-02-14</SoldDt>
+          <GrossSalesPriceAmt>25174</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>27024</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1850</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1850</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>800 SHS EXXON MOBIL CORP</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <AcquiredDt>2016-04-08</AcquiredDt>
+          <SoldDt>2022-03-14</SoldDt>
+          <GrossSalesPriceAmt>66026</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>66520</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-494</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-494</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>125 SHS EXXON MOBIL CORP</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <AcquiredDt>2016-04-08</AcquiredDt>
+          <SoldDt>2014-03-22</SoldDt>
+          <GrossSalesPriceAmt>10251</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>10394</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-143</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-143</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>3948 SHS EXXON MOBIL CORP</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <AcquiredDt>2016-04-08</AcquiredDt>
+          <SoldDt>2022-04-04</SoldDt>
+          <GrossSalesPriceAmt>325393</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>328276</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-2883</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-2883</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>699 SHS EXXON MOBIL CORP</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <AcquiredDt>2016-04-08</AcquiredDt>
+          <SoldDt>2022-04-04</SoldDt>
+          <GrossSalesPriceAmt>57493</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>58122</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-629</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-629</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1375 SHS EXXON MOBIL CORP</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <AcquiredDt>2016-04-08</AcquiredDt>
+          <SoldDt>2022-04-05</SoldDt>
+          <GrossSalesPriceAmt>114235</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>114331</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-96</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-96</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>240 SHS EXXON MOBIL CORP</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <AcquiredDt>2016-04-08</AcquiredDt>
+          <SoldDt>2022-04-05</SoldDt>
+          <GrossSalesPriceAmt>20136</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>19956</CostOrOtherBasisAmt>
+          <GainOrLossAmt>180</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>180</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>2800 SHS EXXON MOBIL CORP</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <AcquiredDt>2016-04-08</AcquiredDt>
+          <SoldDt>2022-05-23</SoldDt>
+          <GrossSalesPriceAmt>263494</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>232820</CostOrOtherBasisAmt>
+          <GainOrLossAmt>30674</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>30674</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>889 SHS EXXON MOBIL CORP</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <AcquiredDt>2016-04-08</AcquiredDt>
+          <SoldDt>2022-06-21</SoldDt>
+          <GrossSalesPriceAmt>80546</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>73172</CostOrOtherBasisAmt>
+          <GainOrLossAmt>7374</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>7374</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>3450 SHS EXXON MOBIL CORP</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <AcquiredDt>2016-04-08</AcquiredDt>
+          <SoldDt>2022-07-18</SoldDt>
+          <GrossSalesPriceAmt>300385</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>286868</CostOrOtherBasisAmt>
+          <GainOrLossAmt>13517</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>13517</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>3400 SHS EXXON MOBIL CORP</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <AcquiredDt>2016-04-08</AcquiredDt>
+          <SoldDt>2022-08-08</SoldDt>
+          <GrossSalesPriceAmt>301029</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>282710</CostOrOtherBasisAmt>
+          <GainOrLossAmt>18319</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>18319</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>550 SHS EXXON MOBIL CORP</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <AcquiredDt>2016-04-08</AcquiredDt>
+          <SoldDt>2022-09-19</SoldDt>
+          <GrossSalesPriceAmt>51158</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>45733</CostOrOtherBasisAmt>
+          <GainOrLossAmt>5425</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>5425</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>.80 SHS GSK PLC NEW</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <AcquiredDt>1982-08-24</AcquiredDt>
+          <SoldDt>2022-07-22</SoldDt>
+          <GrossSalesPriceAmt>34</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4</CostOrOtherBasisAmt>
+          <GainOrLossAmt>30</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>30</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1450 SHS EXXON MOBIL CORP</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <SoldDt>2022-11-15</SoldDt>
+          <GrossSalesPriceAmt>164273</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3495</CostOrOtherBasisAmt>
+          <GainOrLossAmt>160778</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>160778</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>2800 SHS EXXON MOBIL CORP</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <SoldDt>2022-11-29</SoldDt>
+          <GrossSalesPriceAmt>309029</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>6748</CostOrOtherBasisAmt>
+          <GainOrLossAmt>302281</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>302281</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>532483</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>21387</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>21387</SubtotalAmt>
+        <SubtitleATaxAmt>0</SubtitleATaxAmt>
+        <TaxBasedOnInvestmentIncomeAmt>21387</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>0</EstimatedPlusOvpmtIncmTxAmt>
+        <ExemptFrgnOrgTaxWthldAtSrceAmt>0</ExemptFrgnOrgTaxWthldAtSrceAmt>
+        <ExtsnRequestIncomeTaxPaidAmt>0</ExtsnRequestIncomeTaxPaidAmt>
+        <BackupWithholdingWithheldAmt>0</BackupWithholdingWithheldAmt>
+        <TotalPaymentsAndCreditsAmt>0</TotalPaymentsAndCreditsAmt>
+        <Form2220AttachedInd referenceDocumentId="RetDoc1192000001">X</Form2220AttachedInd>
+        <EsPenaltyAmt>693</EsPenaltyAmt>
+        <TaxDueAmt>22080</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>0</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>0</MoreThan100SpentInd>
+        <Form1120POLFiledInd>0</Form1120POLFiledInd>
+        <Section4955OrganizationTaxAmt>0</Section4955OrganizationTaxAmt>
+        <Section4955ManagersTaxAmt>0</Section4955ManagersTaxAmt>
+        <TaxReimbursedAmt>0</TaxReimbursedAmt>
+        <ActivitiesNotPreviouslyRptInd>0</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>0</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>0</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>0</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>1</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>1</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>CT</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>1</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>0</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd referenceDocumentId="RetDoc2089200001">1</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>0</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>0</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>1</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>Barbara Newington</IndividualWithBooksNm>
+        <PhoneNum>5618339631</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>Box 1098</AddressLine1Txt>
+          <CityNm>Greenwich</CityNm>
+          <StateAbbreviationCd>CT</StateAbbreviationCd>
+          <ZIPCd>06836</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>0</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>0</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>0</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>0</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>0</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>0</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>0</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>0</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>0</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>0</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>0</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>0</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>0</InfluenceLegislationInd>
+        <InfluenceElectionInd>0</InfluenceElectionInd>
+        <GrantsToIndividualsInd>0</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>0</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>0</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>0</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>0</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>0</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>0</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Barbara Newington</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>Box 1098</AddressLine1Txt>
+            <CityNm>Greenwich</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06836</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Adelia C Rasines</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>51 Midbrook Lane</AddressLine1Txt>
+            <CityNm>Greenwich</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06836</ZIPCd>
+          </USAddress>
+          <TitleTxt>Co-Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>57448</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Anthony M Speiser</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>10 Field Point Pk</AddressLine1Txt>
+            <CityNm>Greenwich</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06830</ZIPCd>
+          </USAddress>
+          <TitleTxt>Co-Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>57448</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Douglas B Downes</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>55 Dandy Drive</AddressLine1Txt>
+            <CityNm>Cos Cob</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06807</ZIPCd>
+          </USAddress>
+          <TitleTxt>Co-Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>57448</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>William Carroll</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>333 Fern Street 1902</AddressLine1Txt>
+            <CityNm>West Palm Beach</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33401</ZIPCd>
+          </USAddress>
+          <TitleTxt>Co-Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>10.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>24852</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+        <ContractorPaidOver50kCnt>0</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <TotalAmt>0</TotalAmt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>36906636</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>106230</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>37012866</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>37012866</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>555193</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>36457673</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>1822884</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>1822884</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>21387</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>21387</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>1801497</DistributableBeforeAdjAmt>
+        <RecoveriesQualfiedDistriAmt>0</RecoveriesQualfiedDistriAmt>
+        <DistributableBeforeDedAmt>1801497</DistributableBeforeDedAmt>
+        <DeductionFromDistributableAmt>0</DeductionFromDistributableAmt>
+        <DistributableAsAdjustedAmt>1801497</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>3516950</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <QualifyingDistributionsAmt>3516950</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>1801497</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>0</UndistributedIncomePYAmt>
+        <TotalForPriorYearsAmt>0</TotalForPriorYearsAmt>
+        <ExcessDistributionCyovYr5Amt>2173375</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>1262684</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>1593939</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>1432363</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>758822</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>7221183</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>3516950</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>0</AppliedToYear1Amt>
+        <AppliedToPriorYearsAmt>0</AppliedToPriorYearsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>1801497</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>1715453</RemainingDistriFromCorpusAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>0</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>0</ExcessDistributionCyovAppCYAmt>
+        <TotalCorpusAmt>8936636</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <PriorYearDeficiencyOrTaxAmt>0</PriorYearDeficiencyOrTaxAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <CorpusDistri170b1EOr4942g3Amt>0</CorpusDistri170b1EOr4942g3Amt>
+        <ExcessDistriCyovFromYr5Amt>2173375</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>6763261</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>1262684</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>1593939</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>1432363</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>758822</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>1715453</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Newington Cropsey Foundation</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>25 Cropsey Lane</AddressLine1Txt>
+            <CityNm>Hastings on Hudson</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10706</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Private Operating Fo</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Purposes</GrantOrContributionPurposeTxt>
+          <Amt>3300000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>3300000</TotalGrantOrContriPdDurYrAmt>
+        <TotalGrantOrContriApprvFutAmt>0</TotalGrantOrContriApprvFutAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>774</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>1214278</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>532483</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>1747535</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>1747535</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>0</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>0</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>0</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>0</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>0</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>0</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>0</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>0</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>0</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>0</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorBusinessName>
+          <BusinessNameLine1Txt>NEWINGTON CHARITABLE REMAINDER ANNUITY TRUST</BusinessNameLine1Txt>
+        </ContributorBusinessName>
+        <ContributorUSAddress>
+          <AddressLine1Txt>BOX 1098</AddressLine1Txt>
+          <CityNm>GREENWICH</CityNm>
+          <StateAbbreviationCd>CT</StateAbbreviationCd>
+          <ZIPCd>06836</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>392000</TotalContributionsAmt>
+        <NoncashContributionInd>X</NoncashContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>2</ContributorNum>
+        <ContributorBusinessName>
+          <BusinessNameLine1Txt>NEWINGTON CHARITABLE REMAINDER ANNUITY TRUST</BusinessNameLine1Txt>
+        </ContributorBusinessName>
+        <ContributorUSAddress>
+          <AddressLine1Txt>BOX 1098</AddressLine1Txt>
+          <CityNm>GREENWICH</CityNm>
+          <StateAbbreviationCd>CT</StateAbbreviationCd>
+          <ZIPCd>06836</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>568816</TotalContributionsAmt>
+        <NoncashContributionInd>X</NoncashContributionInd>
+      </ContributorInformationGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>1</ContributorNum>
+        <NoncashPropertyDesc>WIRE TRANSFER</NoncashPropertyDesc>
+        <FairMarketValueAmt>392000</FairMarketValueAmt>
+        <ReceivedDt>2022-09-27</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>2</ContributorNum>
+        <NoncashPropertyDesc>6623 SHARES EXXON MOBIL CORP COMMON STOCK</NoncashPropertyDesc>
+        <FairMarketValueAmt>568816</FairMarketValueAmt>
+        <ReceivedDt>2022-09-27</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+    </IRS990ScheduleB>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc2044400001">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>Corporate Bonds</BondNm>
+        <EOYBookValueAmt>215712</EOYBookValueAmt>
+        <EOYFMVAmt>198520</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Corporate Stocks</StockNm>
+        <EOYBookValueAmt>35095372</EOYBookValueAmt>
+        <EOYFMVAmt>39716524</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="RetDoc2018100001">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>ETF</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>249880</BookValueAmt>
+        <EOYFMVAmt>234960</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <LegalFeesSchedule documentId="RetDoc2002100001">
+      <LegalFeesGrp>
+        <CategoryTxt>Mettler Randolph Massey</CategoryTxt>
+        <LegalFeesAmt>19755</LegalFeesAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>19755</DisbursementsCharitablePrpsAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherDecreasesSchedule documentId="RetDoc2049800001">
+      <OtherDecreasesDetail>
+        <Desc>Adjustment between tax cost and Y/E book value</Desc>
+        <Amt>483310</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpensesScheduleGrp>
+        <Desc>Janney Montgomery Scott LLC</Desc>
+        <RevenueAndExpensesPerBooksAmt>538</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>GSK PLC ADR CXL Fee</Desc>
+        <RevenueAndExpensesPerBooksAmt>248</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>248</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc2002300001">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>Janney Montgomery - Advisory</CategoryTxt>
+        <Amt>208630</Amt>
+        <NetInvestmentIncomeAmt>208630</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <SubstantialContributorsSch documentId="RetDoc2089200001">
+      <SubstantialContributorDetail>
+        <BusinessName>
+          <BusinessNameLine1Txt>NEWINGTON CHARITABLE REMAINDER ANNUITY TRUST</BusinessNameLine1Txt>
+        </BusinessName>
+        <USAddress>
+          <AddressLine1Txt>C/O B NEWINGTON BOX 1098</AddressLine1Txt>
+          <CityNm>GREENWICH</CityNm>
+          <StateAbbreviationCd>CT</StateAbbreviationCd>
+          <ZIPCd>06836</ZIPCd>
+        </USAddress>
+      </SubstantialContributorDetail>
+    </SubstantialContributorsSch>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <TaxesDetail>
+        <CategoryTxt>Federal Excise Tax</CategoryTxt>
+        <Amt>15306</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

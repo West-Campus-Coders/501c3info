@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2022v4.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-03-02T12:46:35-06:00</ReturnTs>
+    <TaxPeriodEndDt>2022-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>823898275</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>LEGLUE &amp; COMPANY CPAS</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>1100 POYDRAS ST SUITE 2850</AddressLine1Txt>
+        <CityNm>NEW ORLEANS</CityNm>
+        <StateAbbreviationCd>LA</StateAbbreviationCd>
+        <ZIPCd>701632850</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>726027406</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>BOARD OF TRUSTEES OF THE LIBBY DUFOUR FD</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>C/O CLELAND POWELL IBERIA NATIONAL BANK</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>BOAR</BusinessNameControlTxt>
+      <PhoneNum>5043107339</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>601 POYDRAS ST SUITE 2075 2075</AddressLine1Txt>
+        <CityNm>NEW ORLEANS</CityNm>
+        <StateAbbreviationCd>LA</StateAbbreviationCd>
+        <ZIPCd>70130</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>CLELAND POWELL III</PersonNm>
+      <PersonTitleTxt>PRESIDENT</PersonTitleTxt>
+      <PhoneNum>5043107339</PhoneNum>
+      <SignatureDt>2023-02-23</SignatureDt>
+      <DiscussWithPaidPreparerInd>1</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>CLELAND</PersonFirstNm>
+        <PersonLastNm>POWELL III</PersonLastNm>
+      </PersonFullName>
+      <SSN>999009999</SSN>
+    </SigningOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>0</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>MARK R MUNSON CPA</PreparerPersonNm>
+      <PTIN>P01226444</PTIN>
+      <PhoneNum>5045860581</PhoneNum>
+    </PreparerPersonGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp>
+        <TrustedCustomerCd>2</TrustedCustomerCd>
+        <AuthenticationAssuranceLevelCd>AAL1</AuthenticationAssuranceLevelCd>
+        <IdentityAssuranceLevelCd>IAL1</IdentityAssuranceLevelCd>
+      </TrustedCustomerGrp>
+    </AdditionalFilerInformation>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="8">
+    <IRS990PF documentId="RetDoc1235000001">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>6829886</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <DividendsRevAndExpnssAmt>199046</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>199046</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>-3428</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>50549</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>0</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="RetDoc2001500001">538</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>538</OtherIncomeNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>196156</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>199584</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>0</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>0</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>0</CompOfcrDirTrstDsbrsChrtblAmt>
+        <OthEmplSlrsWgsRevAndExpnssAmt>5000</OthEmplSlrsWgsRevAndExpnssAmt>
+        <OthEmplSlrsWgsNetInvstIncmAmt>4800</OthEmplSlrsWgsNetInvstIncmAmt>
+        <OthEmplSlrsWgsDsbrsChrtblAmt>200</OthEmplSlrsWgsDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002200001">11555</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>11093</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>462</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002300001">38891</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>37335</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesDsbrsChrtblAmt>1556</OtherProfFeesDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc2003200001">74</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>71</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>3</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>55520</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>53299</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>2221</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>380000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>380000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>435520</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>53299</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>382221</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-239364</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>146285</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>-3</CashBOYAmt>
+        <CashEOYAmt>-2</CashEOYAmt>
+        <CashEOYFMVAmt>-2</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>1312821</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>1058608</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>1058608</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>6025869</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc2018900001">4742288</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>4742288</CorporateStockEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>1251131</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="RetDoc2018100001">1028992</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>1028992</OtherInvestmentsEOYFMVAmt>
+        <TotalAssetsBOYAmt>8589818</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>6829886</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>6829886</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesBOYAmt>0</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <CapitalStockBOYAmt>7872700</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>6356683</CapitalStockEOYAmt>
+        <AdditionalPaidInCapitalBOYAmt>0</AdditionalPaidInCapitalBOYAmt>
+        <AdditionalPaidInCapitalEOYAmt>0</AdditionalPaidInCapitalEOYAmt>
+        <RetainedEarningBOYAmt>717118</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>473203</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>8589818</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>6829886</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>8589818</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>6829886</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>8589818</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-239364</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt>0</OtherIncreasesAmt>
+        <SubtotalAmt>8350454</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="RetDoc2049800001">1520568</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>6829886</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CHARLES SCHWAB - 4340</PropertyDesc>
+          <SoldDt>2022-08-23</SoldDt>
+          <GrossSalesPriceAmt>8358</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>12330</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-3972</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-3972</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CHARLES SCHWAB - 4340</PropertyDesc>
+          <SoldDt>2022-08-23</SoldDt>
+          <GrossSalesPriceAmt>21679</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>20616</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1063</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1063</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CHARLES SCHWAB - 4340</PropertyDesc>
+          <SoldDt>2022-06-21</SoldDt>
+          <GrossSalesPriceAmt>2691</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4013</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1322</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1322</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CHARLES SCHWAB - 4340</PropertyDesc>
+          <SoldDt>2022-06-21</SoldDt>
+          <GrossSalesPriceAmt>5132</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>7066</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1934</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1934</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CHARLES SCHWAB - 4340</PropertyDesc>
+          <SoldDt>2022-02-23</SoldDt>
+          <GrossSalesPriceAmt>4779</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2510</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2269</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2269</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CHARLES SCHWAB - 4340</PropertyDesc>
+          <SoldDt>2022-01-05</SoldDt>
+          <GrossSalesPriceAmt>7861</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>7370</CostOrOtherBasisAmt>
+          <GainOrLossAmt>491</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>491</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CHARLES SCHWAB - 4340</PropertyDesc>
+          <SoldDt>2022-01-25</SoldDt>
+          <GrossSalesPriceAmt>49</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>72</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-23</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-23</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>-3428</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>2033</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>2033</SubtotalAmt>
+        <SubtitleATaxAmt>0</SubtitleATaxAmt>
+        <TaxBasedOnInvestmentIncomeAmt>2033</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>3200</EstimatedPlusOvpmtIncmTxAmt>
+        <ExemptFrgnOrgTaxWthldAtSrceAmt>0</ExemptFrgnOrgTaxWthldAtSrceAmt>
+        <ExtsnRequestIncomeTaxPaidAmt>0</ExtsnRequestIncomeTaxPaidAmt>
+        <BackupWithholdingWithheldAmt>0</BackupWithholdingWithheldAmt>
+        <TotalPaymentsAndCreditsAmt>3200</TotalPaymentsAndCreditsAmt>
+        <EsPenaltyAmt>2</EsPenaltyAmt>
+        <OverpaymentAmt>1165</OverpaymentAmt>
+        <AppliedToESTaxAmt>1165</AppliedToESTaxAmt>
+        <RefundAmt>0</RefundAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>0</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>0</MoreThan100SpentInd>
+        <Form1120POLFiledInd>0</Form1120POLFiledInd>
+        <Section4955OrganizationTaxAmt>0</Section4955OrganizationTaxAmt>
+        <Section4955ManagersTaxAmt>0</Section4955ManagersTaxAmt>
+        <TaxReimbursedAmt>0</TaxReimbursedAmt>
+        <ActivitiesNotPreviouslyRptInd>0</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>0</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>0</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>0</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>1</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>1</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>LA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>1</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>0</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>0</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>0</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>0</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>1</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>M CLELAND POWELL</IndividualWithBooksNm>
+        <PhoneNum>5043107339</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>601 POYDRAS STREET</AddressLine1Txt>
+          <CityNm>NEW ORLEANS</CityNm>
+          <StateAbbreviationCd>LA</StateAbbreviationCd>
+          <ZIPCd>70130</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>0</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>0</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>0</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>0</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>0</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>0</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>0</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>0</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>0</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>0</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>0</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>0</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>0</InfluenceLegislationInd>
+        <InfluenceElectionInd>0</InfluenceElectionInd>
+        <GrantsToIndividualsInd>0</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>0</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>0</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>0</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>0</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>0</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>0</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DENIS H MCDONALD</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>2538 POYDRAS STREET</AddressLine1Txt>
+            <CityNm>NEW ORLEANS</CityNm>
+            <StateAbbreviationCd>LA</StateAbbreviationCd>
+            <ZIPCd>70130</ZIPCd>
+          </USAddress>
+          <TitleTxt>VICE PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>M CLELAND POWELL III</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>601 POYDRAS STREET</AddressLine1Txt>
+            <CityNm>NEW ORLEANS</CityNm>
+            <StateAbbreviationCd>LA</StateAbbreviationCd>
+            <ZIPCd>70130</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>HARRY B KELLEHER JR</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>2121 AIRLINE DRIVE</AddressLine1Txt>
+            <CityNm>METAIRIE</CityNm>
+            <StateAbbreviationCd>LA</StateAbbreviationCd>
+            <ZIPCd>70002</ZIPCd>
+          </USAddress>
+          <TitleTxt>SECRETARY</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JAMES KOCK</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1830 OCTAVIA STREET</AddressLine1Txt>
+            <CityNm>NEW ORLEANS</CityNm>
+            <StateAbbreviationCd>LA</StateAbbreviationCd>
+            <ZIPCd>70130</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>J STORY CHARBONNET</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>601 POYDRAS STREET</AddressLine1Txt>
+            <CityNm>NEW ORLEANS</CityNm>
+            <StateAbbreviationCd>LA</StateAbbreviationCd>
+            <ZIPCd>70130</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>BRYAN FITZPATRICK</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>601 POYDRAS STREET</AddressLine1Txt>
+            <CityNm>NEW ORLEANS</CityNm>
+            <StateAbbreviationCd>LA</StateAbbreviationCd>
+            <ZIPCd>70130</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+        <ContractorPaidOver50kCnt>0</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>N/A</Description1Txt>
+        <Expenses1Amt>0</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+        <Expenses1Amt>0</Expenses1Amt>
+        <TotalAmt>0</TotalAmt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>5207565</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>1103842</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>6311407</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>6311407</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>94671</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>6216736</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>310837</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>310837</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>2033</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>2033</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>308804</DistributableBeforeAdjAmt>
+        <RecoveriesQualfiedDistriAmt>0</RecoveriesQualfiedDistriAmt>
+        <DistributableBeforeDedAmt>308804</DistributableBeforeDedAmt>
+        <DeductionFromDistributableAmt>0</DeductionFromDistributableAmt>
+        <DistributableAsAdjustedAmt>308804</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>382221</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <QualifyingDistributionsAmt>382221</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>308804</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>0</UndistributedIncomePYAmt>
+        <TotalForPriorYearsAmt>0</TotalForPriorYearsAmt>
+        <ExcessDistributionCyovYr1Amt>11294</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>11294</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>382221</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>0</AppliedToYear1Amt>
+        <AppliedToPriorYearsAmt>0</AppliedToPriorYearsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>308804</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>73417</RemainingDistriFromCorpusAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>0</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>0</ExcessDistributionCyovAppCYAmt>
+        <TotalCorpusAmt>84711</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <PriorYearDeficiencyOrTaxAmt>0</PriorYearDeficiencyOrTaxAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <CorpusDistri170b1EOr4942g3Amt>0</CorpusDistri170b1EOr4942g3Amt>
+        <ExcessDistriCyovFromYr5Amt>0</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>84711</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear1Amt>11294</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>73417</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>LIBBY-DUFOUR FUND</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>601 POYDRAS STREET SUITE 2075</AddressLine1Txt>
+            <CityNm>NEW ORLEANS</CityNm>
+            <StateAbbreviationCd>LA</StateAbbreviationCd>
+            <ZIPCd>70130</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>5043107339</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>MUST ENTER FULL EXPLANATION FOR REASON CHARITY NEEDS GRANT.</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>NONE</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>APPLICATIONS MUST BE IN THE GREATER NEW ORLEANS, LA AREA.</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CARROLTON BOOSTERS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 850106</AddressLine1Txt>
+            <CityNm>NEW ORLEANS</CityNm>
+            <StateAbbreviationCd>LA</StateAbbreviationCd>
+            <ZIPCd>70185</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>TO BENEFIT EDUCATION AND CHARITABLE PURPOSES</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>GREATER NEW ORLEANS FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>919 ST CHARLES AVENUE</AddressLine1Txt>
+            <CityNm>NEW ORLEANS</CityNm>
+            <StateAbbreviationCd>LA</StateAbbreviationCd>
+            <ZIPCd>70130</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>TO BENEFIT EDUCATION AND CHARITABLE PURPOSES</GrantOrContributionPurposeTxt>
+          <Amt>95000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HOLY NAME OF JESUS SCHOOL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6325 CROMWELL PL</AddressLine1Txt>
+            <CityNm>NEW ORLEANS</CityNm>
+            <StateAbbreviationCd>LA</StateAbbreviationCd>
+            <ZIPCd>70118</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>TO BENEFIT EDUCATION AND CHARITABLE PURPOSES</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>PRO BONO PUBLICO</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 531024</AddressLine1Txt>
+            <CityNm>NEW ORLEANS</CityNm>
+            <StateAbbreviationCd>LA</StateAbbreviationCd>
+            <ZIPCd>70153</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>TO BENEFIT EDUCATION AND CHARITABLE PURPOSES</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>TULANE CANCER CENTER</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>150 S LIBERTY ST</AddressLine1Txt>
+            <CityNm>NEW ORLEANS</CityNm>
+            <StateAbbreviationCd>LA</StateAbbreviationCd>
+            <ZIPCd>70112</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>TO BENEFIT EDUCATION AND CHARITABLE PURPOSES</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HOLY CROSS SCHOOL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5500 PARIS AVENUE</AddressLine1Txt>
+            <CityNm>NEW ORLEANS</CityNm>
+            <StateAbbreviationCd>LA</StateAbbreviationCd>
+            <ZIPCd>70122</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>TO BENEFIT EDUCATION AND CHARITABLE PURPOSES</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>METROPOLITAN CRIME COMMISSION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1615 POYDRAS ST 1060</AddressLine1Txt>
+            <CityNm>NEW ORLEANS</CityNm>
+            <StateAbbreviationCd>LA</StateAbbreviationCd>
+            <ZIPCd>70112</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>TO BENEFIT EDUCATION AND CHARITABLE PURPOSES</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>STUART HALL SCHOOL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2032 S CARROLLTON AVENUE</AddressLine1Txt>
+            <CityNm>NEW ORLEANS</CityNm>
+            <StateAbbreviationCd>LA</StateAbbreviationCd>
+            <ZIPCd>70118</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>TO BENEFIT EDUCATION AND CHARITABLE PURPOSES</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HYPERBARIC INSTITUTE OF NEW ORLEANS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>228 AUDUBON BLVD</AddressLine1Txt>
+            <CityNm>NEW ORLEANS</CityNm>
+            <StateAbbreviationCd>LA</StateAbbreviationCd>
+            <ZIPCd>70118</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>TO BENEFIT EDUCATION AND CHARITABLE PURPOSES</GrantOrContributionPurposeTxt>
+          <Amt>35000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CITY PARK HEART OF THE PARK</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1 PALM DR</AddressLine1Txt>
+            <CityNm>NEW ORLEANS</CityNm>
+            <StateAbbreviationCd>LA</StateAbbreviationCd>
+            <ZIPCd>70124</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>TO BENEFIT EDUCATION AND CHARITABLE PURPOSES</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>TULANE GREENWAVE CLUB</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>333 BEN WEINER DRIVE</AddressLine1Txt>
+            <CityNm>NEW ORLEANS</CityNm>
+            <StateAbbreviationCd>LA</StateAbbreviationCd>
+            <ZIPCd>70118</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>TO BENEFIT EDUCATION AND CHARITABLE PURPOSES</GrantOrContributionPurposeTxt>
+          <Amt>100000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CAROLINE MUNSON EDUCATION FUND</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>47 N TREASURE ISLE</AddressLine1Txt>
+            <CityNm>SLIDELL</CityNm>
+            <StateAbbreviationCd>LA</StateAbbreviationCd>
+            <ZIPCd>70461</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>TO BENEFIT EDUCATION AND CHARITABLE PURPOSES</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>380000</TotalGrantOrContriPdDurYrAmt>
+        <TotalGrantOrContriApprvFutAmt>0</TotalGrantOrContriApprvFutAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>199046</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <OtherInvestmentIncomeGrp>
+          <ExclusionCd>15</ExclusionCd>
+          <ExclusionAmt>538</ExclusionAmt>
+        </OtherInvestmentIncomeGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>-3428</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>199584</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>-3428</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>196156</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>4</LineNumberTxt>
+          <RelationshipStatementTxt>ALL ACTIVITIES CONTRIBUTE TO THE EXEMPT PURPOSE OF THE FOUNDATION</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>7</LineNumberTxt>
+          <RelationshipStatementTxt>WHICH IS TO PROVIDE FINANCIAL ASSISTANCE TO INSTUTIONS OF EDUCATION</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>8</LineNumberTxt>
+          <RelationshipStatementTxt>IN THE STATE OF LOUISIANA</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+      </RlnOfActyToAccomOfExmptPrpsGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>0</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>0</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>0</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>0</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>0</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>0</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>0</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>0</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>0</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>0</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING FEES</CategoryTxt>
+        <Amt>11555</Amt>
+        <NetInvestmentIncomeAmt>11093</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>462</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>COMMON STOCKS</StockNm>
+        <EOYBookValueAmt>4742288</EOYBookValueAmt>
+        <EOYFMVAmt>4742288</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="RetDoc2018100001">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>REAL ESTATE INVESTMENT TRUSTS</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>240986</BookValueAmt>
+        <EOYFMVAmt>240986</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>FIXED INCOME FUND</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>788006</BookValueAmt>
+        <EOYFMVAmt>788006</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <OtherDecreasesSchedule documentId="RetDoc2049800001">
+      <OtherDecreasesDetail>
+        <Desc>INCREASE IN UNREALIZED GAIN OF MARKETABLE SECURITIES</Desc>
+        <Amt>1516017</Amt>
+      </OtherDecreasesDetail>
+      <OtherDecreasesDetail>
+        <Desc>EXCISE TAXES</Desc>
+        <Amt>4551</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpensesScheduleGrp>
+        <Desc>BANK CHARGES</Desc>
+        <RevenueAndExpensesPerBooksAmt>74</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>71</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>3</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc2001500001">
+      <OtherIncomeDetail>
+        <Desc>ROYALTIES</Desc>
+        <RevenueAndExpensesPerBooksAmt>538</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>538</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>538</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherProfessionalFeesSchedule documentId="RetDoc2002300001">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>TRUSTEE EXPENSES</CategoryTxt>
+        <Amt>38891</Amt>
+        <NetInvestmentIncomeAmt>37335</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>1556</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+  </ReturnData>
+</Return>

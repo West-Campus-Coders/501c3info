@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2022v4.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-03-08T09:37:46-05:00</ReturnTs>
+    <TaxPeriodEndDt>2022-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>251644159</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>BROWN SCHULTZ SHERIDAN &amp; FRITZ</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>210 GRANDVIEW AVE</AddressLine1Txt>
+        <CityNm>CAMP HILL</CityNm>
+        <StateAbbreviationCd>PA</StateAbbreviationCd>
+        <ZIPCd>170111706</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>592744621</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>THE MANNY AND RUTHY COHEN</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>FOUNDATION</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>MANN</BusinessNameControlTxt>
+      <PhoneNum>9548164405</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>2061 BROOKSIDE DRIVE</AddressLine1Txt>
+        <CityNm>SAFETY HARBOR</CityNm>
+        <StateAbbreviationCd>FL</StateAbbreviationCd>
+        <ZIPCd>34695</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>SUSAN HEYMAN</PersonNm>
+      <PersonTitleTxt>PRES/TREAS</PersonTitleTxt>
+      <PhoneNum>9548164405</PhoneNum>
+      <SignatureDt>2023-02-21</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>SUSAN</PersonFirstNm>
+        <PersonLastNm>HEYMAN</PersonLastNm>
+      </PersonFullName>
+      <SSN>XXX-XX-XXXX</SSN>
+    </SigningOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>false</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>JEFFREY M WALKER</PreparerPersonNm>
+      <PTIN>P01069628</PTIN>
+      <PhoneNum>7177617171</PhoneNum>
+      <PreparationDt>2023-02-21</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="8">
+    <IRS990PF documentId="RetDoc10" referenceDocumentId="RetDoc8">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>7675316</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <DividendsRevAndExpnssAmt>214756</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>214756</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>105852</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>1940765</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>105852</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="RetDoc5">734</OtherIncomeRevAndExpnssAmt>
+        <TotalRevAndExpnssAmt>321342</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>320608</TotalNetInvstIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc1">8100</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>1215</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>6885</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc6">85700</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>85700</OtherProfFeesNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc7">14789</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>2861</TaxesNetInvstIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc4">140</OtherExpensesRevAndExpnssAmt>
+        <TotOprExpensesRevAndExpnssAmt>108729</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>89776</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>6885</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>453000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>453000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>561729</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>89776</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>459885</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-240387</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>230832</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>562713</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>486082</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>486082</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>5475645</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc3">5290906</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>6552881</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>683695</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="RetDoc2">704678</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>636353</CorporateBondsEOYFMVAmt>
+        <TotalAssetsBOYAmt>6722053</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>6481666</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>7675316</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <RetainedEarningBOYAmt>6722053</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>6481666</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>6722053</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>6481666</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>6722053</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>6481666</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>6722053</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-240387</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>6481666</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>6481666</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0916054 CAPITAL GAIN/LOSS</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>299730</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>310616</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-10886</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-10886</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0916054 CAPITAL GAIN/LOSS</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>1311135</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1049297</CostOrOtherBasisAmt>
+          <GainOrLossAmt>261838</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>261838</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0916154 REALIZED GAIN/LOSS</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>329900</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>475000</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-145100</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-145100</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>105852</CapitalGainNetIncomeAmt>
+        <NetShortTermCapitalGainLossAmt>105852</NetShortTermCapitalGainLossAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>3209</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>3209</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>3209</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>12200</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>12200</TotalPaymentsAndCreditsAmt>
+        <OverpaymentAmt>8991</OverpaymentAmt>
+        <AppliedToESTaxAmt>8991</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>DC</OrgReportOrRegisterStateCd>
+        <OrgReportOrRegisterStateCd>FL</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>SUSAN HEYMAN</IndividualWithBooksNm>
+        <PhoneNum>9548164405</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>2061 BROOKSIDE DRIVE</AddressLine1Txt>
+          <CityNm>SAFETY HARBOR</CityNm>
+          <StateAbbreviationCd>FL</StateAbbreviationCd>
+          <ZIPCd>34695</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>SUSAN HEYMAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>2061 BROOKSIDE DRIVE</AddressLine1Txt>
+            <CityNm>SAFETY HARBOR</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>34695</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRES/TREAS</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>5.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>KEITH B MORGAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1236-K BRACE ROAD</AddressLine1Txt>
+            <CityNm>CHERRY HILL</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>08034</ZIPCd>
+          </USAddress>
+          <TitleTxt>VP/SECRETARY</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DANIELLE HEYMAN FEIST</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3888 30TH STREET</AddressLine1Txt>
+            <CityNm>N ARLINGTON</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>22207</ZIPCd>
+          </USAddress>
+          <TitleTxt>VICE PRES</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DARIN MORGAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5 GALLOPING HILL ROAD</AddressLine1Txt>
+            <CityNm>CHERRY HILL</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>08003</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>KENNETH MORGAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>8 HILL COURT</AddressLine1Txt>
+            <CityNm>MEDFORD</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>08055</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>BRIAN HEYMAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>12728 GRAND ELM STREET</AddressLine1Txt>
+            <CityNm>CLARKSBURG</CityNm>
+            <StateAbbreviationCd>MD</StateAbbreviationCd>
+            <ZIPCd>20871</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>7700971</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>570812</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>8271783</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>8271783</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>124077</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>8147706</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>407385</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>407385</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>3209</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>3209</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>404176</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>404176</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>404176</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>459885</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>459885</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>404176</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>452627</UndistributedIncomePYAmt>
+        <QualifyingDistributionsAmt>459885</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>452627</AppliedToYear1Amt>
+        <AppliedToCurrentYearAmt>7258</AppliedToCurrentYearAmt>
+        <UndistributedIncomeCYAmt>396918</UndistributedIncomeCYAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>NONE</ContributingManagerNm>
+        <ShareholderManagerNm>NONE</ShareholderManagerNm>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>SUSAN HEYMAN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2061 BROOKSIDE DRIVE</AddressLine1Txt>
+            <CityNm>SAFETY HARBOR</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>34695</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>9548164405</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>NONE SPECIFIED</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>NONE SPECIFIED</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>NONE SPECIFIED</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SEE ATTACHMENT</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>SEE ATTACHMENT</AddressLine1Txt>
+            <CityNm>SEE ATTACHMENT</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>34695</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNRESTRICTED</GrantOrContributionPurposeTxt>
+          <Amt>453000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>453000</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>214756</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>105852</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>MISCELLANEOUS INCOME</Desc>
+          <ExclusionCd>1</ExclusionCd>
+          <ExclusionAmt>734</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>321342</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>321342</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc1">
+      <AccountingFeesDetail>
+        <CategoryTxt>TAX PREPARATION</CategoryTxt>
+        <Amt>8100</Amt>
+        <NetInvestmentIncomeAmt>1215</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>6885</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc2">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>FIXED INCOME</BondNm>
+        <EOYBookValueAmt>704678</EOYBookValueAmt>
+        <EOYFMVAmt>636353</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc3">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>EQUITIES</StockNm>
+        <EOYBookValueAmt>5290906</EOYBookValueAmt>
+        <EOYFMVAmt>6552881</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <OtherExpensesSchedule documentId="RetDoc4">
+      <OtherExpensesScheduleGrp>
+        <Desc>EXPENSES</Desc>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>SUNBIZ</Desc>
+        <RevenueAndExpensesPerBooksAmt>61</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OTHER EXPENSES</Desc>
+        <RevenueAndExpensesPerBooksAmt>79</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc5">
+      <OtherIncomeDetail>
+        <Desc>MISCELLANEOUS INCOME</Desc>
+        <RevenueAndExpensesPerBooksAmt>734</RevenueAndExpensesPerBooksAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherProfessionalFeesSchedule documentId="RetDoc6">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>INVESTMENT FEES</CategoryTxt>
+        <Amt>85700</Amt>
+        <NetInvestmentIncomeAmt>85700</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc7">
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAX WITHHELD</CategoryTxt>
+        <Amt>2861</Amt>
+        <NetInvestmentIncomeAmt>2861</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>FEDERAL EXCISE TAX</CategoryTxt>
+        <Amt>11928</Amt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2022v4.1" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-03-10T07:20:15-08:00</ReturnTs>
+    <TaxPeriodEndDt>2022-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>263443499</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Steven D Perkins CPA LLC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>1617 Second Avenue Suite 300</AddressLine1Txt>
+        <CityNm>Rock Island</CityNm>
+        <StateAbbreviationCd>IL</StateAbbreviationCd>
+        <ZIPCd>61201</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>366123096</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>GF Foundation Inc</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>GEIF</BusinessNameControlTxt>
+      <PhoneNum>3124059229</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>555 SE 6th Avenue Apt 5-C</AddressLine1Txt>
+        <CityNm>Delray Beach</CityNm>
+        <StateAbbreviationCd>FL</StateAbbreviationCd>
+        <ZIPCd>33483</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>Stephen L Geifman</PersonNm>
+      <PersonTitleTxt>President</PersonTitleTxt>
+      <SignatureDt>2023-03-10</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>Stephen L</PersonFirstNm>
+        <PersonLastNm>Geifman</PersonLastNm>
+      </PersonFullName>
+      <SSN>999009999</SSN>
+    </SigningOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Steven D Perkins</PreparerPersonNm>
+      <PTIN>P00039649</PTIN>
+      <PhoneNum>3092368638</PhoneNum>
+    </PreparerPersonGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp>
+        <TrustedCustomerCd>2</TrustedCustomerCd>
+        <AuthenticationAssuranceLevelCd>AAL1</AuthenticationAssuranceLevelCd>
+        <IdentityAssuranceLevelCd>IAL1</IdentityAssuranceLevelCd>
+        <FederatedAssuranceLevelCd>FAL1</FederatedAssuranceLevelCd>
+      </TrustedCustomerGrp>
+    </AdditionalFilerInformation>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="7">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="22015553" softwareVersionNum="2022v4.1">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>1290821</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <DividendsRevAndExpnssAmt>22328</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>22328</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>22328</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>-813</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>130035</GrossSalesPriceAmt>
+        <TotalRevAndExpnssAmt>21515</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>22328</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>22328</TotalAdjNetIncmAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="LegalFeesSchedule">25000</LegalFeesRevAndExpnssAmt>
+        <LegalFeesNetInvstIncmAmt>25000</LegalFeesNetInvstIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSchedule">3095</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>3095</AccountingFeesNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">936</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>936</TaxesNetInvstIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">120</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>120</OtherExpensesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>29151</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>29151</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>52850</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>52850</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>82001</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>29151</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>52850</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-60486</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>22328</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>20501</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>65254</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>65254</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>539025</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="InvestmentsCorpStockSchedule">430871</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>1225567</CorporateStockEOYFMVAmt>
+        <TotalAssetsBOYAmt>559526</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>496125</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>1290821</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <CapitalStockBOYAmt>559526</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>496125</CapitalStockEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>559526</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>496125</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>559526</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>496125</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>559526</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-60486</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>499040</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="OtherDecreasesSchedule">2915</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>496125</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>3994.826 VanGuard Short Term Bond</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>1990-01-01</AcquiredDt>
+          <SoldDt>2022-12-31</SoldDt>
+          <GrossSalesPriceAmt>42000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>42065</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-65</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-65</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1095.557 VanGuard Dividend Growth</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>1990-01-01</AcquiredDt>
+          <SoldDt>2022-12-31</SoldDt>
+          <GrossSalesPriceAmt>36000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>25288</CostOrOtherBasisAmt>
+          <GainOrLossAmt>10712</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>10712</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>22.224 VanGuard Intl Value</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2022-01-01</AcquiredDt>
+          <SoldDt>2022-12-31</SoldDt>
+          <GrossSalesPriceAmt>743</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>889</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-146</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-146</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>491.733 VanGuard Intl Value</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>1990-01-01</AcquiredDt>
+          <SoldDt>2022-12-31</SoldDt>
+          <GrossSalesPriceAmt>18040</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>20000</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1960</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1960</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>105.199 VanGuard Mid Cap</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2022-01-01</AcquiredDt>
+          <SoldDt>2022-12-31</SoldDt>
+          <GrossSalesPriceAmt>1997</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3388</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1391</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1391</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>288.934 VanGuard Mid Cap</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>1990-01-01</AcquiredDt>
+          <SoldDt>2022-12-31</SoldDt>
+          <GrossSalesPriceAmt>5484</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>9305</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-3821</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-3821</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>.545 VanGuard Mid Cap</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2022-01-01</AcquiredDt>
+          <SoldDt>2022-12-31</SoldDt>
+          <GrossSalesPriceAmt>42</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>51</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-9</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-9</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>106.338 VanGuard Mid Cap</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>1990-01-01</AcquiredDt>
+          <SoldDt>2022-12-31</SoldDt>
+          <GrossSalesPriceAmt>8250</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>10016</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1766</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1766</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>4.227 VanGurard Total World</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2022-01-01</AcquiredDt>
+          <SoldDt>2022-12-31</SoldDt>
+          <GrossSalesPriceAmt>359</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>416</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-57</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-57</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>201.511 VanGuard Total World</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>1990-01-01</AcquiredDt>
+          <SoldDt>2022-12-31</SoldDt>
+          <GrossSalesPriceAmt>17120</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>19430</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-2310</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-2310</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>-813</CapitalGainNetIncomeAmt>
+        <NetShortTermCapitalGainLossAmt>-1603</NetShortTermCapitalGainLossAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>0</InvestmentIncomeExciseTaxAmt>
+        <AppliedToESTaxAmt>0</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>false</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>IL</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>Stephen Geifman</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>3124059229</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>555 E 6th A venue Apt 5-C</AddressLine1Txt>
+          <CityNm>Delray Beach</CityNm>
+          <StateAbbreviationCd>FL</StateAbbreviationCd>
+          <ZIPCd>33483</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Stephen Geifman</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>555 SE 6th Avenue Apt C-5</AddressLine1Txt>
+            <CityNm>Delray Beach</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33483</ZIPCd>
+          </USAddress>
+          <TitleTxt>President/Dir.</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Jacquelyn Geifman</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>555 SE 6th Avenue Apt 5-C</AddressLine1Txt>
+            <CityNm>Delray Beach</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33483</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Terri Geifman</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>555 SE 6th Avenue Apt C-5</AddressLine1Txt>
+            <CityNm>Delray Beach</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33483</ZIPCd>
+          </USAddress>
+          <TitleTxt>Secretary/Dir.</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Julie Geifman</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>666 SE 6th Avenue Apt 5-C</AddressLine1Txt>
+            <CityNm>Delary Beach</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33483</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>1359459</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>0</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>1359459</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>1359459</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>20392</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>1339067</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>66953</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>66953</MinimumInvestmentReturnAmt>
+        <DistributableBeforeAdjAmt>66953</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>66953</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>66953</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>52850</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>52850</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>66953</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr1Amt>4724</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>4724</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>52850</QualifyingDistributionsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>52850</AppliedToCurrentYearAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>4724</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>4724</ExcessDistributionCyovAppCYAmt>
+        <UndistributedIncomeCYAmt>9379</UndistributedIncomeCYAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>See Attached Statement</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>Various</AddressLine1Txt>
+            <CityNm>Various</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60610</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Exempt</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Religious,Educational, Medical &amp; Welfare</GrantOrContributionPurposeTxt>
+          <Amt>52850</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>52850</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DividendsAndInterestFromSecDtl>
+          <RelatedOrExemptFunctionIncmAmt>22328</RelatedOrExemptFunctionIncmAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>-813</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <RelatedOrExemptFunctionIncmAmt>21515</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>21515</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="22015553" softwareVersionNum="2022v4.1">
+      <AccountingFeesDetail>
+        <CategoryTxt>Steven D. Perkins, CPA, LLC</CategoryTxt>
+        <Amt>3095</Amt>
+        <NetInvestmentIncomeAmt>3095</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpStockSchedule documentId="InvestmentsCorpStockSchedule" softwareId="22015553" softwareVersionNum="2022v4.1">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>274.437 BP Amoco</StockNm>
+        <EOYBookValueAmt>3422</EOYBookValueAmt>
+        <EOYFMVAmt>9586</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>895.925 Chevron</StockNm>
+        <EOYBookValueAmt>18456</EOYBookValueAmt>
+        <EOYFMVAmt>160810</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>812.19 Deere &amp; Company</StockNm>
+        <EOYBookValueAmt>15969</EOYBookValueAmt>
+        <EOYFMVAmt>348235</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Vanguard 72136739</StockNm>
+        <EOYBookValueAmt>393024</EOYBookValueAmt>
+        <EOYFMVAmt>706936</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Vanguard 50718517</StockNm>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <LegalFeesSchedule documentId="LegalFeesSchedule" softwareId="22015553" softwareVersionNum="2022v4.1">
+      <LegalFeesGrp>
+        <CategoryTxt>Stephen Geifman</CategoryTxt>
+        <LegalFeesAmt>25000</LegalFeesAmt>
+        <NetInvestmentIncomeAmt>25000</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherDecreasesSchedule documentId="OtherDecreasesSchedule" softwareId="22015553" softwareVersionNum="2022v4.1">
+      <OtherDecreasesDetail>
+        <Desc>Prior Period Adjustment</Desc>
+        <Amt>2915</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="22015553" softwareVersionNum="2022v4.1">
+      <OtherExpensesScheduleGrp>
+        <Desc>IL Secy of State</Desc>
+        <RevenueAndExpensesPerBooksAmt>15</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>15</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>URS Agents</Desc>
+        <RevenueAndExpensesPerBooksAmt>105</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>105</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="22015553" softwareVersionNum="2022v4.1">
+      <TaxesDetail>
+        <CategoryTxt>IRS</CategoryTxt>
+        <Amt>936</Amt>
+        <NetInvestmentIncomeAmt>936</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

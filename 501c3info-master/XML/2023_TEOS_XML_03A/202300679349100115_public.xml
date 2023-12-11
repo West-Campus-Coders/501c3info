@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2022v4.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-03-08T12:02:48-06:00</ReturnTs>
+    <TaxPeriodEndDt>2022-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>135565207</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>KPMG LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>550 SOUTH HOPE STREET SUITE 1500</AddressLine1Txt>
+        <CityNm>LOS ANGELES</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>90071</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>237444954</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>DELLA MARTIN FOUNDATION</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>C/O SHEPPARD MULLIN RICHTER &amp; HAMPTON</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>DELL</BusinessNameControlTxt>
+      <PhoneNum>2136174143</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>333 SOUTH HOPE STREET 43RD FL</AddressLine1Txt>
+        <CityNm>LOS ANGELES</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>90071</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>LAURENCE K GOULD</PersonNm>
+      <PersonTitleTxt>TRUSTEE</PersonTitleTxt>
+      <PhoneNum>2136174143</PhoneNum>
+      <SignatureDt>2022-03-07</SignatureDt>
+      <DiscussWithPaidPreparerInd>1</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>LAURENCE</PersonFirstNm>
+        <PersonLastNm>GOULD</PersonLastNm>
+      </PersonFullName>
+      <SSN>999009999</SSN>
+    </SigningOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>0</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>CAREY MCKEE</PreparerPersonNm>
+      <PTIN>P01281067</PTIN>
+      <PhoneNum>2139724000</PhoneNum>
+    </PreparerPersonGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp>
+        <TrustedCustomerCd>2</TrustedCustomerCd>
+        <AuthenticationAssuranceLevelCd>AAL1</AuthenticationAssuranceLevelCd>
+        <IdentityAssuranceLevelCd>IAL1</IdentityAssuranceLevelCd>
+      </TrustedCustomerGrp>
+    </AdditionalFilerInformation>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="10">
+    <IRS990PF documentId="RetDoc1235000001" referenceDocumentId="RetDoc2258700001">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>9744262</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>54639</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>54639</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>147495</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>147495</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>379826</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>2266180</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>379826</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="RetDoc2001500001">43</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>43</OtherIncomeNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>582003</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>582003</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>4000</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>800</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>3200</CompOfcrDirTrstDsbrsChrtblAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002100001">53773</LegalFeesRevAndExpnssAmt>
+        <LegalFeesNetInvstIncmAmt>10755</LegalFeesNetInvstIncmAmt>
+        <LegalFeesDsbrsChrtblAmt>43018</LegalFeesDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002200001">12750</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>0</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>12750</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002300001">78605</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>78605</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesDsbrsChrtblAmt>0</OtherProfFeesDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc2002500001">5771</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>2151</TaxesNetInvstIncmAmt>
+        <TaxesDsbrsChrtblAmt>0</TaxesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>154899</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>92311</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>58968</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>200000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>200000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>354899</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>92311</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>258968</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>227104</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>489692</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>583458</CashBOYAmt>
+        <CashEOYAmt>263982</CashEOYAmt>
+        <CashEOYFMVAmt>259950</CashEOYFMVAmt>
+        <USGovernmentObligationsBOYAmt>1596819</USGovernmentObligationsBOYAmt>
+        <USGovernmentObligationsEOYAmt referenceDocumentId="RetDoc2210400001">1513332</USGovernmentObligationsEOYAmt>
+        <USGovtObligationsEOYFMVAmt>1468001</USGovtObligationsEOYFMVAmt>
+        <CorporateStockBOYAmt>4628604</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc2018900001">4862823</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>6976142</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>695462</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="RetDoc2044400001">1091310</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>1040169</CorporateBondsEOYFMVAmt>
+        <TotalAssetsBOYAmt>7504343</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>7731447</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>9744262</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesBOYAmt>0</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <CapitalStockBOYAmt>0</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>0</CapitalStockEOYAmt>
+        <AdditionalPaidInCapitalBOYAmt>0</AdditionalPaidInCapitalBOYAmt>
+        <AdditionalPaidInCapitalEOYAmt>0</AdditionalPaidInCapitalEOYAmt>
+        <RetainedEarningBOYAmt>7504343</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>7731447</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>7504343</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>7731447</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>7504343</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>7731447</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>7504343</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>227104</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt>0</OtherIncreasesAmt>
+        <SubtotalAmt>7731447</SubtotalAmt>
+        <OtherDecreasesAmt>0</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>7731447</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUBLICLY TRADED SECURITIES</PropertyDesc>
+          <AcquiredDt>2016-01-07</AcquiredDt>
+          <SoldDt>2022-05-16</SoldDt>
+          <GrossSalesPriceAmt>2266180</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1886354</CostOrOtherBasisAmt>
+          <GainOrLossAmt>379826</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>379826</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>379826</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>6807</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>6807</SubtotalAmt>
+        <SubtitleATaxAmt>0</SubtitleATaxAmt>
+        <TaxBasedOnInvestmentIncomeAmt>6807</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>7880</EstimatedPlusOvpmtIncmTxAmt>
+        <ExemptFrgnOrgTaxWthldAtSrceAmt>0</ExemptFrgnOrgTaxWthldAtSrceAmt>
+        <ExtsnRequestIncomeTaxPaidAmt>0</ExtsnRequestIncomeTaxPaidAmt>
+        <BackupWithholdingWithheldAmt>0</BackupWithholdingWithheldAmt>
+        <TotalPaymentsAndCreditsAmt>7880</TotalPaymentsAndCreditsAmt>
+        <Form2220AttachedInd referenceDocumentId="RetDoc1192000001">X</Form2220AttachedInd>
+        <EsPenaltyAmt>0</EsPenaltyAmt>
+        <OverpaymentAmt>1073</OverpaymentAmt>
+        <AppliedToESTaxAmt>1073</AppliedToESTaxAmt>
+        <RefundAmt>0</RefundAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>0</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>0</MoreThan100SpentInd>
+        <Form1120POLFiledInd>0</Form1120POLFiledInd>
+        <Section4955OrganizationTaxAmt>0</Section4955OrganizationTaxAmt>
+        <Section4955ManagersTaxAmt>0</Section4955ManagersTaxAmt>
+        <TaxReimbursedAmt>0</TaxReimbursedAmt>
+        <ActivitiesNotPreviouslyRptInd>0</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>0</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>0</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>0</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>1</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>1</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>CA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>1</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>0</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>0</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>0</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>0</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>1</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>SHEPPARD MULLIN RICHTER &amp; HAMPTON</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>2136174143</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>333 SOUTH HOPE STREET 43RD FL</AddressLine1Txt>
+          <CityNm>LOS ANGELES</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>90071</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>0</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>0</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>0</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>1</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>1</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>0</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>0</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>0</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>0</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>0</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>0</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>0</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>0</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>0</InfluenceLegislationInd>
+        <InfluenceElectionInd>0</InfluenceElectionInd>
+        <GrantsToIndividualsInd>0</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>0</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>0</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>0</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>0</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>0</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>0</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>EILEEN D SHEPPARD</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>333 SOUTH HOPE STREET 43RD FLOOR</AddressLine1Txt>
+            <CityNm>LOS ANGELES</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90071</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>1000</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>PHILIP A SWAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>333 SOUTH HOPE STREET 43RD FLOOR</AddressLine1Txt>
+            <CityNm>LOS ANGELES</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90071</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>1000</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ALLEN W MATHIES JR MD</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>333 SOUTH HOPE STREET 43RD FLOOR</AddressLine1Txt>
+            <CityNm>LOS ANGELES</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90071</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>1000</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>KELLY KINNON</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>333 SOUTH HOPE STREET 43RD FLOOR</AddressLine1Txt>
+            <CityNm>LOS ANGELES</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90071</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>1000</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>LAURENCE K GOULD JR</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>333 SOUTH HOPE STREET 43RD FLOOR</AddressLine1Txt>
+            <CityNm>LOS ANGELES</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90071</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.80</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JAMES A LONERGAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>333 SOUTH HOPE STREET 43RD FLOOR</AddressLine1Txt>
+            <CityNm>LOS ANGELES</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90071</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>NANCY B REIMANN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>333 SOUTH HOPE STREET 43RD FLOOR</AddressLine1Txt>
+            <CityNm>LOS ANGELES</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90071</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompensationOfHghstPdCntrctGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>ARISTOTLE CAPITAL MANAGEMENT</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>11100 SANTA MONICA BLVD STE 1700</AddressLine1Txt>
+            <CityNm>LOS ANGELES</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90025</ZIPCd>
+          </USAddress>
+          <ServiceTypeTxt>INVESTMENT SERVICES</ServiceTypeTxt>
+          <CompensationAmt>60903</CompensationAmt>
+        </CompensationOfHghstPdCntrctGrp>
+        <CompensationOfHghstPdCntrctGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>SHEPPARD MULLIN RICHTER &amp; HAMPTON</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>333 SOUTH HOPE 43RD FLOOR</AddressLine1Txt>
+            <CityNm>LOS ANGELES</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90071</ZIPCd>
+          </USAddress>
+          <ServiceTypeTxt>LEGAL SERVICES</ServiceTypeTxt>
+          <CompensationAmt>53773</CompensationAmt>
+        </CompensationOfHghstPdCntrctGrp>
+        <ContractorPaidOver50kCnt>0</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <TotalAmt>0</TotalAmt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>9657773</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>459158</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>10116931</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>10116931</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>151754</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>9965177</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>498259</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>498259</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>6807</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>6807</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>491452</DistributableBeforeAdjAmt>
+        <RecoveriesQualfiedDistriAmt>0</RecoveriesQualfiedDistriAmt>
+        <DistributableBeforeDedAmt>491452</DistributableBeforeDedAmt>
+        <DeductionFromDistributableAmt>0</DeductionFromDistributableAmt>
+        <DistributableAsAdjustedAmt>491452</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>258968</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <QualifyingDistributionsAmt>258968</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>491452</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>209383</UndistributedIncomePYAmt>
+        <TotalForPriorYearsAmt>0</TotalForPriorYearsAmt>
+        <TotalExcessDistributionCyovAmt>0</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>258968</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>209383</AppliedToYear1Amt>
+        <AppliedToPriorYearsAmt>0</AppliedToPriorYearsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>49585</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>0</RemainingDistriFromCorpusAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>0</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>0</ExcessDistributionCyovAppCYAmt>
+        <TotalCorpusAmt>0</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <PriorYearDeficiencyOrTaxAmt>0</PriorYearDeficiencyOrTaxAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>441867</UndistributedIncomeCYAmt>
+        <CorpusDistri170b1EOr4942g3Amt>0</CorpusDistri170b1EOr4942g3Amt>
+        <ExcessDistriCyovFromYr5Amt>0</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>0</ExcessDistriCyovToNextYrAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>LAURENCE K GOULD JR</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>333 SOUTH HOPE STREET 43RD FLOOR</AddressLine1Txt>
+            <CityNm>LOS ANGELES</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90071</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>2136174143</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>BRIEF LETTER DESCRIBING PURPOSE OF GRANT, DESCRIPTION OF REQUESTING ORGANIZATION, AND AMOUNT REQUESTED.</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>NONE</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>LIMITED TO RESEARCH INTO CAUSES OF AND CURES FOR MENTAL ILLNESS. RESTRICTED TO PUBLICLY SUPPORTED CHARITABLE ORGANIZATIONS. NO GRANTS TO INDIVIDUALS. PREFERENCE GIVEN TO SOUTHERN CALIFORNIA ORGANIZATIONS.</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HUNTINGTON MEDICAL RESEARCH INSTITUTES</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>686 SOUTH FAIR OAKS AVENUE</AddressLine1Txt>
+            <CityNm>PASADENA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91105</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>FUNDING FOR THE DELLA MARTIN ENDOWED POSTDOCTORAL FELLOWSHIP.</GrantOrContributionPurposeTxt>
+          <Amt>200000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>200000</TotalGrantOrContriPdDurYrAmt>
+        <TotalGrantOrContriApprvFutAmt>0</TotalGrantOrContriApprvFutAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>54639</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>147495</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>379826</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>MISCELLANEOUS INCOME</Desc>
+          <ExclusionCd>01</ExclusionCd>
+          <ExclusionAmt>43</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>582003</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>582003</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>0</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>0</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>0</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>0</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>0</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>0</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>0</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>0</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>0</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>0</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFeesDetail>
+        <CategoryTxt>TAX PREPARATION</CategoryTxt>
+        <Amt>12750</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>12750</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <GeneralExplanationAttachment documentId="RetDoc2258700001">
+      <GeneralExplanationGrp>
+        <FormAndLineReferenceDesc>FORM 990PF, PART VII-B, LINE 1(A)(3)</FormAndLineReferenceDesc>
+        <MediumExplanationTxt>LEGAL FEES ARE PAID TO THE LAW FIRM OF SHEPPARD, MULLIN, RICHTER, AND HAMPTON LLP FOR LEGAL AND ADMINISTRATIVE SERVICES REQUIRED DURING THE YEAR. VARIOUS TRUSTEES OF THE FOUNDATION ARE COUNSEL TO OR A PARTNER OF THE LAW FIRM. THE FEES PAID TO THE FIRM ARE REASONABLE AND NECESSARY FOR THE FOUNDATION TO CARRY OUT ITS EXEMPT PURPOSES, AND ACCORDINGLY, ARE NOT CONSIDERED ACTS OF SELF-DEALING.</MediumExplanationTxt>
+      </GeneralExplanationGrp>
+      <GeneralExplanationGrp>
+        <FormAndLineReferenceDesc>FORM 990PF, PART VII-B, LINE 1(A)(4)</FormAndLineReferenceDesc>
+        <MediumExplanationTxt>AMOUNTS PAID TO TRUSTEES REPRESENT HONORARIA PAYMENTS TO COMPENSATE FOR REASONABLE AND NECESSARY EXPENSES INCURRED DUE TO THEIR DUTIES AS TRUSTEES OF THE FOUNDATION. THESE AMOUNTS ARE NOT CONSIDERED ACTS OF SELF-DEALING.</MediumExplanationTxt>
+      </GeneralExplanationGrp>
+    </GeneralExplanationAttachment>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc2044400001">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>AT&amp;T INC</BondNm>
+        <EOYBookValueAmt>153230</EOYBookValueAmt>
+        <EOYFMVAmt>148030</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>BANK OF AMERICA CORP</BondNm>
+        <EOYBookValueAmt>136494</EOYBookValueAmt>
+        <EOYFMVAmt>121161</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CITIGROUP INC</BondNm>
+        <EOYBookValueAmt>145283</EOYBookValueAmt>
+        <EOYFMVAmt>141843</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>JPMORGAN CHASE &amp; CO</BondNm>
+        <EOYBookValueAmt>97335</EOYBookValueAmt>
+        <EOYFMVAmt>98683</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>MORGAN STANLEY</BondNm>
+        <EOYBookValueAmt>180499</EOYBookValueAmt>
+        <EOYFMVAmt>166387</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>WELLS FARGO &amp; CO NEW</BondNm>
+        <EOYBookValueAmt>378469</EOYBookValueAmt>
+        <EOYFMVAmt>364065</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ADOBE INC</StockNm>
+        <EOYBookValueAmt>28463</EOYBookValueAmt>
+        <EOYFMVAmt>201918</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ALCON INC</StockNm>
+        <EOYBookValueAmt>136082</EOYBookValueAmt>
+        <EOYFMVAmt>170004</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>AMERIPRISE FINL INC</StockNm>
+        <EOYBookValueAmt>70341</EOYBookValueAmt>
+        <EOYFMVAmt>226989</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>AMGEN INC COM</StockNm>
+        <EOYBookValueAmt>117086</EOYBookValueAmt>
+        <EOYFMVAmt>196980</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ANSYS INC</StockNm>
+        <EOYBookValueAmt>69988</EOYBookValueAmt>
+        <EOYFMVAmt>178777</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ATMOS ENERGY CORP COM</StockNm>
+        <EOYBookValueAmt>165530</EOYBookValueAmt>
+        <EOYFMVAmt>174157</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>AUTODESK INC DEL PV</StockNm>
+        <EOYBookValueAmt>157326</EOYBookValueAmt>
+        <EOYFMVAmt>153794</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>BLACKSTONE INC</StockNm>
+        <EOYBookValueAmt>200988</EOYBookValueAmt>
+        <EOYFMVAmt>118704</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CAPITAL ONE FINL CORP</StockNm>
+        <EOYBookValueAmt>123115</EOYBookValueAmt>
+        <EOYFMVAmt>130423</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CIE GENERALE DES</StockNm>
+        <EOYBookValueAmt>173879</EOYBookValueAmt>
+        <EOYFMVAmt>144900</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CINN FINCL CRP OHIO</StockNm>
+        <EOYBookValueAmt>124356</EOYBookValueAmt>
+        <EOYFMVAmt>163824</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>COCA COLA CO</StockNm>
+        <EOYBookValueAmt>117385</EOYBookValueAmt>
+        <EOYFMVAmt>176200</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>COMMERCE BANCSHARES INC</StockNm>
+        <EOYBookValueAmt>78319</EOYBookValueAmt>
+        <EOYFMVAmt>110284</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CONSTELLATION BRANDS INC</StockNm>
+        <EOYBookValueAmt>130523</EOYBookValueAmt>
+        <EOYFMVAmt>134415</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CORTEVA INC</StockNm>
+        <EOYBookValueAmt>137366</EOYBookValueAmt>
+        <EOYFMVAmt>288022</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>COTERRA ENERGY INC</StockNm>
+        <EOYBookValueAmt>108685</EOYBookValueAmt>
+        <EOYFMVAmt>147420</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CROWN CASTLE REIT INC</StockNm>
+        <EOYBookValueAmt>177776</EOYBookValueAmt>
+        <EOYFMVAmt>152324</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CULLEN / FROST BANKERS INC</StockNm>
+        <EOYBookValueAmt>89785</EOYBookValueAmt>
+        <EOYFMVAmt>161242</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DANAHER CORP DEL</StockNm>
+        <EOYBookValueAmt>65965</EOYBookValueAmt>
+        <EOYFMVAmt>216317</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ECOLAB INC</StockNm>
+        <EOYBookValueAmt>187944</EOYBookValueAmt>
+        <EOYFMVAmt>125764</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>EQUITY LIFESTYLE PPTYS INC</StockNm>
+        <EOYBookValueAmt>70368</EOYBookValueAmt>
+        <EOYFMVAmt>93089</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>GENERAL DYNAMICS CORP</StockNm>
+        <EOYBookValueAmt>52432</EOYBookValueAmt>
+        <EOYFMVAmt>161272</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>HONEYWELL INTL INC DEL</StockNm>
+        <EOYBookValueAmt>193708</EOYBookValueAmt>
+        <EOYFMVAmt>184298</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>LENNAR CORP CLASS A</StockNm>
+        <EOYBookValueAmt>72607</EOYBookValueAmt>
+        <EOYFMVAmt>193761</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>LENNAR CORP CLASS B</StockNm>
+        <EOYBookValueAmt>1571</EOYBookValueAmt>
+        <EOYFMVAmt>4188</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MARTIN MARIETTA MATLS INC</StockNm>
+        <EOYBookValueAmt>68802</EOYBookValueAmt>
+        <EOYFMVAmt>185884</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MEDTRONIC PLC</StockNm>
+        <EOYBookValueAmt>122351</EOYBookValueAmt>
+        <EOYFMVAmt>123575</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MERCK AND CO INC SHS</StockNm>
+        <EOYBookValueAmt>152875</EOYBookValueAmt>
+        <EOYFMVAmt>190612</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MICROCHIP TECHNOLOGY INC</StockNm>
+        <EOYBookValueAmt>69879</EOYBookValueAmt>
+        <EOYFMVAmt>202742</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MICROSOFT CORP</StockNm>
+        <EOYBookValueAmt>42150</EOYBookValueAmt>
+        <EOYFMVAmt>275793</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MITSUBISHI UFJ FINL GROUP INC</StockNm>
+        <EOYBookValueAmt>91714</EOYBookValueAmt>
+        <EOYFMVAmt>94714</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>OSHKOSH TRUCK CORP</StockNm>
+        <EOYBookValueAmt>127707</EOYBookValueAmt>
+        <EOYFMVAmt>99390</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PARKER HANNIFIN CORP</StockNm>
+        <EOYBookValueAmt>127648</EOYBookValueAmt>
+        <EOYFMVAmt>218250</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PAYPAL HOLDINGS INC</StockNm>
+        <EOYBookValueAmt>25072</EOYBookValueAmt>
+        <EOYFMVAmt>53415</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PHILLIPS 66</StockNm>
+        <EOYBookValueAmt>66140</EOYBookValueAmt>
+        <EOYFMVAmt>122814</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PNC FINL SVCS GROUP INC</StockNm>
+        <EOYBookValueAmt>144427</EOYBookValueAmt>
+        <EOYFMVAmt>185580</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PROCTER &amp; GAMBLE CO</StockNm>
+        <EOYBookValueAmt>165456</EOYBookValueAmt>
+        <EOYFMVAmt>184600</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>QUALCOMM INC</StockNm>
+        <EOYBookValueAmt>111733</EOYBookValueAmt>
+        <EOYFMVAmt>164910</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>RPM INTL INC</StockNm>
+        <EOYBookValueAmt>118795</EOYBookValueAmt>
+        <EOYFMVAmt>180283</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SONY CORP</StockNm>
+        <EOYBookValueAmt>102449</EOYBookValueAmt>
+        <EOYFMVAmt>160188</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SYSCO CORPORATION</StockNm>
+        <EOYBookValueAmt>140945</EOYBookValueAmt>
+        <EOYFMVAmt>136998</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>XCEL ENERGY INC</StockNm>
+        <EOYBookValueAmt>176417</EOYBookValueAmt>
+        <EOYFMVAmt>182773</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>XYLEM INC</StockNm>
+        <EOYBookValueAmt>156675</EOYBookValueAmt>
+        <EOYFMVAmt>204555</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="RetDoc2210400001">
+      <USGovtObligationsBookVlEOYAmt>1513332</USGovtObligationsBookVlEOYAmt>
+      <USGovtObligationsEOYFMVAmt>1468001</USGovtObligationsEOYFMVAmt>
+      <StateLocalSecBookVlEOYAmt>0</StateLocalSecBookVlEOYAmt>
+      <StateLocalSecEOYFMVAmt>0</StateLocalSecEOYFMVAmt>
+    </InvestmentsGovtObligationsSch>
+    <LegalFeesSchedule documentId="RetDoc2002100001">
+      <LegalFeesGrp>
+        <CategoryTxt>LEGAL FEES</CategoryTxt>
+        <LegalFeesAmt>53773</LegalFeesAmt>
+        <NetInvestmentIncomeAmt>10755</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>43018</DisbursementsCharitablePrpsAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc2001500001">
+      <OtherIncomeDetail>
+        <Desc>MISCELLANEOUS INCOME</Desc>
+        <RevenueAndExpensesPerBooksAmt>43</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>43</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>43</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherProfessionalFeesSchedule documentId="RetDoc2002300001">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>INVESTMENT MGMT FEES</CategoryTxt>
+        <Amt>60903</Amt>
+        <NetInvestmentIncomeAmt>60903</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>BANK FEES</CategoryTxt>
+        <Amt>17702</Amt>
+        <NetInvestmentIncomeAmt>17702</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <TaxesDetail>
+        <CategoryTxt>FEDERAL EXCISE TAXES</CategoryTxt>
+        <Amt>3620</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAXES</CategoryTxt>
+        <Amt>2151</Amt>
+        <NetInvestmentIncomeAmt>2151</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>STATE FILING FEE</CategoryTxt>
+        <Amt>0</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

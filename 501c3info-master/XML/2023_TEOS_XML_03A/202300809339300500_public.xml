@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2021v4.3">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-03-21T08:48:49-00:00</ReturnTs>
+    <TaxPeriodEndDt>2022-09-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>223480078</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Bart and Bart CPAs</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>104 Main Street</AddressLine1Txt>
+        <CityNm>Woodbridge</CityNm>
+        <StateAbbreviationCd>NJ</StateAbbreviationCd>
+        <ZIPCd>07095</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990T</ReturnTypeCd>
+    <TaxPeriodBeginDt>2021-10-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>237242529</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>OYSTER BAY URBAN RENEWAL INC</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>OYST</BusinessNameControlTxt>
+      <USAddress>
+        <AddressLine1Txt>50 BEERS STREET</AddressLine1Txt>
+        <CityNm>KEYPORT</CityNm>
+        <StateAbbreviationCd>NJ</StateAbbreviationCd>
+        <ZIPCd>07735</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>JOSEPH CARREY</PersonNm>
+      <PersonTitleTxt>PRESIDENT</PersonTitleTxt>
+      <SignatureDt>2023-03-10</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>JOSEPH</PersonFirstNm>
+        <PersonLastNm>CARREY</PersonLastNm>
+      </PersonFullName>
+      <SSN>XXX-XX-XXXX</SSN>
+    </SigningOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Michael Bart</PreparerPersonNm>
+      <PTIN>P01204140</PTIN>
+      <PhoneNum>7326345680</PhoneNum>
+      <PreparationDt>2023-03-21</PreparationDt>
+    </PreparerPersonGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp>
+        <TrustedCustomerCd>3</TrustedCustomerCd>
+        <AuthenticationAssuranceLevelCd>AAL1</AuthenticationAssuranceLevelCd>
+        <IdentityAssuranceLevelCd>IAL1</IdentityAssuranceLevelCd>
+      </TrustedCustomerGrp>
+    </AdditionalFilerInformation>
+    <TaxYr>2021</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="2">
+    <IRS990T referenceDocumentId="" documentId="990T" softwareId="21013564" softwareVersionNum="21.0.5.0">
+      <Organization501IndicatorGrp>
+        <Organization501Ind>X</Organization501Ind>
+        <Organization501cTypeTxt>c3</Organization501cTypeTxt>
+      </Organization501IndicatorGrp>
+      <Organization501cCorporationInd>X</Organization501cCorporationInd>
+      <Form990TScheduleAAttachedCnt referenceDocumentId="990TA">1</Form990TScheduleAAttachedCnt>
+      <SubsidiaryCorporationInd>false</SubsidiaryCorporationInd>
+      <TotalUBTIComputedAmt>22800</TotalUBTIComputedAmt>
+      <TotalUBTIBeforeNOLSpecificAmt>22800</TotalUBTIBeforeNOLSpecificAmt>
+      <TotalUBTIBeforeSection199AAmt>22800</TotalUBTIBeforeSection199AAmt>
+      <SpecificDeductionAmt>1000</SpecificDeductionAmt>
+      <TotalDeductionAmt>1000</TotalDeductionAmt>
+      <TotalUBTIAmt>21800</TotalUBTIAmt>
+      <TaxableCorporationAmt>4578</TaxableCorporationAmt>
+      <TotalTaxComputationAmt>4578</TotalTaxComputationAmt>
+      <TaxLessCreditsAmt>4578</TaxLessCreditsAmt>
+      <TotalTaxAmt>4578</TotalTaxAmt>
+      <EstimatedTaxPaymentsAmt>4578</EstimatedTaxPaymentsAmt>
+      <TotalPaymentsAmt>4578</TotalPaymentsAmt>
+      <ChangeInMethodOfAccountingInd>false</ChangeInMethodOfAccountingInd>
+      <ProvChangeMethodOfAcctDescInd>false</ProvChangeMethodOfAcctDescInd>
+    </IRS990T>
+    <IRS990TScheduleA documentName="IRS990TScheduleA" documentId="990TA" softwareId="21013564" softwareVersionNum="21.0.5.0">
+      <PrincipalBusinessActivityCd>532000</PrincipalBusinessActivityCd>
+      <SequenceReferenceNum>1</SequenceReferenceNum>
+      <SequenceTotalNum>1</SequenceTotalNum>
+      <TradeOrBusinessDesc>Rental and leasing services</TradeOrBusinessDesc>
+      <NetRentIncomeAmt>22800</NetRentIncomeAmt>
+      <TotUnrltTrdBusIncmAmt>22800</TotUnrltTrdBusIncmAmt>
+      <TotUnrltTrdBusIncmExpnssAmt>0</TotUnrltTrdBusIncmExpnssAmt>
+      <TotNetUnrltTrdBusIncmAmt>22800</TotNetUnrltTrdBusIncmAmt>
+      <UBIBeforeNOLDedAmt>22800</UBIBeforeNOLDedAmt>
+      <UnrelatedBusinessTaxblIncmAmt>22800</UnrelatedBusinessTaxblIncmAmt>
+      <RentIncomePropertyGrp>
+        <DualUseInd>X</DualUseInd>
+        <USAddress>
+          <AddressLine1Txt>50 BEERS STREET</AddressLine1Txt>
+          <CityNm>KEYPORT</CityNm>
+          <StateAbbreviationCd>NJ</StateAbbreviationCd>
+          <ZIPCd>07735</ZIPCd>
+        </USAddress>
+        <RentRealPersonalPropertyAmt>22800</RentRealPersonalPropertyAmt>
+        <TotalRentsByPropertyAmt>22800</TotalRentsByPropertyAmt>
+      </RentIncomePropertyGrp>
+      <TotalRentIncomeAmt>22800</TotalRentIncomeAmt>
+    </IRS990TScheduleA>
+  </ReturnData>
+</Return>

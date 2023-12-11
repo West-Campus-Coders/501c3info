@@ -1,0 +1,3383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2021v4.2">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-02-28T11:04:44-06:00</ReturnTs>
+    <TaxPeriodEndDt>2022-06-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>880203872</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>ASHLEY QUINN CPAS AND CONSULTANTS</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>937 TAHOE BOULEVARD SUITE 200</AddressLine1Txt>
+        <CityNm>INCLINE VILLAGE</CityNm>
+        <StateAbbreviationCd>NV</StateAbbreviationCd>
+        <ZIPCd>89451</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2021-07-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>201470592</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>EDUCATIONAL PATHWAYS INTERNATIONAL</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>FMRLY LAFRANCE FAMILY FOUNDATION</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>EDUC</BusinessNameControlTxt>
+      <PhoneNum>7758326655</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>6005 LAKE GENEVA ROAD</AddressLine1Txt>
+        <CityNm>RENO</CityNm>
+        <StateAbbreviationCd>NV</StateAbbreviationCd>
+        <ZIPCd>89511</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>SARA M LAFRANCE</PersonNm>
+      <PersonTitleTxt>PRESIDENT</PersonTitleTxt>
+      <PhoneNum>7758326655</PhoneNum>
+      <SignatureDt>2023-02-27</SignatureDt>
+      <DiscussWithPaidPreparerInd>1</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>SARA</PersonFirstNm>
+        <PersonLastNm>LAFRANCE</PersonLastNm>
+      </PersonFullName>
+      <SSN>XXX-XX-XXXX</SSN>
+    </SigningOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>CRAIG J IVERSON</PreparerPersonNm>
+      <PTIN>P00084182</PTIN>
+      <PhoneNum>7758317288</PhoneNum>
+      <PreparationDt>2023-02-27</PreparationDt>
+    </PreparerPersonGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp>
+        <TrustedCustomerCd>3</TrustedCustomerCd>
+        <AuthenticationAssuranceLevelCd>AAL1</AuthenticationAssuranceLevelCd>
+        <IdentityAssuranceLevelCd>IAL1</IdentityAssuranceLevelCd>
+      </TrustedCustomerGrp>
+    </AdditionalFilerInformation>
+    <TaxYr>2021</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="9">
+    <IRS990PF documentId="RetDoc1235000001">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>2708836</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>173103</ContriRcvdRevAndExpnssAmt>
+        <InterestOnSavRevAndExpnssAmt>148</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>148</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>3834</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>3834</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>15777</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>98950</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>15777</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>192862</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>19759</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>0</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>0</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>0</CompOfcrDirTrstDsbrsChrtblAmt>
+        <OthEmplSlrsWgsRevAndExpnssAmt>15500</OthEmplSlrsWgsRevAndExpnssAmt>
+        <OthEmplSlrsWgsNetInvstIncmAmt>0</OthEmplSlrsWgsNetInvstIncmAmt>
+        <OthEmplSlrsWgsDsbrsChrtblAmt>0</OthEmplSlrsWgsDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002200001">6950</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>3475</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>0</AccountingFeesChrtblPrpsAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc2002500001">424</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>15</TaxesNetInvstIncmAmt>
+        <TaxesDsbrsChrtblAmt>0</TaxesDsbrsChrtblAmt>
+        <OccupancyRevAndExpnssAmt>6295</OccupancyRevAndExpnssAmt>
+        <OccupancyNetInvstIncmAmt>0</OccupancyNetInvstIncmAmt>
+        <OccupancyDsbrsChrtblAmt>0</OccupancyDsbrsChrtblAmt>
+        <TravConfMeetingRevAndExpnssAmt>2435</TravConfMeetingRevAndExpnssAmt>
+        <TravConfMeetingNetInvstIncmAmt>0</TravConfMeetingNetInvstIncmAmt>
+        <TravConfMeetingDsbrsChrtblAmt>0</TravConfMeetingDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc2003200001">7508</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>2265</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>0</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>39112</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>5755</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>140565</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>140565</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>179677</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>5755</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>140565</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>13185</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>14004</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>24020</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>10956</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>10952</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>1600000</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc2018900001">1600000</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>2520000</CorporateStockEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>147052</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="RetDoc2018100001">173301</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>177884</OtherInvestmentsEOYFMVAmt>
+        <LandBldgEquipCostOrOtherBssAmt>5776</LandBldgEquipCostOrOtherBssAmt>
+        <LandBldgEquipAccumDeprecAmt>5776</LandBldgEquipAccumDeprecAmt>
+        <TotalAssetsBOYAmt>1771072</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>1784257</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>2708836</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesBOYAmt>0</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <CapitalStockBOYAmt>0</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>0</CapitalStockEOYAmt>
+        <AdditionalPaidInCapitalBOYAmt>0</AdditionalPaidInCapitalBOYAmt>
+        <AdditionalPaidInCapitalEOYAmt>0</AdditionalPaidInCapitalEOYAmt>
+        <RetainedEarningBOYAmt>1771072</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>1784257</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>1771072</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1784257</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>1771072</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>1784257</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>1771072</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>13185</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt>0</OtherIncreasesAmt>
+        <SubtotalAmt>1784257</SubtotalAmt>
+        <OtherDecreasesAmt>0</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1784257</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>614.060000 - SHS - PUTNAM ULTRA SHORT</PropertyDesc>
+          <AcquiredDt>2021-06-07</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>6190</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>6202</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-12</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-12</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.103000 - SHS - JANUS HENDERSON SMALL</PropertyDesc>
+          <AcquiredDt>2021-12-22</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>26</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>28</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-2</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-2</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.351000 - SHS - JANUS HENDERSON SMALL</PropertyDesc>
+          <AcquiredDt>2021-12-22</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>32</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>34</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-2</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-2</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.368300 - SHS - MASSMUTUAL</PropertyDesc>
+          <AcquiredDt>2021-04-30</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>3</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.378300 - SHS - MASSMUTUAL</PropertyDesc>
+          <AcquiredDt>2021-05-28</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>3</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.324500 - SHS - MASSMUTUAL</PropertyDesc>
+          <AcquiredDt>2021-06-30</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>3</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.319500 - SHS - MASSMUTUAL</PropertyDesc>
+          <AcquiredDt>2021-07-30</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>3</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.345400 - SHS - MASSMUTUAL</PropertyDesc>
+          <AcquiredDt>2021-08-31</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>3</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.323500 - SHS - MASSMUTUAL</PropertyDesc>
+          <AcquiredDt>2021-09-30</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>3</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.333400 - SHS - MASSMUTUAL</PropertyDesc>
+          <AcquiredDt>2021-10-29</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>3</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.261000 - SHS - MASSMUTUAL</PropertyDesc>
+          <AcquiredDt>2021-12-31</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>2</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.400000 - SHS - MASSMUTUAL</PropertyDesc>
+          <AcquiredDt>2022-01-31</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>4</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.428000 - SHS - MASSMUTUAL</PropertyDesc>
+          <AcquiredDt>2022-02-28</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>4</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.462000 - SHS - MASSMUTUAL</PropertyDesc>
+          <AcquiredDt>2022-03-31</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>4</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>2356.237000 - SHS - PUTNAM ULTRA SHORT</PropertyDesc>
+          <AcquiredDt>2021-06-07</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>23633</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>23798</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-165</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-165</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.691000 - SHS - PUTNAM ULTRA SHORT</PropertyDesc>
+          <AcquiredDt>2021-06-30</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>7</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>7</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.936000 - SHS - PUTNAM ULTRA SHORT</PropertyDesc>
+          <AcquiredDt>2021-07-30</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>9</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>9</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.699000 - SHS - PUTNAM ULTRA SHORT</PropertyDesc>
+          <AcquiredDt>2021-08-31</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>7</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>7</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.862000 - SHS - PUTNAM ULTRA SHORT</PropertyDesc>
+          <AcquiredDt>2021-09-30</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>9</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>9</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.767000 - SHS - PUTNAM ULTRA SHORT</PropertyDesc>
+          <AcquiredDt>2021-10-29</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>8</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>8</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.715000 - SHS - PUTNAM ULTRA SHORT</PropertyDesc>
+          <AcquiredDt>2021-11-30</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>7</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>7</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.587000 - SHS - PUTNAM ULTRA SHORT</PropertyDesc>
+          <AcquiredDt>2021-12-31</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>6</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>6</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.713000 - SHS - PUTNAM ULTRA SHORT</PropertyDesc>
+          <AcquiredDt>2022-01-31</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>7</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>7</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.673000 - SHS - PUTNAM ULTRA SHORT</PropertyDesc>
+          <AcquiredDt>2022-02-28</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>7</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>7</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.998000 - SHS - PUTNAM ULTRA SHORT</PropertyDesc>
+          <AcquiredDt>2022-03-31</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>10</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>10</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000000 - SHS - SPDR DOUBLELINE TR TACT</PropertyDesc>
+          <AcquiredDt>2022-04-08</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>44</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>44</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>49.274000 - SHS - 361 GLOBAL LONG SHORT</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>611</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>567</CostOrOtherBasisAmt>
+          <GainOrLossAmt>44</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>44</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>34.161000 - SHS - AB SELECT US LONG/SHORT</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>549</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>431</CostOrOtherBasisAmt>
+          <GainOrLossAmt>118</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>118</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000000 - SHS - ACCENTURE PLC IRELAND</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>361</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>150</CostOrOtherBasisAmt>
+          <GainOrLossAmt>211</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>211</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>15.249000 - SHS - ALLSPRING SMALL</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>1057</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>846</CostOrOtherBasisAmt>
+          <GainOrLossAmt>211</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>211</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>11.868000 - SHS - ALLSPRING SPECIAL</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>631</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>432</CostOrOtherBasisAmt>
+          <GainOrLossAmt>199</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>199</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000000 - SHS - AMERICAN TOWER CORP REIT</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>263</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>144</CostOrOtherBasisAmt>
+          <GainOrLossAmt>119</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>119</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000000 - SHS - AMERIPRISE FINANCIAL INC</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>294</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>149</CostOrOtherBasisAmt>
+          <GainOrLossAmt>145</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>145</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>2.000000 - SHS - AMERISOURCEBERGEN CORP</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>241</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>171</CostOrOtherBasisAmt>
+          <GainOrLossAmt>70</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>70</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>45.327000 - SHS - BARINGS ACTIVE SHORT</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>446</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>447</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>95.977000 - SHS - BARON EMERGING MARKETS</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>1682</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1456</CostOrOtherBasisAmt>
+          <GainOrLossAmt>226</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>226</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>19.886000 - SHS - BLACKROCK GLOBAL</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>203</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>206</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-3</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-3</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000000 - SHS - BLACKROCK INC</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>915</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>531</CostOrOtherBasisAmt>
+          <GainOrLossAmt>384</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>384</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>20.347000 - SHS - BNY MELLON GLOBAL FIXED</PropertyDesc>
+          <AcquiredDt>2020-03-13</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>458</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>439</CostOrOtherBasisAmt>
+          <GainOrLossAmt>19</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>19</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>5.000000 - SHS - BP PLC SPON ADR</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>133</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>197</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-64</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-64</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>3.000000 - SHS - BRITISH AMER TOBACCO PLC</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>103</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>166</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-63</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-63</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>2.000000 - SHS - CARRIER GLOBAL CORP</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>111</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>46</CostOrOtherBasisAmt>
+          <GainOrLossAmt>65</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>65</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000000 - SHS - CHEVRON CORP</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>116</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>115</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000000 - SHS - CHUBB LTD CHF</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>186</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>136</CostOrOtherBasisAmt>
+          <GainOrLossAmt>50</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>50</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>2.000000 - SHS - COCA COLA CO COM</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>108</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>86</CostOrOtherBasisAmt>
+          <GainOrLossAmt>22</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>22</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>3.000000 - SHS - COLGATE PALMOLIVE CO</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>233</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>207</CostOrOtherBasisAmt>
+          <GainOrLossAmt>26</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>26</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>3.000000 - SHS - COMCAST CORP NEW CL A</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>155</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>101</CostOrOtherBasisAmt>
+          <GainOrLossAmt>54</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>54</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>2.000000 - SHS - CRANE CO **EXCHANGE :</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>200</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>184</CostOrOtherBasisAmt>
+          <GainOrLossAmt>16</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>16</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>4.000000 - SHS - CVS HEALTH CORP</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>368</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>246</CostOrOtherBasisAmt>
+          <GainOrLossAmt>122</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>122</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000000 - SHS - DANAHER CORP</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>327</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>97</CostOrOtherBasisAmt>
+          <GainOrLossAmt>230</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>230</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000000 - SHS - DIAGEO PLC NEW GB SPON</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>204</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>134</CostOrOtherBasisAmt>
+          <GainOrLossAmt>70</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>70</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000000 - SHS - ECOLAB INC</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>227</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>134</CostOrOtherBasisAmt>
+          <GainOrLossAmt>93</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>93</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>10.863000 - SHS - EVENTIDE GILEAD FUND CL</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>803</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>385</CostOrOtherBasisAmt>
+          <GainOrLossAmt>418</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>418</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>48.000000 - SHS - FIRST TRUST DEVELOPED</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>2869</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2967</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-98</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-98</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>33.419000 - SHS - GOLDMAN SACHS. LONG</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>295</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>307</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-12</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-12</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>17.874000 - SHS - GUGGENHEIM MACRO</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>483</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>477</CostOrOtherBasisAmt>
+          <GainOrLossAmt>6</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>6</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>32.280000 - SHS - GUGGENHEIM TOTAL RETURN</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>930</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>867</CostOrOtherBasisAmt>
+          <GainOrLossAmt>63</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>63</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>2.000000 - SHS - HALLIBURTON CO</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>45</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>95</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-50</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-50</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>14.000000 - SHS - HALLIBURTON CO</PropertyDesc>
+          <AcquiredDt>2020-03-13</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>312</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>95</CostOrOtherBasisAmt>
+          <GainOrLossAmt>217</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>217</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000000 - SHS - HOME DEPOT INC</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>406</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>174</CostOrOtherBasisAmt>
+          <GainOrLossAmt>232</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>232</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000000 - SHS - HONEYWELL INTL INC</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>209</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>140</CostOrOtherBasisAmt>
+          <GainOrLossAmt>69</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>69</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>2.000000 - SHS - INTEL CORP</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>98</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>101</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-3</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-3</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000000 - SHS - INTERCONTINENTALEXCHANGE</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>131</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>71</CostOrOtherBasisAmt>
+          <GainOrLossAmt>60</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>60</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>13.000000 - SHS - INVESCO LTD</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>303</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>406</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-103</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-103</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>9.000000 - SHS - INVESCO LTD</PropertyDesc>
+          <AcquiredDt>2020-03-13</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>210</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>87</CostOrOtherBasisAmt>
+          <GainOrLossAmt>123</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>123</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>8.000000 - SHS - ISHARES EUROPE ETF</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>421</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>367</CostOrOtherBasisAmt>
+          <GainOrLossAmt>54</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>54</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>14.000000 - SHS - ISHARES MSCI EUROPE</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>954</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>813</CostOrOtherBasisAmt>
+          <GainOrLossAmt>141</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>141</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>34.102000 - SHS - JANUS HENDERSON SMALL</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>859</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>746</CostOrOtherBasisAmt>
+          <GainOrLossAmt>113</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>113</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000000 - SHS - JOHNSON &amp; JOHNSON COM</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>159</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>127</CostOrOtherBasisAmt>
+          <GainOrLossAmt>32</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>32</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>13.000000 - SHS - JPM DIVERSIFIED RETURN</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>768</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>757</CostOrOtherBasisAmt>
+          <GainOrLossAmt>11</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>11</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>5.000000 - SHS - JPMORGAN DIVERSIFIED</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>513</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>345</CostOrOtherBasisAmt>
+          <GainOrLossAmt>168</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>168</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000000 - SHS - LOCKHEED MARTIN CORP</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>340</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>337</CostOrOtherBasisAmt>
+          <GainOrLossAmt>3</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>3</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>253.097000 - SHS - LOCORR MACRO STRATEGIES</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>2222</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2113</CostOrOtherBasisAmt>
+          <GainOrLossAmt>109</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>109</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000000 - SHS - LOWES COMPANIES INC</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>250</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>85</CostOrOtherBasisAmt>
+          <GainOrLossAmt>165</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>165</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000000 - SHS - MARSH &amp; MCLENNAN COS INC</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>167</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>82</CostOrOtherBasisAmt>
+          <GainOrLossAmt>85</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>85</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000000 - SHS - MCDONALDS CORP</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>250</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>157</CostOrOtherBasisAmt>
+          <GainOrLossAmt>93</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>93</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>3.000000 - SHS - MEDTRONIC PLC</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>333</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>235</CostOrOtherBasisAmt>
+          <GainOrLossAmt>98</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>98</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000000 - SHS - META PLATFORMS INC CL A</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>337</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>163</CostOrOtherBasisAmt>
+          <GainOrLossAmt>174</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>174</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000000 - SHS - MICROSOFT CORP</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>335</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>89</CostOrOtherBasisAmt>
+          <GainOrLossAmt>246</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>246</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>2.000000 - SHS - MONDELEZ INTL INC</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>120</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>83</CostOrOtherBasisAmt>
+          <GainOrLossAmt>37</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>37</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>2.000000 - SHS - NEXTERA ENERGY INC COM</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>174</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>81</CostOrOtherBasisAmt>
+          <GainOrLossAmt>93</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>93</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000000 - SHS - NOVARTIS AG SPON ADR</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>80</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>70</CostOrOtherBasisAmt>
+          <GainOrLossAmt>10</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>10</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000000 - SHS - O REILLY AUTOMOTIVE INC</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>633</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>242</CostOrOtherBasisAmt>
+          <GainOrLossAmt>391</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>391</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000000 - SHS - OTIS WORLDWIDE CORP</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>83</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>65</CostOrOtherBasisAmt>
+          <GainOrLossAmt>18</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>18</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000000 - SHS - PARKER HANNIFIN CORP</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>311</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>172</CostOrOtherBasisAmt>
+          <GainOrLossAmt>139</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>139</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000000 - SHS - PEPSICO INC</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>162</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>108</CostOrOtherBasisAmt>
+          <GainOrLossAmt>54</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>54</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>35.888000 - SHS - PIMCO INCOME FUND</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>426</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>426</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>2.000000 - SHS - RAYTHEON TECHNOLOGIES</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>168</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>136</CostOrOtherBasisAmt>
+          <GainOrLossAmt>32</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>32</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000000 - SHS - ROCKWELL AUTOMATION INC</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>341</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>174</CostOrOtherBasisAmt>
+          <GainOrLossAmt>167</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>167</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>4.000000 - SHS - SCHLUMBERGER LTD</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>120</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>262</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-142</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-142</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>13.000000 - SHS - SCHLUMBERGER LTD</PropertyDesc>
+          <AcquiredDt>2020-03-13</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>391</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>195</CostOrOtherBasisAmt>
+          <GainOrLossAmt>196</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>196</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>5.000000 - SHS - SPDR DOUBLELINE TR TACT</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>238</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>239</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>2.000000 - SHS - STARBUCKS CORP</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>221</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>114</CostOrOtherBasisAmt>
+          <GainOrLossAmt>107</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>107</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>8.000000 - SHS - SUNCOR ENERGY INC NEW</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>203</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>267</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-64</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-64</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>20.034000 - SHS - TETON WESTWOOD MIGHTY</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>559</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>557</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000000 - SHS - TEXAS INSTRUMENTS</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>191</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>103</CostOrOtherBasisAmt>
+          <GainOrLossAmt>88</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>88</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>2.000000 - SHS - TJX COS INC NEW</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>142</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>81</CostOrOtherBasisAmt>
+          <GainOrLossAmt>61</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>61</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000000 - SHS - UNION PACIFIC CORP</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>242</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>134</CostOrOtherBasisAmt>
+          <GainOrLossAmt>108</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>108</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>3.000000 - SHS - VANGUARD MID-CAP ETF</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>757</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>460</CostOrOtherBasisAmt>
+          <GainOrLossAmt>297</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>297</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000000 - SHS - VANGUARD S&amp;P 500 ETF</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>426</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>242</CostOrOtherBasisAmt>
+          <GainOrLossAmt>184</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>184</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>3.000000 - SHS - VANGUARD SMALL-CAP ETF</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>679</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>439</CostOrOtherBasisAmt>
+          <GainOrLossAmt>240</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>240</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>2.000000 - SHS - VF CORP</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>148</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>137</CostOrOtherBasisAmt>
+          <GainOrLossAmt>11</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>11</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000000 - SHS - VISA INC CL A</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>199</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>118</CostOrOtherBasisAmt>
+          <GainOrLossAmt>81</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>81</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000000 - SHS - WALT DISNEY CO (HOLDING</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>148</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>100</CostOrOtherBasisAmt>
+          <GainOrLossAmt>48</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>48</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>39.102000 - SHS - WILLIAM BLAIR EMERGING</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>983</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>718</CostOrOtherBasisAmt>
+          <GainOrLossAmt>265</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>265</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>11.000000 - SHS - WISDOMTREE INTL SMALLCAP</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2021-11-29</SoldDt>
+          <GrossSalesPriceAmt>780</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>832</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-52</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-52</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>39.922000 - SHS - 361 GLOBAL LONG SHORT</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>487</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>459</CostOrOtherBasisAmt>
+          <GainOrLossAmt>28</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>28</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>8.445000 - SHS - 361 GLOBAL LONG SHORT</PropertyDesc>
+          <AcquiredDt>2018-12-07</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>103</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>90</CostOrOtherBasisAmt>
+          <GainOrLossAmt>13</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>13</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.324000 - SHS - 361 GLOBAL LONG SHORT</PropertyDesc>
+          <AcquiredDt>2019-12-09</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>4</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>10.470000 - SHS - 361 GLOBAL LONG SHORT</PropertyDesc>
+          <AcquiredDt>2020-03-13</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>128</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>107</CostOrOtherBasisAmt>
+          <GainOrLossAmt>21</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>21</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>17.130000 - SHS - AB SELECT US LONG/SHORT</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>235</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>216</CostOrOtherBasisAmt>
+          <GainOrLossAmt>19</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>19</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>14.761000 - SHS - AB SELECT US LONG/SHORT</PropertyDesc>
+          <AcquiredDt>2018-12-11</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>203</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>174</CostOrOtherBasisAmt>
+          <GainOrLossAmt>29</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>29</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.106000 - SHS - AB SELECT US LONG/SHORT</PropertyDesc>
+          <AcquiredDt>2019-12-10</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>1</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.542000 - SHS - AB SELECT US LONG/SHORT</PropertyDesc>
+          <AcquiredDt>2019-12-10</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>21</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>20</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.038000 - SHS - AB SELECT US LONG/SHORT</PropertyDesc>
+          <AcquiredDt>2019-12-10</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>14</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>13</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>16.233000 - SHS - AB SELECT US LONG/SHORT</PropertyDesc>
+          <AcquiredDt>2020-03-13</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>223</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>195</CostOrOtherBasisAmt>
+          <GainOrLossAmt>28</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>28</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000000 - SHS - ACCENTURE PLC IRELAND</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>316</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>150</CostOrOtherBasisAmt>
+          <GainOrLossAmt>166</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>166</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>14.316000 - SHS - ALLSPRING SMALL</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>544</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>544</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>7.735000 - SHS - ALLSPRING SPECIAL</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>375</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>281</CostOrOtherBasisAmt>
+          <GainOrLossAmt>94</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>94</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000000 - SHS - AMERICAN TOWER CORP REIT</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>265</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>144</CostOrOtherBasisAmt>
+          <GainOrLossAmt>121</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>121</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000000 - SHS - AMERIPRISE FINANCIAL INC</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>294</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>149</CostOrOtherBasisAmt>
+          <GainOrLossAmt>145</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>145</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000000 - SHS - AMERISOURCEBERGEN CORP</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>161</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>86</CostOrOtherBasisAmt>
+          <GainOrLossAmt>75</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>75</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>43.064000 - SHS - BARON EMERGING MARKETS</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>608</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>608</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.958000 - SHS - BARON EMERGING MARKETS</PropertyDesc>
+          <AcquiredDt>2018-11-29</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>28</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>25</CostOrOtherBasisAmt>
+          <GainOrLossAmt>3</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>3</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.028000 - SHS - BARON EMERGING MARKETS</PropertyDesc>
+          <AcquiredDt>2019-09-27</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.784000 - SHS - BARON EMERGING MARKETS</PropertyDesc>
+          <AcquiredDt>2019-11-26</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>11</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>11</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>34.593000 - SHS - BARON EMERGING MARKETS</PropertyDesc>
+          <AcquiredDt>2020-03-13</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>488</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>418</CostOrOtherBasisAmt>
+          <GainOrLossAmt>70</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>70</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>31.895000 - SHS - BLACKROCK GLOBAL</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>308</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>308</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>9.287000 - SHS - BLACKROCK GLOBAL</PropertyDesc>
+          <AcquiredDt>2018-12-21</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>90</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>89</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>2.482000 - SHS - BLACKROCK GLOBAL</PropertyDesc>
+          <AcquiredDt>2019-12-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>24</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>24</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>21.167000 - SHS - BLACKROCK GLOBAL</PropertyDesc>
+          <AcquiredDt>2020-03-13</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>204</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>203</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>33.062000 - SHS - BNY MELLON GLOBAL FIXED</PropertyDesc>
+          <AcquiredDt>2020-03-13</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>667</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>667</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>2.000000 - SHS - BP PLC SPON ADR</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>60</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>60</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>2.000000 - SHS - BP PLC SPON ADR</PropertyDesc>
+          <AcquiredDt>2020-03-13</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>60</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>43</CostOrOtherBasisAmt>
+          <GainOrLossAmt>17</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>17</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>2.000000 - SHS - BRITISH AMER TOBACCO PLC</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>86</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>86</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000000 - SHS - BRITISH AMER TOBACCO PLC</PropertyDesc>
+          <AcquiredDt>2020-03-13</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>43</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>34</CostOrOtherBasisAmt>
+          <GainOrLossAmt>9</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>9</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>2.000000 - SHS - CARRIER GLOBAL CORP</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>87</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>46</CostOrOtherBasisAmt>
+          <GainOrLossAmt>41</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>41</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>5.000000 - SHS - CARRIER GLOBAL CORP</PropertyDesc>
+          <AcquiredDt>2020-03-13</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>219</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>96</CostOrOtherBasisAmt>
+          <GainOrLossAmt>123</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>123</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000000 - SHS - CHEVRON CORP</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>162</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>115</CostOrOtherBasisAmt>
+          <GainOrLossAmt>47</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>47</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000000 - SHS - CHUBB LTD CHF</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>209</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>136</CostOrOtherBasisAmt>
+          <GainOrLossAmt>73</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>73</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>2.000000 - SHS - COCA COLA CO COM</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>131</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>86</CostOrOtherBasisAmt>
+          <GainOrLossAmt>45</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>45</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>3.000000 - SHS - COLGATE PALMOLIVE CO</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>246</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>207</CostOrOtherBasisAmt>
+          <GainOrLossAmt>39</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>39</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>3.000000 - SHS - COMCAST CORP NEW CL A</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>138</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>100</CostOrOtherBasisAmt>
+          <GainOrLossAmt>38</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>38</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000000 - SHS - CRANE CO **EXCHANGE :</PropertyDesc>
+          <AcquiredDt>2020-03-13</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>107</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>52</CostOrOtherBasisAmt>
+          <GainOrLossAmt>55</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>55</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>2.000000 - SHS - CVS HEALTH CORP</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>206</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>123</CostOrOtherBasisAmt>
+          <GainOrLossAmt>83</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>83</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000000 - SHS - DIAGEO PLC NEW GB SPON</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>202</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>134</CostOrOtherBasisAmt>
+          <GainOrLossAmt>68</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>68</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000000 - SHS - ECOLAB INC</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>177</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>134</CostOrOtherBasisAmt>
+          <GainOrLossAmt>43</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>43</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>6.779000 - SHS - EVENTIDE GILEAD FUND CL</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>348</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>240</CostOrOtherBasisAmt>
+          <GainOrLossAmt>108</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>108</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>33.000000 - SHS - FIRST TRUST DEVELOPED</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>1821</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1821</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>4.000000 - SHS - FIRST TRUST DEVELOPED</PropertyDesc>
+          <AcquiredDt>2020-03-13</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>221</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>162</CostOrOtherBasisAmt>
+          <GainOrLossAmt>59</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>59</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>41.086000 - SHS - GOLDMAN SACHS. LONG</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>343</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>343</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.536000 - SHS - GOLDMAN SACHS. LONG</PropertyDesc>
+          <AcquiredDt>2018-03-29</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>4</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.837000 - SHS - GOLDMAN SACHS. LONG</PropertyDesc>
+          <AcquiredDt>2018-04-30</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>7</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>7</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.969000 - SHS - GOLDMAN SACHS. LONG</PropertyDesc>
+          <AcquiredDt>2018-05-31</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>8</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>8</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.061000 - SHS - GOLDMAN SACHS. LONG</PropertyDesc>
+          <AcquiredDt>2018-06-29</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>9</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>9</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.945000 - SHS - GOLDMAN SACHS. LONG</PropertyDesc>
+          <AcquiredDt>2018-07-31</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>8</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>8</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.738000 - SHS - GOLDMAN SACHS. LONG</PropertyDesc>
+          <AcquiredDt>2018-08-31</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>6</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>6</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.694000 - SHS - GOLDMAN SACHS. LONG</PropertyDesc>
+          <AcquiredDt>2018-09-28</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>6</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>6</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.740000 - SHS - GOLDMAN SACHS. LONG</PropertyDesc>
+          <AcquiredDt>2018-10-31</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>6</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>6</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.853000 - SHS - GOLDMAN SACHS. LONG</PropertyDesc>
+          <AcquiredDt>2018-11-30</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>7</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>7</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>7.887000 - SHS - GOLDMAN SACHS. LONG</PropertyDesc>
+          <AcquiredDt>2018-12-26</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>66</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>66</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.979000 - SHS - GOLDMAN SACHS. LONG</PropertyDesc>
+          <AcquiredDt>2018-12-31</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>8</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>8</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.709000 - SHS - GOLDMAN SACHS. LONG</PropertyDesc>
+          <AcquiredDt>2019-01-31</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>6</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>6</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.631000 - SHS - GOLDMAN SACHS. LONG</PropertyDesc>
+          <AcquiredDt>2019-02-28</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>5</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.455000 - SHS - GOLDMAN SACHS. LONG</PropertyDesc>
+          <AcquiredDt>2019-03-29</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>4</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.429000 - SHS - GOLDMAN SACHS. LONG</PropertyDesc>
+          <AcquiredDt>2019-04-30</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>4</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.518000 - SHS - GOLDMAN SACHS. LONG</PropertyDesc>
+          <AcquiredDt>2019-05-31</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>4</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.566000 - SHS - GOLDMAN SACHS. LONG</PropertyDesc>
+          <AcquiredDt>2019-06-28</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>5</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.588000 - SHS - GOLDMAN SACHS. LONG</PropertyDesc>
+          <AcquiredDt>2019-07-31</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>5</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.404000 - SHS - GOLDMAN SACHS. LONG</PropertyDesc>
+          <AcquiredDt>2019-08-30</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>3</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.261000 - SHS - GOLDMAN SACHS. LONG</PropertyDesc>
+          <AcquiredDt>2019-09-30</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>2</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.227000 - SHS - GOLDMAN SACHS. LONG</PropertyDesc>
+          <AcquiredDt>2019-10-31</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>2</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.201000 - SHS - GOLDMAN SACHS. LONG</PropertyDesc>
+          <AcquiredDt>2019-11-29</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>2</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.903000 - SHS - GOLDMAN SACHS. LONG</PropertyDesc>
+          <AcquiredDt>2019-12-26</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>16</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>16</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.229000 - SHS - GOLDMAN SACHS. LONG</PropertyDesc>
+          <AcquiredDt>2019-12-31</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>2</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.238000 - SHS - GOLDMAN SACHS. LONG</PropertyDesc>
+          <AcquiredDt>2020-01-31</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>2</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.266000 - SHS - GOLDMAN SACHS. LONG</PropertyDesc>
+          <AcquiredDt>2020-02-28</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>2</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>19.239000 - SHS - GOLDMAN SACHS. LONG</PropertyDesc>
+          <AcquiredDt>2020-03-13</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>161</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>156</CostOrOtherBasisAmt>
+          <GainOrLossAmt>5</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>5</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>22.642000 - SHS - GUGGENHEIM MACRO</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>580</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>580</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>51.210000 - SHS - GUGGENHEIM TOTAL RETURN</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>1303</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1303</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.720000 - SHS - GUGGENHEIM TOTAL RETURN</PropertyDesc>
+          <AcquiredDt>2018-03-29</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>18</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>18</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.996000 - SHS - GUGGENHEIM TOTAL RETURN</PropertyDesc>
+          <AcquiredDt>2018-04-30</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>25</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>25</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.978000 - SHS - GUGGENHEIM TOTAL RETURN</PropertyDesc>
+          <AcquiredDt>2018-05-31</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>25</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>25</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.090000 - SHS - GUGGENHEIM TOTAL RETURN</PropertyDesc>
+          <AcquiredDt>2018-06-29</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>28</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>28</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.073000 - SHS - GUGGENHEIM TOTAL RETURN</PropertyDesc>
+          <AcquiredDt>2018-07-31</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>27</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>27</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.886000 - SHS - GUGGENHEIM TOTAL RETURN</PropertyDesc>
+          <AcquiredDt>2018-08-31</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>23</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>23</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.766000 - SHS - GUGGENHEIM TOTAL RETURN</PropertyDesc>
+          <AcquiredDt>2018-09-28</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>19</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>19</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.785000 - SHS - GUGGENHEIM TOTAL RETURN</PropertyDesc>
+          <AcquiredDt>2018-10-31</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>20</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>20</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.475000 - SHS - GUGGENHEIM TOTAL RETURN</PropertyDesc>
+          <AcquiredDt>2018-11-30</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>12</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>12</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>3.000000 - SHS - HALLIBURTON CO</PropertyDesc>
+          <AcquiredDt>2020-03-13</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>114</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>20</CostOrOtherBasisAmt>
+          <GainOrLossAmt>94</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>94</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>35.000000 - SHS - HALLIBURTON CO</PropertyDesc>
+          <AcquiredDt>2020-03-13</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>1391</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>237</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1154</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1154</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000000 - SHS - HOME DEPOT INC</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>304</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>174</CostOrOtherBasisAmt>
+          <GainOrLossAmt>130</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>130</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000000 - SHS - HONEYWELL INTL INC</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>193</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>140</CostOrOtherBasisAmt>
+          <GainOrLossAmt>53</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>53</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>3.000000 - SHS - INTEL CORP</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>141</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>141</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000000 - SHS - INTERCONTINENTALEXCHANGE</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>118</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>71</CostOrOtherBasisAmt>
+          <GainOrLossAmt>47</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>47</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>11.000000 - SHS - INVESCO LTD</PropertyDesc>
+          <AcquiredDt>2020-03-13</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>230</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>106</CostOrOtherBasisAmt>
+          <GainOrLossAmt>124</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>124</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>6.000000 - SHS - ISHARES EUROPE ETF</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>293</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>275</CostOrOtherBasisAmt>
+          <GainOrLossAmt>18</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>18</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>10.000000 - SHS - ISHARES MSCI EUROPE</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>595</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>581</CostOrOtherBasisAmt>
+          <GainOrLossAmt>14</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>14</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>61.581000 - SHS - JANUS HENDERSON SMALL</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>1443</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1347</CostOrOtherBasisAmt>
+          <GainOrLossAmt>96</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>96</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.162000 - SHS - JANUS HENDERSON SMALL</PropertyDesc>
+          <AcquiredDt>2018-12-20</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>27</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>21</CostOrOtherBasisAmt>
+          <GainOrLossAmt>6</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>6</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>24.281000 - SHS - JANUS HENDERSON SMALL</PropertyDesc>
+          <AcquiredDt>2018-12-20</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>569</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>441</CostOrOtherBasisAmt>
+          <GainOrLossAmt>128</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>128</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.349000 - SHS - JANUS HENDERSON SMALL</PropertyDesc>
+          <AcquiredDt>2019-12-19</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>32</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>31</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>41.110000 - SHS - JANUS HENDERSON SMALL</PropertyDesc>
+          <AcquiredDt>2020-03-13</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>964</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>671</CostOrOtherBasisAmt>
+          <GainOrLossAmt>293</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>293</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.788000 - SHS - JANUS HENDERSON SMALL</PropertyDesc>
+          <AcquiredDt>2020-12-21</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>42</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>39</CostOrOtherBasisAmt>
+          <GainOrLossAmt>3</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>3</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000000 - SHS - JOHNSON &amp; JOHNSON COM</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>183</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>127</CostOrOtherBasisAmt>
+          <GainOrLossAmt>56</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>56</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>11.000000 - SHS - JPM DIVERSIFIED RETURN</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>602</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>602</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>4.000000 - SHS - JPMORGAN DIVERSIFIED</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>414</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>276</CostOrOtherBasisAmt>
+          <GainOrLossAmt>138</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>138</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>2.340000 - SHS - LOCORR MACRO STRATEGIES</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>22</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>20</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>12.812000 - SHS - LOCORR MACRO STRATEGIES</PropertyDesc>
+          <AcquiredDt>2018-12-07</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>118</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>102</CostOrOtherBasisAmt>
+          <GainOrLossAmt>16</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>16</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>13.171000 - SHS - LOCORR MACRO STRATEGIES</PropertyDesc>
+          <AcquiredDt>2018-12-07</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>121</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>105</CostOrOtherBasisAmt>
+          <GainOrLossAmt>16</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>16</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>7.069000 - SHS - LOCORR MACRO STRATEGIES</PropertyDesc>
+          <AcquiredDt>2019-12-06</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>65</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>61</CostOrOtherBasisAmt>
+          <GainOrLossAmt>4</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>4</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>4.216000 - SHS - LOCORR MACRO STRATEGIES</PropertyDesc>
+          <AcquiredDt>2019-12-06</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>39</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>37</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>4.898000 - SHS - LOCORR MACRO STRATEGIES</PropertyDesc>
+          <AcquiredDt>2019-12-06</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>45</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>42</CostOrOtherBasisAmt>
+          <GainOrLossAmt>3</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>3</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>86.009000 - SHS - LOCORR MACRO STRATEGIES</PropertyDesc>
+          <AcquiredDt>2020-03-13</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>793</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>727</CostOrOtherBasisAmt>
+          <GainOrLossAmt>66</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>66</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000000 - SHS - LOWES COMPANIES INC</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>200</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>85</CostOrOtherBasisAmt>
+          <GainOrLossAmt>115</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>115</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000000 - SHS - MARSH &amp; MCLENNAN COS INC</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>172</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>82</CostOrOtherBasisAmt>
+          <GainOrLossAmt>90</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>90</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>5.342200 - SHS - MASSMUTUAL</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>49</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>53</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-4</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-4</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.144400 - SHS - MASSMUTUAL</PropertyDesc>
+          <AcquiredDt>2018-03-29</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>1</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.628100 - SHS - MASSMUTUAL</PropertyDesc>
+          <AcquiredDt>2018-04-30</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>6</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>6</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.616100 - SHS - MASSMUTUAL</PropertyDesc>
+          <AcquiredDt>2018-05-31</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>6</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>6</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.650000 - SHS - MASSMUTUAL</PropertyDesc>
+          <AcquiredDt>2018-06-29</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>6</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>6</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.643000 - SHS - MASSMUTUAL</PropertyDesc>
+          <AcquiredDt>2018-07-31</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>6</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>6</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.551400 - SHS - MASSMUTUAL</PropertyDesc>
+          <AcquiredDt>2018-08-31</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>5</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.509700 - SHS - MASSMUTUAL</PropertyDesc>
+          <AcquiredDt>2018-09-28</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>5</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.519600 - SHS - MASSMUTUAL</PropertyDesc>
+          <AcquiredDt>2018-10-31</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>5</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.424000 - SHS - MASSMUTUAL</PropertyDesc>
+          <AcquiredDt>2018-11-30</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>4</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.067700 - SHS - MASSMUTUAL</PropertyDesc>
+          <AcquiredDt>2018-12-12</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>1</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.195100 - SHS - MASSMUTUAL</PropertyDesc>
+          <AcquiredDt>2018-12-12</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>2</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.431000 - SHS - MASSMUTUAL</PropertyDesc>
+          <AcquiredDt>2018-12-31</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>4</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.425000 - SHS - MASSMUTUAL</PropertyDesc>
+          <AcquiredDt>2019-01-31</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>4</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.433000 - SHS - MASSMUTUAL</PropertyDesc>
+          <AcquiredDt>2019-02-28</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>4</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.387200 - SHS - MASSMUTUAL</PropertyDesc>
+          <AcquiredDt>2019-03-29</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>4</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.396200 - SHS - MASSMUTUAL</PropertyDesc>
+          <AcquiredDt>2019-04-30</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>4</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.385200 - SHS - MASSMUTUAL</PropertyDesc>
+          <AcquiredDt>2019-05-31</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>4</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.386200 - SHS - MASSMUTUAL</PropertyDesc>
+          <AcquiredDt>2019-06-28</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>4</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.377300 - SHS - MASSMUTUAL</PropertyDesc>
+          <AcquiredDt>2019-07-31</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>3</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.262700 - SHS - MASSMUTUAL</PropertyDesc>
+          <AcquiredDt>2019-08-30</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>2</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.175200 - SHS - MASSMUTUAL</PropertyDesc>
+          <AcquiredDt>2019-09-30</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>2</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.181200 - SHS - MASSMUTUAL</PropertyDesc>
+          <AcquiredDt>2019-10-31</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>2</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.187100 - SHS - MASSMUTUAL</PropertyDesc>
+          <AcquiredDt>2019-11-29</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>2</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.004000 - SHS - MASSMUTUAL</PropertyDesc>
+          <AcquiredDt>2019-12-12</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.162300 - SHS - MASSMUTUAL</PropertyDesc>
+          <AcquiredDt>2019-12-31</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>1</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.177100 - SHS - MASSMUTUAL</PropertyDesc>
+          <AcquiredDt>2020-01-31</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>2</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.181200 - SHS - MASSMUTUAL</PropertyDesc>
+          <AcquiredDt>2020-02-28</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>2</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>149.999700 - SHS - MASSMUTUAL</PropertyDesc>
+          <AcquiredDt>2020-03-13</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>1380</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1455</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-75</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-75</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.436900 - SHS - MASSMUTUAL</PropertyDesc>
+          <AcquiredDt>2020-03-31</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>4</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.576400 - SHS - MASSMUTUAL</PropertyDesc>
+          <AcquiredDt>2020-04-30</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>5</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.594200 - SHS - MASSMUTUAL</PropertyDesc>
+          <AcquiredDt>2020-05-29</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>5</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>6</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.502700 - SHS - MASSMUTUAL</PropertyDesc>
+          <AcquiredDt>2020-06-30</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>5</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.486700 - SHS - MASSMUTUAL</PropertyDesc>
+          <AcquiredDt>2020-07-31</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>4</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.539500 - SHS - MASSMUTUAL</PropertyDesc>
+          <AcquiredDt>2020-08-31</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>5</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.519600 - SHS - MASSMUTUAL</PropertyDesc>
+          <AcquiredDt>2020-09-30</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>5</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.470800 - SHS - MASSMUTUAL</PropertyDesc>
+          <AcquiredDt>2020-10-30</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>4</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.434000 - SHS - MASSMUTUAL</PropertyDesc>
+          <AcquiredDt>2020-11-30</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>4</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.443000 - SHS - MASSMUTUAL</PropertyDesc>
+          <AcquiredDt>2020-12-31</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>4</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.393100 - SHS - MASSMUTUAL</PropertyDesc>
+          <AcquiredDt>2021-01-29</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>4</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.414100 - SHS - MASSMUTUAL</PropertyDesc>
+          <AcquiredDt>2021-02-26</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>4</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.365300 - SHS - MASSMUTUAL</PropertyDesc>
+          <AcquiredDt>2021-03-31</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>3</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.368300 - SHS - MASSMUTUAL</PropertyDesc>
+          <AcquiredDt>2021-11-30</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>3</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.090600 - SHS - MASSMUTUAL</PropertyDesc>
+          <AcquiredDt>2021-12-10</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>1</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>2.000000 - SHS - MEDTRONIC PLC</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>217</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>156</CostOrOtherBasisAmt>
+          <GainOrLossAmt>61</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>61</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000000 - SHS - META PLATFORMS INC CL A</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>184</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>163</CostOrOtherBasisAmt>
+          <GainOrLossAmt>21</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>21</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>2.000000 - SHS - MONDELEZ INTL INC</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>132</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>83</CostOrOtherBasisAmt>
+          <GainOrLossAmt>49</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>49</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000000 - SHS - NEXTERA ENERGY INC COM</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>75</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>40</CostOrOtherBasisAmt>
+          <GainOrLossAmt>35</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>35</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000000 - SHS - NOVARTIS AG SPON ADR</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>90</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>70</CostOrOtherBasisAmt>
+          <GainOrLossAmt>20</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>20</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.500000 - SHS - OTIS WORLDWIDE CORP</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>116</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>97</CostOrOtherBasisAmt>
+          <GainOrLossAmt>19</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>19</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>2.500000 - SHS - OTIS WORLDWIDE CORP</PropertyDesc>
+          <AcquiredDt>2020-03-13</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>193</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>135</CostOrOtherBasisAmt>
+          <GainOrLossAmt>58</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>58</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000000 - SHS - PEPSICO INC</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>174</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>108</CostOrOtherBasisAmt>
+          <GainOrLossAmt>66</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>66</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>38.356000 - SHS - PIMCO INCOME FUND</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>423</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>423</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.262000 - SHS - PIMCO INCOME FUND</PropertyDesc>
+          <AcquiredDt>2018-03-29</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>14</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>14</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.866000 - SHS - PIMCO INCOME FUND</PropertyDesc>
+          <AcquiredDt>2018-04-30</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>21</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>21</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.880000 - SHS - PIMCO INCOME FUND</PropertyDesc>
+          <AcquiredDt>2018-05-31</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>21</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>21</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.892000 - SHS - PIMCO INCOME FUND</PropertyDesc>
+          <AcquiredDt>2018-06-29</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>21</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>21</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.888000 - SHS - PIMCO INCOME FUND</PropertyDesc>
+          <AcquiredDt>2018-07-31</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>21</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>21</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.694000 - SHS - PIMCO INCOME FUND</PropertyDesc>
+          <AcquiredDt>2018-08-31</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>19</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>19</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.336000 - SHS - PIMCO INCOME FUND</PropertyDesc>
+          <AcquiredDt>2018-09-28</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>15</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>15</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.449000 - SHS - PIMCO INCOME FUND</PropertyDesc>
+          <AcquiredDt>2018-10-31</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>16</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>16</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.220000 - SHS - PIMCO INCOME FUND</PropertyDesc>
+          <AcquiredDt>2018-11-30</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>13</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>13</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.189000 - SHS - PIMCO INCOME FUND</PropertyDesc>
+          <AcquiredDt>2018-12-31</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>13</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>13</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.177000 - SHS - PIMCO INCOME FUND</PropertyDesc>
+          <AcquiredDt>2019-01-31</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>13</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>13</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.175000 - SHS - PIMCO INCOME FUND</PropertyDesc>
+          <AcquiredDt>2019-02-28</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>13</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>13</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.033000 - SHS - PIMCO INCOME FUND</PropertyDesc>
+          <AcquiredDt>2019-03-29</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>11</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>11</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.021000 - SHS - PIMCO INCOME FUND</PropertyDesc>
+          <AcquiredDt>2019-04-30</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>11</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>11</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.018000 - SHS - PIMCO INCOME FUND</PropertyDesc>
+          <AcquiredDt>2019-05-31</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>11</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>11</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.020000 - SHS - PIMCO INCOME FUND</PropertyDesc>
+          <AcquiredDt>2019-06-28</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>11</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>11</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.131000 - SHS - PIMCO INCOME FUND</PropertyDesc>
+          <AcquiredDt>2019-07-31</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>1</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>2.000000 - SHS - RAYTHEON TECHNOLOGIES</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>203</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>136</CostOrOtherBasisAmt>
+          <GainOrLossAmt>67</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>67</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000000 - SHS - ROCKWELL AUTOMATION INC</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>265</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>174</CostOrOtherBasisAmt>
+          <GainOrLossAmt>91</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>91</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>7.000000 - SHS - SCHLUMBERGER LTD</PropertyDesc>
+          <AcquiredDt>2020-03-13</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>297</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>105</CostOrOtherBasisAmt>
+          <GainOrLossAmt>192</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>192</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>8.000000 - SHS - SCHLUMBERGER LTD</PropertyDesc>
+          <AcquiredDt>2020-03-13</AcquiredDt>
+          <SoldDt>2022-04-08</SoldDt>
+          <GrossSalesPriceAmt>340</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>120</CostOrOtherBasisAmt>
+          <GainOrLossAmt>220</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>220</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>9.000000 - SHS - SPDR DOUBLELINE TR TACT</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>392</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>392</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>11.000000 - SHS - SPDR DOUBLELINE TR TACT</PropertyDesc>
+          <AcquiredDt>2020-03-13</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>479</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>479</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>2.000000 - SHS - STARBUCKS CORP</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>156</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>114</CostOrOtherBasisAmt>
+          <GainOrLossAmt>42</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>42</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>4.000000 - SHS - SUNCOR ENERGY INC NEW</PropertyDesc>
+          <AcquiredDt>2020-03-13</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>130</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>63</CostOrOtherBasisAmt>
+          <GainOrLossAmt>67</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>67</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>14.654000 - SHS - TETON WESTWOOD MIGHTY</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>370</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>370</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000000 - SHS - TEXAS INSTRUMENTS</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>175</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>103</CostOrOtherBasisAmt>
+          <GainOrLossAmt>72</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>72</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>2.000000 - SHS - TJX COS INC NEW</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>127</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>81</CostOrOtherBasisAmt>
+          <GainOrLossAmt>46</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>46</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000000 - SHS - UNION PACIFIC CORP</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>238</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>134</CostOrOtherBasisAmt>
+          <GainOrLossAmt>104</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>104</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>2.000000 - SHS - VANGUARD MID-CAP ETF</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>458</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>307</CostOrOtherBasisAmt>
+          <GainOrLossAmt>151</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>151</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000000 - SHS - VANGUARD S&amp;P 500 ETF</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>396</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>242</CostOrOtherBasisAmt>
+          <GainOrLossAmt>154</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>154</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>2.000000 - SHS - VANGUARD SMALL-CAP ETF</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>407</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>292</CostOrOtherBasisAmt>
+          <GainOrLossAmt>115</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>115</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>2.000000 - SHS - VANGUARD SMALL-CAP ETF</PropertyDesc>
+          <AcquiredDt>2020-03-13</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>407</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>234</CostOrOtherBasisAmt>
+          <GainOrLossAmt>173</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>173</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000000 - SHS - VF CORP</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>55</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>55</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000000 - SHS - VF CORP</PropertyDesc>
+          <AcquiredDt>2020-03-13</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>55</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>55</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000000 - SHS - VISA INC CL A</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>211</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>118</CostOrOtherBasisAmt>
+          <GainOrLossAmt>93</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>93</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000000 - SHS - WALT DISNEY CO (HOLDING</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>119</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>100</CostOrOtherBasisAmt>
+          <GainOrLossAmt>19</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>19</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>28.829000 - SHS - WILLIAM BLAIR EMERGING</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>581</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>529</CostOrOtherBasisAmt>
+          <GainOrLossAmt>52</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>52</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>9.000000 - SHS - WISDOMTREE INTL SMALLCAP</PropertyDesc>
+          <AcquiredDt>2018-03-23</AcquiredDt>
+          <SoldDt>2022-04-22</SoldDt>
+          <GrossSalesPriceAmt>596</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>601</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-5</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-5</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CAPITAL GAINS DIVIDENDS</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>2580</GrossSalesPriceAmt>
+          <GainOrLossAmt>2580</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2580</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>15777</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>195</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>195</SubtotalAmt>
+        <SubtitleATaxAmt>0</SubtitleATaxAmt>
+        <TaxBasedOnInvestmentIncomeAmt>195</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>0</EstimatedPlusOvpmtIncmTxAmt>
+        <ExemptFrgnOrgTaxWthldAtSrceAmt>0</ExemptFrgnOrgTaxWthldAtSrceAmt>
+        <ExtsnRequestIncomeTaxPaidAmt>0</ExtsnRequestIncomeTaxPaidAmt>
+        <BackupWithholdingWithheldAmt>0</BackupWithholdingWithheldAmt>
+        <TotalPaymentsAndCreditsAmt>0</TotalPaymentsAndCreditsAmt>
+        <EsPenaltyAmt>0</EsPenaltyAmt>
+        <TaxDueAmt>195</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>0</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>0</MoreThan100SpentInd>
+        <Form1120POLFiledInd>0</Form1120POLFiledInd>
+        <Section4955OrganizationTaxAmt>0</Section4955OrganizationTaxAmt>
+        <Section4955ManagersTaxAmt>0</Section4955ManagersTaxAmt>
+        <TaxReimbursedAmt>0</TaxReimbursedAmt>
+        <ActivitiesNotPreviouslyRptInd>0</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>0</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>0</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>0</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>1</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>1</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>NV</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>1</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>0</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>0</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>0</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>0</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>1</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>SARA M LAFRANCE</IndividualWithBooksNm>
+        <PhoneNum>7758326655</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>6005 LAKE GENEVA ROAD</AddressLine1Txt>
+          <CityNm>RENO</CityNm>
+          <StateAbbreviationCd>NV</StateAbbreviationCd>
+          <ZIPCd>89511</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>1</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>0</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>0</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>0</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>0</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>0</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>0</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>0</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>0</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>0</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>0</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>0</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>0</InfluenceLegislationInd>
+        <InfluenceElectionInd>0</InfluenceElectionInd>
+        <GrantsToIndividualsInd>0</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>1</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>0</NoncharitablePurposeInd>
+        <TransactionsFailToQlfyAsExcInd>0</TransactionsFailToQlfyAsExcInd>
+        <MaintainedExpenditureRspnsInd referenceDocumentId="RetDoc2118100001">1</MaintainedExpenditureRspnsInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>0</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>0</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>0</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>0</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>LEONARD G LAFRANCE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>6005 LAKE GENEVA ROAD</AddressLine1Txt>
+            <CityNm>RENO</CityNm>
+            <StateAbbreviationCd>NV</StateAbbreviationCd>
+            <ZIPCd>89511</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE/VP/TREASURER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>5.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>SARA M LAFRANCE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>6005 LAKE GENEVA ROAD</AddressLine1Txt>
+            <CityNm>RENO</CityNm>
+            <StateAbbreviationCd>NV</StateAbbreviationCd>
+            <ZIPCd>89511</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE/PRESIDENT/SECRET.</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>5.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+        <ContractorPaidOver50kCnt>0</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <TotalAmt>0</TotalAmt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>2696860</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>47440</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>2744300</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>2744300</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt referenceDocumentId="RetDoc12000100063">41165</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>2703135</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>135157</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>135157</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>195</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>195</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>134962</DistributableBeforeAdjAmt>
+        <RecoveriesQualfiedDistriAmt>0</RecoveriesQualfiedDistriAmt>
+        <DistributableBeforeDedAmt>134962</DistributableBeforeDedAmt>
+        <DeductionFromDistributableAmt>0</DeductionFromDistributableAmt>
+        <DistributableAsAdjustedAmt>134962</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>140565</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <QualifyingDistributionsAmt>140565</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>134962</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>0</UndistributedIncomePYAmt>
+        <TotalForPriorYearsAmt>0</TotalForPriorYearsAmt>
+        <ExcessDistributionCyovYr5Amt>150971</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>205804</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>67664</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>73347</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>49199</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>546985</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>140565</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>0</AppliedToYear1Amt>
+        <AppliedToPriorYearsAmt>0</AppliedToPriorYearsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>134962</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>5603</RemainingDistriFromCorpusAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>0</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>0</ExcessDistributionCyovAppCYAmt>
+        <TotalCorpusAmt>552588</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <PriorYearDeficiencyOrTaxAmt>0</PriorYearDeficiencyOrTaxAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <CorpusDistri170b1EOr4942g3Amt>0</CorpusDistri170b1EOr4942g3Amt>
+        <ExcessDistriCyovFromYr5Amt>150971</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>401617</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>205804</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>67664</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>73347</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>49199</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>5603</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>LEONARD G LAFRANCE</ContributingManagerNm>
+        <ContributingManagerNm>SARA M LAFRANCE</ContributingManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>KWAME NKRUMAH UNIVERSITY OF SCIENCE &amp; TECHNOLOGY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>ACCRA ROAD</AddressLine1Txt>
+            <CityNm>KUMASI GHANA</CityNm>
+            <CountryCd>GH</CountryCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>QUAL FOREIGN ORG (RE</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>61630</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>UNIVERSITY FOR DEVELOPMENT STUDIES</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>PO BOX TL 1350</AddressLine1Txt>
+            <CityNm>TAMALE GHANA</CityNm>
+            <CountryCd>GH</CountryCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>QUAL FOREIGN ORG (RE</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO PROMOTE EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>49200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>UNIVERSITY OF GHANA LEGON</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>PO BOX LG 25</AddressLine1Txt>
+            <CityNm>LEGON GHANA</CityNm>
+            <CountryCd>GH</CountryCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>QUAL FOREIGN ORG (RE</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>29735</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>140565</TotalGrantOrContriPdDurYrAmt>
+        <TotalGrantOrContriApprvFutAmt>0</TotalGrantOrContriApprvFutAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>148</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>3834</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>15777</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>19759</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>19759</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>0</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>0</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>0</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>0</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>0</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>0</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>0</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>0</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>0</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>0</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorPersonNm>LEONARD AND SARA LAFRANCE</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>500 FAIRVIEW BOULEVARD</AddressLine1Txt>
+          <CityNm>INCLINE VILLAGE</CityNm>
+          <StateAbbreviationCd>NV</StateAbbreviationCd>
+          <ZIPCd>89451</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>171554</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING AND TAX PREPARATION</CategoryTxt>
+        <Amt>6950</Amt>
+        <NetInvestmentIncomeAmt>3475</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <CashDeemedCharitableExplnStmt documentId="RetDoc12000100063">
+      <ShortExplanationTxt>STATEMENT REGARDING EXERCISE OF EXPENDITURE RESPONSIBILITY, FURNISHED PURSUANT TO REG. 53.4945-5(D)PART XV OF THE ACCOMPANYING FORM 990-PF REFLECT, FOR EACH RELEVANT GRANT, THE NAME AND ADDRESS OF EACH GRANTEE, AND THE AMOUNT OF THE GRANT (AT VARIOUS DATES THROUGHOUT THE YEAR).THE PURPOSE OF EACH GRANT WAS TO SUPPORT EDUCATIONAL ENHANCEMENT, CONSISTENT WITH THE FOUNDATION'S EXEMPT PURPOSE. ALL AMOUNTS WERE EXPENDED BY GRANTEES. TO THE FOUNDATION'S KNOWLEDGE, NONE OF THE GRANTED FUNDS WERE DIVERTED FROM THE PURPOSE OF THE GRANT.REPORTS WERE RECEIVED FROM THE GRANTEES AT VARIOUS DATES THROUGHOUT THE YEAR.</ShortExplanationTxt>
+    </CashDeemedCharitableExplnStmt>
+    <ExpenditureResponsibilityStmt documentId="RetDoc2118100001">
+      <ExpenditureResponsibilityGrp>
+        <BusinessName>
+          <BusinessNameLine1Txt>KWAME NKRUMAH UNIVERSITY OF SCIENCE &amp; TECHNOLOGY</BusinessNameLine1Txt>
+        </BusinessName>
+        <ForeignAddress>
+          <AddressLine1Txt>ACCRA ROAD</AddressLine1Txt>
+          <CityNm>KUMASI</CityNm>
+          <CountryCd>GH</CountryCd>
+        </ForeignAddress>
+        <GrantDt>2021-12-27</GrantDt>
+        <GrantAmt>40600</GrantAmt>
+        <PurposeOfGrantTxt>UNIVERSITY EDUCATION SCHOLARSHIP FUND</PurposeOfGrantTxt>
+        <AnyDiversionByGranteeTxt>NONE KNOWN</AnyDiversionByGranteeTxt>
+      </ExpenditureResponsibilityGrp>
+      <ExpenditureResponsibilityGrp>
+        <BusinessName>
+          <BusinessNameLine1Txt>KWAME NKRUMAH UNIVERSITY OF SCIENCE &amp; TECHNOLOGY</BusinessNameLine1Txt>
+        </BusinessName>
+        <ForeignAddress>
+          <AddressLine1Txt>ACCRA ROAD</AddressLine1Txt>
+          <CityNm>KUMASI</CityNm>
+          <CountryCd>GH</CountryCd>
+        </ForeignAddress>
+        <GrantDt>2022-06-14</GrantDt>
+        <GrantAmt>1420</GrantAmt>
+        <PurposeOfGrantTxt>UNIVERSITY EDUCATION SCHOLARSHIP FUND</PurposeOfGrantTxt>
+        <AnyDiversionByGranteeTxt>NONE KNOWN</AnyDiversionByGranteeTxt>
+      </ExpenditureResponsibilityGrp>
+      <ExpenditureResponsibilityGrp>
+        <BusinessName>
+          <BusinessNameLine1Txt>UNIVERSITY FOR DEVELOPMENT STUDIES</BusinessNameLine1Txt>
+        </BusinessName>
+        <ForeignAddress>
+          <AddressLine1Txt>PO BOX TL 1350</AddressLine1Txt>
+          <CityNm>TAMALE GHANA</CityNm>
+          <CountryCd>GH</CountryCd>
+        </ForeignAddress>
+        <GrantDt>2021-12-01</GrantDt>
+        <GrantAmt>37500</GrantAmt>
+        <PurposeOfGrantTxt>UNIVERSITY EDUCATION SCHOLARSHIP FUND</PurposeOfGrantTxt>
+        <AnyDiversionByGranteeTxt>NONE KNOWN</AnyDiversionByGranteeTxt>
+      </ExpenditureResponsibilityGrp>
+      <ExpenditureResponsibilityGrp>
+        <BusinessName>
+          <BusinessNameLine1Txt>UNIVERSITY FOR DEVELOPMENT STUDIES</BusinessNameLine1Txt>
+        </BusinessName>
+        <ForeignAddress>
+          <AddressLine1Txt>PO BOX TL 1350</AddressLine1Txt>
+          <CityNm>TAMALE GHANA</CityNm>
+          <CountryCd>GH</CountryCd>
+        </ForeignAddress>
+        <GrantDt>2022-06-22</GrantDt>
+        <GrantAmt>11700</GrantAmt>
+        <PurposeOfGrantTxt>UNIVERSITY EDUCATION SCHOLARSHIP FUND</PurposeOfGrantTxt>
+        <AnyDiversionByGranteeTxt>NONE KNOWN</AnyDiversionByGranteeTxt>
+      </ExpenditureResponsibilityGrp>
+      <ExpenditureResponsibilityGrp>
+        <BusinessName>
+          <BusinessNameLine1Txt>UNIVERSITY OF GHANA - LEGON</BusinessNameLine1Txt>
+        </BusinessName>
+        <ForeignAddress>
+          <AddressLine1Txt>PO BOX LG 25</AddressLine1Txt>
+          <CityNm>LEGON GHANA</CityNm>
+          <CountryCd>GH</CountryCd>
+        </ForeignAddress>
+        <GrantDt>2022-01-14</GrantDt>
+        <GrantAmt>21635</GrantAmt>
+        <PurposeOfGrantTxt>UNIVERSITY EDUCATION SCHOLARSHIP FUND</PurposeOfGrantTxt>
+        <AnyDiversionByGranteeTxt>NONE KNOWN</AnyDiversionByGranteeTxt>
+      </ExpenditureResponsibilityGrp>
+      <ExpenditureResponsibilityGrp>
+        <BusinessName>
+          <BusinessNameLine1Txt>UNIVERSITY OF GHANA - LEGON</BusinessNameLine1Txt>
+        </BusinessName>
+        <ForeignAddress>
+          <AddressLine1Txt>PO BOX LG 25</AddressLine1Txt>
+          <CityNm>LEGON GHANA</CityNm>
+          <CountryCd>GH</CountryCd>
+        </ForeignAddress>
+        <GrantDt>2022-04-08</GrantDt>
+        <GrantAmt>8100</GrantAmt>
+        <PurposeOfGrantTxt>UNIVERSITY EDUCATION SCHOLARSHIP FUND</PurposeOfGrantTxt>
+        <AnyDiversionByGranteeTxt>NONE KNOWN</AnyDiversionByGranteeTxt>
+      </ExpenditureResponsibilityGrp>
+      <ExpenditureResponsibilityGrp>
+        <BusinessName>
+          <BusinessNameLine1Txt>KWAME NKRUMAH UNIVERSITY OF SCIENCE &amp; TECHNOLOGY</BusinessNameLine1Txt>
+        </BusinessName>
+        <ForeignAddress>
+          <AddressLine1Txt>ACCRA ROAD</AddressLine1Txt>
+          <CityNm>KUMASI</CityNm>
+          <CountryCd>GH</CountryCd>
+        </ForeignAddress>
+        <GrantDt>2022-04-25</GrantDt>
+        <GrantAmt>19610</GrantAmt>
+        <PurposeOfGrantTxt>UNIVERSITY EDUCATION SCHOLARSHIP FUND</PurposeOfGrantTxt>
+        <AnyDiversionByGranteeTxt>NONE KNOWN</AnyDiversionByGranteeTxt>
+      </ExpenditureResponsibilityGrp>
+    </ExpenditureResponsibilityStmt>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>JOPARI STOCK</StockNm>
+        <EOYBookValueAmt>1600000</EOYBookValueAmt>
+        <EOYFMVAmt>2520000</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="RetDoc2018100001">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>PUBLICLY TRADED SECURITIES</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>173301</BookValueAmt>
+        <EOYFMVAmt>177884</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpensesScheduleGrp>
+        <Desc>BROKER FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>2265</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>2265</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>STATE FILING FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>592</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OFFICE &amp; ADMINISTRATIVE EXPENSE</Desc>
+        <RevenueAndExpensesPerBooksAmt>1151</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>CURRENCY TRANSLATION</Desc>
+        <RevenueAndExpensesPerBooksAmt>2393</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>TELEPHONE &amp; INTERNET</Desc>
+        <RevenueAndExpensesPerBooksAmt>647</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>UTLITIES</Desc>
+        <RevenueAndExpensesPerBooksAmt>300</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>REPAIRS</Desc>
+        <RevenueAndExpensesPerBooksAmt>152</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>BANK FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>8</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN EMPLOYMENT TAXES</CategoryTxt>
+        <Amt>409</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAXES</CategoryTxt>
+        <Amt>15</Amt>
+        <NetInvestmentIncomeAmt>15</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

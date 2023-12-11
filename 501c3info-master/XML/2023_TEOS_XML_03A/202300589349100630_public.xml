@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2022v4.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-02-27T17:18:32-05:00</ReturnTs>
+    <TaxPeriodEndDt>2022-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>731331618</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>LUTON &amp; CO PLLC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>2615 KELLEY POINTE PKWY</AddressLine1Txt>
+        <CityNm>EDMOND</CityNm>
+        <StateAbbreviationCd>OK</StateAbbreviationCd>
+        <ZIPCd>73013</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>736257539</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>PETER KONG-MING AND MARY L NEW</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>STUDENT AWARD TRUST</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>PETE</BusinessNameControlTxt>
+      <PhoneNum>4058435113</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>PO BOX 2436</AddressLine1Txt>
+        <CityNm>OKLAHOMA CITY</CityNm>
+        <StateAbbreviationCd>OK</StateAbbreviationCd>
+        <ZIPCd>73101</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>NEIL HANN</PersonNm>
+      <PersonTitleTxt>EXEC DIRECTOR</PersonTitleTxt>
+      <PhoneNum>4058435113</PhoneNum>
+      <SignatureDt>2023-02-28</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>NEIL</PersonFirstNm>
+        <PersonLastNm>HANN</PersonLastNm>
+      </PersonFullName>
+      <SSN>XXX-XX-XXXX</SSN>
+    </SigningOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>DAVID R BRADY</PreparerPersonNm>
+      <PTIN>P01228402</PTIN>
+      <PhoneNum>4058487313</PhoneNum>
+      <PreparationDt>2023-02-27</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="7">
+    <IRS990PF documentId="RetDoc9" referenceDocumentId="RetDoc7">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>208385</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>3</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>3</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>6129</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>6129</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt referenceDocumentId="RetDoc2">97</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>97</GrossSalesPriceAmt>
+        <TotalRevAndExpnssAmt>6229</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>6132</TotalNetInvstIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc1">2000</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesChrtblPrpsAmt>2000</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc5">8610</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>2261</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesDsbrsChrtblAmt>6349</OtherProfFeesDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc6">51</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>51</TaxesNetInvstIncmAmt>
+        <TravConfMeetingRevAndExpnssAmt>2801</TravConfMeetingRevAndExpnssAmt>
+        <TravConfMeetingDsbrsChrtblAmt>2801</TravConfMeetingDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc4">719</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesDsbrsChrtblAmt>719</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>14181</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>2312</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>11869</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>5250</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>5250</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>19431</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>2312</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>17119</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-13202</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>3820</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>17825</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>17851</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>17851</SavAndTempCashInvstEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>175810</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="RetDoc3">162582</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>190534</OtherInvestmentsEOYFMVAmt>
+        <TotalAssetsBOYAmt>193635</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>180433</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>208385</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsFASB117Ind>X</OrganizationFollowsFASB117Ind>
+        <NoDonorRstrNetAssestsBOYAmt>193635</NoDonorRstrNetAssestsBOYAmt>
+        <NoDonorRstrNetAssestsEOYAmt>180433</NoDonorRstrNetAssestsEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>193635</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>180433</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>193635</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>180433</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>193635</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-13202</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>180433</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>180433</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>53</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>53</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>53</TaxBasedOnInvestmentIncomeAmt>
+        <TaxDueAmt>53</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>OK</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>PROFESSIONAL MGMT ASOC</IndividualWithBooksNm>
+        <PhoneNum>4058435113</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>PO BOX 2436</AddressLine1Txt>
+          <CityNm>OKLAHOMA CITY</CityNm>
+          <StateAbbreviationCd>OK</StateAbbreviationCd>
+          <ZIPCd>73101</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>NEIL HANN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 2436</AddressLine1Txt>
+            <CityNm>OKLAHOMA CITY</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>73101</ZIPCd>
+          </USAddress>
+          <TitleTxt>EXEC DIRECTO</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MICHAEL PAOLISSO</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 2436</AddressLine1Txt>
+            <CityNm>OKLAHOMA CITY</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>73101</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>SUNIL KHANNA</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 2436</AddressLine1Txt>
+            <CityNm>OKLAHOMA CITY</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>73101</ZIPCd>
+          </USAddress>
+          <TitleTxt>TREASURER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ROSE MAY</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 2436</AddressLine1Txt>
+            <CityNm>OKLAHOMA CITY</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>73101</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>PETER HESSLER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 2436</AddressLine1Txt>
+            <CityNm>OKLAHOMA CITY</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>73101</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>STUDENT AWARD PROGRAM AND BANQUET - CURRENT RECIPIENTS: JORDAN THOMAS - AWARD - 3,000 ZIHAO LIN - AWARD - 750 DALTON PRICE - AWARD - 1,500</Description1Txt>
+        <Expenses1Amt>5250</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>214674</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>6572</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>221246</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>221246</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>3319</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>217927</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>10896</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>10896</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>53</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>53</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>10843</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>10843</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>10843</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>17119</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>17119</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>10843</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr2Amt>6855</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>1842</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>8697</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>17119</QualifyingDistributionsAmt>
+        <AppliedToCurrentYearAmt>10843</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>6276</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>14973</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>14973</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear2Amt>6855</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>1842</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>6276</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>SOCIETY FOR APPLIED ANTHROPOLOGY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 2436</AddressLine1Txt>
+            <CityNm>OKLAHOMA CITY</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>73101</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>4058435113</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>PAPER, DOUBLE SPACED, LESS THAN 45 PAGES, BASED ON RESEARCH NOT PREVIOUSLY PUBLISHED - SINGLE AUTHOR</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>DECEMBER 31</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>APPLICANT MUST HAVE BEEN A STUDENT AT THE GRADUATE OR UNDERGRADUATE LEVEL IN A COLLEGE OR UNIVERSITY DURING THE CALENDAR YEAR 2022.</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>JORDAN THOMAS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>733 ELKUS WALK APT 204</AddressLine1Txt>
+            <CityNm>GOLETA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>93117</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>INDIVIDUAL</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>STUDENT AWARD</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ZIHAO LIN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5035 S EAST END AVE 1601S</AddressLine1Txt>
+            <CityNm>CHICAGO</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60615</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>INDIVIDUAL</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>STUDENT AWARD</GrantOrContributionPurposeTxt>
+          <Amt>750</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>DALTON PRICE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 2436</AddressLine1Txt>
+            <AddressLine2Txt>SEE SUPP STMT</AddressLine2Txt>
+            <CityNm>OKLAHOMA CITY</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>73101</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>INDIVIDUAL</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>STUDENT AWARD</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>5250</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>3</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>6129</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>97</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>6229</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>6229</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc1">
+      <AccountingFeesDetail>
+        <CategoryTxt>LEGAL AND ACCOUNTING</CategoryTxt>
+        <Amt>2000</Amt>
+        <DisbursementsCharitablePrpsAmt>2000</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc2">
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>I SHARE IBONDS</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>97</GrossSalesPriceAmt>
+        <TotalNetAmt>97</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsOtherSchedule2 documentId="RetDoc3">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>DODGE &amp; COX INT'L FUND</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>16630</BookValueAmt>
+        <EOYFMVAmt>17317</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>DODGE &amp; COX INCOME FUND</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>12476</BookValueAmt>
+        <EOYFMVAmt>11248</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>CHARLES SCHWAB US MC</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>7974</BookValueAmt>
+        <EOYFMVAmt>9448</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>ISHARES IBONDS DEC 2022</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>SCHWAB S&amp;P 500 INDEX</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>17000</BookValueAmt>
+        <EOYFMVAmt>23171</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>SCHWAB US DIVIDEND</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>7748</BookValueAmt>
+        <EOYFMVAmt>11255</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>SCHWAB US LARGE CAP</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>9723</BookValueAmt>
+        <EOYFMVAmt>13779</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>SCHWAB US SMALL CAP ETF</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>4442</BookValueAmt>
+        <EOYFMVAmt>5104</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>METROPOLITAN WEST TOTAL</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>12596</BookValueAmt>
+        <EOYFMVAmt>10773</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>UGI CORP</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>5836</BookValueAmt>
+        <EOYFMVAmt>4411</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>UNDISCOVERED MGRS</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>4500</BookValueAmt>
+        <EOYFMVAmt>5497</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>DUKE ENERGY CORP</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>7081</BookValueAmt>
+        <EOYFMVAmt>10402</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>WELLTOWER INC</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>22883</BookValueAmt>
+        <EOYFMVAmt>22680</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>AMERICAN ELECTRIC PWR CO</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>7359</BookValueAmt>
+        <EOYFMVAmt>9495</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>VANGUARD HIGH DIV YIELD</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>14432</BookValueAmt>
+        <EOYFMVAmt>22219</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>VERSUS CAP MULTI MNGR</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>3902</BookValueAmt>
+        <EOYFMVAmt>4147</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>VICTORY SYCAMORE</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>8000</BookValueAmt>
+        <EOYFMVAmt>9588</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <OtherExpensesSchedule documentId="RetDoc4">
+      <OtherExpensesScheduleGrp>
+        <Desc>EXPENSES</Desc>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>POSTAGE</Desc>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>MISCELLANEOUS</Desc>
+        <RevenueAndExpensesPerBooksAmt>8</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>8</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>TROPHY AND AWARD COSTS</Desc>
+        <RevenueAndExpensesPerBooksAmt>223</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>223</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>ADVERTSING</Desc>
+        <RevenueAndExpensesPerBooksAmt>488</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>488</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc5">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>INVESTMENT ADVISORY FEES</CategoryTxt>
+        <Amt>2261</Amt>
+        <NetInvestmentIncomeAmt>2261</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>MANAGEMENT FEES</CategoryTxt>
+        <Amt>6349</Amt>
+        <DisbursementsCharitablePrpsAmt>6349</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc6">
+      <TaxesDetail>
+        <CategoryTxt>TAXES</CategoryTxt>
+        <Amt>51</Amt>
+        <NetInvestmentIncomeAmt>51</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2022v5.0" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-03-23T10:27:18-07:00</ReturnTs>
+    <TaxPeriodEndDt>2022-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>263873207</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Lamson &amp; Associates PLLC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>5531 143rd St SW</AddressLine1Txt>
+        <CityNm>Edmonds</CityNm>
+        <StateAbbreviationCd>WA</StateAbbreviationCd>
+        <ZIPCd>98026</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>830332925</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>CHRISTOPHER D WHEELER FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>CHRI</BusinessNameControlTxt>
+      <PhoneNum>7023452150</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>1200 ALKI AVE SW 2</AddressLine1Txt>
+        <CityNm>SEATTLE</CityNm>
+        <StateAbbreviationCd>WA</StateAbbreviationCd>
+        <ZIPCd>98116</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>MICKEY ZANONI</PersonNm>
+      <PersonTitleTxt>SECRETARY/TREASURER</PersonTitleTxt>
+      <SignatureDt>2023-03-23</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>MICKEY</PersonFirstNm>
+        <PersonLastNm>ZANONI</PersonLastNm>
+      </PersonFullName>
+      <SSN>999009999</SSN>
+    </SigningOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Kim M Lamson</PreparerPersonNm>
+      <PTIN>P00189435</PTIN>
+      <PhoneNum>4257424903</PhoneNum>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp>
+        <TrustedCustomerCd>2</TrustedCustomerCd>
+        <AuthenticationAssuranceLevelCd>AAL1</AuthenticationAssuranceLevelCd>
+        <IdentityAssuranceLevelCd>IAL1</IdentityAssuranceLevelCd>
+        <FederatedAssuranceLevelCd>FAL1</FederatedAssuranceLevelCd>
+      </TrustedCustomerGrp>
+    </AdditionalFilerInformation>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="3">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>90051</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>46</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>46</InterestOnSavNetInvstIncmAmt>
+        <InterestOnSavingsAdjNetIncmAmt>46</InterestOnSavingsAdjNetIncmAmt>
+        <DividendsRevAndExpnssAmt>192</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>192</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>192</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>3647</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>5224</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>3647</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>3885</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>3885</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>238</TotalAdjNetIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>600</CompOfcrDirTrstRevAndExpnssAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSchedule">475</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>238</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesAdjNetIncmAmt>237</AccountingFeesAdjNetIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">200</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>200</TaxesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>1275</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>438</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>237</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>6010</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>6010</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>7285</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>438</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>237</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>6010</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-3400</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>3447</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>1</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>4864</CashBOYAmt>
+        <CashEOYAmt>3042</CashEOYAmt>
+        <CashEOYFMVAmt>2638</CashEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>59744</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt>58166</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>87413</OtherInvestmentsEOYFMVAmt>
+        <TotalAssetsBOYAmt>64608</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>61208</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>90051</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <RetainedEarningBOYAmt>64608</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>61208</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>64608</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>61208</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>64608</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>61208</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>64608</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-3400</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>61208</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>61208</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>107.817 FIDELITY SELECT TECHNOLOGY</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2006-10-12</AcquiredDt>
+          <SoldDt>2022-11-29</SoldDt>
+          <GrossSalesPriceAmt>2000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1577</CostOrOtherBasisAmt>
+          <GainOrLossAmt>423</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>423</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CAPITAL GAIN DISTRIBUTIONS</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>3224</GrossSalesPriceAmt>
+          <GainOrLossAmt>3224</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>3224</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>3647</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>48</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>48</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>48</TaxBasedOnInvestmentIncomeAmt>
+        <TaxDueAmt>48</TaxDueAmt>
+        <AppliedToESTaxAmt>0</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>WY</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>MICKEY G ZANONI CPA</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>7023452150</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>1380 OAKMONT CT</AddressLine1Txt>
+          <CityNm>MEQUITE</CityNm>
+          <StateAbbreviationCd>NV</StateAbbreviationCd>
+          <ZIPCd>89027</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>CHRISTOPHER D WHEELER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1200 ALKI AVE UNIT 2</AddressLine1Txt>
+            <CityNm>SEATTLE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98116</ZIPCd>
+          </USAddress>
+          <TitleTxt>President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MICKEY ZANONI</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1200 ALKI AVE SW UNIT 2</AddressLine1Txt>
+            <CityNm>SEATTLE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98116</ZIPCd>
+          </USAddress>
+          <TitleTxt>SEC/TREASURER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <ExpenseAccountOtherAllwncAmt>600</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>QUANTUM NORTHWEST</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1200 ALKI AVE SW UNIT 2</AddressLine1Txt>
+            <CityNm>SEATTLE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98116</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>98444</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>5021</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>103465</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>103465</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>1552</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>101913</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>5096</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>5096</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>48</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>48</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>5048</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>5048</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>5048</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>6010</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>6010</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>5048</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>6010</UndistributedIncomePYAmt>
+        <QualifyingDistributionsAmt>6010</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>6010</AppliedToYear1Amt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <UndistributedIncomeCYAmt>5048</UndistributedIncomeCYAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HOPESOURCE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>700 E MOUNTAIN VIEW AVE SUITE 501</AddressLine1Txt>
+            <CityNm>ELLENSBURG</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98926</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EOF</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UPPER COUNTY FOOD BANK</GrantOrContributionPurposeTxt>
+          <Amt>3005</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>FISH COMMUNITY FOOD BANK</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>804 ELMVIEW RD</AddressLine1Txt>
+            <CityNm>ELLENSBURG</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98926</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EOF</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>FOOD BANK</GrantOrContributionPurposeTxt>
+          <Amt>3005</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>6010</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <RelatedOrExemptFunctionIncmAmt>46</RelatedOrExemptFunctionIncmAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <RelatedOrExemptFunctionIncmAmt>192</RelatedOrExemptFunctionIncmAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>3647</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <RelatedOrExemptFunctionIncmAmt>3885</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>3885</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <AccountingFeesDetail>
+        <CategoryTxt>TAX PREPARATION</CategoryTxt>
+        <Amt>475</Amt>
+        <NetInvestmentIncomeAmt>238</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>237</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <TaxesDetail>
+        <CategoryTxt>EXCISE TAXES</CategoryTxt>
+        <Amt>200</Amt>
+        <NetInvestmentIncomeAmt>200</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>
