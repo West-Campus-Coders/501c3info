@@ -1,0 +1,766 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2021v4.0">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-03-08T15:16:45-05:00</ReturnTs>
+    <TaxPeriodEndDt>2022-04-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>752489868</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>ROBINSON BURDETTE MARTIN &amp; SERIGHT LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>9816 SLIDE RD STE 301</AddressLine1Txt>
+        <CityNm>LUBBOCK</CityNm>
+        <StateAbbreviationCd>TX</StateAbbreviationCd>
+        <ZIPCd>794247672</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2021-05-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>750993500</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>IDA MAE OLDHAM TRUST CO ALAN HENRY</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>AND JOREEN CHRISTIAN CO-TRUSTEES</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>IDAM</BusinessNameControlTxt>
+      <PhoneNum>8067637077</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>4411 98TH ST 306</AddressLine1Txt>
+        <CityNm>LUBBOCK</CityNm>
+        <StateAbbreviationCd>TX</StateAbbreviationCd>
+        <ZIPCd>79424</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>ALAN HENRY</PersonNm>
+      <PersonTitleTxt>CO-TRUSTEE</PersonTitleTxt>
+      <SignatureDt>2023-03-08</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>ALAN</PersonFirstNm>
+        <PersonLastNm>HENRY</PersonLastNm>
+      </PersonFullName>
+      <SSN>XXX-XX-XXXX</SSN>
+    </SigningOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>RICK MARTIN</PreparerPersonNm>
+      <PTIN>P00911352</PTIN>
+      <PhoneNum>8067443333</PhoneNum>
+      <PreparationDt>2023-03-08</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2021</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="16">
+    <IRS990PF documentId="RetDoc18">
+      <Organization4947a1TrtdPFInd>X</Organization4947a1TrtdPFInd>
+      <FMVAssetsEOYAmt>55190494</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>173492</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>173492</InterestOnSavNetInvstIncmAmt>
+        <InterestOnSavingsAdjNetIncmAmt>173492</InterestOnSavingsAdjNetIncmAmt>
+        <DividendsRevAndExpnssAmt>46063</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>46063</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>46063</DividendsAdjNetIncmAmt>
+        <GrossRentsRevAndExpnssAmt>508189</GrossRentsRevAndExpnssAmt>
+        <GrossRentsNetInvstIncmAmt>508189</GrossRentsNetInvstIncmAmt>
+        <GrossRentsAdjNetIncmAmt>508189</GrossRentsAdjNetIncmAmt>
+        <NetRentalIncomeOrLossAmt>478596</NetRentalIncomeOrLossAmt>
+        <NetGainSaleAstRevAndExpnssAmt referenceDocumentId="RetDoc5">407214</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>971544</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>340398</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="RetDoc15">11460066</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>11053157</OtherIncomeNetInvstIncmAmt>
+        <OtherIncomeAdjNetIncmAmt>11460066</OtherIncomeAdjNetIncmAmt>
+        <TotalRevAndExpnssAmt>12595024</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>12121299</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>12187810</TotalAdjNetIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>432578</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>108144</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstAdjNetIncmAmt>108144</CompOfcrDirTrstAdjNetIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>216290</CompOfcrDirTrstDsbrsChrtblAmt>
+        <OthEmplSlrsWgsRevAndExpnssAmt>748574</OthEmplSlrsWgsRevAndExpnssAmt>
+        <OthEmplSlrsWgsDsbrsChrtblAmt>748574</OthEmplSlrsWgsDsbrsChrtblAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="RetDoc10">6703</LegalFeesRevAndExpnssAmt>
+        <LegalFeesNetInvstIncmAmt>3352</LegalFeesNetInvstIncmAmt>
+        <LegalFeesDsbrsChrtblAmt>3351</LegalFeesDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc3">9875</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>4938</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>4937</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc16">3509</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesDsbrsChrtblAmt>3509</OtherProfFeesDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc17">710499</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>658633</TaxesNetInvstIncmAmt>
+        <TaxesAdjNetIncmAmt>658633</TaxesAdjNetIncmAmt>
+        <TaxesDsbrsChrtblAmt>51866</TaxesDsbrsChrtblAmt>
+        <DeprecAndDpltnRevAndExpnssAmt referenceDocumentId="RetDoc4">113787</DeprecAndDpltnRevAndExpnssAmt>
+        <DeprecAndDpltnNetInvstIncmAmt>4459</DeprecAndDpltnNetInvstIncmAmt>
+        <DeprecAndDpltnAdjNetIncmAmt>109328</DeprecAndDpltnAdjNetIncmAmt>
+        <OccupancyRevAndExpnssAmt>92218</OccupancyRevAndExpnssAmt>
+        <OccupancyNetInvstIncmAmt>92218</OccupancyNetInvstIncmAmt>
+        <OccupancyAdjNetIncmAmt>92218</OccupancyAdjNetIncmAmt>
+        <TravConfMeetingRevAndExpnssAmt>1092</TravConfMeetingRevAndExpnssAmt>
+        <TravConfMeetingNetInvstIncmAmt>44</TravConfMeetingNetInvstIncmAmt>
+        <TravConfMeetingAdjNetIncmAmt>23</TravConfMeetingAdjNetIncmAmt>
+        <TravConfMeetingDsbrsChrtblAmt>1048</TravConfMeetingDsbrsChrtblAmt>
+        <PrintingAndPubRevAndExpnssAmt>12586</PrintingAndPubRevAndExpnssAmt>
+        <PrintingAndPubNetInvstIncmAmt>503</PrintingAndPubNetInvstIncmAmt>
+        <PrintingAndPubAdjNetIncmAmt>252</PrintingAndPubAdjNetIncmAmt>
+        <PrintingAndPubDsbrsChrtblAmt>12083</PrintingAndPubDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc13">700091</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>21147</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesAdjNetIncmAmt>21147</OtherExpensesAdjNetIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>678944</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>2831512</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>893438</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>989745</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>1720602</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>0</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>0</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>2831512</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>893438</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>989745</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>1720602</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>9763512</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>11227861</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>11198065</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>54306</CashBOYAmt>
+        <CashEOYAmt>106998</CashEOYAmt>
+        <CashEOYFMVAmt>106995</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>21575074</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>30409702</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>30409702</SavAndTempCashInvstEOYFMVAmt>
+        <PrepaidExpensesBOYAmt>100000</PrepaidExpensesBOYAmt>
+        <PrepaidExpensesEOYAmt>120000</PrepaidExpensesEOYAmt>
+        <PrepaidExpensesEOYFMVAmt>120000</PrepaidExpensesEOYFMVAmt>
+        <USGovernmentObligationsBOYAmt>1321451</USGovernmentObligationsBOYAmt>
+        <USGovernmentObligationsEOYAmt>2369765</USGovernmentObligationsEOYAmt>
+        <USGovtObligationsEOYFMVAmt>2212738</USGovtObligationsEOYFMVAmt>
+        <CorporateStockBOYAmt>3775733</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc7">3945068</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>4001024</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>785040</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="RetDoc6">428554</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>429711</CorporateBondsEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>2856001</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="RetDoc8">2613212</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>2588082</OtherInvestmentsEOYFMVAmt>
+        <LandBldgEquipCostOrOtherBssAmt>7416006</LandBldgEquipCostOrOtherBssAmt>
+        <LandBldgEquipAccumDeprecAmt>6049234</LandBldgEquipAccumDeprecAmt>
+        <LandBOYAmt>1137421</LandBOYAmt>
+        <LandEOYAmt referenceDocumentId="RetDoc9">1366772</LandEOYAmt>
+        <LandEOYFMVAmt>3791148</LandEOYFMVAmt>
+        <OtherAssetsEOYFMVAmt referenceDocumentId="RetDoc11">11531094</OtherAssetsEOYFMVAmt>
+        <TotalAssetsBOYAmt>31605026</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>41360071</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>55190494</TotalAssetsEOYFMVAmt>
+        <AccountsPayableBOYAmt>144</AccountsPayableBOYAmt>
+        <AccountsPayableEOYAmt>-71</AccountsPayableEOYAmt>
+        <TotalLiabilitiesBOYAmt>144</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>-71</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <CapitalStockBOYAmt>1012865</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>1012865</CapitalStockEOYAmt>
+        <RetainedEarningBOYAmt>30592017</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>40347277</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>31604882</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>41360142</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>31605026</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>41360071</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>31604882</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>9763512</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="RetDoc14">96487</OtherIncreasesAmt>
+        <SubtotalAmt>41464881</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="RetDoc12">104739</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>41360142</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapitalGainNetIncomeAmt>340398</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>156067</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>156067</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>156067</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>120000</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>120000</TotalPaymentsAndCreditsAmt>
+        <TaxDueAmt>36067</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>true</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>ALAN HENRY</IndividualWithBooksNm>
+        <PhoneNum>8067637077</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>4411 98TH ST STE 306</AddressLine1Txt>
+          <CityNm>LUBBOCK</CityNm>
+          <StateAbbreviationCd>TX</StateAbbreviationCd>
+          <ZIPCd>79424</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ALAN HENRY</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>4411 98TH ST STE 306</AddressLine1Txt>
+            <CityNm>LUBBOCK</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>79424</ZIPCd>
+          </USAddress>
+          <TitleTxt>CO-TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>25.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>216289</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JOREEN CHRISTIAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>4411 98TH ST STE 306</AddressLine1Txt>
+            <CityNm>LUBBOCK</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>79424</ZIPCd>
+          </USAddress>
+          <TitleTxt>CO-TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>25.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>216289</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>IDA MAE OLDHAM TRUST WAS ESTABLISHED IN 1963 TO SUPPORT THE SHERICK MEMORIAL HOME. THE HOME PROVIDES PHYSICAL SHELTER, SAFETY, SECURITY, AND SOCIAL DEVELPMENT FOR ELDERLY LADIES.</Description1Txt>
+        <Expenses1Amt>1720602</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>9572878</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>26072864</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>6631081</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>42276823</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>42276823</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>634152</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>41642671</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>2082134</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <Sect4942j3j5FndtnAndFrgnOrgInd>X</Sect4942j3j5FndtnAndFrgnOrgInd>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>1720602</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>1720602</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <QualifyingDistributionsAmt>1720602</QualifyingDistributionsAmt>
+        <RemainingDistriFromCorpusAmt>1720602</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>1720602</TotalCorpusAmt>
+      </UndistributedIncomeGrp>
+      <PrivateOperatingFoundationsGrp>
+        <Section4942j5Ind>X</Section4942j5Ind>
+        <LessorAdjNetIncmMinInvstRetGrp>
+          <CurrentYearAmt>0</CurrentYearAmt>
+          <TotalAmt>0</TotalAmt>
+        </LessorAdjNetIncmMinInvstRetGrp>
+        <QualifyingDistributionsGrp>
+          <CurrentYearAmt>1720602</CurrentYearAmt>
+          <Year1Amt>1338779</Year1Amt>
+          <Year2Amt>1305711</Year2Amt>
+          <Year3Amt>1030344</Year3Amt>
+          <TotalAmt>5395436</TotalAmt>
+        </QualifyingDistributionsGrp>
+        <QualifyingDistriMadeDrtGrp>
+          <CurrentYearAmt>1720602</CurrentYearAmt>
+          <Year1Amt>1338779</Year1Amt>
+          <Year2Amt>1305711</Year2Amt>
+          <Year3Amt>1030344</Year3Amt>
+          <TotalAmt>5395436</TotalAmt>
+        </QualifyingDistriMadeDrtGrp>
+        <TwoThirdsMinimumInvstRetGrp>
+          <CurrentYearAmt>1388089</CurrentYearAmt>
+          <Year1Amt>1068026</Year1Amt>
+          <Year2Amt>864182</Year2Amt>
+          <Year3Amt>462439</Year3Amt>
+          <TotalAmt>3782736</TotalAmt>
+        </TwoThirdsMinimumInvstRetGrp>
+      </PrivateOperatingFoundationsGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>NONE</ContributingManagerNm>
+        <ShareholderManagerNm>NONE</ShareholderManagerNm>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>IDA MAE OLDHAM TRUST</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4411 98TH ST STE 306</AddressLine1Txt>
+            <CityNm>LUBBOCK</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>79424</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>8067637077</RecipientPhoneNum>
+          <RecipientEmailAddressTxt>OLDHAMTR@NTS-ONLINE.NET</RecipientEmailAddressTxt>
+          <FormAndInfoAndMaterialsTxt>APPLICATIONS SHOULD BE SUBMITTED IN WRITING DESCRIBING IN DETAIL THE APPLICANT'S ORGANIZATION, MISSION, AND EXPLANATION OF NEEDS.</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>NO SUBMISSION DEADLINES; SUBMIT ANYTIME DURING THE YEAR.</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>APPLICANT MUST BE IRS APPROVED 501(C)(3) ORGANIZATION. PREFER CHARITABLE ORGANIZATIONS IN FIELD OF HEALTH.</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>173492</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>46063</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <NetRntlIncmReNotDebtFincdProp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>478596</ExclusionAmt>
+        </NetRntlIncmReNotDebtFincdProp>
+        <OtherInvestmentIncomeGrp>
+          <ExclusionCd>15</ExclusionCd>
+          <ExclusionAmt>11053157</ExclusionAmt>
+        </OtherInvestmentIncomeGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>407214</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>MISCELLANEOUS</Desc>
+          <ExclusionCd>3</ExclusionCd>
+          <ExclusionAmt>1875</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>RESIDENT FEES</Desc>
+          <ExclusionCd>3</ExclusionCd>
+          <ExclusionAmt>405034</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>12158217</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>407214</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>12565431</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc3">
+      <AccountingFeesDetail>
+        <Amt>9875</Amt>
+        <NetInvestmentIncomeAmt>4938</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>4937</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="RetDoc4">
+      <DepreciationPropertyGrp>
+        <PropertyDesc>LAND 2412 UTICA</PropertyDesc>
+        <AcquiredDt>1985-01-01</AcquiredDt>
+        <CostOrOtherBasisAmt>6000</CostOrOtherBasisAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>RENTAL HOUSE</PropertyDesc>
+        <AcquiredDt>1985-01-01</AcquiredDt>
+        <CostOrOtherBasisAmt>33089</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>33089</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>30.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>LAND 2409 UTICA</PropertyDesc>
+        <AcquiredDt>1985-01-01</AcquiredDt>
+        <CostOrOtherBasisAmt>6000</CostOrOtherBasisAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>RENTAL HOUSE</PropertyDesc>
+        <AcquiredDt>1985-01-01</AcquiredDt>
+        <CostOrOtherBasisAmt>30103</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>30103</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>30.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>LOT ON UTICA</PropertyDesc>
+        <AcquiredDt>1985-01-01</AcquiredDt>
+        <CostOrOtherBasisAmt>5246</CostOrOtherBasisAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>DISHWASHER</PropertyDesc>
+        <AcquiredDt>1985-01-01</AcquiredDt>
+        <CostOrOtherBasisAmt>302</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>302</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>5.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>2411 UTICA</PropertyDesc>
+        <AcquiredDt>1991-08-01</AcquiredDt>
+        <CostOrOtherBasisAmt>45210</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>45210</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>27.5000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>REMODEL 2412 UTICA</PropertyDesc>
+        <AcquiredDt>1994-06-01</AcquiredDt>
+        <CostOrOtherBasisAmt>62558</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>61137</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>27.5000</LifeRt>
+        <CurrentYearExpenseAmt>1421</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>1421</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>1421</AdjustedNetIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>REMODEL</PropertyDesc>
+        <AcquiredDt>1995-09-12</AcquiredDt>
+        <CostOrOtherBasisAmt>13441</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>8834</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>39.0000</LifeRt>
+        <CurrentYearExpenseAmt>344</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>344</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>344</AdjustedNetIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>REMODEL 2409-11 UTIC</PropertyDesc>
+        <AcquiredDt>1996-01-24</AcquiredDt>
+        <CostOrOtherBasisAmt>39493</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>25614</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>39.0000</LifeRt>
+        <CurrentYearExpenseAmt>1012</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>1012</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>1012</AdjustedNetIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>BLINDS</PropertyDesc>
+        <AcquiredDt>1996-05-13</AcquiredDt>
+        <CostOrOtherBasisAmt>632</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>632</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>REMODEL</PropertyDesc>
+        <AcquiredDt>1996-06-04</AcquiredDt>
+        <CostOrOtherBasisAmt>2475</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>1575</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>39.0000</LifeRt>
+        <CurrentYearExpenseAmt>64</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>64</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>64</AdjustedNetIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>CARPET</PropertyDesc>
+        <AcquiredDt>1996-06-11</AcquiredDt>
+        <CostOrOtherBasisAmt>2601</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>2601</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>REMODEL 2409-11 UTICA</PropertyDesc>
+        <AcquiredDt>1999-11-09</AcquiredDt>
+        <CostOrOtherBasisAmt>575</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>575</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>LAND 2410 UTICA</PropertyDesc>
+        <AcquiredDt>2021-11-22</AcquiredDt>
+        <CostOrOtherBasisAmt>11730</CostOrOtherBasisAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>RENTAL HOUSE 2410 UTICA</PropertyDesc>
+        <AcquiredDt>2021-11-22</AcquiredDt>
+        <CostOrOtherBasisAmt>116464</CostOrOtherBasisAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>30.0000</LifeRt>
+        <CurrentYearExpenseAmt>1618</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>1618</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>1618</AdjustedNetIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>DEPRECIATION</PropertyDesc>
+        <CurrentYearExpenseAmt>109328</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+    </DepreciationSchedule>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc5">
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>PROSPERITY BANK TRUST DEPT L/T</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2022-02</SoldDt>
+        <GrossSalesPriceAmt>631146</GrossSalesPriceAmt>
+        <BasisAmt>564330</BasisAmt>
+        <TotalNetAmt>66816</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc6">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>PROSPERITY BK TRUST DEPT FIXED</BondNm>
+        <EOYBookValueAmt>428554</EOYBookValueAmt>
+        <EOYFMVAmt>429711</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc7">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PROSPERITY BK TRUST DEPT MUTUA</StockNm>
+        <EOYBookValueAmt>3945068</EOYBookValueAmt>
+        <EOYFMVAmt>4001024</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="RetDoc8">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>PROSPERITY BK TRUST DEPT CASH</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>2613212</BookValueAmt>
+        <EOYFMVAmt>2588082</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <LandEtcSchedule2 documentId="RetDoc9">
+      <LandEtcGrp>
+        <CostOrOtherBasisAmt>7252045</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>6049234</AccumulatedDepreciationAmt>
+        <BookValueAmt>1202811</BookValueAmt>
+        <EOYFMVAmt>3791148</EOYFMVAmt>
+      </LandEtcGrp>
+      <LandEtcGrp>
+        <CostOrOtherBasisAmt>163961</CostOrOtherBasisAmt>
+        <BookValueAmt>163961</BookValueAmt>
+      </LandEtcGrp>
+    </LandEtcSchedule2>
+    <LegalFeesSchedule documentId="RetDoc10">
+      <LegalFeesGrp>
+        <LegalFeesAmt>6703</LegalFeesAmt>
+        <NetInvestmentIncomeAmt>3352</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>3351</DisbursementsCharitablePrpsAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherAssetsSchedule documentId="RetDoc11">
+      <OtherAssetsScheduleGrp>
+        <Desc>OIL &amp; GAS PROPERTIES</Desc>
+        <EOYFMVAmt>11531094</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherDecreasesSchedule documentId="RetDoc12">
+      <OtherDecreasesDetail>
+        <Desc>FEDERAL INCOME TAXES P/Y</Desc>
+        <Amt>104739</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc13">
+      <OtherExpensesScheduleGrp>
+        <Desc>RENTALS - UTICA HOUSES</Desc>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>YARD EXPENSES</Desc>
+        <RevenueAndExpensesPerBooksAmt>12857</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>12857</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>12857</AdjustedNetIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>INSURANCE</Desc>
+        <RevenueAndExpensesPerBooksAmt>8290</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>8290</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>8290</AdjustedNetIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>EXPENSES</Desc>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>INSURANCE</Desc>
+        <RevenueAndExpensesPerBooksAmt>66206</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>66206</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>HEALTH INSURANCE</Desc>
+        <RevenueAndExpensesPerBooksAmt>120876</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>120876</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>CABLE</Desc>
+        <RevenueAndExpensesPerBooksAmt>11920</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>11920</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>DUES &amp; SUBSCRIPTIONS</Desc>
+        <RevenueAndExpensesPerBooksAmt>1412</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>1412</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>EMPLOYMENT EXPENSE</Desc>
+        <RevenueAndExpensesPerBooksAmt>1230</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>1230</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>COOKING/FOOD</Desc>
+        <RevenueAndExpensesPerBooksAmt>131426</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>131426</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>CLEANING SUPPLIES</Desc>
+        <RevenueAndExpensesPerBooksAmt>11012</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>11012</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>REPAIRS &amp; MAINTENANCE</Desc>
+        <RevenueAndExpensesPerBooksAmt>265668</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>265668</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>SUPPLIES</Desc>
+        <RevenueAndExpensesPerBooksAmt>30207</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>30207</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>INTERNET</Desc>
+        <RevenueAndExpensesPerBooksAmt>983</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>983</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>POSTAGE</Desc>
+        <RevenueAndExpensesPerBooksAmt>400</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>400</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>TELEPHONE</Desc>
+        <RevenueAndExpensesPerBooksAmt>4605</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>4605</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>INVESTMENT FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>32999</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>32999</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc15">
+      <OtherIncomeDetail>
+        <Desc>GRASS LEASE</Desc>
+        <RevenueAndExpensesPerBooksAmt>1356</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>1356</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>1356</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>OIL &amp; GAS ROYALTIES</Desc>
+        <RevenueAndExpensesPerBooksAmt>11051801</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>11051801</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>11051801</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>MISCELLANEOUS</Desc>
+        <RevenueAndExpensesPerBooksAmt>1875</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>1875</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>RESIDENT FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>405034</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>405034</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherIncreasesSchedule documentId="RetDoc14">
+      <OtherIncreasesDetail>
+        <Desc>ADJUSTMENT FOR 2020 ITEMS</Desc>
+        <Amt>96487</Amt>
+      </OtherIncreasesDetail>
+    </OtherIncreasesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc16">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>OTHER</CategoryTxt>
+        <Amt>665</Amt>
+        <DisbursementsCharitablePrpsAmt>665</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>DESIGN FEES</CategoryTxt>
+        <Amt>2844</Amt>
+        <DisbursementsCharitablePrpsAmt>2844</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc17">
+      <TaxesDetail>
+        <CategoryTxt>PAYROLL TAXES</CategoryTxt>
+        <Amt>58014</Amt>
+        <NetInvestmentIncomeAmt>53779</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>53779</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>4235</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>PROPERTY TAXES</CategoryTxt>
+        <Amt>141086</Amt>
+        <NetInvestmentIncomeAmt>130787</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>130787</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>10299</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>PRODUCTION TAX</CategoryTxt>
+        <Amt>508383</Amt>
+        <NetInvestmentIncomeAmt>471271</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>471271</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>37112</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>LICENSES, INSPECTIONS, &amp; PERMITS</CategoryTxt>
+        <Amt>3016</Amt>
+        <NetInvestmentIncomeAmt>2796</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>2796</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>220</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

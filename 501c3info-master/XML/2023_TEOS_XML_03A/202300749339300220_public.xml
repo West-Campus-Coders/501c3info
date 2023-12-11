@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2021v4.1" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-03-15T20:06:09-07:00</ReturnTs>
+    <TaxPeriodEndDt>2022-06-30</TaxPeriodEndDt>
+    <ReturnTypeCd>990T</ReturnTypeCd>
+    <TaxPeriodBeginDt>2021-07-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>742684733</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>Sav-Baby Inc</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>SAV-</BusinessNameControlTxt>
+      <PhoneNum>2103428576</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>PO Box 100875</AddressLine1Txt>
+        <CityNm>San Antonio</CityNm>
+        <StateAbbreviationCd>TX</StateAbbreviationCd>
+        <ZIPCd>78201</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>Ben Amor</PersonNm>
+      <PersonTitleTxt>Executive Director</PersonTitleTxt>
+      <SignatureDt>2023-03-15</SignatureDt>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>Ben</PersonFirstNm>
+        <PersonLastNm>Amor</PersonLastNm>
+      </PersonFullName>
+      <SSN>999009999</SSN>
+    </SigningOfficerGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp>
+        <TrustedCustomerCd>0</TrustedCustomerCd>
+        <AuthenticationAssuranceLevelCd>AAL1</AuthenticationAssuranceLevelCd>
+        <IdentityAssuranceLevelCd>IAL1</IdentityAssuranceLevelCd>
+        <FederatedAssuranceLevelCd>FAL1</FederatedAssuranceLevelCd>
+      </TrustedCustomerGrp>
+    </AdditionalFilerInformation>
+    <TaxYr>2021</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="2">
+    <IRS990T documentId="IRS990T" softwareId="21013485" softwareVersionNum="2021v4.1">
+      <Organization501IndicatorGrp>
+        <Organization501Ind>X</Organization501Ind>
+        <Organization501cTypeTxt>c3</Organization501cTypeTxt>
+      </Organization501IndicatorGrp>
+      <BookValueAssetsEOYAmt>70928</BookValueAssetsEOYAmt>
+      <GroupExemptionNum>7178</GroupExemptionNum>
+      <Organization501cCorporationInd>X</Organization501cCorporationInd>
+      <Form990TScheduleAAttachedCnt referenceDocumentId="IRS990TScheduleA.0">1</Form990TScheduleAAttachedCnt>
+      <SubsidiaryCorporationInd>false</SubsidiaryCorporationInd>
+      <BooksInCareOfDetail>
+        <BusinessName>
+          <BusinessNameLine1Txt>The Company</BusinessNameLine1Txt>
+        </BusinessName>
+        <USAddress>
+          <AddressLine1Txt>530 Future Dr</AddressLine1Txt>
+          <CityNm>San Antonio</CityNm>
+          <StateAbbreviationCd>TX</StateAbbreviationCd>
+          <ZIPCd>78213</ZIPCd>
+        </USAddress>
+        <PhoneNum>2103428576</PhoneNum>
+      </BooksInCareOfDetail>
+      <TotalUBTIComputedAmt>-34640</TotalUBTIComputedAmt>
+      <TotalUBTIBeforeNOLSpecificAmt>-34640</TotalUBTIBeforeNOLSpecificAmt>
+      <TotalUBTIBeforeSection199AAmt>-34640</TotalUBTIBeforeSection199AAmt>
+      <SpecificDeductionAmt>1000</SpecificDeductionAmt>
+      <TotalDeductionAmt>1000</TotalDeductionAmt>
+      <TotalUBTIAmt>0</TotalUBTIAmt>
+      <TaxableCorporationAmt>0</TaxableCorporationAmt>
+      <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      <ForeignTrustQuestionInd>false</ForeignTrustQuestionInd>
+      <TaxExemptInterestAmt>0</TaxExemptInterestAmt>
+      <ChangeInMethodOfAccountingInd>false</ChangeInMethodOfAccountingInd>
+    </IRS990T>
+    <IRS990TScheduleA documentId="IRS990TScheduleA.0" softwareId="21013485" softwareVersionNum="2021v4.1">
+      <PrincipalBusinessActivityCd>713200</PrincipalBusinessActivityCd>
+      <SequenceReferenceNum>1</SequenceReferenceNum>
+      <SequenceTotalNum>1</SequenceTotalNum>
+      <TradeOrBusinessDesc>Charitable Bingo</TradeOrBusinessDesc>
+      <GrossReceiptsOrSalesAmt>1120572</GrossReceiptsOrSalesAmt>
+      <NetGrossReceiptsOrSalesAmt>1120572</NetGrossReceiptsOrSalesAmt>
+      <GrossProfitAmt>1120572</GrossProfitAmt>
+      <TotUnrltTrdBusIncmAmt>1120572</TotUnrltTrdBusIncmAmt>
+      <TotUnrltTrdBusIncmExpnssAmt>0</TotUnrltTrdBusIncmExpnssAmt>
+      <TotNetUnrltTrdBusIncmAmt>1120572</TotNetUnrltTrdBusIncmAmt>
+      <SalariesAndWagesAmt>159445</SalariesAndWagesAmt>
+      <TaxesAndLicensesAmt>45349</TaxesAndLicensesAmt>
+      <OtherDeductionsAmt referenceDocumentId="OtherDeductionSchedule.0">950418</OtherDeductionsAmt>
+      <TotalDeductionsAmt>1155212</TotalDeductionsAmt>
+      <UBIBeforeNOLDedAmt>-34640</UBIBeforeNOLDedAmt>
+      <UnrelatedBusinessTaxblIncmAmt>-34640</UnrelatedBusinessTaxblIncmAmt>
+    </IRS990TScheduleA>
+  </ReturnData>
+</Return>

@@ -1,0 +1,1324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2022v4.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-02-27T17:47:25-05:00</ReturnTs>
+    <TaxPeriodEndDt>2022-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>752253424</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>ANDERSON MARX &amp; BOHL PC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>119 N MAIN ST</AddressLine1Txt>
+        <CityNm>CORSICANA</CityNm>
+        <StateAbbreviationCd>TX</StateAbbreviationCd>
+        <ZIPCd>75110</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>756604134</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>J TOM EADY CHARITABLE TRUST</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>JTOM</BusinessNameControlTxt>
+      <USAddress>
+        <AddressLine1Txt>PO BOX 624</AddressLine1Txt>
+        <CityNm>CORSICANA</CityNm>
+        <StateAbbreviationCd>TX</StateAbbreviationCd>
+        <ZIPCd>75151</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>COMMUNITY NATIONAL BANK TRUST</PersonNm>
+      <PersonTitleTxt>TRUSTEE</PersonTitleTxt>
+      <SignatureDt>2023-02-21</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>COMMUNITY</PersonFirstNm>
+        <PersonLastNm>NATIONAL BANK TRUST</PersonLastNm>
+      </PersonFullName>
+      <SSN>XXX-XX-XXXX</SSN>
+    </SigningOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>false</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>FRANK MARX III</PreparerPersonNm>
+      <PTIN>P00475693</PTIN>
+      <PhoneNum>9038722571</PhoneNum>
+      <PreparationDt>2023-02-21</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="7">
+    <IRS990PF documentId="RetDoc9" referenceDocumentId="RetDoc7">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>10945850</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <DividendsRevAndExpnssAmt>247869</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>247869</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>567205</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>1390928</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>567205</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="RetDoc5">17</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>17</OtherIncomeNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>815091</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>815091</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>59198</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>50318</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>8880</CompOfcrDirTrstDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc1">1175</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>118</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>1057</AccountingFeesChrtblPrpsAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc6">14227</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>1395</TaxesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>74600</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>51831</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>9937</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>608549</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>608549</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>683149</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>51831</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>618486</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>131942</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>763260</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>242209</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>31232</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>31232</SavAndTempCashInvstEOYFMVAmt>
+        <PrepaidExpensesBOYAmt>6920</PrepaidExpensesBOYAmt>
+        <PrepaidExpensesEOYAmt>12840</PrepaidExpensesEOYAmt>
+        <PrepaidExpensesEOYFMVAmt>12840</PrepaidExpensesEOYFMVAmt>
+        <USGovernmentObligationsBOYAmt>1744725</USGovernmentObligationsBOYAmt>
+        <USGovernmentObligationsEOYAmt>2367157</USGovernmentObligationsEOYAmt>
+        <USGovtObligationsEOYFMVAmt>2018390</USGovtObligationsEOYFMVAmt>
+        <CorporateStockBOYAmt>3523395</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc3">3452664</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>6685474</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>2374134</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="RetDoc2">2149811</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>1767955</CorporateBondsEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>427500</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="RetDoc4">437121</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>429959</OtherInvestmentsEOYFMVAmt>
+        <TotalAssetsBOYAmt>8318883</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>8450825</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>10945850</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsFASB117Ind>X</OrganizationFollowsFASB117Ind>
+        <NoDonorRstrNetAssestsBOYAmt>8318883</NoDonorRstrNetAssestsBOYAmt>
+        <NoDonorRstrNetAssestsEOYAmt>8450825</NoDonorRstrNetAssestsEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>8318883</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>8450825</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>8318883</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>8450825</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>8318883</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>131942</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>8450825</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>8450825</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>EMBECTA CORP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2022-04-06</AcquiredDt>
+          <SoldDt>2022-05-12</SoldDt>
+          <GrossSalesPriceAmt>3878</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1205</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2673</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2673</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>VANGUARD HIGH YIELD CORP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-01-08</AcquiredDt>
+          <SoldDt>2022-04-26</SoldDt>
+          <GrossSalesPriceAmt>10000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>10951</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-951</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-951</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>ISHARES RUSSELL 2000 INDEX</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2006-05-11</AcquiredDt>
+          <SoldDt>2022-09-26</SoldDt>
+          <GrossSalesPriceAmt>49920</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>22617</CostOrOtherBasisAmt>
+          <GainOrLossAmt>27303</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>27303</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>ISHARES CORE TOTAL USD BOND MKT</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2020-12-28</AcquiredDt>
+          <SoldDt>2022-01-13</SoldDt>
+          <GrossSalesPriceAmt>46944</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>49023</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-2079</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-2079</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>STANDARD &amp; POORS MIDCAP 400 ETF</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2006-05-11</AcquiredDt>
+          <SoldDt>2022-05-03</SoldDt>
+          <GrossSalesPriceAmt>30139</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>9547</CostOrOtherBasisAmt>
+          <GainOrLossAmt>20592</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>20592</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>APPLE</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-03-18</AcquiredDt>
+          <SoldDt>2022-09-27</SoldDt>
+          <GrossSalesPriceAmt>50505</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5359</CostOrOtherBasisAmt>
+          <GainOrLossAmt>45146</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>45146</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>ISHARES CORE TOTAL USD BOND MKT</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2020-06-05</AcquiredDt>
+          <SoldDt>2022-01-13</SoldDt>
+          <GrossSalesPriceAmt>8606</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>8867</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-261</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-261</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>APPLE</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-03-18</AcquiredDt>
+          <SoldDt>2022-05-03</SoldDt>
+          <GrossSalesPriceAmt>50944</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5197</CostOrOtherBasisAmt>
+          <GainOrLossAmt>45747</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>45747</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>SELECT SECTOR SPDR TECH</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2010-06-08</AcquiredDt>
+          <SoldDt>2022-09-27</SoldDt>
+          <GrossSalesPriceAmt>22967</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3881</CostOrOtherBasisAmt>
+          <GainOrLossAmt>19086</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>19086</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>ISHARES CORE TOTAL USD BOND MKT</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2020-04-27</AcquiredDt>
+          <SoldDt>2022-01-13</SoldDt>
+          <GrossSalesPriceAmt>48509</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>49783</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1274</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1274</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>COSTCO WAREHOUSE</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-04-23</AcquiredDt>
+          <SoldDt>2022-05-03</SoldDt>
+          <GrossSalesPriceAmt>26308</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>7353</CostOrOtherBasisAmt>
+          <GainOrLossAmt>18955</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>18955</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>SELECT SECTOR SPDR TECH</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-11-22</AcquiredDt>
+          <SoldDt>2022-09-27</SoldDt>
+          <GrossSalesPriceAmt>2483</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>684</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1799</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1799</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>ISHARES CORE TOTAL USD BOND MKT</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2020-04-16</AcquiredDt>
+          <SoldDt>2022-01-13</SoldDt>
+          <GrossSalesPriceAmt>24515</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>25201</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-686</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-686</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>SELECT SECTOR SPDR TECH</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-11-22</AcquiredDt>
+          <SoldDt>2022-05-03</SoldDt>
+          <GrossSalesPriceAmt>30215</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>7182</CostOrOtherBasisAmt>
+          <GainOrLossAmt>23033</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>23033</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>TEXAS INSTRUMENTS</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2004-09-22</AcquiredDt>
+          <SoldDt>2022-09-27</SoldDt>
+          <GrossSalesPriceAmt>25791</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3586</CostOrOtherBasisAmt>
+          <GainOrLossAmt>22205</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>22205</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>ISHARES CORE TOTAL USD BOND MKT</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2020-03-31</AcquiredDt>
+          <SoldDt>2022-01-13</SoldDt>
+          <GrossSalesPriceAmt>78240</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>79065</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-825</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-825</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>ISHARES RUSSELL 2000 INDEX</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2006-05-11</AcquiredDt>
+          <SoldDt>2022-05-04</SoldDt>
+          <GrossSalesPriceAmt>26206</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>10555</CostOrOtherBasisAmt>
+          <GainOrLossAmt>15651</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>15651</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>STANDARD &amp; POORS MIDCAP 400 ETF</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2006-05-11</AcquiredDt>
+          <SoldDt>2022-10-05</SoldDt>
+          <GrossSalesPriceAmt>31991</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>11016</CostOrOtherBasisAmt>
+          <GainOrLossAmt>20975</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>20975</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>APPLE</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-03-18</AcquiredDt>
+          <SoldDt>2022-01-13</SoldDt>
+          <GrossSalesPriceAmt>26087</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2436</CostOrOtherBasisAmt>
+          <GainOrLossAmt>23651</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>23651</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>NEXTERA ENERGY</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-06-11</AcquiredDt>
+          <SoldDt>2022-05-04</SoldDt>
+          <GrossSalesPriceAmt>30410</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>10064</CostOrOtherBasisAmt>
+          <GainOrLossAmt>20346</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>20346</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>ISHARES CORE MSCI EMERGING MARKETS</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2018-04-02</AcquiredDt>
+          <SoldDt>2022-10-26</SoldDt>
+          <GrossSalesPriceAmt>21482</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>28571</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-7089</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-7089</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>NVIDIA</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2018-11-02</AcquiredDt>
+          <SoldDt>2022-01-13</SoldDt>
+          <GrossSalesPriceAmt>24204</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4790</CostOrOtherBasisAmt>
+          <GainOrLossAmt>19414</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>19414</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>UNION PACIFIC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2012-02-09</AcquiredDt>
+          <SoldDt>2022-05-04</SoldDt>
+          <GrossSalesPriceAmt>25822</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>6235</CostOrOtherBasisAmt>
+          <GainOrLossAmt>19587</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>19587</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>ISHARES RUSSELL 2000 INDEX</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2006-05-11</AcquiredDt>
+          <SoldDt>2022-10-26</SoldDt>
+          <GrossSalesPriceAmt>19767</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>8293</CostOrOtherBasisAmt>
+          <GainOrLossAmt>11474</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>11474</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>SELECT SPIDER SPDR TECH</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-11-22</AcquiredDt>
+          <SoldDt>2022-01-13</SoldDt>
+          <GrossSalesPriceAmt>24939</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5130</CostOrOtherBasisAmt>
+          <GainOrLossAmt>19809</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>19809</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>WALT DISNEY</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-01-14</AcquiredDt>
+          <SoldDt>2022-05-12</SoldDt>
+          <GrossSalesPriceAmt>60268</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>43640</CostOrOtherBasisAmt>
+          <GainOrLossAmt>16628</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>16628</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>AIR PRODUCTS &amp; CHEMICAL INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2006-05-09</AcquiredDt>
+          <SoldDt>2022-11-16</SoldDt>
+          <GrossSalesPriceAmt>14750</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3145</CostOrOtherBasisAmt>
+          <GainOrLossAmt>11605</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>11605</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>HOME DEPOT</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2002-07-12</AcquiredDt>
+          <SoldDt>2022-02-02</SoldDt>
+          <GrossSalesPriceAmt>50280</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3911</CostOrOtherBasisAmt>
+          <GainOrLossAmt>46369</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>46369</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>DISCOVER BANK CD</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2018-06-13</AcquiredDt>
+          <SoldDt>2022-06-21</SoldDt>
+          <GrossSalesPriceAmt>25000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>25000</CostOrOtherBasisAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>GOLDMAN SACHS GROUP BDS</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2010-12-17</AcquiredDt>
+          <SoldDt>2022-12-15</SoldDt>
+          <GrossSalesPriceAmt>100000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>100000</CostOrOtherBasisAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>NIKE INC.</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-08-21</AcquiredDt>
+          <SoldDt>2022-02-02</SoldDt>
+          <GrossSalesPriceAmt>25281</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>6733</CostOrOtherBasisAmt>
+          <GainOrLossAmt>18548</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>18548</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>ALLY BANK CD</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2019-07-22</AcquiredDt>
+          <SoldDt>2022-07-25</SoldDt>
+          <GrossSalesPriceAmt>50000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>50000</CostOrOtherBasisAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>SELECT SECTOR SPDR CONSUMER</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2017-08-23</AcquiredDt>
+          <SoldDt>2022-02-02</SoldDt>
+          <GrossSalesPriceAmt>24877</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>11976</CostOrOtherBasisAmt>
+          <GainOrLossAmt>12901</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>12901</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>GOLDMAN SACHS BANK CD</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2019-08-05</AcquiredDt>
+          <SoldDt>2022-08-15</SoldDt>
+          <GrossSalesPriceAmt>50000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>50000</CostOrOtherBasisAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CHEVRON</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2016-09-29</AcquiredDt>
+          <SoldDt>2022-02-03</SoldDt>
+          <GrossSalesPriceAmt>50000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>51433</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1433</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1433</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>UNITED PARCEL SERVICE</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-08-13</AcquiredDt>
+          <SoldDt>2022-08-30</SoldDt>
+          <GrossSalesPriceAmt>29332</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>13145</CostOrOtherBasisAmt>
+          <GainOrLossAmt>16187</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>16187</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>FHLB</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2019-03-06</AcquiredDt>
+          <SoldDt>2022-03-14</SoldDt>
+          <GrossSalesPriceAmt>50000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>50000</CostOrOtherBasisAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>UNION PACIFIC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2012-02-09</AcquiredDt>
+          <SoldDt>2022-08-31</SoldDt>
+          <GrossSalesPriceAmt>20242</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5101</CostOrOtherBasisAmt>
+          <GainOrLossAmt>15141</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>15141</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>STANDARD &amp; POORS MIDCAP 400 ETF</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2006-05-11</AcquiredDt>
+          <SoldDt>2022-04-20</SoldDt>
+          <GrossSalesPriceAmt>49273</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>14688</CostOrOtherBasisAmt>
+          <GainOrLossAmt>34585</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>34585</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>STANDARD &amp; POORS MIDCAP 400 ETF</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2006-05-11</AcquiredDt>
+          <SoldDt>2022-09-26</SoldDt>
+          <GrossSalesPriceAmt>50753</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>18360</CostOrOtherBasisAmt>
+          <GainOrLossAmt>32393</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>32393</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>567205</CapitalGainNetIncomeAmt>
+        <NetShortTermCapitalGainLossAmt>2673</NetShortTermCapitalGainLossAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>10609</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>10609</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>10609</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>12840</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>12840</TotalPaymentsAndCreditsAmt>
+        <OverpaymentAmt>2231</OverpaymentAmt>
+        <AppliedToESTaxAmt>2231</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>TX</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>COMMUNITY NATIONAL BANK &amp; TRUST</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>9036544500</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>PO BOX 624</AddressLine1Txt>
+          <CityNm>CORSCIANA</CityNm>
+          <StateAbbreviationCd>TX</StateAbbreviationCd>
+          <ZIPCd>75110</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>true</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <TransactionsFailToQlfyAsExcInd>false</TransactionsFailToQlfyAsExcInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>COMMUNITY NATIONAL BANK &amp; TRUST</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 624</AddressLine1Txt>
+            <CityNm>CORSICANA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75151</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>8.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>59198</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>11538052</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>77165</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>2500</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>11617717</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>11617717</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>174266</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>11443451</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>572173</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>572173</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>10609</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>10609</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>561564</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>561564</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>561564</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>618486</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>618486</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>561564</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>616141</UndistributedIncomePYAmt>
+        <QualifyingDistributionsAmt>618486</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>616141</AppliedToYear1Amt>
+        <AppliedToCurrentYearAmt>2345</AppliedToCurrentYearAmt>
+        <UndistributedIncomeCYAmt>559219</UndistributedIncomeCYAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>JAROD GORDON</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>COMMUNITY NATIONAL BANK TRUST</AddressLine1Txt>
+            <AddressLine2Txt>PO BOX 624</AddressLine2Txt>
+            <CityNm>CORSICANA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75151</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>9036544500</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>INCLUDE NAME OF ORGANIZATION, PURPOSE FOR REQUESTED FUNDS, COPY OF IRS DETERMINATION LETTER. FOR SCHLORASHIPS, SEE APPLICATION.</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>NONE FOR SCHOLARSHIPS, SEE ATTACHED.</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>NONE</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ALEJANDRO TAMEZ</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>121 SE CR 3124</AddressLine1Txt>
+            <CityNm>CORSICANA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75109</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>1250</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>FAUSTINO RODRIQUEZ</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4520 FM 3096</AddressLine1Txt>
+            <CityNm>KERENS</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75144</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>GENTRY ROGERS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>602 E TOWER ST</AddressLine1Txt>
+            <CityNm>FROST</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>76641</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>1250</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>KAMRYN BROWN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3054 NW CR 1030</AddressLine1Txt>
+            <CityNm>CORSICANA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75110</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SHAHRUKH AHMED</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3024 VIEW LANE</AddressLine1Txt>
+            <CityNm>CORSICANA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75110</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>DONALD WILLIAMS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3110 FM 1126</AddressLine1Txt>
+            <CityNm>CORSICANA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75110</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>HANNA SMITH</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4029 WICHITA TRAIL</AddressLine1Txt>
+            <CityNm>CORSICANA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75110</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CONNER METCALF</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4221 NE CR 1040</AddressLine1Txt>
+            <CityNm>CORSICANA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75110</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ABBEGAEL SMITH</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>521 MCKINNEY</AddressLine1Txt>
+            <CityNm>CORSICANA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75110</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>LIZETH FARELAS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1532 W 5TH AVE</AddressLine1Txt>
+            <CityNm>CORSICANA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75110</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>HALLIE PHILLIPS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3703 NW CR 0016</AddressLine1Txt>
+            <CityNm>CORSICANA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75110</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>7500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>JOANNA RUIZ</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>200 NW CR 185</AddressLine1Txt>
+            <CityNm>RICE</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75115</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ABIGAL HUITT</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5900 SE CR</AddressLine1Txt>
+            <CityNm>CORSICANA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75109</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>NAYELI LARA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>702 SOUTH 15TH STREET</AddressLine1Txt>
+            <CityNm>CORSICANA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75110</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MAJOR RIDDLE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>402 SE CR 2240</AddressLine1Txt>
+            <CityNm>CORSICANA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75109</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>COURTNEY BOTKIN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3043 NW COUNTY ROAD 1030</AddressLine1Txt>
+            <CityNm>CORSICANA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75110</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>LESLI GARCIA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>113 NORTH 29TH STREET</AddressLine1Txt>
+            <CityNm>KERENS</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75110</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>YESENIA GARCIA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>17052 NE COUNTY ROAD 340</AddressLine1Txt>
+            <CityNm>PURDON</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75144</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>EMMA HADEN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1470 NW COUNTY ROAD 3020</AddressLine1Txt>
+            <CityNm>CORSICANA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>76679</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ADAN SARDINA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1400 ANN ARBOR DRIVE</AddressLine1Txt>
+            <CityNm>CORSICANA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75110</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CORSICANA YMCA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>400 WEST OAKLAWN</AddressLine1Txt>
+            <CityNm>CORSICANA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75110</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE &amp; CAPITAL</GrantOrContributionPurposeTxt>
+          <Amt>123000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CITY OF CORSICANA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>200 NORTH 12TH</AddressLine1Txt>
+            <CityNm>CORSICANA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75110</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE OPERATIONS</GrantOrContributionPurposeTxt>
+          <Amt>16500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>UNITED WAY OF NAVARRO COUNTY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>115 NORTH MAIN</AddressLine1Txt>
+            <CityNm>CORSICANA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75110</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE OPERATIONS</GrantOrContributionPurposeTxt>
+          <Amt>42700</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>NAVARRO COUNCIL OF THE ARTS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 683</AddressLine1Txt>
+            <CityNm>CORSICANA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75151</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE OPERATIONS</GrantOrContributionPurposeTxt>
+          <Amt>45000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CORSICANA AREA CHAMBER FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>120 NORTH 12TH STREET</AddressLine1Txt>
+            <CityNm>CORSICANA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75110</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE OPERATIONS</GrantOrContributionPurposeTxt>
+          <Amt>1400</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CIRCLE TEN COUNCIL - BOY SCOUTS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 35726</AddressLine1Txt>
+            <CityNm>DALLAS</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>752350726</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE OPERATIONS</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>FIRST UNITED METHODIST CHURCH</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>320 N 15TH STREET</AddressLine1Txt>
+            <CityNm>CORSICANA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75110</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CAPITAL IMPROVEMENTS</GrantOrContributionPurposeTxt>
+          <Amt>90000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>UCF WESLEY FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3301 W 7TH AVE</AddressLine1Txt>
+            <CityNm>CORSICANA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75110</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE OPERATIONS</GrantOrContributionPurposeTxt>
+          <Amt>23500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>BOYS AND GIRLS CLUB OF GREATER DALL</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4816 WORTH STREET</AddressLine1Txt>
+            <CityNm>DALLAS</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75110</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE OPERATIONS</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>PALACE THEATRE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>112 WEST 6TH AVE</AddressLine1Txt>
+            <CityNm>CORSICANA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75110</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE OPERATIONS</GrantOrContributionPurposeTxt>
+          <Amt>22000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>COMPASSION CORSICANA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>111 E 1ST AVE</AddressLine1Txt>
+            <CityNm>CORSICANA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75110</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE OPERATIONS</GrantOrContributionPurposeTxt>
+          <Amt>15000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CORSICANA STATE ORPHANS HOME ASSOC</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1818 MAPLEWOOD AVE</AddressLine1Txt>
+            <CityNm>CORSICANA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75110</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE OPERATIONS</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>NAVARRO COUNTY AMBULATORY CARE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 518</AddressLine1Txt>
+            <CityNm>CORSICANA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75151</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CAPITAL IMPROVEMENTS</GrantOrContributionPurposeTxt>
+          <Amt>8954</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MARY PETERSON CHILD CARE CENTER</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1103 EAST COLLIN ST</AddressLine1Txt>
+            <CityNm>CORSICANA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75110</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE OPERATIONS</GrantOrContributionPurposeTxt>
+          <Amt>13500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SALVATION ARMY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>212 EAST 1ST AVE</AddressLine1Txt>
+            <CityNm>CORSICANA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75110</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE OPERATIONS</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>WAREHOUSE LIVING ARTS CENTER</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>119 WEST 6TH AVE</AddressLine1Txt>
+            <CityNm>CORSICANA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75110</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE OPERATIONS</GrantOrContributionPurposeTxt>
+          <Amt>19000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>COYOTE SQUADRON OF CORSICANA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>9000 NAVARRO BLDG 11-A</AddressLine1Txt>
+            <CityNm>CORSICANA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75109</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE OPERATIONS</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>HOPE CENTER</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2124 E STATE HWY 22</AddressLine1Txt>
+            <CityNm>CORSICANA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75110</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE OPERATIONS</GrantOrContributionPurposeTxt>
+          <Amt>7500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CORSICANA AREA CHAMBER FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>120 N 12TH ST</AddressLine1Txt>
+            <CityNm>CORSICANA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75110</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE OPERATIONS</GrantOrContributionPurposeTxt>
+          <Amt>4000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MEAL ON WHEELS NORTH CENTRAL TEXAS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>106 E LILPATRICK ST</AddressLine1Txt>
+            <CityNm>CLEBURNE</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>76031</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE OPERATIONS</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CORSICANA ISD EDUCATION FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2200 W 4TH AVE</AddressLine1Txt>
+            <CityNm>CORSICANA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75110</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE OPERATIONS</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CORSICANA - NAVARRO COUNTY PUBLIC H</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>618 N MAIN ST</AddressLine1Txt>
+            <CityNm>CORSICANA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75110</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE OPERATIONS</GrantOrContributionPurposeTxt>
+          <Amt>15000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>HUMANE SOCIETY OF NAVARRO COUNTY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1139 W 7TH AVE</AddressLine1Txt>
+            <CityNm>CORSICANA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75110</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE OPERATIONS</GrantOrContributionPurposeTxt>
+          <Amt>15000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>JAMES L COLLINS CATHOLIC SCHOOL</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3000 E STATE HWY 22</AddressLine1Txt>
+            <CityNm>CORSICANA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75110</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CAPIAL IMPROVEMENTS</GrantOrContributionPurposeTxt>
+          <Amt>20995</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MARTIN LUTHER KING CENTER</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1114 E 6TH AVE</AddressLine1Txt>
+            <CityNm>CORSICANA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75110</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE OPERATIONS</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>608549</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>247869</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <OtherInvestmentIncomeGrp>
+          <ExclusionCd>15</ExclusionCd>
+          <ExclusionAmt>17</ExclusionAmt>
+        </OtherInvestmentIncomeGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>567205</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>815091</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>815091</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc1">
+      <AccountingFeesDetail>
+        <CategoryTxt>INDIRECT ACCOUNTING FEES</CategoryTxt>
+        <Amt>1175</Amt>
+        <NetInvestmentIncomeAmt>118</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>1057</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc2">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>SEE ATTACHED SCHEDULE</BondNm>
+        <EOYBookValueAmt>1835762</EOYBookValueAmt>
+        <EOYFMVAmt>1496899</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>ISHARES CORE TOTAL USD BOND ETF</BondNm>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>VANGUARD HIGH YIELD CORP F</BondNm>
+        <EOYBookValueAmt>314049</EOYBookValueAmt>
+        <EOYFMVAmt>271056</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc3">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SEE ATTACHED SCHEDULE-COMMON STOCK</StockNm>
+        <EOYBookValueAmt>3452664</EOYBookValueAmt>
+        <EOYFMVAmt>6685474</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="RetDoc4">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>CERTIFICATES OF DEPOSITS</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>395000</BookValueAmt>
+        <EOYFMVAmt>387893</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>LLANO TEXAS ISD BDS</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>39621</BookValueAmt>
+        <EOYFMVAmt>39566</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>NON PRODUCING MINERAL INTEREST</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>1797</BookValueAmt>
+        <EOYFMVAmt>1797</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>MINERAL INTERESTS</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>703</BookValueAmt>
+        <EOYFMVAmt>703</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <OtherIncomeSchedule2 documentId="RetDoc5">
+      <OtherIncomeDetail>
+        <Desc>OIL &amp; GAS ROYALTIES</Desc>
+        <RevenueAndExpensesPerBooksAmt>17</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>17</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <TaxesSchedule documentId="RetDoc6">
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAXES ON DIVIDENDS</CategoryTxt>
+        <Amt>1395</Amt>
+        <NetInvestmentIncomeAmt>1395</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>990PF</CategoryTxt>
+        <Amt>12832</Amt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2021v4.3">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-02-24T09:12:56-05:00</ReturnTs>
+    <TaxPeriodEndDt>2021-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>472006900</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>ARTHURS AND COMPANY CPA LLC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>603 ROPER CREEK DR</AddressLine1Txt>
+        <CityNm>GREENVILLE</CityNm>
+        <StateAbbreviationCd>SC</StateAbbreviationCd>
+        <ZIPCd>29615</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990T</ReturnTypeCd>
+    <TaxPeriodBeginDt>2021-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>570852471</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>WORLDWIDE TENTMAKERS INC</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>WORL</BusinessNameControlTxt>
+      <PhoneNum>8643700475</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>2435 E NORTH STREET PMB 363 1108</AddressLine1Txt>
+        <CityNm>GREENVILLE</CityNm>
+        <StateAbbreviationCd>SC</StateAbbreviationCd>
+        <ZIPCd>296151442</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>DAVID NUNNERY</PersonNm>
+      <PersonTitleTxt>PRESIDENT</PersonTitleTxt>
+      <PhoneNum>8643700475</PhoneNum>
+      <SignatureDt>2023-02-22</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>DAVID</PersonFirstNm>
+        <PersonLastNm>NUNNERY</PersonLastNm>
+      </PersonFullName>
+      <SSN>XXX-XX-XXXX</SSN>
+    </SigningOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>CHRIS ARTHURS CPA</PreparerPersonNm>
+      <PTIN>P01539475</PTIN>
+      <PhoneNum>8642809946</PhoneNum>
+      <PreparationDt>2023-02-24</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2021</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="2">
+    <IRS990T documentId="RetDoc1">
+      <Organization501IndicatorGrp>
+        <Organization501Ind>X</Organization501Ind>
+        <Organization501cTypeTxt>c3</Organization501cTypeTxt>
+      </Organization501IndicatorGrp>
+      <BookValueAssetsEOYAmt>621498</BookValueAssetsEOYAmt>
+      <Organization501cCorporationInd>X</Organization501cCorporationInd>
+      <Form990TScheduleAAttachedCnt referenceDocumentId="RetDoc2">1</Form990TScheduleAAttachedCnt>
+      <SubsidiaryCorporationInd>false</SubsidiaryCorporationInd>
+      <BooksInCareOfDetail>
+        <PersonNm>OFFICE</PersonNm>
+        <USAddress>
+          <AddressLine1Txt>2435 EAST NORTH ST SUITE 11</AddressLine1Txt>
+          <CityNm>GREENVILLE</CityNm>
+          <StateAbbreviationCd>SC</StateAbbreviationCd>
+          <ZIPCd>29615</ZIPCd>
+        </USAddress>
+        <PhoneNum>8643700475</PhoneNum>
+      </BooksInCareOfDetail>
+      <TotalUBTIComputedAmt>5048</TotalUBTIComputedAmt>
+      <TotalUBTIBeforeNOLSpecificAmt>5048</TotalUBTIBeforeNOLSpecificAmt>
+      <NetOperatingLossDeductionAmt>0</NetOperatingLossDeductionAmt>
+      <TotalUBTIBeforeSection199AAmt>5048</TotalUBTIBeforeSection199AAmt>
+      <SpecificDeductionAmt>1000</SpecificDeductionAmt>
+      <TotalDeductionAmt>1000</TotalDeductionAmt>
+      <TotalUBTIAmt>4048</TotalUBTIAmt>
+      <TaxableCorporationAmt>850</TaxableCorporationAmt>
+      <TaxableTrustAmt>0</TaxableTrustAmt>
+      <TotalTaxComputationAmt>850</TotalTaxComputationAmt>
+      <TaxLessCreditsAmt>850</TaxLessCreditsAmt>
+      <TotalTaxAmt>850</TotalTaxAmt>
+      <Form2220AttachedInd referenceDocumentId="RetDoc4">X</Form2220AttachedInd>
+      <ESPenaltyAmt>14</ESPenaltyAmt>
+      <BalanceDueAmt>864</BalanceDueAmt>
+      <ForeignAccountsQuestionInd>true</ForeignAccountsQuestionInd>
+      <ForeignTrustQuestionInd>false</ForeignTrustQuestionInd>
+      <ChangeInMethodOfAccountingInd>false</ChangeInMethodOfAccountingInd>
+    </IRS990T>
+    <IRS990TScheduleA documentId="RetDoc2">
+      <PrincipalBusinessActivityCd>611600</PrincipalBusinessActivityCd>
+      <SequenceReferenceNum>1</SequenceReferenceNum>
+      <SequenceTotalNum>1</SequenceTotalNum>
+      <TradeOrBusinessDesc>UNRELATED BUSINESS ACTIVITY</TradeOrBusinessDesc>
+      <OtherIncomeAmt referenceDocumentId="RetDoc3">5048</OtherIncomeAmt>
+      <TotUnrltTrdBusIncmAmt>5048</TotUnrltTrdBusIncmAmt>
+      <TotUnrltTrdBusIncmExpnssAmt>0</TotUnrltTrdBusIncmExpnssAmt>
+      <TotNetUnrltTrdBusIncmAmt>5048</TotNetUnrltTrdBusIncmAmt>
+      <UBIBeforeNOLDedAmt>5048</UBIBeforeNOLDedAmt>
+      <UnrelatedBusinessTaxblIncmAmt>5048</UnrelatedBusinessTaxblIncmAmt>
+    </IRS990TScheduleA>
+  </ReturnData>
+</Return>

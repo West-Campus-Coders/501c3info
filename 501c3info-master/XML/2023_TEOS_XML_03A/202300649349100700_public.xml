@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2022v4.1" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-03-05T11:33:22-08:00</ReturnTs>
+    <TaxPeriodEndDt>2022-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>824095278</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>SKC Accounting LLC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>PO Box 3539</AddressLine1Txt>
+        <CityNm>Camp Hill</CityNm>
+        <StateAbbreviationCd>PA</StateAbbreviationCd>
+        <ZIPCd>170113539</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>236853070</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>ELMER E NAUGLE FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>ELME</BusinessNameControlTxt>
+      <PhoneNum>7175309342</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>77 EAST KING STREET</AddressLine1Txt>
+        <CityNm>SHIPPENSBURG</CityNm>
+        <StateAbbreviationCd>PA</StateAbbreviationCd>
+        <ZIPCd>17257</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>Paul Ritchie</PersonNm>
+      <PersonTitleTxt>Trustee</PersonTitleTxt>
+      <SignatureDt>2023-03-05</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>Paul</PersonFirstNm>
+        <PersonLastNm>Ritchie</PersonLastNm>
+      </PersonFullName>
+      <SSN>999009999</SSN>
+    </SigningOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Sarah K Coy CPA</PreparerPersonNm>
+      <PTIN>P00642958</PTIN>
+      <PhoneNum>7177618072</PhoneNum>
+    </PreparerPersonGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp>
+        <TrustedCustomerCd>2</TrustedCustomerCd>
+        <AuthenticationAssuranceLevelCd>AAL1</AuthenticationAssuranceLevelCd>
+        <IdentityAssuranceLevelCd>IAL1</IdentityAssuranceLevelCd>
+        <FederatedAssuranceLevelCd>FAL1</FederatedAssuranceLevelCd>
+      </TrustedCustomerGrp>
+    </AdditionalFilerInformation>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="4">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="22015565" softwareVersionNum="2022v4.1">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>1569834</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <DividendsRevAndExpnssAmt>53369</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>53369</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>53369</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>-14391</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>752291</GrossSalesPriceAmt>
+        <TotalRevAndExpnssAmt>38978</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>53369</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>53369</TotalAdjNetIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSchedule">935</AccountingFeesRevAndExpnssAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="OtherProfessionalFeesSchedule">21692</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>21692</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesAdjNetIncmAmt>21692</OtherProfFeesAdjNetIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">2234</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>2234</TaxesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>24861</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>23926</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>21692</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>100000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>100000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>124861</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>23926</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>21692</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>100000</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-85883</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>29443</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>31677</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <PrepaidExpensesBOYAmt>375</PrepaidExpensesBOYAmt>
+        <PrepaidExpensesEOYAmt>1500</PrepaidExpensesEOYAmt>
+        <PrepaidExpensesEOYFMVAmt>1500</PrepaidExpensesEOYFMVAmt>
+        <CorporateStockBOYAmt>1747973</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt>1660965</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>1568334</CorporateStockEOYFMVAmt>
+        <TotalAssetsBOYAmt>1748348</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>1662465</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>1569834</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <RetainedEarningBOYAmt>1748348</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>1662465</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>1748348</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1662465</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>1748348</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>1662465</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>1748348</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-85883</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>1662465</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1662465</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>SALE OF PUBLICLY TRADED SECURITIES</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-01-01</AcquiredDt>
+          <SoldDt>2022-12-31</SoldDt>
+          <GrossSalesPriceAmt>729195</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>766682</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-37487</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-37487</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Capital Gain Dividends</PropertyDesc>
+          <GainOrLossAmt>23096</GainOrLossAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>-14391</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>409</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>409</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>409</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>1500</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>1500</TotalPaymentsAndCreditsAmt>
+        <OverpaymentAmt>1091</OverpaymentAmt>
+        <AppliedToESTaxAmt>1091</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>PA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>ORRSTOWN BANK</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>7175309342</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>77 EAST KING STREET</AddressLine1Txt>
+          <CityNm>SHIPPENSBURG</CityNm>
+          <StateAbbreviationCd>PA</StateAbbreviationCd>
+          <ZIPCd>17257</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ALAN B RHINEHART</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>77 EAST KING STREET</AddressLine1Txt>
+            <CityNm>SHIPPENSBURG</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>17257</ZIPCd>
+          </USAddress>
+          <TitleTxt>Chairman</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ROBERT E NAUGLE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>77 EAST KING STREET</AddressLine1Txt>
+            <CityNm>SHIPPENSBURG</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>17257</ZIPCd>
+          </USAddress>
+          <TitleTxt>Chairman</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>PAUL RITCHIE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>77 EAST KING STREET</AddressLine1Txt>
+            <CityNm>SHIPPENSBURG</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>17257</ZIPCd>
+          </USAddress>
+          <TitleTxt>Treasurer</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>WILLIAM CRESSLER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>77 EAST KING STREET</AddressLine1Txt>
+            <CityNm>SHIPPENSBURG</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>17257</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>BRUCE HOCKERSMITH</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>77 EAST KING STREET</AddressLine1Txt>
+            <CityNm>SHIPPENSBURG</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>17257</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>PHILIP FAGUE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>77 EAST KING STREET</AddressLine1Txt>
+            <CityNm>SHIPPENSBURG</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>17257</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>STEVE BURKHOLDER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>77 EAST KING STREET</AddressLine1Txt>
+            <CityNm>SHIPPENSBURG</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>17257</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>DISTRIBUTED GRANTS FROM INVESTMENT INCOME TO CHARITIES TO HELP FURTHER THEIR CHARITABLE CAUSES</Description1Txt>
+        <Expenses1Amt>100000</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>1641150</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>0</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>1641150</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>1641150</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>24617</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>1616533</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>80827</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>80827</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>409</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>409</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>80418</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>80418</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>80418</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>100000</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>100000</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>80418</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr4Amt>1344</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr2Amt>4266</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>10032</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>15642</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>100000</QualifyingDistributionsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>80418</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>19582</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>35224</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>35224</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>1344</ExcessFromYear4Amt>
+        <ExcessFromYear2Amt>4266</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>10032</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>19582</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>THE ELMER E NAUGLE FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>77 EAST KING STREET</AddressLine1Txt>
+            <CityNm>SHIPPENSBURG</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>17257</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>7175309342</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>FORMS AND APPLICATIONS SHOULD BE SUBMITTED IN A LETTER OUTLINING WHAT THE REQUESTED FUNDS WILL BE USED FOR.</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>DECEMBER 1ST</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>ORGANIZATIONS BASED IN SHIPPENSBURG, PA AREA OR SERVES SHIPPENSBURG AREA COMMUNITY.</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SHIPPENSBURG PUBLIC LIBRARY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>73 WEST KING STREET</AddressLine1Txt>
+            <CityNm>SHIPPENSBURG</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>17257</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>TO HELP FURTHER THEIR CHARITABLE CAUSE</GrantOrContributionPurposeTxt>
+          <Amt>15650</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>UNITED WAY OF SHIPPENSBURG</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>53 WEST KING STREET</AddressLine1Txt>
+            <CityNm>SHIPPENSBURG</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>17257</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>TO HELP FURTHER THEIR CHARITABLE CAUSE</GrantOrContributionPurposeTxt>
+          <Amt>4000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SHIPPENSBURG PRODUCE OUTREACH</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>130 PENN STREET</AddressLine1Txt>
+            <CityNm>SHIPPENSBURG</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>17257</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>TO HELP FURTHER THEIR CHARITABLE CAUSE</GrantOrContributionPurposeTxt>
+          <Amt>7000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SHIPPENSBURG COMMUNITY RESOURCE CO</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>130 SOUTH PENN STREET</AddressLine1Txt>
+            <CityNm>SHIPPENSBURG</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>17257</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>TO HELP FURTHER THEIR CHARITABLE CAUSE</GrantOrContributionPurposeTxt>
+          <Amt>7500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>KATIE'S PLACE OF SHIPPENSBURG</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>130 SOUTH PENN STREET</AddressLine1Txt>
+            <CityNm>SHIPPENSBURG</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>17257</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>TO HELP FURTHER THEIR CHARITABLE CAUSE</GrantOrContributionPurposeTxt>
+          <Amt>2250</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SHIPPENSBURG AREA EMSSESB</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>711 EAST ORANGE STREET</AddressLine1Txt>
+            <CityNm>SHIPPENSBURG</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>17257</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>TO HELP FURTHER THEIR CHARITABLE CAUSE</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>NEWBURG-HOPEWELL FIRE COMPANY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>106 NORTH HIGH STREET</AddressLine1Txt>
+            <CityNm>NEWBURG</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>17240</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>TO HELP FURTHER THEIR CHARITABLE CAUSE</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>DOIT</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 354842</AddressLine1Txt>
+            <CityNm>SEATTLE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98195</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>TO HELP FURTHER THEIR CHARITABLE CAUSE</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>PENN STATE COLLEGE OF MEDICINE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>500 UNIVERSITY DRIVE</AddressLine1Txt>
+            <CityNm>HERSHEY</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>17033</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>TO HELP FURTHER THEIR CHARITABLE CAUSE</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>LUTHERAN SOCIAL SERVICES</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2998 LUTHER DRIVE</AddressLine1Txt>
+            <CityNm>CHAMBERSBURG</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>17202</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>TO HELP FURTHER THEIR CHARITABLE CAUSE</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>KEYSTONE AREA COUNCIL</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1 BALDWIN POWELL LANE</AddressLine1Txt>
+            <CityNm>MECHANICSBURG</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>17050</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>TO HELP FURTHER THEIR CHARITABLE CAUSE</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>PENN LAUREL GIRL SCOUTS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1600 MOUNT ZION ROAD</AddressLine1Txt>
+            <CityNm>YORK</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>17402</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>TO HELP FURTHER THEIR CHARITABLE CAUSE</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SHIPPENSBURG BORO PARKS RECREATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>111 NORTH FAYETTE STREET</AddressLine1Txt>
+            <CityNm>SHIPPENSBURG</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>17257</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>TO HELP FURTHER THEIR CHARITABLE CAUSE</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SHIPPENSBURG'S KIDS EVENTS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>53 WEST KING STREET</AddressLine1Txt>
+            <CityNm>SHIPPENSBURG</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>17257</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>TO HELP FURTHER THEIR CHARITABLE CAUSE</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>PREGNANCY MINISTRIES</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>501 SOUTH CEDAR LANE</AddressLine1Txt>
+            <CityNm>GREENCASTLE</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>17225</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>TO HELP FURTHER THEIR CHARITABLE CAUSE</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SHIPPENSBURG BOYS GIRLS CLUB</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>115 NORTH FAYETTE STREET</AddressLine1Txt>
+            <CityNm>SHIPPENSBURG</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>17257</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>TO HELP FURTHER THEIR CHARITABLE CAUSE</GrantOrContributionPurposeTxt>
+          <Amt>1200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SHIPPENSBURG AREA SCHOOL DISTRICT F</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>317 NORTH MORRIS STREET</AddressLine1Txt>
+            <CityNm>SHIPPENSBURG</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>17257</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>TO HELP FURTHER THEIR CHARITABLE CAUSE</GrantOrContributionPurposeTxt>
+          <Amt>4900</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SHIPPENSBURG HISTORICAL SOCIETY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>52 WEST KING STREET</AddressLine1Txt>
+            <CityNm>SHIPPENSBURG</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>17257</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>TO HELP FURTHER THEIR CHARITABLE CAUSE</GrantOrContributionPurposeTxt>
+          <Amt>14000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>WEST END FIRE RESCUE CO</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>49 LURGAN AVENUE</AddressLine1Txt>
+            <CityNm>SHIPPENSBURG</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>17257</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>TO HELP FURTHER THEIR CHARITABLE CAUSE</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SHIPPENSBURG LITTLE LEAGUE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>SOUTH FAYETTE STREET</AddressLine1Txt>
+            <CityNm>SHIPPENSBURG</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>17257</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>TO HELP FURTHER THEIR CHARITABLE CAUSE</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>VIGILANT HOSE COMPANY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>20 WALNUT BOTTOM ROAD</AddressLine1Txt>
+            <CityNm>SHIPPENSBURG</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>17257</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>TO HELP FURTHER THEIR CHARITABLE CAUSE</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CUMBERLAND VALLEY RAILS TO TRAILS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 531</AddressLine1Txt>
+            <CityNm>SHIPPENSBURG</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>17257</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>TO HELP FURTHER THEIR CHARITABLE CAUSE</GrantOrContributionPurposeTxt>
+          <Amt>12000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SHIPPENSBURG AQUATIC CLUB</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>77 EAST KING STREET</AddressLine1Txt>
+            <CityNm>SHIPPENSBURG</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>17257</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>none</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>TO HELP FURTHER THEIR CHARITABLE CAUSE</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>BOROUGH OF SHIPPENSBURG</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>111 N FAYETTE STREET</AddressLine1Txt>
+            <CityNm>SHIPPENSBURG</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>17257</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>TO HELP FURTHER THEIR CHARITABLE CAUSE</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>100000</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>53369</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>-14391</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>38978</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>38978</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>8</LineNumberTxt>
+          <RelationshipStatementTxt>INVESTMENT INCOME TO SUPPORT CHARITIES</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+      </RlnOfActyToAccomOfExmptPrpsGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="22015565" softwareVersionNum="2022v4.1">
+      <AccountingFeesDetail>
+        <Amt>935</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OtherProfessionalFeesSchedule" softwareId="22015565" softwareVersionNum="2022v4.1">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>FIDUCIARY FEES</CategoryTxt>
+        <Amt>21692</Amt>
+        <NetInvestmentIncomeAmt>21692</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>21692</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="22015565" softwareVersionNum="2022v4.1">
+      <TaxesDetail>
+        <CategoryTxt>FEDERAL TAXES</CategoryTxt>
+        <Amt>2234</Amt>
+        <NetInvestmentIncomeAmt>2234</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>
