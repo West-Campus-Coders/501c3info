@@ -2,9 +2,28 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
+import InputField from './Input'
+
 
 function App() {
   const [count, setCount] = useState(0)
+  const [response, setResponse] = useState({request: "not sent"})
+  const [urlInput, setUrlInput] = useState("localhost")
+
+  function testRequest() {
+    //get ip as input in newer version
+    const ip = "172.21.109.129"
+    const host = "localhost"
+    fetch(`http://${urlInput}:5000/test`)
+      .then((res) => res.json())
+      .then((text) => {
+        console.log(typeof text)
+        setResponse(text)
+      })
+      .catch((error) => {
+        setResponse({result: "Unsuccessful"})
+      })
+  }
 
   return (
     <>
@@ -21,6 +40,13 @@ function App() {
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
         </button>
+        <br /> 
+        <label htmlFor={"ip"}>Please input the IP address: </label>
+        <InputField id={"ip"} setter={setUrlInput}/>
+        <br />
+        <button onClick={() => testRequest()}>Test the server's connection</button>
+        <p>URL: https://{urlInput}:5000/test</p>
+        <p>Response: {JSON.stringify(response)}</p>
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
