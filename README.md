@@ -1,10 +1,25 @@
 <div align="center">
 <pre>
-website that analyzes the finances of 501(c)(3) non-profits
+<img src="https://avatars.githubusercontent.com/u/150297835?s=48&v=4">
+A website that gives easy access to the finances of 501(c)(3) non-profits 
+West Campus Coders
 </pre>
 </div>
 
-made for a hackathon
+## Tasks:
+- [x] make a small, functional API 
+- [ ] dockerize the API 
+- [ ] have the backend work with a mySQL server
+- [x] create a backend class that can parse the index CSV file
+- [ ] allow the backend to find the correct XML file
+- [ ] send the XML information to the frontend
+
+## Tools Needed:
+- Git
+- Node/npm
+- Python/pip
+  - Python Flask
+  - Python BeautifulSoup (if we're using that)
 
 ## Running the frontend
 
@@ -20,9 +35,10 @@ OR
 git clone https://github.com/West-Campus-Coders/501c3info.git
 ```
 
-install npm packages (make sure you're in the frontend directory)
+install npm packages for the frontend
 
 ```sh 
+cd frontend
 npm i 
 ```
 
@@ -31,3 +47,20 @@ run the website
 ```sh 
 npm run dev
 ```
+
+## Running the backend API
+
+PREREQUISITES: Flask must be installed
+```sh 
+pip install Flask
+```
+
+run the backend flask server
+```sh
+cd backend
+flask run 
+```
+
+## Using the website
+
+Once you have both frontend and backend running (on the same machine), you can use the <code>localhost</code> as the IP address as the input for the frontend.
