@@ -66,15 +66,6 @@ us_state_to_abbrev = {
 
 abbrev_to_us_state = dict(map(reversed, us_state_to_abbrev.items()))
 
-#FUNCTION: Using pandas delete all rows except EIN, Company Name, and form type
-#data = pd.read_csv('index_2023.csv')
-#data.drop('RETURN_ID', inplace=True, axis=1)
-#data.drop('FILING_TYPE', inplace=True, axis=1)
-#data.drop('TAX_PERIOD', inplace=True, axis=1)
-#data.drop('SUB_DATE', inplace=True, axis=1)
-#data.drop('DLN', inplace=True, axis=1)
-#data.drop('OBJECT_ID', inplace=True, axis=1)
-#data_list = data.to_dict('records')
 
 #sqlITE FUNCTIONS
 con = sqlite3.connect("Organizations.db")
@@ -120,7 +111,7 @@ def xml990(soup):
     state = abbrev_to_us_state[soup.Filer.USAddress.StateAbbreviationCd.string]
     trev = soup.ReturnData.IRS990.GrossReceiptsAmt.string
     tGiven = 0
-    tass = soup.ReturnData.IRS.string
+    tass = soup.ReturnData.IRS990.TotalAssetsEOYAmt.string
     insertVariableIntoTable(ein, name, return_type, city, state, trev, tGiven, tass)
 
 def xml990pf(soup):
@@ -134,22 +125,20 @@ def xml990pf(soup):
     tass = soup.ReturnData.IRS990PF.FMVAssetsEOYAmt.string
     insertVariableIntoTable(ein, name, return_type, city, state, trev, tGiven, tass)
 
-
-
-
     
 path = r"C:\Users\goshe\Documents\501c3-info\501c3info-master\XML\2023_TEOS_XML_03A"
 for (dirpath, dirnames, filenames) in os.walk(path):
     for filename in filenames:
         soup = BeautifulSoup(open(os.path.join(dirpath, filename), "r"), "xml")
         try:    
-            return_type = soup.ReturnTypeCd.string
-            if return_type == "990EZ":
-                xml990ez(soup)
-                print("EZ DETECTED")
-            elif return_type == "990":
+            finder = soup.find('ReturnTypeCd')
+            return_type = finder.get_text()
+            if return_type == "990":
                 xml990(soup)
                 print("990 DETECTED")
+            elif return_type == "990EZ":
+                xml990ez(soup)
+                print("EZ DETECTED")
             elif return_type == "990PF":
                 xml990pf(soup)
                 print("PF DETECTED")
@@ -157,5 +146,8 @@ for (dirpath, dirnames, filenames) in os.walk(path):
                 print("skipped")
                 continue 
         except AttributeError as Error:
-            print("EIN detected as Nonetype moving on to next entry", Error)
+            print("EIN detected as Nonetype moving on to next entry", Error) 
+
+
+
 
