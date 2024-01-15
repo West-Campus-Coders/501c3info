@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2022v5.0">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-03-22T18:26:33-04:00</ReturnTs>
+    <TaxPeriodEndDt>2022-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>813444841</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>RON MCCLUNG CPA LLC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>345 WALNUT STREET</AddressLine1Txt>
+        <CityNm>COLORADO CITY</CityNm>
+        <StateAbbreviationCd>TX</StateAbbreviationCd>
+        <ZIPCd>795126219</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>206763749</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>JUDGE RAYMOND FULLER CHARITABLE</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>TESTAMENTARY TRUST</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>FULL</BusinessNameControlTxt>
+      <PhoneNum>3259447528</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>P O BOX 3782</AddressLine1Txt>
+        <CityNm>SAN ANGELO</CityNm>
+        <StateAbbreviationCd>TX</StateAbbreviationCd>
+        <ZIPCd>76902</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>TEXAS STATE BANK</PersonNm>
+      <PersonTitleTxt>CO-TRUSTEE</PersonTitleTxt>
+      <PhoneNum>3259447528</PhoneNum>
+      <SignatureDt>2023-03-20</SignatureDt>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>TEXAS STATE</PersonFirstNm>
+        <PersonLastNm>BANK</PersonLastNm>
+      </PersonFullName>
+      <SSN>XXX-XX-XXXX</SSN>
+    </SigningOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>RON MCCLUNG</PreparerPersonNm>
+      <PTIN>P01981371</PTIN>
+      <PhoneNum>3257282452</PhoneNum>
+      <PreparationDt>2023-03-22</PreparationDt>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="10">
+    <IRS990PF documentId="RetDoc11">
+      <AddressChangeInd>X</AddressChangeInd>
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>0</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>13368</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>13037</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>41042</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>41042</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt referenceDocumentId="RetDoc3">105658</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>812023</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>95911</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="RetDoc9">2129</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>199</OtherIncomeNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>162197</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>150189</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>15270</CompOfcrDirTrstRevAndExpnssAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2">1900</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>1900</AccountingFeesNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc10">6281</TaxesRevAndExpnssAmt>
+        <TotOprExpensesRevAndExpnssAmt>23451</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>1900</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>350004</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>350004</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>373455</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>1900</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>350004</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-211258</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>148289</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>189</CashBOYAmt>
+        <CashEOYAmt>269</CashEOYAmt>
+        <USGovernmentObligationsBOYAmt>111366</USGovernmentObligationsBOYAmt>
+        <USGovernmentObligationsEOYAmt referenceDocumentId="RetDoc6">27454</USGovernmentObligationsEOYAmt>
+        <CorporateStockBOYAmt>2254394</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc5">1824484</CorporateStockEOYAmt>
+        <CorporateBondsBOYAmt>361778</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="RetDoc4">664262</CorporateBondsEOYAmt>
+        <OtherInvestmentsBOYAmt>2</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="RetDoc7">2</OtherInvestmentsEOYAmt>
+        <TotalAssetsBOYAmt>2727729</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>2516471</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>0</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <RetainedEarningBOYAmt>2727729</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>2516471</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>2727729</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>2516471</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>2727729</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>2516471</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>2727729</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-211258</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>2516471</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>2516471</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapitalGainNetIncomeAmt>95911</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>2061</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>2061</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>2061</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>3336</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>3336</TotalPaymentsAndCreditsAmt>
+        <Form2220AttachedInd referenceDocumentId="RetDoc1">X</Form2220AttachedInd>
+        <EsPenaltyAmt>14</EsPenaltyAmt>
+        <OverpaymentAmt>1261</OverpaymentAmt>
+        <AppliedToESTaxAmt>1261</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>TX</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>TEXAS STATE BANK</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>3259447528</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>P O BOX 3782</AddressLine1Txt>
+          <CityNm>SAN ANGELO</CityNm>
+          <StateAbbreviationCd>TX</StateAbbreviationCd>
+          <ZIPCd>76902</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>TEXAS STATE BANK</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>P O BOX 3782</AddressLine1Txt>
+            <CityNm>SAN ANGELO</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>76902</ZIPCd>
+          </USAddress>
+          <TitleTxt>CO-TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>15270</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>TEXAS A &amp; M FOUNDATION</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>401 GEORGE BUSH DRIVE</AddressLine1Txt>
+            <CityNm>COLLEGE STATION</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>778402811</ZIPCd>
+          </USAddress>
+          <TitleTxt>CO-TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>3513017</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>60859</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>3573876</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>3573876</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>53608</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>3520268</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>176013</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>176013</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>2061</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>2061</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>173952</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>173952</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>173952</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>350004</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>350004</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>173952</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>87938</UndistributedIncomePYAmt>
+        <QualifyingDistributionsAmt>350004</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>87938</AppliedToYear1Amt>
+        <AppliedToCurrentYearAmt>173952</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>88114</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>88114</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>88114</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromCurrentYearAmt>88114</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>TEXAS A M FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>401 GEORGE BUSH DRIVE</AddressLine1Txt>
+            <AddressLine2Txt>401 GEORGE BUSH DRIVE</AddressLine2Txt>
+            <CityNm>COLLEGE STATION</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>778402811</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIPS</GrantOrContributionPurposeTxt>
+          <Amt>194091</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>TEXAS A M DEVELOPMENT</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>401 GEORGE BUSH DRIVE</AddressLine1Txt>
+            <AddressLine2Txt>401 GEORGE BUSH DRIVE</AddressLine2Txt>
+            <CityNm>COLLEGE STATION</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>778412811</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIPS</GrantOrContributionPurposeTxt>
+          <Amt>155913</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>350004</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <RelatedOrExemptFunctionIncmAmt>13368</RelatedOrExemptFunctionIncmAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <RelatedOrExemptFunctionIncmAmt>41042</RelatedOrExemptFunctionIncmAmt>
+        </DividendsAndInterestFromSecDtl>
+        <OtherInvestmentIncomeGrp>
+          <RelatedOrExemptFunctionIncmAmt>199</RelatedOrExemptFunctionIncmAmt>
+        </OtherInvestmentIncomeGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>105658</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>MISC REVENUE ADJUSTMENTS</Desc>
+          <RelatedOrExemptFunctionIncmAmt>1930</RelatedOrExemptFunctionIncmAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <RelatedOrExemptFunctionIncmAmt>162197</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>162197</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>4</LineNumberTxt>
+          <RelationshipStatementTxt>100% OF NET INCOME CONTRIBUTED TO THE TEXAS A &amp; M</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>4</LineNumberTxt>
+          <RelationshipStatementTxt>FOUNDATION, A 501(C)(3) ORGANIZATION.</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>3</LineNumberTxt>
+          <RelationshipStatementTxt>SAME</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>8</LineNumberTxt>
+          <RelationshipStatementTxt>SAME</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>7</LineNumberTxt>
+          <RelationshipStatementTxt>SAME</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+      </RlnOfActyToAccomOfExmptPrpsGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFeesDetail>
+        <CategoryTxt>RON MCCLUNG CPA LLC</CategoryTxt>
+        <Amt>1900</Amt>
+        <NetInvestmentIncomeAmt>1900</NetInvestmentIncomeAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc3">
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>FEDERATED-HERMES MAX CAP INDEX</AssetDesc>
+        <AcquiredDt>2021-09</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2022-06</SoldDt>
+        <GrossSalesPriceAmt>8</GrossSalesPriceAmt>
+        <BasisAmt>10</BasisAmt>
+        <TotalNetAmt>-2</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>FEDERATED HERMES CORP BOND</AssetDesc>
+        <AcquiredDt>2021-07</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2022-04</SoldDt>
+        <GrossSalesPriceAmt>1171</GrossSalesPriceAmt>
+        <BasisAmt>1299</BasisAmt>
+        <TotalNetAmt>-128</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>HARBOR INTERNATIONAL</AssetDesc>
+        <AcquiredDt>2021-12</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2022-04</SoldDt>
+        <GrossSalesPriceAmt>1600</GrossSalesPriceAmt>
+        <BasisAmt>1686</BasisAmt>
+        <TotalNetAmt>-86</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>FEDERATED HERMES CORP BOND</AssetDesc>
+        <AcquiredDt>2011-10</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2022-04</SoldDt>
+        <GrossSalesPriceAmt>49127</GrossSalesPriceAmt>
+        <BasisAmt>52195</BasisAmt>
+        <TotalNetAmt>-3068</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>FIDELITY ADVISOR STRATEGIC INCOIME</AssetDesc>
+        <AcquiredDt>2021-07</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2022-08</SoldDt>
+        <GrossSalesPriceAmt>5861</GrossSalesPriceAmt>
+        <BasisAmt>6415</BasisAmt>
+        <TotalNetAmt>-554</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>FORD MOTOR CREDIT CO LLC</AssetDesc>
+        <AcquiredDt>2016-11</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2022-02</SoldDt>
+        <GrossSalesPriceAmt>100418</GrossSalesPriceAmt>
+        <BasisAmt>99200</BasisAmt>
+        <TotalNetAmt>1218</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>GOODYEAR TIRE &amp; RUBBER CO</AssetDesc>
+        <AcquiredDt>2019-02</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2022-02</SoldDt>
+        <GrossSalesPriceAmt>150915</GrossSalesPriceAmt>
+        <BasisAmt>138353</BasisAmt>
+        <SalesExpenseAmt>1014</SalesExpenseAmt>
+        <TotalNetAmt>11548</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>HABROR INTERNATIONAL</AssetDesc>
+        <AcquiredDt>2015-02</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2022-04</SoldDt>
+        <GrossSalesPriceAmt>75808</GrossSalesPriceAmt>
+        <BasisAmt>89422</BasisAmt>
+        <TotalNetAmt>-13614</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>MFS INTERNATIONAL VALUE</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2022-12</SoldDt>
+        <GrossSalesPriceAmt>128215</GrossSalesPriceAmt>
+        <BasisAmt>144174</BasisAmt>
+        <TotalNetAmt>-15959</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>FEDERATED HERMES MAX CAP INDEX</AssetDesc>
+        <AcquiredDt>2007-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2022-06</SoldDt>
+        <GrossSalesPriceAmt>48</GrossSalesPriceAmt>
+        <BasisAmt>55</BasisAmt>
+        <TotalNetAmt>-7</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>FIDELITY ADVISOR STRATEGIC INC</AssetDesc>
+        <AcquiredDt>2006-09</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2022-08</SoldDt>
+        <GrossSalesPriceAmt>152941</GrossSalesPriceAmt>
+        <BasisAmt>145520</BasisAmt>
+        <TotalNetAmt>7421</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>FIDELITY VALUE</AssetDesc>
+        <AcquiredDt>2007-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2022-06</SoldDt>
+        <GrossSalesPriceAmt>50000</GrossSalesPriceAmt>
+        <BasisAmt>27022</BasisAmt>
+        <TotalNetAmt>22978</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc4">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>AFLAC INC</BondNm>
+        <EOYBookValueAmt>25661</EOYBookValueAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>FORD MOTOR CREDIT CO LLC</BondNm>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CATERPILLAR INC</BondNm>
+        <EOYBookValueAmt>48928</EOYBookValueAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>GOODYEAR TIRE &amp; RUBBER CO</BondNm>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>BANK OF AMERICA</BondNm>
+        <EOYBookValueAmt>49524</EOYBookValueAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>COMCAST CORP</BondNm>
+        <EOYBookValueAmt>49180</EOYBookValueAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>NEVEDA POWER CO</BondNm>
+        <EOYBookValueAmt>25470</EOYBookValueAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CITIGROUP INC</BondNm>
+        <EOYBookValueAmt>25000</EOYBookValueAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>COCA COLA CO</BondNm>
+        <EOYBookValueAmt>24813</EOYBookValueAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>DEERE &amp; CO</BondNm>
+        <EOYBookValueAmt>50651</EOYBookValueAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>GENERAL DYNAMICS CORP</BondNm>
+        <EOYBookValueAmt>25283</EOYBookValueAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>HOINEYWELL INTERNATIONAL</BondNm>
+        <EOYBookValueAmt>49502</EOYBookValueAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>PROGRESSIVE CORP</BondNm>
+        <EOYBookValueAmt>49024</EOYBookValueAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>PUBLIC STORAGE</BondNm>
+        <EOYBookValueAmt>25162</EOYBookValueAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>PUBLIC STORAGE</BondNm>
+        <EOYBookValueAmt>25000</EOYBookValueAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CHARLES SCHWAB CORP</BondNm>
+        <EOYBookValueAmt>25071</EOYBookValueAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>STATE STREET CORP</BondNm>
+        <EOYBookValueAmt>24774</EOYBookValueAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>UNITED PARCEL SERVICE</BondNm>
+        <EOYBookValueAmt>25281</EOYBookValueAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CORPUS CHRISTI TX-GEN OBLIG</BondNm>
+        <EOYBookValueAmt>18177</EOYBookValueAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CORPUS CHRISTI TX-UTIL REV</BondNm>
+        <EOYBookValueAmt>48465</EOYBookValueAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>TEXAS A&amp;M UNIVERSITY-REV D</BondNm>
+        <EOYBookValueAmt>49296</EOYBookValueAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc5">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>FIDELITY ADV STRATEGIC FUND</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>FIDELITY VALUE FUND</StockNm>
+        <EOYBookValueAmt>347071</EOYBookValueAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>FIDELITY SMALL CAP FUND</StockNm>
+        <EOYBookValueAmt>367813</EOYBookValueAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>FIDELITY STRATEGIC FUND</StockNm>
+        <EOYBookValueAmt>411021</EOYBookValueAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>FIDELITY INTIL INDEX FUND</StockNm>
+        <EOYBookValueAmt>262342</EOYBookValueAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>HARBOUR INTL FUND</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MFS INTL VALUE</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>FIDELITY 500 INDEX FUND</StockNm>
+        <EOYBookValueAmt>121203</EOYBookValueAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VANGUARD INDEX 500</StockNm>
+        <EOYBookValueAmt>119092</EOYBookValueAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>FEDERATED HERMES CORP BOND</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>FEDERATED HERMES MAX CAP INDEX</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>FIRST TRUST VALUE LINE DIV INDEX</StockNm>
+        <EOYBookValueAmt>20694</EOYBookValueAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ISHARES MORNINGSTAR LARGE CAP</StockNm>
+        <EOYBookValueAmt>19857</EOYBookValueAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ISHARES CORE S&amp;P TOTAL US FRMRLY</StockNm>
+        <EOYBookValueAmt>15156</EOYBookValueAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ISHARES MSCI USA ESG SELECT</StockNm>
+        <EOYBookValueAmt>15299</EOYBookValueAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ISHARES EDGE MSCI USA QUALITY</StockNm>
+        <EOYBookValueAmt>9737</EOYBookValueAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VANGUARD DIV APPRECIATION</StockNm>
+        <EOYBookValueAmt>14906</EOYBookValueAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VANGUARD LARGE CAP INDEX</StockNm>
+        <EOYBookValueAmt>18938</EOYBookValueAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VANGUARD GROWTH INDEX</StockNm>
+        <EOYBookValueAmt>16961</EOYBookValueAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VANGUARD TOTAL STOCK MARKET</StockNm>
+        <EOYBookValueAmt>15255</EOYBookValueAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>INVESCO HIGH YIELD EQUITY DIV ACH</StockNm>
+        <EOYBookValueAmt>20365</EOYBookValueAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ISHARES RUSSELL MIDCAP VALUE</StockNm>
+        <EOYBookValueAmt>11930</EOYBookValueAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ISHARES RUSSELL MIDCAP INDEX</StockNm>
+        <EOYBookValueAmt>16844</EOYBookValueAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="RetDoc6">
+      <USGovtObligationsBookVlEOYAmt>27454</USGovtObligationsBookVlEOYAmt>
+    </InvestmentsGovtObligationsSch>
+    <InvestmentsOtherSchedule2 documentId="RetDoc7">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>OIL LEASES</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>2</BookValueAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <OtherAssetsSchedule documentId="RetDoc8">
+      <OtherAssetsScheduleGrp>
+        <Desc>ACCOUNTS REC-DIVIDENDS</Desc>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>ACCOUNTS REC-LONG TERM CAP GAIN</Desc>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc9">
+      <OtherIncomeDetail>
+        <Desc>OIL ROYALTIES</Desc>
+        <RevenueAndExpensesPerBooksAmt>199</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>199</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>MISC REVENUE ADJUSTMENTS</Desc>
+        <RevenueAndExpensesPerBooksAmt>1930</RevenueAndExpensesPerBooksAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <TaxesSchedule documentId="RetDoc10">
+      <TaxesDetail>
+        <CategoryTxt>PROPERTY TAX</CategoryTxt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>EXCISE TAXES-IRS</CategoryTxt>
+        <Amt>5358</Amt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAX PAID</CategoryTxt>
+        <Amt>908</Amt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>WIRE FEE</CategoryTxt>
+        <Amt>15</Amt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

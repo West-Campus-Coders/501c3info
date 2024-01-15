@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xsi:schemaLocation="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2021v4.3">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-03-04T09:05:51-06:00</ReturnTs>
+    <TaxPeriodEndDt>2022-06-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>440160260</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>FORVIS LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>111 E Wayne St Suite 600</AddressLine1Txt>
+        <CityNm>Fort Wayne</CityNm>
+        <StateAbbreviationCd>IN</StateAbbreviationCd>
+        <ZIPCd>46802</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990T</ReturnTypeCd>
+    <TaxPeriodBeginDt>2021-07-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>344428207</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>BLUFFTON UNIVERSITY</BusinessNameLine1Txt>
+      </BusinessName>
+      <InCareOfNm>% VICE PRESIDENT FISCAL AFFAIR</InCareOfNm>
+      <BusinessNameControlTxt>BLUF</BusinessNameControlTxt>
+      <PhoneNum>4193583000</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>1 UNIVERSITY DRIVE</AddressLine1Txt>
+        <CityNm>BLUFFTON</CityNm>
+        <StateAbbreviationCd>OH</StateAbbreviationCd>
+        <ZIPCd>45817</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>DR JANE M WOOD</PersonNm>
+      <PersonTitleTxt>PRESIDENT</PersonTitleTxt>
+      <PhoneNum>4193583000</PhoneNum>
+      <SignatureDt>2022-05-15</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>ARTHUR</PersonFirstNm>
+        <PersonLastNm>WOODRUFF</PersonLastNm>
+      </PersonFullName>
+      <SSN>999009999</SSN>
+    </SigningOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Anne E White</PreparerPersonNm>
+      <PTIN>P01708202</PTIN>
+      <PhoneNum>2604604000</PhoneNum>
+    </PreparerPersonGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp>
+        <TrustedCustomerCd>2</TrustedCustomerCd>
+      </TrustedCustomerGrp>
+    </AdditionalFilerInformation>
+    <TaxYr>2021</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="1">
+    <IRS990T documentId="IRS990T">
+      <Organization501IndicatorGrp>
+        <Organization501Ind>X</Organization501Ind>
+        <Organization501cTypeTxt>c3</Organization501cTypeTxt>
+      </Organization501IndicatorGrp>
+      <BookValueAssetsEOYAmt>69788425</BookValueAssetsEOYAmt>
+      <Organization501cCorporationInd>X</Organization501cCorporationInd>
+      <SubsidiaryCorporationInd>false</SubsidiaryCorporationInd>
+      <BooksInCareOfDetail>
+        <BusinessName>
+          <BusinessNameLine1Txt>VICE PRESIDENT FISCAL AFFAIRS</BusinessNameLine1Txt>
+        </BusinessName>
+        <USAddress>
+          <AddressLine1Txt>1 UNIVERSITY DRIVE</AddressLine1Txt>
+          <CityNm>BLUFFTON</CityNm>
+          <StateAbbreviationCd>OH</StateAbbreviationCd>
+          <ZIPCd>45817</ZIPCd>
+        </USAddress>
+        <PhoneNum>4193583000</PhoneNum>
+      </BooksInCareOfDetail>
+      <TotalUBTIAmt>0</TotalUBTIAmt>
+      <TaxableCorporationAmt>0</TaxableCorporationAmt>
+      <TotalTaxComputationAmt>0</TotalTaxComputationAmt>
+      <TaxLessCreditsAmt>0</TaxLessCreditsAmt>
+      <TotalTaxAmt>0</TotalTaxAmt>
+      <BalanceDueAmt>0</BalanceDueAmt>
+      <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      <ForeignTrustQuestionInd>false</ForeignTrustQuestionInd>
+      <ChangeInMethodOfAccountingInd>false</ChangeInMethodOfAccountingInd>
+      <ItmzdSupplementalInfoGrp>
+        <PartNum>1</PartNum>
+        <LineNum>1</LineNum>
+        <ExplanationTxt>THE TAXPAYER DOES NOT HAVE ANY ACTIVITIES GENERATING UNRELATED</ExplanationTxt>
+      </ItmzdSupplementalInfoGrp>
+    </IRS990T>
+  </ReturnData>
+</Return>

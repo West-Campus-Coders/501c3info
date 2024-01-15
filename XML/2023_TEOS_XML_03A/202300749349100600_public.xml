@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2021v4.0">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-03-14T16:23:38-04:00</ReturnTs>
+    <TaxPeriodEndDt>2022-10-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>352068119</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>NARAGON &amp; PURDY INC CPAS</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>PO BOX 125</AddressLine1Txt>
+        <CityNm>NORTH MANCHESTER</CityNm>
+        <StateAbbreviationCd>IN</StateAbbreviationCd>
+        <ZIPCd>469620125</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2021-11-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>356392619</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>MARY B SMOKER CHARITABLE TUW</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>MARY</BusinessNameControlTxt>
+      <PhoneNum>2609823808</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>106 N MARKET ST</AddressLine1Txt>
+        <CityNm>NORTH MANCHESTER</CityNm>
+        <StateAbbreviationCd>IN</StateAbbreviationCd>
+        <ZIPCd>46962</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>FIRST FINANCIAL BANK</PersonNm>
+      <PersonTitleTxt>TRUSTEE</PersonTitleTxt>
+      <PhoneNum>2609823808</PhoneNum>
+      <SignatureDt>2022-03-13</SignatureDt>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>MALLORY</PersonFirstNm>
+        <PersonLastNm>SANDERS</PersonLastNm>
+      </PersonFullName>
+      <SSN>XXX-XX-XXXX</SSN>
+    </SigningOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>DANIEL P NARAGON CPA</PreparerPersonNm>
+      <PTIN>P00005650</PTIN>
+      <PhoneNum>2609829500</PhoneNum>
+      <PreparationDt>2023-03-14</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2021</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="8">
+    <IRS990PF documentId="RetDoc10" referenceDocumentId="RetDoc8">
+      <Organization4947a1TrtdPFInd>X</Organization4947a1TrtdPFInd>
+      <FMVAssetsEOYAmt>847486</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>40</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>40</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>6536</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>6536</DividendsNetInvstIncmAmt>
+        <GrossRentsRevAndExpnssAmt>15720</GrossRentsRevAndExpnssAmt>
+        <GrossRentsNetInvstIncmAmt>15720</GrossRentsNetInvstIncmAmt>
+        <NetRentalIncomeOrLossAmt>14106</NetRentalIncomeOrLossAmt>
+        <NetGainSaleAstRevAndExpnssAmt>2250</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>88567</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>2250</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>24546</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>24546</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>4469</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>3269</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>1200</CompOfcrDirTrstDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc1">2830</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>1415</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>1415</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc6">697</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>697</OtherProfFeesNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc7">1717</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>917</TaxesNetInvstIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc5">685</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>685</OtherExpensesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>10398</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>6983</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>2615</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>35300</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>35300</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>45698</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>6983</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>37915</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-21152</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>17563</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>8995</CashBOYAmt>
+        <CashEOYAmt>8860</CashEOYAmt>
+        <CashEOYFMVAmt>8860</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>7319</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>4904</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>4904</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>183747</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc2">164984</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>153430</CorporateStockEOYFMVAmt>
+        <LandBldgEquipCostOrOtherBssAmt>97000</LandBldgEquipCostOrOtherBssAmt>
+        <LandBOYAmt>97000</LandBOYAmt>
+        <LandEOYAmt referenceDocumentId="RetDoc3">97000</LandEOYAmt>
+        <LandEOYFMVAmt>680000</LandEOYFMVAmt>
+        <OtherAssetsBOYAmt referenceDocumentId="RetDoc4">131</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt referenceDocumentId="RetDoc4">292</OtherAssetsEOYAmt>
+        <OtherAssetsEOYFMVAmt referenceDocumentId="RetDoc4">292</OtherAssetsEOYFMVAmt>
+        <TotalAssetsBOYAmt>297192</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>276040</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>847486</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsFASB117Ind>X</OrganizationFollowsFASB117Ind>
+        <NoDonorRstrNetAssestsBOYAmt>297192</NoDonorRstrNetAssestsBOYAmt>
+        <NoDonorRstrNetAssestsEOYAmt>276040</NoDonorRstrNetAssestsEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>297192</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>276040</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>297192</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>276040</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>297192</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-21152</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>276040</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>276040</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>SEE ATTACHED - G/L DETAIL (SHORT)</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>42076</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>43951</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1875</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1875</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>SEE ATTACHED - G/L DETAIL (LONG)</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>45066</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>42366</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2700</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2700</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>WASH SALE ADJ (CODE W - SHORT)</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>377</GrossSalesPriceAmt>
+          <GainOrLossAmt>377</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>377</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>WASH SALE ADJ (CODE W - LONG)</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>357</GrossSalesPriceAmt>
+          <GainOrLossAmt>357</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>357</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>2250</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>244</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>244</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>244</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>494</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>494</TotalPaymentsAndCreditsAmt>
+        <OverpaymentAmt>250</OverpaymentAmt>
+        <AppliedToESTaxAmt>250</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>IN</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>FIRST FINANCIAL BANK</BusinessNameLine1Txt>
+          <BusinessNameLine2Txt>FIRST FINANCIAL BANK</BusinessNameLine2Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>2609823808</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>106 N MARKET ST</AddressLine1Txt>
+          <CityNm>NORTH MANCHESTER</CityNm>
+          <StateAbbreviationCd>IN</StateAbbreviationCd>
+          <ZIPCd>46962</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <NECTFilingInLieuOFForm1041Ind>X</NECTFilingInLieuOFForm1041Ind>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>true</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>FIRST FINANCIAL BANK</BusinessNameLine1Txt>
+            <BusinessNameLine2Txt>FIRST FINANCIAL BANK</BusinessNameLine2Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>106 N MARKET ST</AddressLine1Txt>
+            <CityNm>NORTH MANCHESTER</CityNm>
+            <StateAbbreviationCd>IN</StateAbbreviationCd>
+            <ZIPCd>46962</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>4469</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>186643</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>13443</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>593077</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>793163</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>793163</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>11897</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>781266</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>39063</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>39063</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>244</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>244</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>38819</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>38819</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>38819</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>37915</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>37915</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>38819</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>27939</UndistributedIncomePYAmt>
+        <QualifyingDistributionsAmt>37915</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>27939</AppliedToYear1Amt>
+        <AppliedToCurrentYearAmt>9976</AppliedToCurrentYearAmt>
+        <UndistributedIncomeCYAmt>28843</UndistributedIncomeCYAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>BURLINGTON UNITED METHODIST CHURCH</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>113 W 10TH ST</AddressLine1Txt>
+            <CityNm>BURLINGTON</CityNm>
+            <StateAbbreviationCd>IN</StateAbbreviationCd>
+            <ZIPCd>46915</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE</GrantOrContributionPurposeTxt>
+          <Amt>17650</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>BURLINGTON CEMETERY ASSN</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 373</AddressLine1Txt>
+            <CityNm>BURLINGTON</CityNm>
+            <StateAbbreviationCd>IN</StateAbbreviationCd>
+            <ZIPCd>469290373</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE</GrantOrContributionPurposeTxt>
+          <Amt>17650</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>35300</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>40</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>6536</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <NetRntlIncmReNotDebtFincdProp>
+          <ExclusionCd>16</ExclusionCd>
+          <ExclusionAmt>14106</ExclusionAmt>
+        </NetRntlIncmReNotDebtFincdProp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>2250</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>22932</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>22932</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc1">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTANT - 990PF</CategoryTxt>
+        <Amt>2830</Amt>
+        <NetInvestmentIncomeAmt>1415</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>1415</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PER ATTACHED ACCOUNT HOLDINGS</StockNm>
+        <EOYBookValueAmt>164984</EOYBookValueAmt>
+        <EOYFMVAmt>153430</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <LandEtcSchedule2 documentId="RetDoc3">
+      <LandEtcGrp>
+        <CategoryOrItemTxt>54 A, BURLINGTON, INDIANA</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>97000</CostOrOtherBasisAmt>
+        <BookValueAmt>97000</BookValueAmt>
+        <EOYFMVAmt>680000</EOYFMVAmt>
+      </LandEtcGrp>
+    </LandEtcSchedule2>
+    <OtherAssetsSchedule documentId="RetDoc4">
+      <OtherAssetsScheduleGrp>
+        <Desc>ACCRUED INT/DIV REC'D IN NOV</Desc>
+        <BOYBookValueAmt>131</BOYBookValueAmt>
+        <EOYBookValueAmt>155</EOYBookValueAmt>
+        <EOYFMVAmt>155</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>UNIDENTIFIED BASIS ADJ - 10/31/22</Desc>
+        <EOYBookValueAmt>137</EOYBookValueAmt>
+        <EOYFMVAmt>137</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="RetDoc5">
+      <OtherExpensesScheduleGrp>
+        <Desc>EXPENSES</Desc>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>ADVERTISE/PROMOTE CHARITY</Desc>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>FARM APPRAISAL</Desc>
+        <RevenueAndExpensesPerBooksAmt>600</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>600</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>FARM INSURANCE</Desc>
+        <RevenueAndExpensesPerBooksAmt>85</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>85</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc6">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>FFB FARM MNGT FEES (ON LN 13)</CategoryTxt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>FARM 54A CARROLL COUNTY, IN</CategoryTxt>
+        <Amt>697</Amt>
+        <NetInvestmentIncomeAmt>697</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc7">
+      <TaxesDetail>
+        <CategoryTxt>990PF TAX PAYMENT</CategoryTxt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>990PF ESTIMATED TAX PAYMENTS</CategoryTxt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>990PF EXT PAYMENT</CategoryTxt>
+        <Amt>800</Amt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>FARM 54A CARROLL COUNTY, IN</CategoryTxt>
+        <Amt>917</Amt>
+        <NetInvestmentIncomeAmt>917</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

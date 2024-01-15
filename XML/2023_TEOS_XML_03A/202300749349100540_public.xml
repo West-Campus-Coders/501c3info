@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2022v4.1" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-03-15T13:05:41-07:00</ReturnTs>
+    <TaxPeriodEndDt>2022-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>454119992</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>GOOSSEN &amp; SCHULTZ CPAS LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>5215 N IRONWOOD RD SUITE 102</AddressLine1Txt>
+        <CityNm>GLENDALE</CityNm>
+        <StateAbbreviationCd>WI</StateAbbreviationCd>
+        <ZIPCd>53217</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>814713707</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>HARENBURG FAMILY FOUNDATION INC</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>HARE</BusinessNameControlTxt>
+      <PhoneNum>9204790194</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>6360 E DECORAH AVENUE</AddressLine1Txt>
+        <CityNm>OSHKOSH</CityNm>
+        <StateAbbreviationCd>WI</StateAbbreviationCd>
+        <ZIPCd>54902</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>THOMAS A HARENBURG</PersonNm>
+      <PersonTitleTxt>Director/Pres.</PersonTitleTxt>
+      <SignatureDt>2023-03-13</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>THOMAS A</PersonFirstNm>
+        <PersonLastNm>HARENBURG</PersonLastNm>
+      </PersonFullName>
+      <SSN>999009999</SSN>
+    </SigningOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>DAVID SCHULTZ</PreparerPersonNm>
+      <PTIN>P00024315</PTIN>
+      <PhoneNum>4149632900</PhoneNum>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp>
+        <TrustedCustomerCd>2</TrustedCustomerCd>
+        <AuthenticationAssuranceLevelCd>AAL1</AuthenticationAssuranceLevelCd>
+        <IdentityAssuranceLevelCd>IAL1</IdentityAssuranceLevelCd>
+        <FederatedAssuranceLevelCd>FAL1</FederatedAssuranceLevelCd>
+      </TrustedCustomerGrp>
+    </AdditionalFilerInformation>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="6">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="22015553" softwareVersionNum="2022v4.1">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>1843284</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>188</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>188</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>1244</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>1244</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>2643</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>2643</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>2643</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="OtherIncomeSchedule2">176618</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>176618</OtherIncomeNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>180693</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>180693</TotalNetInvstIncmAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="OtherProfessionalFeesSchedule">9875</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>9875</OtherProfFeesNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">3000</TaxesRevAndExpnssAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">162</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>162</OtherExpensesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>13037</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>10037</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>24950</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>24950</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>37987</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>10037</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>24950</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>142706</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>170656</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>80267</CashBOYAmt>
+        <CashEOYAmt>217778</CashEOYAmt>
+        <CashEOYFMVAmt>217778</CashEOYFMVAmt>
+        <CorporateStockBOYAmt>122476</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="InvestmentsCorpStockSchedule">127671</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>1625506</CorporateStockEOYFMVAmt>
+        <TotalAssetsBOYAmt>202743</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>345449</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>1843284</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <CapitalStockBOYAmt>202743</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>345449</CapitalStockEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>202743</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>345449</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>202743</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>345449</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>202743</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>142706</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>345449</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>345449</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Capital Gain Dividends</PropertyDesc>
+          <GainOrLossAmt>2643</GainOrLossAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>2643</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>2372</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>2372</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>2372</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>1749</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>1749</TotalPaymentsAndCreditsAmt>
+        <TaxDueAmt>623</TaxDueAmt>
+        <AppliedToESTaxAmt>0</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>WI</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>THE FOUNDATION</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>9204790194</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>6360 E DECORAH AVENUE</AddressLine1Txt>
+          <CityNm>OSHKOSH</CityNm>
+          <StateAbbreviationCd>WI</StateAbbreviationCd>
+          <ZIPCd>54902</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>THOMAS A HARENBURG</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>6360 E DECORAH AVENUE</AddressLine1Txt>
+            <CityNm>OSHKOSH</CityNm>
+            <StateAbbreviationCd>WI</StateAbbreviationCd>
+            <ZIPCd>54902</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director/Pres.</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>PENNY J HARENBURG</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>6360 E DECORAH AVENUE</AddressLine1Txt>
+            <CityNm>OSHKOSH</CityNm>
+            <StateAbbreviationCd>WI</StateAbbreviationCd>
+            <ZIPCd>54902</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>SCOT A HARENBURG</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3762 FOND DU LAC ROAD</AddressLine1Txt>
+            <CityNm>OSHKOSH</CityNm>
+            <StateAbbreviationCd>WI</StateAbbreviationCd>
+            <ZIPCd>54902</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR/V PRES</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>BECKI WATSON</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>709 N SOUTH LONG LAKE ROAD</AddressLine1Txt>
+            <CityNm>TRAVERSE CITY</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>49685</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>1669167</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>142274</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>1811441</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>1811441</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>27172</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>1784269</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>89213</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>89213</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>2372</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>2372</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>86841</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>86841</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>86841</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>24950</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>24950</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>86841</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>22333</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>4126</ExcessDistributionCyovYr4Amt>
+        <TotalExcessDistributionCyovAmt>26459</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>24950</QualifyingDistributionsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>24950</AppliedToCurrentYearAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>26459</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>26459</ExcessDistributionCyovAppCYAmt>
+        <UndistributedIncomeCYAmt>35432</UndistributedIncomeCYAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>THOMAS A HARENBURG</ContributingManagerNm>
+        <ContributingManagerNm>PENNY J HARENBURG</ContributingManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>OSHKOSH AREA UNITED WAY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>21 W NEW YORK AVE</AddressLine1Txt>
+            <CityNm>OSHKOSH</CityNm>
+            <StateAbbreviationCd>WI</StateAbbreviationCd>
+            <ZIPCd>54901</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT HEALTH, EDUCATION AND FINANCIAL STABILITY OF COMMUNITY MEMBERS</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>OSHKOSH AREA COMMUNITY FDN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>230 OHIO STREET - SUITE 100</AddressLine1Txt>
+            <CityNm>OSHKOSH</CityNm>
+            <StateAbbreviationCd>WI</StateAbbreviationCd>
+            <ZIPCd>54902</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SPECIAL OPPORTUNITIES FOR ARTIST RESIDENCIES</GrantOrContributionPurposeTxt>
+          <Amt>250</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>WINNEBAGO COUNTY SHERIFF OFFICE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4311 JACKSON STREET</AddressLine1Txt>
+            <CityNm>OSHKOSH</CityNm>
+            <StateAbbreviationCd>WI</StateAbbreviationCd>
+            <ZIPCd>54901</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>GOV</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PURCHASE POLICE SERVICE DOG AND HANDLER TRAINING</GrantOrContributionPurposeTxt>
+          <Amt>14700</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>PARK COUNTY COMMUNITY FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 2199</AddressLine1Txt>
+            <CityNm>LIVINGSTON</CityNm>
+            <StateAbbreviationCd>MT</StateAbbreviationCd>
+            <ZIPCd>59047</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PROVIDE GREATER OPPORTUNITY AND QUALITY OF LIFE FOR RESIDENTS OF PARK COUNTY</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>24950</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>188</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>1244</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <OtherInvestmentIncomeGrp>
+          <ExclusionCd>15</ExclusionCd>
+          <ExclusionAmt>176618</ExclusionAmt>
+        </OtherInvestmentIncomeGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>2643</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>180693</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>180693</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <InvestmentsCorpStockSchedule documentId="InvestmentsCorpStockSchedule" softwareId="22015553" softwareVersionNum="2022v4.1">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DIAMOND HILL LARGE CAP FUND CLASS I</StockNm>
+        <EOYBookValueAmt>57170</EOYBookValueAmt>
+        <EOYFMVAmt>54906</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>INOTIV, INC.</StockNm>
+        <EOYBookValueAmt>52406</EOYBookValueAmt>
+        <EOYFMVAmt>74100</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DORCHESTER MINERALS, L.P.</StockNm>
+        <EOYBookValueAmt>18095</EOYBookValueAmt>
+        <EOYFMVAmt>1496500</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="22015553" softwareVersionNum="2022v4.1">
+      <OtherExpensesScheduleGrp>
+        <Desc>ANNUAL MEETING</Desc>
+        <RevenueAndExpensesPerBooksAmt>152</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>152</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OFFICE EXPENSE</Desc>
+        <RevenueAndExpensesPerBooksAmt>10</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>10</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSchedule2" softwareId="22015553" softwareVersionNum="2022v4.1">
+      <OtherIncomeDetail>
+        <Desc>Other Investment Income</Desc>
+        <RevenueAndExpensesPerBooksAmt>176618</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>176618</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherProfessionalFeesSchedule documentId="OtherProfessionalFeesSchedule" softwareId="22015553" softwareVersionNum="2022v4.1">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>TAX PREPARATION AND ADVICE</CategoryTxt>
+        <Amt>9875</Amt>
+        <NetInvestmentIncomeAmt>9875</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="22015553" softwareVersionNum="2022v4.1">
+      <TaxesDetail>
+        <CategoryTxt>FEDERAL INCOME TAXES</CategoryTxt>
+        <Amt>3000</Amt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

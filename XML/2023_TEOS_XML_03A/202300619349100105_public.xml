@@ -1,0 +1,941 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.irs.gov/efile" returnVersion="2022v4.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-03-01T02:20:50-05:00</ReturnTs>
+    <TaxPeriodEndDt>2022-12-31</TaxPeriodEndDt>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>474233592</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>GSA FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <InCareOfNm>% GARY L AKERSTROM</InCareOfNm>
+      <BusinessNameControlTxt>GSAF</BusinessNameControlTxt>
+      <ForeignPhoneNum>7079729561</ForeignPhoneNum>
+      <USAddress>
+        <AddressLine1Txt>711 S CARSON ST STE 4</AddressLine1Txt>
+        <CityNm>CARSON CITY</CityNm>
+        <StateAbbreviationCd>NV</StateAbbreviationCd>
+        <ZIPCd>897015292</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>Gary L Akerstrom</PersonNm>
+      <PersonTitleTxt>Director</PersonTitleTxt>
+      <SignatureDt>2023-03-01</SignatureDt>
+    </BusinessOfficerGrp>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="18">
+    <IRS990PF documentId="IRS990PF" softwareId="22016104" softwareVersionNum="V1.0" documentName="IRS990PF" referenceDocumentName="ReasonableCauseExplanation GeneralExplanationAttachment BinaryAttachment">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>567360</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>0</ContriRcvdRevAndExpnssAmt>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>0</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>0</InterestOnSavNetInvstIncmAmt>
+        <InterestOnSavingsAdjNetIncmAmt>0</InterestOnSavingsAdjNetIncmAmt>
+        <DividendsRevAndExpnssAmt>0</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>0</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>0</DividendsAdjNetIncmAmt>
+        <GrossRentsRevAndExpnssAmt>0</GrossRentsRevAndExpnssAmt>
+        <GrossRentsNetInvstIncmAmt>0</GrossRentsNetInvstIncmAmt>
+        <GrossRentsAdjNetIncmAmt>0</GrossRentsAdjNetIncmAmt>
+        <NetRentalIncomeOrLossAmt>0</NetRentalIncomeOrLossAmt>
+        <NetGainSaleAstRevAndExpnssAmt referenceDocumentId="GainLossFromSaleOtherAstSch1" referenceDocumentName="GainLossFromSaleOtherAssetsSchedule">176531</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>401376</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>154304</CapGainNetIncmNetInvstIncmAmt>
+        <NetSTCapitalGainAdjNetIncmAmt>22227</NetSTCapitalGainAdjNetIncmAmt>
+        <IncmModificationsAdjNetIncmAmt>0</IncmModificationsAdjNetIncmAmt>
+        <GrossSalesLessRetAndAllwncAmt>0</GrossSalesLessRetAndAllwncAmt>
+        <CostOfGoodsSoldAmt>0</CostOfGoodsSoldAmt>
+        <GrossProfitRevAndExpnssAmt referenceDocumentName="SalesOfInventorySchedule">0</GrossProfitRevAndExpnssAmt>
+        <GrossProfitAdjNetIncmAmt>0</GrossProfitAdjNetIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentName="OtherIncomeSchedule2">0</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>0</OtherIncomeNetInvstIncmAmt>
+        <OtherIncomeAdjNetIncmAmt>0</OtherIncomeAdjNetIncmAmt>
+        <TotalRevAndExpnssAmt>176531</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>154304</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>22227</TotalAdjNetIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>0</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>0</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstAdjNetIncmAmt>0</CompOfcrDirTrstAdjNetIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>0</CompOfcrDirTrstDsbrsChrtblAmt>
+        <OthEmplSlrsWgsRevAndExpnssAmt>0</OthEmplSlrsWgsRevAndExpnssAmt>
+        <OthEmplSlrsWgsNetInvstIncmAmt>0</OthEmplSlrsWgsNetInvstIncmAmt>
+        <OthEmplSlrsWgsAdjNetIncmAmt>0</OthEmplSlrsWgsAdjNetIncmAmt>
+        <OthEmplSlrsWgsDsbrsChrtblAmt>0</OthEmplSlrsWgsDsbrsChrtblAmt>
+        <PensionEmplBnftRevAndExpnssAmt>0</PensionEmplBnftRevAndExpnssAmt>
+        <PensionEmplBnftNetInvstIncmAmt>0</PensionEmplBnftNetInvstIncmAmt>
+        <PensionEmplBnftAdjNetIncmAmt>0</PensionEmplBnftAdjNetIncmAmt>
+        <PensionEmplBnftDsbrsChrtblAmt>0</PensionEmplBnftDsbrsChrtblAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentName="LegalFeesSchedule">0</LegalFeesRevAndExpnssAmt>
+        <LegalFeesNetInvstIncmAmt>0</LegalFeesNetInvstIncmAmt>
+        <LegalFeesAdjNetIncmAmt>0</LegalFeesAdjNetIncmAmt>
+        <LegalFeesDsbrsChrtblAmt>0</LegalFeesDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSch1" referenceDocumentName="AccountingFeesSchedule">274</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>274</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesAdjNetIncmAmt>274</AccountingFeesAdjNetIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>274</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentName="OtherProfessionalFeesSchedule">0</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>0</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesAdjNetIncmAmt>0</OtherProfFeesAdjNetIncmAmt>
+        <OtherProfFeesDsbrsChrtblAmt>0</OtherProfFeesDsbrsChrtblAmt>
+        <InterestRevAndExpnssAmt>0</InterestRevAndExpnssAmt>
+        <InterestNetInvstIncmAmt>0</InterestNetInvstIncmAmt>
+        <InterestAdjNetIncmAmt>0</InterestAdjNetIncmAmt>
+        <InterestDsbrsChrtblAmt>0</InterestDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSch1" referenceDocumentName="TaxesSchedule">3696</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>0</TaxesNetInvstIncmAmt>
+        <TaxesAdjNetIncmAmt>0</TaxesAdjNetIncmAmt>
+        <TaxesDsbrsChrtblAmt>0</TaxesDsbrsChrtblAmt>
+        <DeprecAndDpltnRevAndExpnssAmt referenceDocumentName="DepreciationSchedule">0</DeprecAndDpltnRevAndExpnssAmt>
+        <DeprecAndDpltnNetInvstIncmAmt>0</DeprecAndDpltnNetInvstIncmAmt>
+        <DeprecAndDpltnAdjNetIncmAmt>0</DeprecAndDpltnAdjNetIncmAmt>
+        <OccupancyRevAndExpnssAmt>24000</OccupancyRevAndExpnssAmt>
+        <OccupancyNetInvstIncmAmt>0</OccupancyNetInvstIncmAmt>
+        <OccupancyAdjNetIncmAmt>0</OccupancyAdjNetIncmAmt>
+        <OccupancyDsbrsChrtblAmt>24000</OccupancyDsbrsChrtblAmt>
+        <TravConfMeetingRevAndExpnssAmt>6000</TravConfMeetingRevAndExpnssAmt>
+        <TravConfMeetingNetInvstIncmAmt>0</TravConfMeetingNetInvstIncmAmt>
+        <TravConfMeetingAdjNetIncmAmt>0</TravConfMeetingAdjNetIncmAmt>
+        <TravConfMeetingDsbrsChrtblAmt>6000</TravConfMeetingDsbrsChrtblAmt>
+        <PrintingAndPubRevAndExpnssAmt>0</PrintingAndPubRevAndExpnssAmt>
+        <PrintingAndPubNetInvstIncmAmt>0</PrintingAndPubNetInvstIncmAmt>
+        <PrintingAndPubAdjNetIncmAmt>0</PrintingAndPubAdjNetIncmAmt>
+        <PrintingAndPubDsbrsChrtblAmt>0</PrintingAndPubDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentName="AmortizationSchedule OtherExpensesSchedule">0</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>0</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesAdjNetIncmAmt>0</OtherExpensesAdjNetIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>0</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>33970</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>274</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>274</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>30274</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>107500</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>107500</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>141470</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>274</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>274</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>137774</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>35061</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>154030</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>21953</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>12178</CashBOYAmt>
+        <CashEOYAmt>-4293</CashEOYAmt>
+        <CashEOYFMVAmt>-4293</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>330958</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>232979</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>232979</SavAndTempCashInvstEOYFMVAmt>
+        <AcctRcvblAmt>0</AcctRcvblAmt>
+        <AcctRcvblAllwncDbtflAcctAmt>0</AcctRcvblAllwncDbtflAcctAmt>
+        <AcctRcvblBOYAmt>0</AcctRcvblBOYAmt>
+        <AcctRcvblEOYAmt>0</AcctRcvblEOYAmt>
+        <AcctRcvblEOYFMVAmt>0</AcctRcvblEOYFMVAmt>
+        <PledgesRcvblAmt>0</PledgesRcvblAmt>
+        <PledgesRcvblAllwncDbtflAcctAmt>0</PledgesRcvblAllwncDbtflAcctAmt>
+        <PledgesRcvblBOYAmt>0</PledgesRcvblBOYAmt>
+        <PledgesRcvblEOYAmt>0</PledgesRcvblEOYAmt>
+        <PledgesRcvblEOYFMVAmt>0</PledgesRcvblEOYFMVAmt>
+        <GrantsReceivableBOYAmt>0</GrantsReceivableBOYAmt>
+        <GrantsReceivableEOYAmt>0</GrantsReceivableEOYAmt>
+        <GrantsReceivableEOYFMVAmt>0</GrantsReceivableEOYFMVAmt>
+        <RcvblFromOfficersBOYAmt>0</RcvblFromOfficersBOYAmt>
+        <RcvblFromOfficersEOYAmt referenceDocumentName="OtherReceivablesFromOfficersSchedule">0</RcvblFromOfficersEOYAmt>
+        <RcvblFromOfficersEOYFMVAmt>0</RcvblFromOfficersEOYFMVAmt>
+        <OtherNtsAndLoansRcvblAmt>0</OtherNtsAndLoansRcvblAmt>
+        <OtherRcvblAllwncDbtflAcctAmt>0</OtherRcvblAllwncDbtflAcctAmt>
+        <OtherNtsAndLoansRcvblBOYAmt>0</OtherNtsAndLoansRcvblBOYAmt>
+        <OtherNtsAndLoansRcvblEOYAmt referenceDocumentName="OtherNotesLoansReceivableLongSchedule OtherNotesLoansReceivableShortSchedule2">0</OtherNtsAndLoansRcvblEOYAmt>
+        <OtherNtsAndLoansRcvblEOYFMVAmt>0</OtherNtsAndLoansRcvblEOYFMVAmt>
+        <InventoriesBOYAmt>0</InventoriesBOYAmt>
+        <InventoriesEOYAmt>0</InventoriesEOYAmt>
+        <InventoriesEOYFMVAmt>0</InventoriesEOYFMVAmt>
+        <PrepaidExpensesBOYAmt>0</PrepaidExpensesBOYAmt>
+        <PrepaidExpensesEOYAmt>0</PrepaidExpensesEOYAmt>
+        <PrepaidExpensesEOYFMVAmt>0</PrepaidExpensesEOYFMVAmt>
+        <USGovernmentObligationsBOYAmt>0</USGovernmentObligationsBOYAmt>
+        <USGovernmentObligationsEOYAmt referenceDocumentName="InvestmentsGovtObligationsSchedule">0</USGovernmentObligationsEOYAmt>
+        <USGovtObligationsEOYFMVAmt>0</USGovtObligationsEOYFMVAmt>
+        <CorporateStockBOYAmt>336597</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="InvestmentsCorpStockSch1" referenceDocumentName="InvestmentsCorpStockSchedule">486108</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>338674</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>0</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentName="InvestmentsCorpBondsSchedule">0</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>0</CorporateBondsEOYFMVAmt>
+        <InvstLandCostOrOtherBasisAmt>0</InvstLandCostOrOtherBasisAmt>
+        <InvstLandAccumDepreciationAmt>0</InvstLandAccumDepreciationAmt>
+        <LandBldgInvestmentsBOYAmt>0</LandBldgInvestmentsBOYAmt>
+        <LandBldgInvestmentsEOYAmt referenceDocumentName="InvestmentsLandSchedule2">0</LandBldgInvestmentsEOYAmt>
+        <LandBldgInvestmentsEOYFMVAmt>0</LandBldgInvestmentsEOYFMVAmt>
+        <MortgageLoansBOYAmt>0</MortgageLoansBOYAmt>
+        <MortgageLoansEOYAmt>0</MortgageLoansEOYAmt>
+        <MortgageLoansEOYFMVAmt>0</MortgageLoansEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>0</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentName="InvestmentsOtherSchedule2">0</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>0</OtherInvestmentsEOYFMVAmt>
+        <LandBldgEquipCostOrOtherBssAmt>0</LandBldgEquipCostOrOtherBssAmt>
+        <LandBldgEquipAccumDeprecAmt>0</LandBldgEquipAccumDeprecAmt>
+        <LandBOYAmt>0</LandBOYAmt>
+        <LandEOYAmt referenceDocumentName="LandEtcSchedule2">0</LandEOYAmt>
+        <LandEOYFMVAmt>0</LandEOYFMVAmt>
+        <OtherAssetsBOYAmt referenceDocumentName="OtherAssetsSchedule">0</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt referenceDocumentName="OtherAssetsSchedule">0</OtherAssetsEOYAmt>
+        <OtherAssetsEOYFMVAmt referenceDocumentName="OtherAssetsSchedule">0</OtherAssetsEOYFMVAmt>
+        <TotalAssetsBOYAmt>679733</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>714794</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>567360</TotalAssetsEOYFMVAmt>
+        <AccountsPayableBOYAmt>0</AccountsPayableBOYAmt>
+        <AccountsPayableEOYAmt>0</AccountsPayableEOYAmt>
+        <GrantsPayableBOYAmt>0</GrantsPayableBOYAmt>
+        <GrantsPayableEOYAmt>0</GrantsPayableEOYAmt>
+        <DeferredRevenueBOYAmt>0</DeferredRevenueBOYAmt>
+        <DeferredRevenueEOYAmt>0</DeferredRevenueEOYAmt>
+        <LoansFromOfficersBOYAmt>0</LoansFromOfficersBOYAmt>
+        <LoansFromOfficersEOYAmt referenceDocumentName="LoansFromOfficersSchedule">0</LoansFromOfficersEOYAmt>
+        <MortgagesAndNotesPayableBOYAmt>0</MortgagesAndNotesPayableBOYAmt>
+        <MortgagesAndNotesPayableEOYAmt referenceDocumentName="MortgagesAndNotesPayableSchedule">0</MortgagesAndNotesPayableEOYAmt>
+        <OtherLiabilitiesBOYAmt referenceDocumentId="OtherLiabilitiesSch1" referenceDocumentName="OtherLiabilitiesSchedule">0</OtherLiabilitiesBOYAmt>
+        <OtherLiabilitiesEOYAmt referenceDocumentId="OtherLiabilitiesSch1" referenceDocumentName="OtherLiabilitiesSchedule">0</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesBOYAmt>0</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsFASB117Ind>X</OrganizationFollowsFASB117Ind>
+        <NoDonorRstrNetAssestsBOYAmt>679733</NoDonorRstrNetAssestsBOYAmt>
+        <NoDonorRstrNetAssestsEOYAmt>714794</NoDonorRstrNetAssestsEOYAmt>
+        <DonorRstrNetAssetsBOYAmt>0</DonorRstrNetAssetsBOYAmt>
+        <DonorRstrNetAssetsEOYAmt>0</DonorRstrNetAssetsEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>679733</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>714794</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>679733</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>714794</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>679733</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>35061</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>714794</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>714794</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Champion's League</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2016-01-23</AcquiredDt>
+          <SoldDt>2022-01-22</SoldDt>
+          <GrossSalesPriceAmt>0</GrossSalesPriceAmt>
+          <DepreciationAmt>0</DepreciationAmt>
+          <CostOrOtherBasisAmt>100000</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-100000</GainOrLossAmt>
+          <FMVAsOf123169Amt>0</FMVAsOf123169Amt>
+          <AdjustedBasisAsOf123169Amt>0</AdjustedBasisAsOf123169Amt>
+          <ExcessFMVOverAdjustedBssAmt>0</ExcessFMVOverAdjustedBssAmt>
+          <GainsMinusExcessOrLossesAmt>-100000</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Public Traded Securities</PropertyDesc>
+          <GrossSalesPriceAmt>156839</GrossSalesPriceAmt>
+          <DepreciationAmt>0</DepreciationAmt>
+          <CostOrOtherBasisAmt>72572</CostOrOtherBasisAmt>
+          <GainOrLossAmt>84267</GainOrLossAmt>
+          <FMVAsOf123169Amt>0</FMVAsOf123169Amt>
+          <AdjustedBasisAsOf123169Amt>0</AdjustedBasisAsOf123169Amt>
+          <ExcessFMVOverAdjustedBssAmt>0</ExcessFMVOverAdjustedBssAmt>
+          <GainsMinusExcessOrLossesAmt>84267</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Public Traded Securities</PropertyDesc>
+          <GrossSalesPriceAmt>244537</GrossSalesPriceAmt>
+          <DepreciationAmt>0</DepreciationAmt>
+          <CostOrOtherBasisAmt>74500</CostOrOtherBasisAmt>
+          <GainOrLossAmt>170037</GainOrLossAmt>
+          <FMVAsOf123169Amt>0</FMVAsOf123169Amt>
+          <AdjustedBasisAsOf123169Amt>0</AdjustedBasisAsOf123169Amt>
+          <ExcessFMVOverAdjustedBssAmt>0</ExcessFMVOverAdjustedBssAmt>
+          <GainsMinusExcessOrLossesAmt>170037</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>154304</CapitalGainNetIncomeAmt>
+        <NetShortTermCapitalGainLossAmt>22227</NetShortTermCapitalGainLossAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>2141</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>2141</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>2141</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>0</EstimatedPlusOvpmtIncmTxAmt>
+        <ExtsnRequestIncomeTaxPaidAmt>0</ExtsnRequestIncomeTaxPaidAmt>
+        <BackupWithholdingWithheldAmt>0</BackupWithholdingWithheldAmt>
+        <OriginalReturnTaxPaidAmt>2141</OriginalReturnTaxPaidAmt>
+        <TaxDueAmt>2141</TaxDueAmt>
+        <AppliedToESTaxAmt>0</AppliedToESTaxAmt>
+        <RefundAmt>0</RefundAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd referenceDocumentName="ExplanationOfLegisPoliticalActivities BinaryAttachment">false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <Section4955OrganizationTaxAmt>0</Section4955OrganizationTaxAmt>
+        <Section4955ManagersTaxAmt>0</Section4955ManagersTaxAmt>
+        <TaxReimbursedAmt>0</TaxReimbursedAmt>
+        <ActivitiesNotPreviouslyRptInd referenceDocumentName="ActivitiesNotPreviouslyReportedExplanation">false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd referenceDocumentName="BinaryAttachment">false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd referenceDocumentName="DissolutionStatement LiquidationExplanationStatement BinaryAttachment">false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>false</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>NV</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd referenceDocumentId="ExplOfNonFilingWithAGStmt1" referenceDocumentName="ExplanationOfNonFilingWithAGStatement">false</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd referenceDocumentName="SubstantialContributorsSchedule">false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd referenceDocumentName="TransfersFromControlledEntitiesSchedule TransfersToControlledEntitiesSchedule">false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd referenceDocumentName="DonorAdvisedFundStatement">false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <IndividualWithBooksNm>Gary Akerstrom</IndividualWithBooksNm>
+        <PhoneNum>7079729561</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>1440 Meadow Drive</AddressLine1Txt>
+          <CityNm>Ukiah CA</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>95482</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <TaxExemptInterestAmt>0</TaxExemptInterestAmt>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <MaintainedExpenditureRspnsInd referenceDocumentName="ExpenditureResponsibilityStatement">false</MaintainedExpenditureRspnsInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm referenceDocumentId="CompensationExplanation1" referenceDocumentName="CompensationExplanation">Gary L Akerstrom</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>711 S Carson St 4</AddressLine1Txt>
+            <CityNm>Carson City</CityNm>
+            <StateAbbreviationCd>NV</StateAbbreviationCd>
+            <ZIPCd>89701</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm referenceDocumentId="CompensationExplanation1" referenceDocumentName="CompensationExplanation">Sandra J Akerstrom</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>711 S Carson Dt 4</AddressLine1Txt>
+            <CityNm>Ukiah CA</CityNm>
+            <StateAbbreviationCd>NV</StateAbbreviationCd>
+            <ZIPCd>954829870</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm referenceDocumentId="CompensationExplanation1" referenceDocumentName="CompensationExplanation">Brittany J Walker</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>711 S Carson St 4</AddressLine1Txt>
+            <CityNm>Carson City</CityNm>
+            <StateAbbreviationCd>NV</StateAbbreviationCd>
+            <ZIPCd>89701</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>None</Description1Txt>
+        <Expenses1Amt>0</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>None</Description1Txt>
+        <Expenses1Amt>0</Expenses1Amt>
+        <TotalAmt>0</TotalAmt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>531791</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>287234</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>819025</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt referenceDocumentName="ReductionExplanationStatement">0</ReductionClaimedAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>819025</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt referenceDocumentName="CashDeemedCharitableExplanationStatement">12285</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>806740</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>40337</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>40337</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>2141</TaxBasedOnInvestmentIncomeAmt>
+        <IncomeTaxAmt>0</IncomeTaxAmt>
+        <TotalTaxAmt>2141</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>38196</DistributableBeforeAdjAmt>
+        <RecoveriesQualfiedDistriAmt>0</RecoveriesQualfiedDistriAmt>
+        <DistributableBeforeDedAmt>38196</DistributableBeforeDedAmt>
+        <DeductionFromDistributableAmt>0</DeductionFromDistributableAmt>
+        <DistributableAsAdjustedAmt>38196</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt referenceDocumentName="BorrowedFundsElection">137774</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <CharitableAssetsAcquisPaidAmt>0</CharitableAssetsAcquisPaidAmt>
+        <SetAsideSuitabilityTestAmt>0</SetAsideSuitabilityTestAmt>
+        <SetAsideCashDistriTestAmt referenceDocumentName="CashDistributionExplanationStatement">0</SetAsideCashDistriTestAmt>
+        <QualifyingDistributionsAmt>137774</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>38196</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>771910</UndistributedIncomePYAmt>
+        <TotalForPriorYearsAmt>92933</TotalForPriorYearsAmt>
+        <ExcessDistributionCyovYr5Amt>7343</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>18418</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>37506</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>37009</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>77191</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>177467</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>137774</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>0</AppliedToYear1Amt>
+        <AppliedToCurrentYearAmt>38357</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>103113</RemainingDistriFromCorpusAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>0</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>0</ExcessDistributionCyovAppCYAmt>
+        <TotalCorpusAmt>280580</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>92933</PriorYearUndistributedIncmAmt>
+        <PriorYearDeficiencyOrTaxAmt>0</PriorYearDeficiencyOrTaxAmt>
+        <Taxable1Amt>92933</Taxable1Amt>
+        <Taxable2Amt>771910</Taxable2Amt>
+        <UndistributedIncomeCYAmt>-161</UndistributedIncomeCYAmt>
+        <CorpusDistri170b1EOr4942g3Amt>0</CorpusDistri170b1EOr4942g3Amt>
+        <ExcessDistriCyovFromYr5Amt>7343</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>273237</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>18418</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>37506</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>37009</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>77191</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>103113</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>None</ContributingManagerNm>
+        <ShareholderManagerNm>None</ShareholderManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>The Leadership Institute</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1101 N Highland St</AddressLine1Txt>
+            <CityNm>Arlington</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>22201</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>No Relationship</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>N A</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Educational foundation</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Tunnel To Towers Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2361 Hylan Blvd</AddressLine1Txt>
+            <CityNm>Staten Island</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10306</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>No Relationship</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Community Services</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Salvation Army</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>615 Slaters Ln</AddressLine1Txt>
+            <CityNm>Alexandria</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>22314</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>No Relationship</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Religious Outreach</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CRU</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>100 Lake Hart Drive 3500</AddressLine1Txt>
+            <CityNm>Orlando</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>32832</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>No Relationship</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Religious Educcation</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Operation Rango Mike</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5216 Piner Ct</AddressLine1Txt>
+            <CityNm>Kelseyville</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95451</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>No Relationship</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Human Seervices</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>New Life Community Church</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>750 Yosemite Dr</AddressLine1Txt>
+            <CityNm>Ukiah</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95482</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>No Relationship</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Church - Religious Outreach</GrantOrContributionPurposeTxt>
+          <Amt>36500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>The Center for Life Choice</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>425 S Orchard Ave</AddressLine1Txt>
+            <CityNm>Ukiah</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95482</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>No Relationship</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Unplanned Pregnancies</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Nor-Cal Christian Ministries</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 502</AddressLine1Txt>
+            <CityNm>Ukiah</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95482</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>No Relationship</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Shelter &amp; Help for the Homeless</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>The Malibu Gathering</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6425 Busch Dr</AddressLine1Txt>
+            <CityNm>Malibu</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90265</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>No Relationship</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Church Religious Outreach</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Judicial Watch</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>425 Third St SW STE 800</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20024</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>No Relationship</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Fight Public Corruption</GrantOrContributionPurposeTxt>
+          <Amt>12000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>First Evangelical Free Church of Wichita</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1825 N Woodlawn St</AddressLine1Txt>
+            <CityNm>Wichita</CityNm>
+            <StateAbbreviationCd>KS</StateAbbreviationCd>
+            <ZIPCd>67208</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>No Relationship</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Church - Religious Outreach</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Evangelical Free Church of America</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>901 E 78th Street</AddressLine1Txt>
+            <CityNm>Minneapolis</CityNm>
+            <StateAbbreviationCd>MN</StateAbbreviationCd>
+            <ZIPCd>55420</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>No Relationship</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Religious Outreach</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Konocti Christian Acadamy</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 1515</AddressLine1Txt>
+            <CityNm>Lakeport</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95453</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>No Relationship</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Educational</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>107500</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <ProgramServiceRevenueDtl>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>0</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </ProgramServiceRevenueDtl>
+        <ProgramServiceRevenueDtl>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>0</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </ProgramServiceRevenueDtl>
+        <ProgramServiceRevenueDtl>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>0</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </ProgramServiceRevenueDtl>
+        <ProgramServiceRevenueDtl>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>0</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </ProgramServiceRevenueDtl>
+        <ProgramServiceRevenueDtl>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>0</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </ProgramServiceRevenueDtl>
+        <ProgramServiceRevenueDtl>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>0</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </ProgramServiceRevenueDtl>
+        <ProgramServiceRevenueDtl>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>0</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </ProgramServiceRevenueDtl>
+        <MembershipDuesAndAssmntGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>0</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </MembershipDuesAndAssmntGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>0</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>0</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </DividendsAndInterestFromSecDtl>
+        <NetRntlIncmReDebtFincdPropGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>0</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </NetRntlIncmReDebtFincdPropGrp>
+        <NetRntlIncmReNotDebtFincdProp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>0</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </NetRntlIncmReNotDebtFincdProp>
+        <NetRentalIncomePersonalPropGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>0</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </NetRentalIncomePersonalPropGrp>
+        <OtherInvestmentIncomeGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>0</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </OtherInvestmentIncomeGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>0</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <NetIncomeLossFromSpecialEvtGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>0</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </NetIncomeLossFromSpecialEvtGrp>
+        <GrossProfitLossSlsOfInvntryGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>0</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </GrossProfitLossSlsOfInvntryGrp>
+        <OtherRevenueDescribedGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>0</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </OtherRevenueDescribedGrp>
+        <OtherRevenueDescribedGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>0</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </OtherRevenueDescribedGrp>
+        <OtherRevenueDescribedGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>0</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </OtherRevenueDescribedGrp>
+        <OtherRevenueDescribedGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>0</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </OtherRevenueDescribedGrp>
+        <OtherRevenueDescribedGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>0</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>0</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>0</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSch1" softwareId="21013404" softwareVersionNum="V1.0" documentName="AccountingFeesSchedule">
+      <AccountingFeesDetail>
+        <CategoryTxt>Fees for tax forms</CategoryTxt>
+        <Amt>274</Amt>
+        <NetInvestmentIncomeAmt>274</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>274</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>274</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <CompensationExplanation documentId="CompensationExplanation1" softwareId="21013404" softwareVersionNum="V1.0" documentName="CompensationExplanation">
+      <CompensationExplanationGrp>
+        <PersonNm>Gary L Akerstrom</PersonNm>
+        <ShortExplanationTxt>Director does not charge for his time</ShortExplanationTxt>
+      </CompensationExplanationGrp>
+    </CompensationExplanation>
+    <DepreciationSchedule documentId="DepreciationSch1" softwareId="21013404" softwareVersionNum="V1.0" documentName="DepreciationSchedule">
+      <DepreciationPropertyGrp>
+        <PropertyDesc>None</PropertyDesc>
+        <AcquiredDt>2023-01-01</AcquiredDt>
+        <CostOrOtherBasisAmt>0</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>0</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>0</ComputationMethodTxt>
+        <LifeRt>0.000000</LifeRt>
+        <CurrentYearExpenseAmt>0</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+      </DepreciationPropertyGrp>
+    </DepreciationSchedule>
+    <ExplnOfNonFilingWithAGStmt documentId="ExplOfNonFilingWithAGStmt1" softwareId="21013404" softwareVersionNum="V1.0" documentName="ExplanationOfNonFilingWithAGStatement">
+      <ExplanationTxt>Not requested</ExplanationTxt>
+    </ExplnOfNonFilingWithAGStmt>
+    <InvestmentsCorpBondsSchedule documentId="InvestmentsCorpBondsSch1" softwareId="21013404" softwareVersionNum="V1.0" documentName="InvestmentsCorpBondsSchedule">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>None</BondNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="InvestmentsCorpStockSch1" softwareId="21013404" softwareVersionNum="V1.0" documentName="InvestmentsCorpStockSchedule">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Airbnb Stock</StockNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Champion's League IPO</StockNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Iveric Stock</StockNm>
+        <EOYBookValueAmt>89525</EOYBookValueAmt>
+        <EOYFMVAmt>39394</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Asana</StockNm>
+        <EOYBookValueAmt>107723</EOYBookValueAmt>
+        <EOYFMVAmt>55080</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Marvell Tech</StockNm>
+        <EOYBookValueAmt>120226</EOYBookValueAmt>
+        <EOYFMVAmt>74080</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Convoy</StockNm>
+        <EOYBookValueAmt>100000</EOYBookValueAmt>
+        <EOYFMVAmt>100000</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Mobleye</StockNm>
+        <EOYBookValueAmt>68634</EOYBookValueAmt>
+        <EOYFMVAmt>70120</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="InvestmentsGovtObligationSch1" softwareId="21013404" softwareVersionNum="V1.0" documentName="InvestmentsGovtObligationsSchedule">
+      <USGovtObligationsBookVlEOYAmt>0</USGovtObligationsBookVlEOYAmt>
+      <USGovtObligationsEOYFMVAmt>0</USGovtObligationsEOYFMVAmt>
+      <StateLocalSecBookVlEOYAmt>0</StateLocalSecBookVlEOYAmt>
+      <StateLocalSecEOYFMVAmt>0</StateLocalSecEOYFMVAmt>
+    </InvestmentsGovtObligationsSch>
+    <InvestmentsOtherSchedule2 documentId="InvestmentsOtherSch1" softwareId="21013404" softwareVersionNum="V1.0" documentName="InvestmentsOtherSchedule2">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>None</CategoryOrItemTxt>
+        <BookValueAmt>0</BookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <LandEtcSchedule2 documentId="LandEtcSchedule1" softwareId="21013404" softwareVersionNum="V1.0" documentName="LandEtcSchedule2">
+      <LandEtcGrp>
+        <CategoryOrItemTxt>No real estate owned</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>0</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>0</AccumulatedDepreciationAmt>
+        <BookValueAmt>0</BookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </LandEtcGrp>
+    </LandEtcSchedule2>
+    <LoansFromOfficersSchedule documentId="LoansFromOfficersSch1" softwareId="21013404" softwareVersionNum="V1.0" documentName="LoansFromOfficersSchedule">
+      <LoansFromOfficerGrp>
+        <LenderPersonNm>GaryLAkerstrom</LenderPersonNm>
+        <TitleTxt>Director</TitleTxt>
+        <LoanOriginalAmt>25000</LoanOriginalAmt>
+        <BalanceDueAmt>0</BalanceDueAmt>
+        <RepaymentTermsTxt>Prior to end of year</RepaymentTermsTxt>
+        <SecurityProvidedBorrowerTxt>None</SecurityProvidedBorrowerTxt>
+        <LoanPurposeTxt>Fund Contributions</LoanPurposeTxt>
+        <LenderConsiderationDesc>None</LenderConsiderationDesc>
+      </LoansFromOfficerGrp>
+    </LoansFromOfficersSchedule>
+    <MortgagesAndNotesPayableSch documentId="MortgagesAndNotesPayableSch1" softwareId="21013404" softwareVersionNum="V1.0" documentName="MortgagesAndNotesPayableSchedule">
+      <NotePayableGrp>
+        <LenderNameGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>None</BusinessNameLine1Txt>
+          </BusinessName>
+        </LenderNameGrp>
+        <TitleTxt>None</TitleTxt>
+        <InsiderRelationshipTxt>None</InsiderRelationshipTxt>
+        <LoanOriginalAmt>0</LoanOriginalAmt>
+        <BalanceDueAmt>0</BalanceDueAmt>
+        <NoteDt>2022-01</NoteDt>
+        <LoanMaturityDt>2023-01</LoanMaturityDt>
+        <RepaymentTermsTxt>None</RepaymentTermsTxt>
+        <InterestRt>0</InterestRt>
+        <SecurityProvidedBorrowerTxt>None</SecurityProvidedBorrowerTxt>
+        <LoanPurposeTxt>None</LoanPurposeTxt>
+        <LenderConsiderationDesc>None</LenderConsiderationDesc>
+        <ConsiderationFMVAmt>0</ConsiderationFMVAmt>
+      </NotePayableGrp>
+    </MortgagesAndNotesPayableSch>
+    <OtherAssetsSchedule documentId="OtherAssetsSch1" softwareId="21013404" softwareVersionNum="V1.0" documentName="OtherAssetsSchedule">
+      <OtherAssetsScheduleGrp>
+        <Desc>None</Desc>
+        <BOYBookValueAmt>0</BOYBookValueAmt>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherLiabilitiesSchedule documentId="OtherLiabilitiesSch1" softwareId="21013404" softwareVersionNum="V1.0" documentName="OtherLiabilitiesSchedule">
+      <OtherLiabilitiesDetail>
+        <Desc>None</Desc>
+        <BOYBookValueAmt>0</BOYBookValueAmt>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+    </OtherLiabilitiesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OtherProfFeesSch1" softwareId="21013404" softwareVersionNum="V1.0" documentName="OtherProfessionalFeesSchedule">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>None</CategoryTxt>
+        <Amt>0</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <OtherReceivablesOfficersSch documentId="OthReceivablesFromOfficersSch1" softwareId="21013404" softwareVersionNum="V1.0" documentName="OtherReceivablesFromOfficersSchedule">
+      <OfficerOtherRcvblGrp>
+        <BorrowerPersonNm>GaryLAkerstrom</BorrowerPersonNm>
+        <BorrowerTitleTxt>Director</BorrowerTitleTxt>
+        <LoanOriginalAmt>0</LoanOriginalAmt>
+        <BalanceDueAmt>0</BalanceDueAmt>
+        <NoteDt>2022-02</NoteDt>
+        <LoanMaturityDt>2022-02</LoanMaturityDt>
+        <RepaymentTermsTxt>None</RepaymentTermsTxt>
+        <SecurityProvidedBorrowerTxt>None</SecurityProvidedBorrowerTxt>
+        <LoanPurposeTxt>None</LoanPurposeTxt>
+        <LenderConsiderationDesc>None</LenderConsiderationDesc>
+        <ConsiderationFMVAmt>0</ConsiderationFMVAmt>
+      </OfficerOtherRcvblGrp>
+    </OtherReceivablesOfficersSch>
+    <SalesOfInventoryList documentId="SalesOfInventorySch1" softwareId="21013404" softwareVersionNum="V1.0" documentName="SalesOfInventorySchedule">
+      <InventorySaleGrp>
+        <CategoryTxt>None</CategoryTxt>
+        <GrossSalesAmt>0</GrossSalesAmt>
+        <CostOfGoodsSoldAmt>0</CostOfGoodsSoldAmt>
+        <NetAmt>0</NetAmt>
+      </InventorySaleGrp>
+    </SalesOfInventoryList>
+    <TaxesSchedule documentId="TaxesSch1" softwareId="21013404" softwareVersionNum="V1.0" documentName="TaxesSchedule">
+      <TaxesDetail>
+        <CategoryTxt>Excise tax on investment</CategoryTxt>
+        <Amt>3696</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

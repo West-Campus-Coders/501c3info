@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2022v4.1" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-03-02T09:26:24-08:00</ReturnTs>
+    <TaxPeriodEndDt>2022-12-31</TaxPeriodEndDt>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>462367848</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>Wormack Inc</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>WORMACK INC</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>WORM</BusinessNameControlTxt>
+      <PhoneNum>7246262171</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>210 Snyder St</AddressLine1Txt>
+        <CityNm>Connellsville</CityNm>
+        <StateAbbreviationCd>PA</StateAbbreviationCd>
+        <ZIPCd>15425</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>Raymond Wormack</PersonNm>
+      <PersonTitleTxt>CEO</PersonTitleTxt>
+      <PhoneNum>7246262171</PhoneNum>
+      <SignatureDt>2023-03-02</SignatureDt>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>Raymond</PersonFirstNm>
+        <PersonLastNm>Wormack</PersonLastNm>
+      </PersonFullName>
+      <SSN>XXX-XX-XXXX</SSN>
+    </SigningOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp>
+        <TrustedCustomerCd>2</TrustedCustomerCd>
+        <AuthenticationAssuranceLevelCd>AAL1</AuthenticationAssuranceLevelCd>
+        <IdentityAssuranceLevelCd>IAL1</IdentityAssuranceLevelCd>
+        <FederatedAssuranceLevelCd>FAL1</FederatedAssuranceLevelCd>
+      </TrustedCustomerGrp>
+    </AdditionalFilerInformation>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="6">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="22015565" softwareVersionNum="2022v4.1">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>0</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>9700</ContriRcvdRevAndExpnssAmt>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <GrossSalesLessRetAndAllwncAmt>857559</GrossSalesLessRetAndAllwncAmt>
+        <GrossProfitRevAndExpnssAmt referenceDocumentId="SalesOfInventorySchedule">857559</GrossProfitRevAndExpnssAmt>
+        <GrossProfitAdjNetIncmAmt>857559</GrossProfitAdjNetIncmAmt>
+        <TotalRevAndExpnssAmt>867259</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>0</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>857559</TotalAdjNetIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>37308</CompOfcrDirTrstRevAndExpnssAmt>
+        <OthEmplSlrsWgsRevAndExpnssAmt>537522</OthEmplSlrsWgsRevAndExpnssAmt>
+        <PensionEmplBnftRevAndExpnssAmt>29792</PensionEmplBnftRevAndExpnssAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="LegalFeesSchedule">15604</LegalFeesRevAndExpnssAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">89428</TaxesRevAndExpnssAmt>
+        <OccupancyRevAndExpnssAmt>45600</OccupancyRevAndExpnssAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">112005</OtherExpensesRevAndExpnssAmt>
+        <TotOprExpensesRevAndExpnssAmt>867259</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>0</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>0</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>0</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>867259</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>0</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>0</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>0</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>857559</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <TotalAssetsEOYAmt>0</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>0</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>0</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>0</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>0</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>0</InvestmentIncomeExciseTaxAmt>
+        <AppliedToESTaxAmt>0</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>true</UnrelatedBusIncmOverLimitInd>
+        <Form990TFiledInd>true</Form990TFiledInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>false</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>false</AtLeast5000InAssetsInd>
+        <Form990PFFiledWithAttyGenInd>false</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>WORMACK INC</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>7246262171</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>201 FAIRVIEW AVE</AddressLine1Txt>
+          <CityNm>CONNELLSVILLE</CityNm>
+          <StateAbbreviationCd>PA</StateAbbreviationCd>
+          <ZIPCd>15425</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Raymond Wormack</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>210 Snyder St</AddressLine1Txt>
+            <CityNm>Connellsville</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>15425</ZIPCd>
+          </USAddress>
+          <TitleTxt>CEO</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Maxine Wormack</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>899 Dewey Ave</AddressLine1Txt>
+            <CityNm>Scottdale</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>15683</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Luther Wormack</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>899 Dewey Ave</AddressLine1Txt>
+            <CityNm>Scottdale</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>15683</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>PROVIDE SUBSTANCE ABUSE COUNSELING</Description1Txt>
+        <Expenses1Amt>0</Expenses1Amt>
+        <Description2Txt>PROVIDE MENTAL HEALTH OVER 360 SESSION NOT PAID FOR OVER $86,000</Description2Txt>
+        <Description3Txt>HOME CARE AGENCY DONATING IN HOURS OVER $648,000</Description3Txt>
+        <Description4Txt>ASSISTING INDIVIDUALS ATTEND COLLEGE, JOB TRAINING, RESUME WRITING, HOUSING ISSUES ANS OTHER SOCIAL SERVICE ACTIVITIES</Description4Txt>
+      </SummaryOfDirectChrtblActyGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>0</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>0</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>0</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>0</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>0</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>0</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>0</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <DistributableAsAdjustedAmt>0</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>0</ExpensesAndContributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>0</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr2Amt>771687</ExcessDistributionCyovYr2Amt>
+        <TotalExcessDistributionCyovAmt>771687</TotalExcessDistributionCyovAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <TotalCorpusAmt>771687</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>771687</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear2Amt>771687</ExcessFromYear2Amt>
+      </UndistributedIncomeGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <GrossProfitLossSlsOfInvntryGrp>
+          <BusinessCd>621400</BusinessCd>
+          <UnrelatedBusinessTaxblIncmAmt>857559</UnrelatedBusinessTaxblIncmAmt>
+        </GrossProfitLossSlsOfInvntryGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>IRS OVER PAYMENT</Desc>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <UnrelatedBusinessTaxblIncmAmt>857559</UnrelatedBusinessTaxblIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>857559</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>12</LineNumberTxt>
+          <RelationshipStatementTxt>ALL ARE NON MEDICAL AND HEALTH COST, THIS ALLOWS WORMACK INC TO PAY IT'S STAFF FOR PROVIDING CONSUMERS WITH CARE IN THEIR HOME. ALLOWING WORMACK INC TO CONTINUE TO ASSIST INDIVIDUALS, FAMILIES AND COMMUNITIES THE ABILITY TO PROGRESS IN THEIR LIVES WITH A BETTER QUALITY OF LIFE.</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+      </RlnOfActyToAccomOfExmptPrpsGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <LegalFeesSchedule documentId="LegalFeesSchedule" softwareId="22015565" softwareVersionNum="2022v4.1">
+      <LegalFeesGrp>
+        <CategoryTxt>ADP</CategoryTxt>
+        <LegalFeesAmt>15604</LegalFeesAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <MortgagesAndNotesPayableSch documentId="MortgagesAndNotesPayableSchedu" softwareId="22015565" softwareVersionNum="2022v4.1">
+      <NotePayableGrp>
+        <LenderNameGrp>
+          <PersonNm>SBA</PersonNm>
+        </LenderNameGrp>
+      </NotePayableGrp>
+      <NotePayableGrp>
+        <LenderNameGrp>
+          <PersonNm>KABBAGE</PersonNm>
+        </LenderNameGrp>
+      </NotePayableGrp>
+      <NotePayableGrp>
+        <LenderNameGrp>
+          <PersonNm>AE</PersonNm>
+        </LenderNameGrp>
+      </NotePayableGrp>
+    </MortgagesAndNotesPayableSch>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="22015565" softwareVersionNum="2022v4.1">
+      <OtherExpensesScheduleGrp>
+        <Desc>A&amp;E LOAN</Desc>
+        <RevenueAndExpensesPerBooksAmt>20000</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>AMAZON</Desc>
+        <RevenueAndExpensesPerBooksAmt>3423</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>COMMUNICATION</Desc>
+        <RevenueAndExpensesPerBooksAmt>13176</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>CREDIT CARDS</Desc>
+        <RevenueAndExpensesPerBooksAmt>59402</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>KABBAGE</Desc>
+        <RevenueAndExpensesPerBooksAmt>14000</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>SBA LOAN</Desc>
+        <RevenueAndExpensesPerBooksAmt>2004</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <SalesOfInventoryList documentId="SalesOfInventorySchedule" softwareId="22015565" softwareVersionNum="2022v4.1">
+      <InventorySaleGrp>
+        <CategoryTxt>UPMC HEALTH PLAN</CategoryTxt>
+        <GrossSalesAmt>857559</GrossSalesAmt>
+        <NetAmt>857559</NetAmt>
+      </InventorySaleGrp>
+    </SalesOfInventoryList>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="22015565" softwareVersionNum="2022v4.1">
+      <TaxesDetail>
+        <CategoryTxt>FED TAXES</CategoryTxt>
+        <Amt>22811</Amt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>LOCAL TAX</CategoryTxt>
+        <Amt>5818</Amt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>MEDICARE</CategoryTxt>
+        <Amt>8224</Amt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>SOC SEC TAX</CategoryTxt>
+        <Amt>35163</Amt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>STATE INCOME</CategoryTxt>
+        <Amt>17412</Amt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

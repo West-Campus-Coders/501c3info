@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2022v5.0">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-03-20T13:30:56-04:00</ReturnTs>
+    <TaxPeriodEndDt>2022-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>382962645</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>GROSS PUCKEY GRUEL &amp; ROOF PC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>2530 SPRING ARBOR ROAD</AddressLine1Txt>
+        <CityNm>JACKSON</CityNm>
+        <StateAbbreviationCd>MI</StateAbbreviationCd>
+        <ZIPCd>49203</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>810730656</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>MACCHIA FAMILY FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>MACC</BusinessNameControlTxt>
+      <PhoneNum>5172066078</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>128 FLAMINGO AVE</AddressLine1Txt>
+        <CityNm>NAPLES</CityNm>
+        <StateAbbreviationCd>FL</StateAbbreviationCd>
+        <ZIPCd>34108</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>JOHN A MACCHIA</PersonNm>
+      <PersonTitleTxt>TRUSTEE</PersonTitleTxt>
+      <PhoneNum>5172066078</PhoneNum>
+      <SignatureDt>2023-02-25</SignatureDt>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>JOHN</PersonFirstNm>
+        <PersonLastNm>MACCHIA</PersonLastNm>
+      </PersonFullName>
+      <SSN>XXX-XX-XXXX</SSN>
+    </SigningOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>false</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>DANIEL T BROWN</PreparerPersonNm>
+      <PTIN>P00970893</PTIN>
+      <PhoneNum>5177871400</PhoneNum>
+      <PreparationDt>2023-03-20</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="8">
+    <IRS990PF documentId="RetDoc8">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>1482645</FMVAssetsEOYAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>111404</ContriRcvdRevAndExpnssAmt>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>106</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>106</InterestOnSavNetInvstIncmAmt>
+        <InterestOnSavingsAdjNetIncmAmt>106</InterestOnSavingsAdjNetIncmAmt>
+        <DividendsRevAndExpnssAmt>15690</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>15690</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>15690</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt referenceDocumentId="RetDoc2">52600</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>175977</GrossSalesPriceAmt>
+        <TotalRevAndExpnssAmt>179800</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>15796</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>15796</TotalAdjNetIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc1">1250</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>1250</AccountingFeesNetInvstIncmAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc6">4126</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>4126</OtherProfFeesNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc7">700</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>700</TaxesNetInvstIncmAmt>
+        <PrintingAndPubRevAndExpnssAmt>216</PrintingAndPubRevAndExpnssAmt>
+        <PrintingAndPubNetInvstIncmAmt>216</PrintingAndPubNetInvstIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc5">1700</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>1700</OtherExpensesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>7992</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>7992</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>71707</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>71707</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>79699</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>7992</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>71707</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>100101</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>7804</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>15796</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>98730</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>104402</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>104402</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>432341</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc3">503858</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>1378243</CorporateStockEOYFMVAmt>
+        <TotalAssetsBOYAmt>531071</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>608260</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>1482645</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <RetainedEarningBOYAmt>531071</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>608260</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>531071</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>608260</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>531071</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>608260</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>531071</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>100101</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>631172</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="RetDoc4">22912</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>608260</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>108</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>108</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>108</TaxBasedOnInvestmentIncomeAmt>
+        <TaxDueAmt>108</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>FL</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>JOHN A MACCHIA</IndividualWithBooksNm>
+        <PhoneNum>5172066078</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>128 FLAMINGO AVE</AddressLine1Txt>
+          <CityNm>NAPLES</CityNm>
+          <StateAbbreviationCd>FL</StateAbbreviationCd>
+          <ZIPCd>34108</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JOHN A MACCHIA</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>128 FLAMINGO AVE</AddressLine1Txt>
+            <CityNm>NAPLES</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>34108</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>NORMA K MACCHIA</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>128 FLAMINGO AVE</AddressLine1Txt>
+            <CityNm>NAPLES</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>34108</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>1327994</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>82100</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>1410094</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>1410094</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>21151</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>1388943</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>69447</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>69447</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>108</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>108</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>69339</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>69339</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>69339</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>71707</ExpensesAndContributionsAmt>
+        <CharitableAssetsAcquisPaidAmt>71707</CharitableAssetsAcquisPaidAmt>
+        <QualifyingDistributionsAmt>143414</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>69339</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>10309</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>8558</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr2Amt>6177</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>5840</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>30884</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>143414</QualifyingDistributionsAmt>
+        <AppliedToCurrentYearAmt>69339</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>74075</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>104959</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>10309</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>94650</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>8558</ExcessFromYear4Amt>
+        <ExcessFromYear2Amt>6177</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>5840</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>74075</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>JOHN A MACCHIA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>128 FLAMINGO AVE</AddressLine1Txt>
+            <CityNm>NAPLES</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>34108</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>5172066078</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>INFORMATION ABOUT REQUESTING ORGANIZATION AND AMOUNT OF GRANT REQUESTED.</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>NONE</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>NONE</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>VARIOUS GRANTS DONATIONS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>128 FLAMINGO AVE</AddressLine1Txt>
+            <CityNm>NAPLES</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>34108</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATIONS</GrantOrContributionPurposeTxt>
+          <Amt>71707</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>71707</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <RelatedOrExemptFunctionIncmAmt>106</RelatedOrExemptFunctionIncmAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <RelatedOrExemptFunctionIncmAmt>15690</RelatedOrExemptFunctionIncmAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>52600</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <RelatedOrExemptFunctionIncmAmt>68396</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>68396</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc1">
+      <AccountingFeesDetail>
+        <CategoryTxt>BSSA</CategoryTxt>
+        <Amt>1250</Amt>
+        <NetInvestmentIncomeAmt>1250</NetInvestmentIncomeAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc2">
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>EURONET WORLDWIDE</AssetDesc>
+        <AcquiredDt>2021-11</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2022-09</SoldDt>
+        <GrossSalesPriceAmt>1220</GrossSalesPriceAmt>
+        <BasisAmt>1557</BasisAmt>
+        <TotalNetAmt>-337</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>EURONET WORLDWIDE</AssetDesc>
+        <AcquiredDt>2021-11</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2022-09</SoldDt>
+        <GrossSalesPriceAmt>8167</GrossSalesPriceAmt>
+        <BasisAmt>10422</BasisAmt>
+        <TotalNetAmt>-2255</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>META PLATFORMS INC</AssetDesc>
+        <AcquiredDt>2021-11</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2022-09</SoldDt>
+        <GrossSalesPriceAmt>4209</GrossSalesPriceAmt>
+        <BasisAmt>8264</BasisAmt>
+        <TotalNetAmt>-4055</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>FLEXSHARES UPSTREAM</AssetDesc>
+        <AcquiredDt>2016-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2022-05</SoldDt>
+        <GrossSalesPriceAmt>48676</GrossSalesPriceAmt>
+        <BasisAmt>23776</BasisAmt>
+        <TotalNetAmt>24900</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>HEINEKEN HLDG NV</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2022-05</SoldDt>
+        <GrossSalesPriceAmt>9498</GrossSalesPriceAmt>
+        <BasisAmt>10234</BasisAmt>
+        <TotalNetAmt>-736</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>FLEXSHARES UPSTREAM</AssetDesc>
+        <AcquiredDt>2016-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2022-12</SoldDt>
+        <GrossSalesPriceAmt>47772</GrossSalesPriceAmt>
+        <BasisAmt>23776</BasisAmt>
+        <TotalNetAmt>23996</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>META PLATFORMS INC</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2022-09</SoldDt>
+        <GrossSalesPriceAmt>16836</GrossSalesPriceAmt>
+        <BasisAmt>14110</BasisAmt>
+        <TotalNetAmt>2726</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>META PLATFORMS INC</AssetDesc>
+        <AcquiredDt>2020-12</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2022-09</SoldDt>
+        <GrossSalesPriceAmt>3872</GrossSalesPriceAmt>
+        <BasisAmt>6194</BasisAmt>
+        <TotalNetAmt>-2322</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>META PLATFORMS INC</AssetDesc>
+        <AcquiredDt>2020-12</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2022-09</SoldDt>
+        <GrossSalesPriceAmt>4546</GrossSalesPriceAmt>
+        <BasisAmt>7271</BasisAmt>
+        <TotalNetAmt>-2725</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>EURONET WORLDWIDE</AssetDesc>
+        <AcquiredDt>2021-11</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2022-09</SoldDt>
+        <GrossSalesPriceAmt>9387</GrossSalesPriceAmt>
+        <BasisAmt>11301</BasisAmt>
+        <TotalNetAmt>-1914</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>SPDR S&amp;P 500 ETF</AssetDesc>
+        <AcquiredDt>2021-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2022-02</SoldDt>
+        <GrossSalesPriceAmt>21794</GrossSalesPriceAmt>
+        <BasisAmt>6472</BasisAmt>
+        <TotalNetAmt>15322</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpStockSchedule documentId="RetDoc3">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>EQUITY SECURITIES</StockNm>
+        <EOYBookValueAmt>487428</EOYBookValueAmt>
+        <EOYFMVAmt>1219354</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ETF SECURITIES</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>REIT</StockNm>
+        <EOYBookValueAmt>16430</EOYBookValueAmt>
+        <EOYFMVAmt>158889</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <OtherDecreasesSchedule documentId="RetDoc4">
+      <OtherDecreasesDetail>
+        <Desc>FMV IN EXCESS OF COST - DONATION</Desc>
+        <Amt>22912</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc5">
+      <OtherExpensesScheduleGrp>
+        <Desc>EXPENSES</Desc>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>ADMINSTRATIVE FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>1700</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>1700</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc6">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>INVESTMENT FEES</CategoryTxt>
+        <Amt>4126</Amt>
+        <NetInvestmentIncomeAmt>4126</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc7">
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAX</CategoryTxt>
+        <Amt>643</Amt>
+        <NetInvestmentIncomeAmt>643</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>TAXES</CategoryTxt>
+        <Amt>57</Amt>
+        <NetInvestmentIncomeAmt>57</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

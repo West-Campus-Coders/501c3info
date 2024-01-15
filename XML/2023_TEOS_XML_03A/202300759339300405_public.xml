@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2021v4.1" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-03-16T11:30:39-07:00</ReturnTs>
+    <TaxPeriodEndDt>2022-06-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>842546429</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Kindred CPA LLC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>211 East Eighth Street Ste A</AddressLine1Txt>
+        <CityNm>Lawrence</CityNm>
+        <StateAbbreviationCd>KS</StateAbbreviationCd>
+        <ZIPCd>66044</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990T</ReturnTypeCd>
+    <TaxPeriodBeginDt>2021-07-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>203649662</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>Turner Activities Foundation Inc</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>TURN</BusinessNameControlTxt>
+      <USAddress>
+        <AddressLine1Txt>800 S 55th Street</AddressLine1Txt>
+        <CityNm>Kansas City</CityNm>
+        <StateAbbreviationCd>KS</StateAbbreviationCd>
+        <ZIPCd>66106</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>REBECCA GUTIERREZ</PersonNm>
+      <PersonTitleTxt>Treasurer 2022</PersonTitleTxt>
+      <SignatureDt>2023-03-16</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>REBECCA</PersonFirstNm>
+        <PersonLastNm>GUTIERREZ</PersonLastNm>
+      </PersonFullName>
+      <SSN>999009999</SSN>
+    </SigningOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>KENNETH R HITE CPA</PreparerPersonNm>
+      <PTIN>P00237300</PTIN>
+      <PhoneNum>7858428844</PhoneNum>
+    </PreparerPersonGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp>
+        <TrustedCustomerCd>2</TrustedCustomerCd>
+        <AuthenticationAssuranceLevelCd>AAL1</AuthenticationAssuranceLevelCd>
+        <IdentityAssuranceLevelCd>IAL1</IdentityAssuranceLevelCd>
+        <FederatedAssuranceLevelCd>FAL1</FederatedAssuranceLevelCd>
+      </TrustedCustomerGrp>
+    </AdditionalFilerInformation>
+    <TaxYr>2021</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="1">
+    <IRS990T documentId="IRS990T" softwareId="21013475" softwareVersionNum="2021v4.1">
+      <Organization501IndicatorGrp>
+        <Organization501Ind>X</Organization501Ind>
+        <Organization501cTypeTxt>c3</Organization501cTypeTxt>
+      </Organization501IndicatorGrp>
+      <BookValueAssetsEOYAmt>68178</BookValueAssetsEOYAmt>
+      <Organization501cCorporationInd>X</Organization501cCorporationInd>
+      <SubsidiaryCorporationInd>false</SubsidiaryCorporationInd>
+      <BooksInCareOfDetail>
+        <PersonNm>Rebecca Gutierrez</PersonNm>
+        <USAddress>
+          <AddressLine1Txt>800 S 55TH STREET</AddressLine1Txt>
+          <CityNm>KANSAS CITY</CityNm>
+          <StateAbbreviationCd>KS</StateAbbreviationCd>
+          <ZIPCd>66106</ZIPCd>
+        </USAddress>
+        <PhoneNum>9132883495</PhoneNum>
+      </BooksInCareOfDetail>
+      <SpecificDeductionAmt>1000</SpecificDeductionAmt>
+      <TotalDeductionAmt>1000</TotalDeductionAmt>
+      <TotalUBTIAmt>0</TotalUBTIAmt>
+      <TaxableCorporationAmt>0</TaxableCorporationAmt>
+      <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      <ForeignTrustQuestionInd>false</ForeignTrustQuestionInd>
+      <TaxExemptInterestAmt>0</TaxExemptInterestAmt>
+      <ChangeInMethodOfAccountingInd>false</ChangeInMethodOfAccountingInd>
+    </IRS990T>
+  </ReturnData>
+</Return>
