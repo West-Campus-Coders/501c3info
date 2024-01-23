@@ -12,9 +12,13 @@ West campus coders project
 - Django 
 - React 
 - SQL
+#### Project set up
+- Must have python installed
+- Inside proj dir run "python -m venv venv" makes a virtual environment folder in python
+- activate virtual environment "{SRC_DIR}venv\Scripts\activate"
+- in venv "pip install -r requirements.txt"   
 #### How to run backend server
-- inside project dir run "{SRC_DIR}venv\Scripts\activate"
-- While in the cd into backend folder run "python manage.py runserver"
+- While in the src dir cd into backend folder run "python manage.py runserver"
   - Current URL patterns
     - http://127.0.0.1:8000/admin/
       - admin user: asuwestcoders
