@@ -6,6 +6,12 @@ A website that gives easy access to the finances of 501(c)(3) non-profits
 </div>
 
 West campus coders project
+## Project set up
+
+### Tools use
+- Django 
+- React 
+- SQL
 
 ## Tasks:
 - [x] make a small, functional API 
