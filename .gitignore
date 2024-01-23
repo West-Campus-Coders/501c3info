@@ -1,0 +1,29 @@
+# IDE Files
+*.code-workspace
+
+# Compilation Files
+*.js
+arduino-mod/node_modules/.bin/*
+arduino-mod/out/*
+
+# External Library Files
+arduino-mod/node_modules/*
+
+# build directory
+arduino-mod/build/*
+
+node_modules/
+.node_modules/
+**/.DS_Store
+Thumbs.db
+.settings
+**/.vs
+**/.vscode/*
+!**/.vscode/tasks.json
+!**/.vscode/settings.template.json
+!**/.vscode/launch.template.json
+!**/.vscode/extensions.json
+.idea
+.vscodeignore
+
+build/
