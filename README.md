@@ -32,14 +32,10 @@ West campus coders project
 - Inspect console ensure api request made
   - make sure backend server is running before running dev
 ## Tasks:
-- [x] make a small, functional API 
-- [ ] dockerize the API
-- [x] create a backend class that can parse the index CSV file
-- [ ] allow the backend to find the correct XML file
-- [ ] send the XML information to the frontend
 - [ ] set up connection to sql server
+- [ ] build out api end points 
 
-## Running the frontend
+
 
 clone this repository
 
@@ -52,33 +48,3 @@ OR
 ```sh 
 git clone https://github.com/West-Campus-Coders/501c3info.git
 ```
-
-install npm packages for the frontend
-
-```sh 
-cd frontend
-npm i 
-```
-
-run the website
-
-```sh 
-npm run dev
-```
-
-## Running the backend API
-
-PREREQUISITES: Flask must be installed
-```sh 
-pip install Flask
-```
-
-run the backend flask server
-```sh
-cd backend
-flask run 
-```
-
-## Using the website
-
-Once you have both frontend and backend running (on the same machine), you can use the <code>localhost</code> as the IP address as the input for the frontend.
