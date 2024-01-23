@@ -12,14 +12,28 @@ West campus coders project
 - Django 
 - React 
 - SQL
-
+#### How to run backend server
+- inside project dir run "{SRC_DIR}venv\Scripts\activate"
+- While in the cd into backend folder run "python manage.py runserver"
+  - Current URL patterns
+    - http://127.0.0.1:8000/admin/
+      - admin user: asuwestcoders
+      - admin password: 123456
+    - http://127.0.0.1:8000/api/
+    - http://127.0.0.1:8000/api/homes/
+#### Run frontend server 
+- move to frontend directory file
+  - npm install
+  - run "npm run dev"
+- Inspect console ensure api request made
+  - make sure backend server is running before running dev
 ## Tasks:
 - [x] make a small, functional API 
-- [ ] dockerize the API 
-- [ ] have the backend work with a mySQL server
+- [ ] dockerize the API
 - [x] create a backend class that can parse the index CSV file
 - [ ] allow the backend to find the correct XML file
 - [ ] send the XML information to the frontend
+- [ ] set up connection to sql server
 
 ## Running the frontend
 
