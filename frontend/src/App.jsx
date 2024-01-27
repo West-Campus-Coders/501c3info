@@ -1,6 +1,7 @@
 import {useState, useEffect} from 'react'
-
-import './App.css'
+import { ThemeProvider } from './components/ui/theme-provider';
+import { Button } from './components/ui/button';
+import wcclogo from "./assets/wcclogo.png"
 
 function App() {
     const [data,setData] = useState([])
@@ -23,9 +24,24 @@ function App() {
         fetchData();
 }, []);
     return (
-        <>
-            hello world
-        </>
+        <ThemeProvider defaultTheme="dark" storageKey="vite-ui-theme">
+        <body className='min-h-screen'>
+            <div id="hero" className='h-screen w-screen relative flex z-999'>
+                <div id="canvas" className='absolute top-0 bottom-0 right-0 left-0 h-screen w-screen flex items-center justify-center'>
+                    <div id='header' className=' items-center self-center relative flex  flex-col leading-normal items-center justify-center center text-center w-fit h-auto ml-auto mr-auto z-999'>
+                        <h1 className="scroll-m-20 text-4xl font-extrabold tracking-tight lg:text-5xl ml-rem mr-4rem">
+                            West Campus Coder's NonProfit Lookup Tool.
+                        </h1>
+                        <img src={wcclogo} alt='wcclogo'/>
+                        <Button onclick="">Start</Button>
+                    </div>
+                </div>
+            </div>
+            <div id='main'></div>
+        </body>
+    </ThemeProvider>
+            
+        
     )
 }
 
