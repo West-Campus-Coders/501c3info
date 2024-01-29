@@ -11,33 +11,51 @@ import {
   SheetTitle,
   SheetTrigger,
 } from "@/components/ui/sheet"
+import { useState } from "react"
+import { RadioGroupOrg } from "./radiogroup-orgOptions"
 
 export function SheetDemo() {
+  const [usState, setUsState] = useState('');
+  const [city, setCity] = useState('');
+  const [ein, setEIN] = useState('');
+
   return (
     <Sheet>
       <SheetTrigger asChild>
-        <Button>Lookup!</Button>
+        <Button>Start!</Button>
       </SheetTrigger>
       <SheetContent>
         <SheetHeader>
-          <SheetTitle>Edit profile</SheetTitle>
+          <SheetTitle>Single Search</SheetTitle>
+            <SheetDescription>
+              Enter EIN.
+            </SheetDescription>
+            <div className="grid grid-cols-4 items-center gap-4">
+              <Label htmlFor="name" className="text-right">
+                EIN
+              </Label>
+              <Input type="text" id="State" placeholder="Enter State" value={ein} onChange={(e) => setUsState(e.target.value)} className="col-span-3"  />
+            </div>
+          <SheetTitle>Multi-Search</SheetTitle>
           <SheetDescription>
-            Make changes to your profile here. Click save when you're done.
+            Choose fields for lookup, city can be left blank but state must be selected.
           </SheetDescription>
         </SheetHeader>
         <div className="grid gap-4 py-4">
           <div className="grid grid-cols-4 items-center gap-4">
             <Label htmlFor="name" className="text-right">
-              Name
+              State
             </Label>
-            <Input id="name" value="Pedro Duarte" className="col-span-3" />
+            <Input type="text" id="State" placeholder="Enter State" value={usState} onChange={(e) => setUsState(e.target.value)} className="col-span-3"  />
           </div>
           <div className="grid grid-cols-4 items-center gap-4">
             <Label htmlFor="username" className="text-right">
-              Username
+              City
             </Label>
-            <Input id="username" value="@peduarte" className="col-span-3" />
+            <Input id="username" placeholder="Enter City" value={city} onChange={(e) => setCity(e.target.value)} className="col-span-3" />
           </div>
+          <SheetTitle>Choose Organization Type</SheetTitle>
+          <RadioGroupOrg></RadioGroupOrg>
         </div>
         <SheetFooter>
           <SheetClose asChild>
