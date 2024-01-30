@@ -13,6 +13,7 @@ import {
 } from "@/components/ui/sheet"
 import { useState } from "react"
 import { RadioGroupOrg } from "./radiogroup-orgOptions"
+import { ScrollArea, ScrollBar } from "../ui/scroll-area"
 
 export function SheetDemo() {
   const [usState, setUsState] = useState('');
@@ -25,6 +26,8 @@ export function SheetDemo() {
         <Button>Start!</Button>
       </SheetTrigger>
       <SheetContent>
+      <ScrollArea className="h-full w-full">
+      <ScrollBar orientation="vertical"/>
         <SheetHeader>
           <SheetTitle>Single Search</SheetTitle>
             <SheetDescription>
@@ -34,7 +37,7 @@ export function SheetDemo() {
               <Label htmlFor="name" className="text-right">
                 EIN
               </Label>
-              <Input type="text" id="State" placeholder="Enter State" value={ein} onChange={(e) => setUsState(e.target.value)} className="col-span-3"  />
+              <Input type="text" id="State" placeholder="Enter EIN" value={ein} onChange={(e) => setEIN(e.target.value)} className="col-span-3"  />
             </div>
           <SheetTitle>Multi-Search</SheetTitle>
           <SheetDescription>
@@ -62,6 +65,7 @@ export function SheetDemo() {
             <Button type="submit">GO</Button>
           </SheetClose>
         </SheetFooter>
+        </ScrollArea>
       </SheetContent>
     </Sheet>
   )
