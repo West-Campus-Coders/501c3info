@@ -3,10 +3,25 @@ import { ThemeProvider } from './components/ui/theme-provider';
 import { Button } from './components/ui/button';
 import wcclogo from "./assets/wcclogo.png"
 import { SheetDemo } from './components/custom/sheet.custom';
+import { useDataStore } from './store';
+
+
+
+  
 
 function App() {
-    const [data,setData] = useState([])
-
+    const selection = useDataStore((state) => state.selection)
+    const setSelection = useDataStore((state) => state.setSelection)
+    const assets = useDataStore((state) => state.assets)
+    const setAssets = useDataStore((state) => state.setAssets)
+    const operator = useDataStore((state) => state.operator)
+    const setOperator = useDataStore((state) => state.setOperator)
+    const usState = useDataStore((state)=> state.usState)
+    const setUsState = useDataStore((state)=> state.set)
+    const city = useDataStore((state) => state.city )
+    const setCity = useDataStore((state) => state.setCity)
+    const ein = useDataStore((state) => state.ein)
+    const setEIN = useDataStore((state) => state.setEIN)
     useEffect(() => {
     async function fetchData() {
         console.log(import.meta.env.VITE_API_URL)
@@ -22,7 +37,6 @@ function App() {
                 console.error('Error fetching data:',error)
             }
         }
-        fetchData();
 }, []);
     return (
         <ThemeProvider defaultTheme="dark" storageKey="vite-ui-theme" className='min-h-screen'>
