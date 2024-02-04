@@ -13,6 +13,6 @@ export const useDataStore = create((set) => ({
     setAssets: (assets) => set(() => ({assets: assets})),
     ein: '',
     setEIN: (ein) => set(() => ({ein: ein})),
-    data: [],
-    setData: (data) => set(() => ({data: data})),
+    fetchedData: [],
+    setData: (fetchedData) => set(() => ({fetchedData: fetchedData})),
   }))

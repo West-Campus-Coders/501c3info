@@ -12,6 +12,7 @@ export function RadioGroupOrg() {
   const setAssets = useDataStore((state) => state.setAssets)
   const operator = useDataStore((state) => state.operator)
   const setOperator = useDataStore((state) => state.setOperator)
+  const fetchedData = useDataStore((state) => state.fetchedData )
 
     
   

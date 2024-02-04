@@ -15,6 +15,7 @@ import { RadioGroupOrg } from "./radiogroup-orgOptions"
 import { ScrollArea, ScrollBar } from "../ui/scroll-area"
 import { useDataStore } from "@/store"
 import { useEffect, useState } from "react"
+import { useNavigate } from "react-router"
 /* selection: '',
     setSelection: (selection) => set(() => ({selection: selection})),
     assSign: '',
@@ -41,13 +42,18 @@ export function SheetDemo() {
   const assets = useDataStore((state) => state.assets)
   const operator = useDataStore((state) => state.operator)
   const setOperator = useDataStore((state) => state.setOperator)
+  const fetchedData = useDataStore((state) => state.fetchedData )
+  const setData = useDataStore((state) => state.setData)
+  let navigate = useNavigate()
+  var data_holder
   async function get_data(){
     if(ein != ''){
       fetch(`http://127.0.0.1:8000/single/${ein}`, {method: "GET"}).then(response => response.json()).then(data => console.log(data)).catch(error => console.error(error))
     }
     if(selection == 'nonprofit'){
     if(city == '' && assets == 0){
-      fetch(`http://127.0.0.1:8000/nonprofit/${usState}`, {method: "GET"}).then(response => response.json()).then(data => console.log(data)).catch(error => console.error(error))
+      fetch(`http://127.0.0.1:8000/nonprofit/${usState}`, {method: "GET"}).then(response => response.json()).then(data => {  data_holder = data}).catch(error => console.error(error))
+      setData(data_holder)
     }else if(city != '' && assets == 0){
       fetch(`http://127.0.0.1:8000/nonprofit/${usState}/${city}`, {method: "GET"}).then(response => response.json()).then(data => console.log(data)).catch(error => console.error(error))
     }else if(city == '' && assets != 0){
@@ -70,6 +76,8 @@ export function SheetDemo() {
    if(selection == 'both'){
     fetch(`http://127.0.0.1:8000/both/${city}/${usState}`, {method: "GET"}).then(response => response.json()).then(data => console.log(data)).catch(error => console.error(error))
    }
+   navigate("/results", {replace: true})
+
   }
 
   return (
