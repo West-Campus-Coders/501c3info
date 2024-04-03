@@ -10,18 +10,6 @@ import { useDataStore } from './store';
   
 
 function App() {
-    const selection = useDataStore((state) => state.selection)
-    const setSelection = useDataStore((state) => state.setSelection)
-    const assets = useDataStore((state) => state.assets)
-    const setAssets = useDataStore((state) => state.setAssets)
-    const operator = useDataStore((state) => state.operator)
-    const setOperator = useDataStore((state) => state.setOperator)
-    const usState = useDataStore((state)=> state.usState)
-    const setUsState = useDataStore((state)=> state.set)
-    const city = useDataStore((state) => state.city )
-    const setCity = useDataStore((state) => state.setCity)
-    const ein = useDataStore((state) => state.ein)
-    const setEIN = useDataStore((state) => state.setEIN)
     useEffect(() => {
     async function fetchData() {
         console.log(import.meta.env.VITE_API_URL)

@@ -8,7 +8,7 @@ export const useDataStore = create((set) => ({
     usState: '',
     setUSState: (usState) => set(() => ({usState: usState})),
     city: '',
-    setCity: (city) => set(() => ({city: city})),
+    setCity: (city) => set(() => ({city: city.toUpperCase()})),
     assets: 0,
     setAssets: (assets) => set(() => ({assets: assets})),
     ein: '',
